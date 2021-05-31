@@ -1,5 +1,5 @@
 siteTitle: "philippnagel.com/feeds"
-cacheUrl: https://philippnagel.com/feeds/cache.json
+# cacheUrl: https://philippnagel.com/feeds/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: http://www.marginalrevolution.com/marginalrevolution/index.rdf

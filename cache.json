@@ -198,7 +198,7 @@
           "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://github.com/justjavac/proxy-www",
           "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 507,
+          "wordCount": 527,
           "title": "proxy-www"
         },
         {

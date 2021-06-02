@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "author": null,
+          "description": "Added: testing and CI/CD workflows",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "publishedOn": "2021-06-01T04:39:30.000Z",
+          "wordCount": 268,
+          "title": "v1.10.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "author": null,
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "publishedOn": "2021-05-26T06:02:55.000Z",
-          "wordCount": 417,
+          "wordCount": 413,
           "title": "v1.9.0"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-08T05:16:47.000Z",
           "wordCount": 306,
           "title": "v1.5.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "author": null,
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 285,
-          "title": "v1.3.1"
         }
       ]
     },
@@ -102,6 +102,51 @@
       "feedUrl": "http://www.marginalrevolution.com/marginalrevolution/index.rdf",
       "siteUrl": "http://marginalrevolution.com",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=81193",
+          "author": "Tyler Cowen",
+          "description": "Finally, the proportion of equilibrium play increases significantly until fifth grade and stabilizes afterward, suggesting that the contribution of age to equilibrium play vanishes early in life. Here is more from Isabelle Brocas and Juan D. Carrillo, forthcoming in the JPE.\nThe post The age of reason is fifth grade? appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/7790pmrvgug/the-age-of-reason-is-fifth-grade.html",
+          "publishedOn": "2021-06-01T18:12:36.000Z",
+          "wordCount": 271,
+          "title": "The age of reason is fifth grade?"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81184",
+          "author": "Tyler Cowen",
+          "description": "1. The resilience of the U.S. corporate bond market.  And who needs a flying car? 2. Famous economists’ grave sites. 3. “Measured intelligence did not predict increased mate appeal in either study, whereas perceived intelligence and funniness did.”  Speculative. 4. Blockchain-based smart contract for Kenyan crop insurance (speculative). 5. David Beckworth podcast with Mark Carney, […]\nThe post Tuesday assorted links appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/ihwgsm0inyg/tuesday-assorted-links-316.html",
+          "publishedOn": "2021-06-01T15:52:53.000Z",
+          "wordCount": 294,
+          "title": "Tuesday assorted links"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81189",
+          "author": "Alex Tabarrok",
+          "description": "This paper investigates the role of individualism in charitable giving. Individualistic societies are those that value individual fulfillment, personal responsibility, and relationships with those outside one’s in-group. Though critics suggest individualism undermines virtues such as generosity, we consider contrary mechanisms first developed in the tradition of classical political economy, especially the “doux commerce” hypothesis (Hirschman […]\nThe post More on Individualism and Benevolence appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/O833pPQv29Y/more-on-individualism-and-benevolence.html",
+          "publishedOn": "2021-06-01T11:25:30.000Z",
+          "wordCount": 503,
+          "title": "More on Individualism and Benevolence"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81191",
+          "author": "Tyler Cowen",
+          "description": "1. Transportation 2. Agriculture and Related Industries 3. Food, Beverages, and Tobacco Products 4. Metal, Metal Products, and Machinery 5. Textiles, Textile Products, and Clothing 6. Mining and Quarrying 7. Banking 8. Wood, Lumber, and Their Products 9. Leather and Allied Products 10. Slaughtering and Meat Packing That is from the new and excellent An […]\nThe post U.S. Largest Industries, 1890 appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/j0dXrUqI53g/u-s-largest-industries-1890.html",
+          "publishedOn": "2021-06-01T07:27:37.000Z",
+          "wordCount": 348,
+          "title": "U.S. Largest Industries, 1890"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81188",
+          "author": "Tyler Cowen",
+          "description": "The standard economic analysis of product-line pricing by Mussa and Rosen (1978) implies that higher-quality varieties command higher absolute mark-ups. It is widely claimed that this property does not apply to wine lists. Restaurateurs are believed to overprice the second-cheapest wine to exploit naïve diners embarrassed to choose the cheapest option. This paper investigates which […]\nThe post Is the second-cheapest wine a rip-off? appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/ZYId0Gz_jP8/is-the-second-cheapest-wine-a-rip-off.html",
+          "publishedOn": "2021-06-01T04:46:25.000Z",
+          "wordCount": 377,
+          "title": "Is the second-cheapest wine a rip-off?"
+        },
         {
           "id": "https://marginalrevolution.com/?p=81190",
           "author": "Tyler Cowen",
@@ -191,51 +236,6 @@
           "publishedOn": "2021-05-29T19:01:04.000Z",
           "wordCount": 329,
           "title": "A young woman speaking about her date and dating philosophy"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81167",
-          "author": "Tyler Cowen",
-          "description": "1. An escalator made of cardboard (short video). 2. Cats of brutalism. 3. Orson Welles, The Immortal Story, 58 minutes long, made for French TV 1968, one of his best.  Jeanne Moreau too, full of MIE themes, and as I view it a critique of the wealthy, more substantive than the usual. 4. Markets in […]\nThe post Saturday assorted links appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/uI6coF_b-vg/saturday-assorted-links-311.html",
-          "publishedOn": "2021-05-29T16:43:21.000Z",
-          "wordCount": 358,
-          "title": "Saturday assorted links"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81168",
-          "author": "Tyler Cowen",
-          "description": "You asked Mark Carney what the best indicators were for inflation. Let me take the liberty of giving you mine. 1) Median CPI inflation, i.e. the weighted median value of CPI inflation across products. This measure tracks the underlying signal in inflation because it filters out volatile shocks hitting certain industries (e.g. airlines or used […]\nThe post Jonathan Hazell emails me about inflation indicators appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/UL1VQglFlP4/jonathan-hazell-emails-me-about-inflation-indicators.html",
-          "publishedOn": "2021-05-29T10:39:01.000Z",
-          "wordCount": 424,
-          "title": "Jonathan Hazell emails me about inflation indicators"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81162",
-          "author": "Tyler Cowen",
-          "description": "\"a Chinese billionaire dies every 40 days…unnatural deaths have taken the lives of 72 mainland billionaires over the past 8 years…15 were murdered, 17 committed suicide, 7 died from accidents and 19 from illness. 14 were executed. (Welcome to China.)\" https://t.co/dgDn3QnDIz — Rob Henderson (@robkhenderson) May 28, 2021\nThe post China fact of the day appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/GnGsb9UdrCE/china-fact-of-the-day-63.html",
-          "publishedOn": "2021-05-29T05:52:39.000Z",
-          "wordCount": 273,
-          "title": "China fact of the day"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81155",
-          "author": "Tyler Cowen",
-          "description": "Really enjoyed your conversation with Mark [Carney] (as usual). I give him a B+ on his views on CBDCs. He gets credit for understanding that if nothing is done, then digitization means a disappearance of public money in the economy except for the banks. This has a lot of consequences, most of which are bad. […]\nThe post Omid on central bank digital currencies (from my email) appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/pIbVyN0dpaE/omid-on-central-bank-digital-currencies-from-my-email.html",
-          "publishedOn": "2021-05-29T04:49:04.000Z",
-          "wordCount": 537,
-          "title": "Omid on central bank digital currencies (from my email)"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81161",
-          "author": "Tyler Cowen",
-          "description": "Charlotte Hornets guard LaMelo Ball will become the first athlete to enter the world of dynamic nonfungible tokens (NFTs) when he releases a set of 500 prior to the announcement of the NBA Rookie of the Year in June, ESPN has learned. NFTs are unique blockchain-based tokens that give owners specific rights to the asset […]\nThe post Paul Krugman or…LaMelo Ball? appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/L9uJoPTpv78/paul-krugman-or-lamelo-ball.html",
-          "publishedOn": "2021-05-28T18:40:55.000Z",
-          "wordCount": 393,
-          "title": "Paul Krugman or…LaMelo Ball?"
         }
       ]
     },
@@ -249,7 +249,17 @@
       "title": "Historia Discordia",
       "feedUrl": "http://historiadiscordia.com/feed/",
       "siteUrl": "http://historiadiscordia.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://historiadiscordia.com/?p=9672",
+          "author": "themgt",
+          "description": "Found on flickr. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.",
+          "link": "http://historiadiscordia.com/may-eris-of-the-month-2021-eris-%e1%bc%90%cf%81%ce%b9%cf%82-by-matthias-jiury/",
+          "publishedOn": "2021-06-01T02:29:45.000Z",
+          "wordCount": 751,
+          "title": "May Eris of the Month 2021: Eris Ἐρις by Matthias Jiury"
+        }
+      ]
     },
     {
       "title": "samczsun",
@@ -268,5 +278,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }

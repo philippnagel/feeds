@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T00:27:14.022Z</id>
+    <id>urn:2021-06-07T00:24:55.123Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-06T00:27:14.022Z</updated>
+    <updated>2021-06-07T00:24:55.123Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Denver bleg]]></title>
+        <id>https://marginalrevolution.com/?p=81234</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/kIeoSJOkFrg/denver-bleg.html"/>
+        <updated>2021-06-06T20:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Where should I eat in Denver?  Doesn’t have to be fancy, of course.  I thank you all in advance for the suggestions.
+The post Denver bleg appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tax incidence on competing two-sided platforms]]></title>
+        <id>https://marginalrevolution.com/?p=81233</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/VwZwwfBty-8/tax-incidence-on-competing-two-sided-platforms.html"/>
+        <updated>2021-06-06T18:11:41.000Z</updated>
+        <summary type="html"><![CDATA[That is a paper by Paul Belleflamme and Eric Toulemonde, from a few years ago: We analyze the effects of various taxes on competing two-sided platforms. First, we consider nondiscriminating taxes. We show that specific taxes are entirely passed to the agents on the side on which they are levied; other agents and platforms are […]
+The post Tax incidence on competing two-sided platforms appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trade Wars Are Hard to Win, Part LXXIV]]></title>
+        <id>https://marginalrevolution.com/?p=81230</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/22gaRyroylE/trade-wars-are-hard-to-win-part-lxxiv.html"/>
+        <updated>2021-06-06T11:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Bloomberg: The surge of cheap panels from China dealt a crushing blow to U.S. manufacturers — and Solyndra wasn’t the only casualty. After three other U.S. solar manufacturers sought bankruptcy protection, Obama in 2012 slapped duties as high as 249% on the imports. Manufacturers responded by moving operations out of China, but they didn’t head […]
+The post Trade Wars Are Hard to Win, Part LXXIV appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structural adjustment for thee but not allowed for me]]></title>
+        <id>https://marginalrevolution.com/?p=81227</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/SbCa7Uvd8VM/structural-adjustment-for-thee-but-not-allowed-for-me.html"/>
+        <updated>2021-06-06T06:01:01.000Z</updated>
+        <summary type="html"><![CDATA[The economy has not bounced back to prepandemic employment levels, even as G.D.P. effectively has. Some blame unemployment benefits for keeping workers at home, while others claim that it is the virus still holding back customers and therefore employers from adding jobs. Yet there is a third factor that is likely the labor market’s primary […]
+The post Structural adjustment for thee but not allowed for me appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The new proposal on corporate tax synchronization]]></title>
         <id>https://marginalrevolution.com/?p=81229</id>
@@ -122,50 +166,6 @@ The post Masking norms and Wokeism appeared first on Marginal REVOLUTION.]]></su
         <updated>2021-06-03T17:46:31.000Z</updated>
         <summary type="html"><![CDATA[After 50 years of little growth, new breakthroughs in science and medicine could mean the start of a whole new era of innovation! Economist @tylercowen paints a new picture of the future — and a road map to get us there. Listen on @applepodcasts: https://t.co/jNccIENQBo pic.twitter.com/Q8nQuEWRsX — TED Talks (@TEDTalks) June 3, 2021 Here is […]
 The post Chris Anderson of TED interviews me appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81207</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/5O8Lrz7yHKc/thursday-assorted-links-309.html"/>
-        <updated>2021-06-03T16:12:03.000Z</updated>
-        <summary type="html"><![CDATA[1. A visual of debt to gdp ratios.  Note the information is not strictly comparable across countries.  And where chess pieces go to die. 2. Profile of James Daunt (FT). 3. Research jobs at Charter Cities Institute. 4. United to buy 15 Boom supersonic aircraft. 5. These birds can see through magic tricks (NYT).
-The post Thursday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update on Rapid Tests for COVID]]></title>
-        <id>https://marginalrevolution.com/?p=81199</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/14NhCAeH1y8/update-on-rapid-testing-for-covid.html"/>
-        <updated>2021-06-03T11:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Nearly a year ago, I wrote Frequent, Fast, and Cheap is Better than Sensitive, arguing for rapid antigen tests: A number of firms have developed cheap, paper-strip tests for coronavirus that report results at-home in about 15 minutes but they have yet to be approved for use by the FDA because the FDA appears to […]
-The post Update on Rapid Tests for COVID appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bangladesh fact of the day]]></title>
-        <id>https://marginalrevolution.com/?p=81213</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/qr1scf17K9M/bangladesh-fact-of-the-day-3.html"/>
-        <updated>2021-06-03T05:50:37.000Z</updated>
-        <summary type="html"><![CDATA[This month, Bangladesh’s Cabinet Secretary told reporters that GDP per capita had grown by 9% over the past year, rising to $2,227. Pakistan’s per capita income, meanwhile, is $1,543. In 1971, Pakistan was 70% richer than Bangladesh; today, Bangladesh is 45% richer than Pakistan. One Pakistani economist glumly pointed out that “it is in the realm of […]
-The post Bangladesh fact of the day appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you call this a new service sector job?]]></title>
-        <id>https://marginalrevolution.com/?p=81208</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/QgdexV3esIo/can-you-call-this-a-new-service-sector-job.html"/>
-        <updated>2021-06-03T04:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Dave Taube has won a computer, a whitewater rafting trip, and several grills. There’s also the kayak, the powder-blue Coors Light onesie, and the Bruce Springsteen tickets. He recently took home $10,000 from Cost Plus World Market in its “World of Joy” sweepstakes. Recently, he found himself in the running for a trip to Antarctica, which would […]
-The post Can you call this a new service sector job? appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>
@@ -293,20 +293,6 @@ Added: Semantic API for theming the default template. Demo | Source | Docs
 Changed: Moved feed metadata from article level to feed level in cache.
 Fixed: Any html-like text was stripped from title. Fixed with encoded text.
 Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

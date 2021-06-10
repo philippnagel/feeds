@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T00:12:20.452Z</id>
+    <id>urn:2021-06-10T00:11:05.741Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-09T00:12:20.452Z</updated>
+    <updated>2021-06-10T00:11:05.741Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The IRS tax data leak]]></title>
+        <id>https://marginalrevolution.com/?p=81263</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/q5hL0P1Qx80/the-irs-tax-data-leak.html"/>
+        <updated>2021-06-09T19:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes I wonder if I should blog on topics where I feel most of you already know what I think.  I’ll just say this.  The information was stolen illegally, yet on Twitter so many intellectuals were crowing about the disclosure.  (Did some of those same people condemn the theft from Biden Jr.’s laptop?  How many […]
+The post The IRS tax data leak appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wednesday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81256</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/7FtRRM78Ing/wednesday-assorted-links-300.html"/>
+        <updated>2021-06-09T16:11:56.000Z</updated>
+        <summary type="html"><![CDATA[1. The case for zoonotic origins. 2. What don’t we know about Long Covid? 3. Ohio sues to have Google declared a public utility. 4. The cost of cloud. 5. Hester Peirce on crypto (FT). 6. “Progressive taxation underperforming Biden by 12 percentage points in Illinois not paint a particularly rosy outlook with respect to […]
+The post Wednesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houellebecq on the fall of France?]]></title>
+        <id>https://marginalrevolution.com/?p=81262</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/vh4D229EW_4/houellebecq-on-the-fall-of-france.html"/>
+        <updated>2021-06-09T13:32:43.000Z</updated>
+        <summary type="html"><![CDATA[Here is the UnHerd essay, here is one excerpt: No, we are not really dealing with a “French suicide” — to evoke the title of Eric Zemmour’s book — but a Western suicide or rather a suicide of modernity, since Asian countries are not spared. What is specifically, authentically French is the awareness of this suicide. But if […]
+The post Houellebecq on the fall of France? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High discounts and high unemployment]]></title>
+        <id>https://marginalrevolution.com/?p=81255</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/HSoz1xX7pfw/high-discounts-and-high-unemployment.html"/>
+        <updated>2021-06-09T06:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Unemployment is high when financial discounts are high. In recessions, the stock market falls and all types of investment fall, including employers’ investment in job creation. The discount rate implicit in the stock market rises, and discounts for other claims on business income also rise. A higher discount implies a lower present value of the […]
+The post High discounts and high unemployment appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should gambling be functionally separate from professional sports leagues?]]></title>
+        <id>https://marginalrevolution.com/?p=81254</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/lxZlvMdR-Js/should-gambling-be-functionally-separate-from-professional-sports-leagues.html"/>
+        <updated>2021-06-09T04:29:06.000Z</updated>
+        <summary type="html"><![CDATA[In my latest Bloomberg column I consider the NBA: A conservative estimate is that sports betting in the U.S., both legal and illegal, amounts to about $150 billion a year. How much of that is on basketball is an open question, but the NBA generates about $8 billion of revenue a year. It is quite possible that betting on […]
+The post Should gambling be functionally separate from professional sports leagues? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Structural unemployment for me but not for thee (a continuing series!)]]></title>
         <id>https://marginalrevolution.com/?p=81252</id>
@@ -111,61 +166,6 @@ The post Fractional Dosing Study in Brazil appeared first on Marginal REVOLUTION
         <updated>2021-06-07T04:46:51.000Z</updated>
         <summary type="html"><![CDATA[Written from the British context: Should the system be changed to one where companies are taxed on all the profits they make from their sales in the country? There are a few downsides to this. First of all it would be very hard for one country to switch to such a system without getting the […]
 The post Some points about corporate tax appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denver bleg]]></title>
-        <id>https://marginalrevolution.com/?p=81234</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/kIeoSJOkFrg/denver-bleg.html"/>
-        <updated>2021-06-06T20:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Where should I eat in Denver?  Doesn’t have to be fancy, of course.  I thank you all in advance for the suggestions.
-The post Denver bleg appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tax incidence on competing two-sided platforms]]></title>
-        <id>https://marginalrevolution.com/?p=81233</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/VwZwwfBty-8/tax-incidence-on-competing-two-sided-platforms.html"/>
-        <updated>2021-06-06T18:11:41.000Z</updated>
-        <summary type="html"><![CDATA[That is a paper by Paul Belleflamme and Eric Toulemonde, from a few years ago: We analyze the effects of various taxes on competing two-sided platforms. First, we consider nondiscriminating taxes. We show that specific taxes are entirely passed to the agents on the side on which they are levied; other agents and platforms are […]
-The post Tax incidence on competing two-sided platforms appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trade Wars Are Hard to Win, Part LXXIV]]></title>
-        <id>https://marginalrevolution.com/?p=81230</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/22gaRyroylE/trade-wars-are-hard-to-win-part-lxxiv.html"/>
-        <updated>2021-06-06T11:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Bloomberg: The surge of cheap panels from China dealt a crushing blow to U.S. manufacturers — and Solyndra wasn’t the only casualty. After three other U.S. solar manufacturers sought bankruptcy protection, Obama in 2012 slapped duties as high as 249% on the imports. Manufacturers responded by moving operations out of China, but they didn’t head […]
-The post Trade Wars Are Hard to Win, Part LXXIV appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structural adjustment for thee but not allowed for me]]></title>
-        <id>https://marginalrevolution.com/?p=81227</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/SbCa7Uvd8VM/structural-adjustment-for-thee-but-not-allowed-for-me.html"/>
-        <updated>2021-06-06T06:01:01.000Z</updated>
-        <summary type="html"><![CDATA[The economy has not bounced back to prepandemic employment levels, even as G.D.P. effectively has. Some blame unemployment benefits for keeping workers at home, while others claim that it is the virus still holding back customers and therefore employers from adding jobs. Yet there is a third factor that is likely the labor market’s primary […]
-The post Structural adjustment for thee but not allowed for me appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new proposal on corporate tax synchronization]]></title>
-        <id>https://marginalrevolution.com/?p=81229</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/QsXPnO6qSek/the-new-proposal-on-corporate-tax-synchronization.html"/>
-        <updated>2021-06-05T19:27:43.000Z</updated>
-        <summary type="html"><![CDATA[The G-7 nations have coordinated (NYT, FT here) to announce a minimum corporate tax rate of 15%.  Even if seen through, that doesn’t mean all rates must be at 15% or higher, rather if a rate is at 5% another country (the home base country?  the countries where the customers are?) gets to tack on […]
-The post The new proposal on corporate tax synchronization appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

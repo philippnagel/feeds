@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T00:11:05.741Z</id>
+    <id>urn:2021-06-11T00:10:52.662Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-10T00:11:05.741Z</updated>
+    <updated>2021-06-11T00:10:52.662Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Not that there’s anything wrong with that…]]></title>
+        <id>https://marginalrevolution.com/?p=81240</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/rwCw80AT1q8/not-that-theres-anything-wrong-with-that.html"/>
+        <updated>2021-06-10T18:05:43.000Z</updated>
+        <summary type="html"><![CDATA[…democratic rule and high state capacity combined produce higher levels of income inequality over time. This relationship operates through the positive effect of high-capacity democratic context on foreign direct investment and financial development. By making use of a novel measure of state capacity based on cumulative census administration, we find empirical support for these claims […]
+The post Not that there’s anything wrong with that… appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thursday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81261</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/teUnPg_DVY4/thursday-assorted-links-310.html"/>
+        <updated>2021-06-10T15:33:17.000Z</updated>
+        <summary type="html"><![CDATA[1. Is this possible?: “Criminals may have stolen as much as half of the unemployment benefits the U.S. has been pumping out over the past year, some experts say.” 2. When should ngdp be unstable? 3. Is Nero underrated? (New Yorker) 4. Sixty times the speed of sound? (USS Princeton radar team and pilot source, […]
+The post Thursday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The coming regulation of bank crypto]]></title>
+        <id>https://marginalrevolution.com/?p=81270</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/03nO-iQ14Bg/the-coming-regulation-of-bank-crypto.html"/>
+        <updated>2021-06-10T14:48:19.000Z</updated>
+        <summary type="html"><![CDATA[A $100 exposure in bitcoin would result in a minimum capital requirement of $100, Basel said. The standards would apply to assets created for decentralised finance (DeFi) and non-fungible tokens (NFTs), but potential central bank digital currencies were outside the scope of the consultation, it added. Here is more from the FT.  While that is […]
+The post The coming regulation of bank crypto appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi is the killer app for crypto]]></title>
+        <id>https://marginalrevolution.com/?p=81266</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/dHKIz7EheU8/defi-is-the-killer-app-for-crypto.html"/>
+        <updated>2021-06-10T06:46:55.000Z</updated>
+        <summary type="html"><![CDATA[That is the topic of my latest Bloomberg column, let me just give you one segment from the end: And if the question is whether crypto is good for anything, there is now at least one clear answer: Crypto enables DeFi. You don’t have to like every consequence of that reality, but a reality it […]
+The post DeFi is the killer app for crypto appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin as legal tender in El Salvador]]></title>
+        <id>https://marginalrevolution.com/?p=81265</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/AxvHjbh6VAc/bitcoin-as-legal-tender-in-el-salvador.html"/>
+        <updated>2021-06-10T04:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is FT coverage, I still feel I don’t know the whole story, but bitcoin will be legal tender and furthermore: The government will set up a trust at the Development Bank of El Salvador to enable automatic conversion of bitcoin to dollars. The law will take effect 90 days after its publication in the […]
+The post Bitcoin as legal tender in El Salvador appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The IRS tax data leak]]></title>
         <id>https://marginalrevolution.com/?p=81263</id>
@@ -111,61 +166,6 @@ The post Better Crowdfunding appeared first on Marginal REVOLUTION.]]></summary>
         <updated>2021-06-08T05:39:44.000Z</updated>
         <summary type="html"><![CDATA[This is not exactly what I was hoping to hear, but at this point along the road you know none of the stories are going to be pretty: …less educated citizens in democracies are considerably less trustful of science than their counterparts in non-democracies. Further analyses suggest that, instead of being the result of stronger […]
 The post Why are the less educated in democracies especially anti-science? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Stuart Mill on the Californian Constitution]]></title>
-        <id>https://marginalrevolution.com/?p=81248</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/CJTnjkQ4PrE/john-stuart-mill-on-the-californian-constitution.html"/>
-        <updated>2021-06-07T21:31:39.000Z</updated>
-        <summary type="html"><![CDATA[From 1850: The Californians have not been solely occupied with “the diggings.”  They have found time also to construct a set of institutions…It is worthy of remark how instantaneously any body of American emigrants, as soon as they have formed a settlement, proceed to make a constitution; though European authorities of no small account in […]
-The post John Stuart Mill on the Californian Constitution appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solve for the football culture equilibrium that is Mexican]]></title>
-        <id>https://marginalrevolution.com/?p=81246</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/z7TjLJ5pOb4/solve-for-the-football-culture-equilibrium-that-is-mexican.html"/>
-        <updated>2021-06-07T18:33:43.000Z</updated>
-        <summary type="html"><![CDATA[Many fans shrug off accusations of homophobia and insist the chant is just a joke. “We do not scream at the goalkeeper because of his sexual preference, we don’t even care about it,” a YouTube commenter on a 2016 public-service video denouncing the chant wrote. “We shout to create chaos, because it is part of […]
-The post Solve for the football culture equilibrium that is Mexican appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81231</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/AjGh9_sjGAI/monday-assorted-links-308.html"/>
-        <updated>2021-06-07T16:16:09.000Z</updated>
-        <summary type="html"><![CDATA[1. How inevitable is the concept of numbers? 2. Learning about disadvantage leads to perceptions of incompetence. 3. The decline and indeed collapse of the ACLU (NYT). 4. “Latinos who overestimate their lightness (darkness) take less (more) liberal positions on racialized political issues than those who do not.” 5. A journey to puffin island: “Puffins […]
-The post Monday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractional Dosing Study in Brazil]]></title>
-        <id>https://marginalrevolution.com/?p=81235</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/ffKP8Mc1kKQ/fractional-dosing-experiment-in-brazil.html"/>
-        <updated>2021-06-07T11:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Fiocruz, the Brazilian public health institute, will test half doses of the AstraZeneca vaccine. Not much information available yet. From a Google Translate article. BANDNews: Fiocruz, in partnership with the government of Espírito Santo, is going to carry out a study with the application of half a dose of the Astrazeneca vaccine to the entire […]
-The post Fractional Dosing Study in Brazil appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some points about corporate tax]]></title>
-        <id>https://marginalrevolution.com/?p=81236</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/VydxH6z54vM/some-points-about-corporate-tax.html"/>
-        <updated>2021-06-07T04:46:51.000Z</updated>
-        <summary type="html"><![CDATA[Written from the British context: Should the system be changed to one where companies are taxed on all the profits they make from their sales in the country? There are a few downsides to this. First of all it would be very hard for one country to switch to such a system without getting the […]
-The post Some points about corporate tax appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

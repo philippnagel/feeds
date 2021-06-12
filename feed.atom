@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T00:10:52.662Z</id>
+    <id>urn:2021-06-12T00:09:44.096Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-11T00:10:52.662Z</updated>
+    <updated>2021-06-12T00:09:44.096Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Friday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81271</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/0owOpkBdBdA/friday-assorted-links-314.html"/>
+        <updated>2021-06-11T17:28:35.000Z</updated>
+        <summary type="html"><![CDATA[1. Not sure I have been abused for any prediction more than this one, and yet it seems true: “Democratic primary voters have been turning away this year from the anti-elite furies that continue to roil Republican politics, repeatedly choosing more moderate candidates promising steady leadership over disrupters from the party’s left wing.”  Here is […]
+The post Friday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nach dem Gleichgewicht auflösen]]></title>
+        <id>https://marginalrevolution.com/?p=81275</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/0sXqv9jFaDk/nach-dem-gleichgewicht-auflosen.html"/>
+        <updated>2021-06-11T16:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Swiss-based multinationals such as commodities trader Glencore will receive subsidies and other incentives under plans Switzerland is drawing up to maintain its competitive tax rates, even as the country prepares to sign-up to the G7’s new plan for a global minimum tax on big businesses. Bern is consulting its cantonal governments — which set their […]
+The post Nach dem Gleichgewicht auflösen appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Half Dose of Moderna is More Effective Than a Full Dose of AstraZeneca]]></title>
+        <id>https://marginalrevolution.com/?p=81272</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/JM0EbL0N1p0/a-half-dose-of-moderna-is-more-effective-than-a-full-dose-of-astrazeneca.html"/>
+        <updated>2021-06-11T11:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Today we are releasing a new paper on dose-stretching, co-authored by Witold Wiecek, Amrita Ahuja, Michael Kremer, Alexandre Simoes Gomes, Christopher M. Snyder, Brandon Joel Tan and myself. The paper makes three big points. First, Khoury et al (2021) just published a paper in Nature which shows that “Neutralizing antibody levels are highly predictive of […]
+The post A Half Dose of Moderna is More Effective Than a Full Dose of AstraZeneca appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Austin Vernon on El Salvadoran bitcoin acceptance, from my email]]></title>
+        <id>https://marginalrevolution.com/?p=81276</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Pl36exPvemQ/austin-vernon-on-el-salvadoran-bitcoin-acceptance-from-my-email.html"/>
+        <updated>2021-06-11T04:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Sent this to [redacted, a man of substance] yesterday. LN = Lightning Network, Bitcoins layer 2 scaling solution based on channels: As far as I understand it, everyone using LN in El Salvador has primarily been using Strike. Classic crypto conundrum in that they had to centralize to get it to work. There is a […]
+The post Austin Vernon on El Salvadoran bitcoin acceptance, from my email appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not that there’s anything wrong with that…]]></title>
         <id>https://marginalrevolution.com/?p=81240</id>
@@ -122,50 +166,6 @@ The post Should gambling be functionally separate from professional sports leagu
         <updated>2021-06-08T18:20:14.000Z</updated>
         <summary type="html"><![CDATA[Paul Krugman cries “Uncle!”, apparently seconded by Peter Diamond, and the continuing deserved elevation of Marianna Kudlyak.  She is a truly great and important economist.
 The post Structural unemployment for me but not for thee (a continuing series!) appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A simple and stupid one variable theory of this year’s NBA playoffs (so far)]]></title>
-        <id>https://marginalrevolution.com/?p=81250</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/AuoQM3BwKP8/a-simple-and-stupid-one-variable-theory-of-this-years-nba-playoffs-so-far.html"/>
-        <updated>2021-06-08T17:02:50.000Z</updated>
-        <summary type="html"><![CDATA[It is typically worth trying on such theories for size, no matter what their defects. It is hard to avoid noticing that last year’s finalists — Miami and the Lakers — both exited this year in the first round, and ignominiously.  Injuries and fatigue were part of the reason why. The teams that are doing […]
-The post A simple and stupid one variable theory of this year’s NBA playoffs (so far) appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuesday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81245</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/S6PqJy8fkok/tuesday-assorted-links-317.html"/>
-        <updated>2021-06-08T15:57:16.000Z</updated>
-        <summary type="html"><![CDATA[1. National Geographic.  And amazing how unfunny is Woke TikTok (NYT).  How many Woke comedians could fill a mid-sized arena? 2. Cicadas swarming around Washington are showing up on weather radar. 3. Bitcoin en El Salvador? (in Spanish)  What is their real strategy here? 4. An argument that high inflation is indeed coming. 5. Ross […]
-The post Tuesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Crowdfunding]]></title>
-        <id>https://marginalrevolution.com/?p=81185</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/u-u0CCBM3BQ/better-crowdfunding.html"/>
-        <updated>2021-06-08T11:25:54.000Z</updated>
-        <summary type="html"><![CDATA[In 1998, I designed the “dominant assurance contract” (DAC) mechanism for producing public goods privately. In my latest paper, just published in GEB written with the excellent Tim Cason and Robertas Zubrickas we test the theory in the lab and…it works! Kickstarter hadn’t yet been created when I first wrote but the DAC mechanism can […]
-The post Better Crowdfunding appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are the less educated in democracies especially anti-science?]]></title>
-        <id>https://marginalrevolution.com/?p=81239</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/w2_-UMtxNVk/why-are-the-less-educated-in-democracies-especially-anti-science.html"/>
-        <updated>2021-06-08T05:39:44.000Z</updated>
-        <summary type="html"><![CDATA[This is not exactly what I was hoping to hear, but at this point along the road you know none of the stories are going to be pretty: …less educated citizens in democracies are considerably less trustful of science than their counterparts in non-democracies. Further analyses suggest that, instead of being the result of stronger […]
-The post Why are the less educated in democracies especially anti-science? appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

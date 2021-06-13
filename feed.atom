@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-12T00:09:44.096Z</id>
+    <id>urn:2021-06-13T00:12:24.372Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-12T00:09:44.096Z</updated>
+    <updated>2021-06-13T00:12:24.372Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The behavioral economics of pandemic sex]]></title>
+        <id>https://marginalrevolution.com/?p=81269</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/FjC5jHh-GsA/the-behavioral-economics-of-sex-during-the-pandemic.html"/>
+        <updated>2021-06-12T19:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Another girl did ask if she could call me Fauci during sex. She said it with a straight face. I pretended that I didn’t hear and kept going, because how do you even address that? I’m not going to say yes, because that’s going to be weird. And if I say no, that kills the […]
+The post The behavioral economics of pandemic sex appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81238</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/tXUBkwMoZTY/saturday-assorted-links-313.html"/>
+        <updated>2021-06-12T16:04:12.000Z</updated>
+        <summary type="html"><![CDATA[1. Why did WWI take so long to start? 2. More than one layer of signaling in this story. 3. Whether various European countries have exceeded their 2006 gdp per capita highs. 4. It seems robots make us healthier. 5. Should people in academia write more on Wikipedia? 6. Even most Democrats do not favor […]
+The post Saturday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*Ages of American Capitalism*]]></title>
+        <id>https://marginalrevolution.com/?p=81258</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/SJGxtqIRVRI/ages-of-american-capitalism.html"/>
+        <updated>2021-06-12T04:31:33.000Z</updated>
+        <summary type="html"><![CDATA[The author is Jonathan Levy (U. Chicago) and the subtitle is A History of the United States, noting it is mostly an economic history from a left-mercantilist, nation-building point of view.  So far on p.95 I quite like the book, here is one excerpt: Ironically enough, in some respects Jefferson’s Empire of Liberty came to […]
+The post *Ages of American Capitalism* appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I’ve been reading]]></title>
+        <id>https://marginalrevolution.com/?p=81212</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Su53AY7QSfw/what-ive-been-reading-194.html"/>
+        <updated>2021-06-12T04:21:26.000Z</updated>
+        <summary type="html"><![CDATA[1. William Wordsworth, The Prelude, 1805 edition.  Many people who read “the Great Books” never touch this one, because it is a poem, and a long one at that (about 200 pp. in my Oxford edition).  Nonetheless a) it is one of the best poems, and b) the experience of reading it is more like […]
+The post What I’ve been reading appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Friday assorted links]]></title>
         <id>https://marginalrevolution.com/?p=81271</id>
@@ -122,50 +166,6 @@ The post The IRS tax data leak appeared first on Marginal REVOLUTION.]]></summar
         <updated>2021-06-09T16:11:56.000Z</updated>
         <summary type="html"><![CDATA[1. The case for zoonotic origins. 2. What don’t we know about Long Covid? 3. Ohio sues to have Google declared a public utility. 4. The cost of cloud. 5. Hester Peirce on crypto (FT). 6. “Progressive taxation underperforming Biden by 12 percentage points in Illinois not paint a particularly rosy outlook with respect to […]
 The post Wednesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houellebecq on the fall of France?]]></title>
-        <id>https://marginalrevolution.com/?p=81262</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/vh4D229EW_4/houellebecq-on-the-fall-of-france.html"/>
-        <updated>2021-06-09T13:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Here is the UnHerd essay, here is one excerpt: No, we are not really dealing with a “French suicide” — to evoke the title of Eric Zemmour’s book — but a Western suicide or rather a suicide of modernity, since Asian countries are not spared. What is specifically, authentically French is the awareness of this suicide. But if […]
-The post Houellebecq on the fall of France? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High discounts and high unemployment]]></title>
-        <id>https://marginalrevolution.com/?p=81255</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/HSoz1xX7pfw/high-discounts-and-high-unemployment.html"/>
-        <updated>2021-06-09T06:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Unemployment is high when financial discounts are high. In recessions, the stock market falls and all types of investment fall, including employers’ investment in job creation. The discount rate implicit in the stock market rises, and discounts for other claims on business income also rise. A higher discount implies a lower present value of the […]
-The post High discounts and high unemployment appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should gambling be functionally separate from professional sports leagues?]]></title>
-        <id>https://marginalrevolution.com/?p=81254</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/lxZlvMdR-Js/should-gambling-be-functionally-separate-from-professional-sports-leagues.html"/>
-        <updated>2021-06-09T04:29:06.000Z</updated>
-        <summary type="html"><![CDATA[In my latest Bloomberg column I consider the NBA: A conservative estimate is that sports betting in the U.S., both legal and illegal, amounts to about $150 billion a year. How much of that is on basketball is an open question, but the NBA generates about $8 billion of revenue a year. It is quite possible that betting on […]
-The post Should gambling be functionally separate from professional sports leagues? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structural unemployment for me but not for thee (a continuing series!)]]></title>
-        <id>https://marginalrevolution.com/?p=81252</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/8Aayyzk29Ds/structural-unemployment-for-me-but-not-for-thee-a-continuing-series.html"/>
-        <updated>2021-06-08T18:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Paul Krugman cries “Uncle!”, apparently seconded by Peter Diamond, and the continuing deserved elevation of Marianna Kudlyak.  She is a truly great and important economist.
-The post Structural unemployment for me but not for thee (a continuing series!) appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

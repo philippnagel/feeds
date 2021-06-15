@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T00:11:04.689Z</id>
+    <id>urn:2021-06-15T00:12:02.345Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-14T00:11:04.689Z</updated>
+    <updated>2021-06-15T00:12:02.345Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fully public tax information?]]></title>
+        <id>https://marginalrevolution.com/?p=81286</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/W9HPqwOEx0g/fully-public-tax-information.html"/>
+        <updated>2021-06-14T18:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Our model predicts that transparency reduces the individual bargaining power of workers, leading to lower average wages. A key insight is that employers credibly refuse to pay high wages to any one worker to avoid costly renegotiations with others under transparency. Here is the paper by Zoe B. Cullen and Bobak Paksad-Hurson, which focuses on […]
+The post Fully public tax information? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81281</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/M-i_7ak6D_M/monday-assorted-links-309.html"/>
+        <updated>2021-06-14T16:35:33.000Z</updated>
+        <summary type="html"><![CDATA[1. “A Gujarat government official has claimed that he is Kalki, the tenth incarnation of Vishnu, and can’t come to office because he is conducting a “penance” to “change the global conscience”.” 2. Fergus McCullough on Sarah Ruden’s Gospels translation. 3. “The pace of [new business] applications since mid-2020 is the highest on record (earliest […]
+The post Monday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Protocol]]></title>
+        <id>https://marginalrevolution.com/?p=81282</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Zie9hj8-VWM/mission-protocol.html"/>
+        <updated>2021-06-14T11:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Business is the most important way in which human beings cooperate. In his Philosophical Letters, Voltaire explained to his French compatriots how the British had achieved religious toleration by focusing on business: Go into the London Stock Exchange – a more respectable place than many a court – and you will see representatives from all […]
+The post Mission Protocol appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intertemporal substitution isn’t always good]]></title>
+        <id>https://marginalrevolution.com/?p=81285</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/H5fp2gUZaPU/intertemporal-substitution-isnt-always-good.html"/>
+        <updated>2021-06-14T06:24:21.000Z</updated>
+        <summary type="html"><![CDATA[“Because of the lockdown, we couldn’t have invited many people and therefore wouldn’t have needed to spend too much money. We would have saved the money that is ordinarily spent on paying for the tents, halwai (caterer), band baja. We would have been able to save a few lakhs. Because of the lockdown, we could […]
+The post Intertemporal substitution isn’t always good appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markets in everything Japanese melon pan mask edition]]></title>
+        <id>https://marginalrevolution.com/?p=81283</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/0_qcUpqmmKA/markets-in-everything-japanese-melon-pan-mask-edition.html"/>
+        <updated>2021-06-14T04:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Melon pan is not only delicious, but one Japanese company also thinks it can make a good mask. Osaka-based experimental think tank Goku no Kimochi The Labo has created “Mask Pan” or “Mask Bread” after college students from Fukuoka and Okinawa decided they want to sniff the smell of bread all the time. What better way to do that than wearing […]
+The post Markets in everything Japanese melon pan mask edition appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Iconoclastic culture that is Dutch?]]></title>
         <id>https://marginalrevolution.com/?p=81280</id>
@@ -116,61 +171,6 @@ The post Nach dem Gleichgewicht auflösen appeared first on Marginal REVOLUTION.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Half Dose of Moderna is More Effective Than a Full Dose of AstraZeneca]]></title>
-        <id>https://marginalrevolution.com/?p=81272</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/JM0EbL0N1p0/a-half-dose-of-moderna-is-more-effective-than-a-full-dose-of-astrazeneca.html"/>
-        <updated>2021-06-11T11:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Today we are releasing a new paper on dose-stretching, co-authored by Witold Wiecek, Amrita Ahuja, Michael Kremer, Alexandre Simoes Gomes, Christopher M. Snyder, Brandon Joel Tan and myself. The paper makes three big points. First, Khoury et al (2021) just published a paper in Nature which shows that “Neutralizing antibody levels are highly predictive of […]
-The post A Half Dose of Moderna is More Effective Than a Full Dose of AstraZeneca appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Austin Vernon on El Salvadoran bitcoin acceptance, from my email]]></title>
-        <id>https://marginalrevolution.com/?p=81276</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Pl36exPvemQ/austin-vernon-on-el-salvadoran-bitcoin-acceptance-from-my-email.html"/>
-        <updated>2021-06-11T04:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Sent this to [redacted, a man of substance] yesterday. LN = Lightning Network, Bitcoins layer 2 scaling solution based on channels: As far as I understand it, everyone using LN in El Salvador has primarily been using Strike. Classic crypto conundrum in that they had to centralize to get it to work. There is a […]
-The post Austin Vernon on El Salvadoran bitcoin acceptance, from my email appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not that there’s anything wrong with that…]]></title>
-        <id>https://marginalrevolution.com/?p=81240</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/rwCw80AT1q8/not-that-theres-anything-wrong-with-that.html"/>
-        <updated>2021-06-10T18:05:43.000Z</updated>
-        <summary type="html"><![CDATA[…democratic rule and high state capacity combined produce higher levels of income inequality over time. This relationship operates through the positive effect of high-capacity democratic context on foreign direct investment and financial development. By making use of a novel measure of state capacity based on cumulative census administration, we find empirical support for these claims […]
-The post Not that there’s anything wrong with that… appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81261</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/teUnPg_DVY4/thursday-assorted-links-310.html"/>
-        <updated>2021-06-10T15:33:17.000Z</updated>
-        <summary type="html"><![CDATA[1. Is this possible?: “Criminals may have stolen as much as half of the unemployment benefits the U.S. has been pumping out over the past year, some experts say.” 2. When should ngdp be unstable? 3. Is Nero underrated? (New Yorker) 4. Sixty times the speed of sound? (USS Princeton radar team and pilot source, […]
-The post Thursday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The coming regulation of bank crypto]]></title>
-        <id>https://marginalrevolution.com/?p=81270</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/03nO-iQ14Bg/the-coming-regulation-of-bank-crypto.html"/>
-        <updated>2021-06-10T14:48:19.000Z</updated>
-        <summary type="html"><![CDATA[A $100 exposure in bitcoin would result in a minimum capital requirement of $100, Basel said. The standards would apply to assets created for decentralised finance (DeFi) and non-fungible tokens (NFTs), but potential central bank digital currencies were outside the scope of the consultation, it added. Here is more from the FT.  While that is […]
-The post The coming regulation of bank crypto appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.10.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
@@ -245,28 +245,6 @@ Thank you: @LooperXX.]]></summary>
         <updated>2021-05-17T05:32:19.000Z</updated>
         <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

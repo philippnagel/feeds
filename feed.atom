@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T00:12:02.345Z</id>
+    <id>urn:2021-06-16T00:10:51.308Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-15T00:12:02.345Z</updated>
+    <updated>2021-06-16T00:10:51.308Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A recent common cold may confer partial Covid-19 protection]]></title>
+        <id>https://marginalrevolution.com/?p=81294</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/_gXkVVHLZ5I/a-recent-common-cold-may-confer-partial-covid-19-protection.html"/>
+        <updated>2021-06-15T19:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Initial replication of SARS-CoV-2 in the upper respiratory tract is required to establish infection, and the replication level correlates with the likelihood of viral transmission. Here, we examined the role of host innate immune defenses in restricting early SARS-CoV-2 infection using transcriptomics and biomarker-based tracking in serial patient nasopharyngeal samples and experiments with airway epithelial […]
+The post A recent common cold may confer partial Covid-19 protection appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuesday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81288</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/3e9JoHUgpbY/tuesday-assorted-links-318.html"/>
+        <updated>2021-06-15T15:44:59.000Z</updated>
+        <summary type="html"><![CDATA[1. What would one-dimensional chess look like? 2. Very high implicit marginal tax rates for poor people (link fixed). 3. Very good Jason Furman thread on inflation uncertainty. 4. The power of median inflation. 5. Buy shares in your favorite musicians? 6. Andreu Mas-Colell is in trouble for secessionary activities.  And more from Pol Antras.  […]
+The post Tuesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incentives for Organ Donation]]></title>
+        <id>https://marginalrevolution.com/?p=81287</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/XIqSRc_kps4/incentives-for-organ-donation.html"/>
+        <updated>2021-06-15T11:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Lottery tickets for vaccination seems to have been reasonably succesful. What else could we use incentives for? Al Roth sends us to kidney surgeon Arthur Matas’s argument for testing incentives for organ donation: A regulated system of incentives for donation could provide a sizable increase in the number of kidneys available for transplant. Yet incentives […]
+The post Incentives for Organ Donation appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roger Scruton Hungarian coffee shop markets in everything]]></title>
+        <id>https://marginalrevolution.com/?p=81292</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/9kal3rIMp4Q/roger-scruton-hungarian-coffee-shop-markets-in-everything.html"/>
+        <updated>2021-06-15T10:56:57.000Z</updated>
+        <summary type="html"><![CDATA[When the philosopher Sir Roger Scruton died last year Boris Johnson called him “the greatest modern conservative thinker”. It seems that he had an even greater admirer in Viktor Orban, the right-wing prime minister of Hungary, whose allies have poured £1.5 million into a chain of coffee shops in Scruton’s memory. The first opened in […]
+The post Roger Scruton Hungarian coffee shop markets in everything appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has Uncovered Interest Parity been resolved?]]></title>
+        <id>https://marginalrevolution.com/?p=81289</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/YEDXqkYrGTg/has-uncovered-interest-parity-been-resolved.html"/>
+        <updated>2021-06-15T04:15:52.000Z</updated>
+        <summary type="html"><![CDATA[For a long time it was wondered whether excess returns were available from investing in the higher nominal interest rate albeit riskier currencies.  After all, what was truly the population rather than the sample risk?  Perhaps this is the closest we will come to answering those questions: We document five novel facts about Uncovered Interest […]
+The post Has Uncovered Interest Parity been resolved? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fully public tax information?]]></title>
         <id>https://marginalrevolution.com/?p=81286</id>
@@ -116,61 +171,6 @@ The post The behavioral economics of pandemic sex appeared first on Marginal REV
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saturday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81238</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/tXUBkwMoZTY/saturday-assorted-links-313.html"/>
-        <updated>2021-06-12T16:04:12.000Z</updated>
-        <summary type="html"><![CDATA[1. Why did WWI take so long to start? 2. More than one layer of signaling in this story. 3. Whether various European countries have exceeded their 2006 gdp per capita highs. 4. It seems robots make us healthier. 5. Should people in academia write more on Wikipedia? 6. Even most Democrats do not favor […]
-The post Saturday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*Ages of American Capitalism*]]></title>
-        <id>https://marginalrevolution.com/?p=81258</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/SJGxtqIRVRI/ages-of-american-capitalism.html"/>
-        <updated>2021-06-12T04:31:33.000Z</updated>
-        <summary type="html"><![CDATA[The author is Jonathan Levy (U. Chicago) and the subtitle is A History of the United States, noting it is mostly an economic history from a left-mercantilist, nation-building point of view.  So far on p.95 I quite like the book, here is one excerpt: Ironically enough, in some respects Jefferson’s Empire of Liberty came to […]
-The post *Ages of American Capitalism* appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I’ve been reading]]></title>
-        <id>https://marginalrevolution.com/?p=81212</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Su53AY7QSfw/what-ive-been-reading-194.html"/>
-        <updated>2021-06-12T04:21:26.000Z</updated>
-        <summary type="html"><![CDATA[1. William Wordsworth, The Prelude, 1805 edition.  Many people who read “the Great Books” never touch this one, because it is a poem, and a long one at that (about 200 pp. in my Oxford edition).  Nonetheless a) it is one of the best poems, and b) the experience of reading it is more like […]
-The post What I’ve been reading appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81271</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/0owOpkBdBdA/friday-assorted-links-314.html"/>
-        <updated>2021-06-11T17:28:35.000Z</updated>
-        <summary type="html"><![CDATA[1. Not sure I have been abused for any prediction more than this one, and yet it seems true: “Democratic primary voters have been turning away this year from the anti-elite furies that continue to roil Republican politics, repeatedly choosing more moderate candidates promising steady leadership over disrupters from the party’s left wing.”  Here is […]
-The post Friday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nach dem Gleichgewicht auflösen]]></title>
-        <id>https://marginalrevolution.com/?p=81275</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/0sXqv9jFaDk/nach-dem-gleichgewicht-auflosen.html"/>
-        <updated>2021-06-11T16:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Swiss-based multinationals such as commodities trader Glencore will receive subsidies and other incentives under plans Switzerland is drawing up to maintain its competitive tax rates, even as the country prepares to sign-up to the G7’s new plan for a global minimum tax on big businesses. Bern is consulting its cantonal governments — which set their […]
-The post Nach dem Gleichgewicht auflösen appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.10.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
@@ -234,17 +234,6 @@ Thank you @Zenigata]]></summary>
         <updated>2021-05-23T05:12:08.000Z</updated>
         <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
 Thank you: @LooperXX.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

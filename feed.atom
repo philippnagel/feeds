@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T00:10:51.308Z</id>
+    <id>urn:2021-06-17T00:10:35.667Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-16T00:10:51.308Z</updated>
+    <updated>2021-06-17T00:10:35.667Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Claims about Iceland]]></title>
+        <id>https://marginalrevolution.com/?p=81302</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/L9SqgtK_Ds0/claims-about-iceland.html"/>
+        <updated>2021-06-16T19:57:45.000Z</updated>
+        <summary type="html"><![CDATA[We find that people diagnosed outside of quarantine are 89% more infectious than those diagnosed while in quarantine, and infectiousness decreases as a function of the time spent in quarantine. Furthermore, we find that people of working age, 16-66 years old, are 47% more infectious than those outside that age range. Lastly, the transmission tree […]
+The post Claims about Iceland appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wednesday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81296</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Y7Jq6HM-i4I/tuesday-assorted-links-319.html"/>
+        <updated>2021-06-16T16:35:06.000Z</updated>
+        <summary type="html"><![CDATA[1. A public choice model of where support for the administrative state came from historically.  And John Austin on centralization. 2. Ari Lamm podcast with Leah Boustan on the Bible and big data; Ari Lamm podcast with Hollis Robbins “Only the Weirdos can Save Us!” 3. “It is obscene: a true reflection in three parts.” […]
+The post Wednesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Conversation with Elijah Millgram]]></title>
+        <id>https://marginalrevolution.com/?p=81299</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/tsCpCqrW8kQ/my-conversation-with-elijah-millgram.html"/>
+        <updated>2021-06-16T14:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Elijah is one of my favorite contemporary philosophers, here is the audio, video, and transcript.  Here is part of the summary: Elijah joined Tyler to discuss Newcomb’s paradox, the reason he doesn’t have an opinion about everything, the philosophy of Dave Barry, style and simulation theory, why philosophers aren’t often consulted about current events, his […]
+The post My Conversation with Elijah Millgram appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://future.a16z.com/]]></title>
+        <id>https://marginalrevolution.com/?p=81297</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/esHNbfPEVfc/https-future-a16z-com.html"/>
+        <updated>2021-06-16T05:46:47.000Z</updated>
+        <summary type="html"><![CDATA[A new web site, and much more. The site has many fine pieces, here is Marc Andreessen “Technology Saves the World.”
+The post https://future.a16z.com/ appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we learned doing Fast Grants]]></title>
+        <id>https://marginalrevolution.com/?p=81298</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/8RlIGd19e_k/what-we-learned-doing-fast-grants.html"/>
+        <updated>2021-06-16T04:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Here is my new piece with Patrick Collison and Patrick Hsu.  The title says it all, here is one excerpt: …we recently ran a survey of Fast Grants recipients, asking how much their Fast Grant accelerated their work. 32% said that Fast Grants accelerated their work by “a few months”, which is roughly what we […]
+The post What we learned doing Fast Grants appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Origins of the Thornley/Oswald Manuscript]]></title>
+        <id>http://historiadiscordia.com/?p=9680</id>
+        <link href="http://historiadiscordia.com/the-origins-of-the-thornley-oswald-manuscript/"/>
+        <updated>2021-06-16T03:28:21.000Z</updated>
+        <summary type="html"><![CDATA[In his monograph Notes of a Neon Gringo, Kerry Thornley wrote: “When Robert Anton Wilson printed up letterheads for the Bavarian Illuminati, they carried the notice: ‘Safeguard this letter; it may be an important historical document.’ That was very much how I felt about my first little notebook, penned in 1975. I had just begun […]]]></summary>
+        <author>
+            <name>Gorightly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A recent common cold may confer partial Covid-19 protection]]></title>
         <id>https://marginalrevolution.com/?p=81294</id>
@@ -111,61 +176,6 @@ The post Intertemporal substitution isn’t always good appeared first on Margin
         <updated>2021-06-14T04:52:21.000Z</updated>
         <summary type="html"><![CDATA[Melon pan is not only delicious, but one Japanese company also thinks it can make a good mask. Osaka-based experimental think tank Goku no Kimochi The Labo has created “Mask Pan” or “Mask Bread” after college students from Fukuoka and Okinawa decided they want to sniff the smell of bread all the time. What better way to do that than wearing […]
 The post Markets in everything Japanese melon pan mask edition appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Iconoclastic culture that is Dutch?]]></title>
-        <id>https://marginalrevolution.com/?p=81280</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/eIPs_Fws3XQ/the-iconoclastic-culture-that-is-dutch.html"/>
-        <updated>2021-06-13T18:50:02.000Z</updated>
-        <summary type="html"><![CDATA[One of the delightful characteristics of the Dutch is their frankness, and this comes through in the tales—which are far from bland. As the exhibition texts explain, “the debate about the bare bottom in this Degas pastel dominated the art pages of the [Dutch] newspapers for weeks”. The question being asked was “whether in this […]
-The post The Iconoclastic culture that is Dutch? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81241</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Nt0IUgAVmEc/sunday-assorted-links-318.html"/>
-        <updated>2021-06-13T15:45:35.000Z</updated>
-        <summary type="html"><![CDATA[1. Was the unicorn a now-extinct Siberian rhino? 2. What does the concept of sustainability mean? 3. Long post about Miles Davis. 4. Interview with Amartya Sen. 5. The changing nature of capital flows. 6. Houston man against Burger King upselling nudges.
-The post Sunday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why was pre-Covid unemployment so low?]]></title>
-        <id>https://marginalrevolution.com/?p=81228</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/3S4ntP1QoGI/why-was-pre-covid-unemployment-so-low.html"/>
-        <updated>2021-06-13T06:51:45.000Z</updated>
-        <summary type="html"><![CDATA[Here is a recent paper by Andreas Hornstein and Marianna Kudlyak, noting that when the authors write “current” they are (were) referring to pre-Covid times: Current unemployment, as of 2019Q4, is so low not because of unusually high job finding rates out of unemployment, but because of unusually low entry rates into unemployment. The unusually […]
-The post Why was pre-Covid unemployment so low? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergent Ventures winners, 15th cohort]]></title>
-        <id>https://marginalrevolution.com/?p=81198</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/wVFskzxs-DQ/emergent-ventures-winners-15th-cohort.html"/>
-        <updated>2021-06-13T04:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Emily Oster, Brown University, in support of her COVID-19 School Response Dashboard and the related “Data Hub” proposal, to ease and improve school reopenings, project here. Kathleen Harward, to write and market a series of children’s books based on classical liberal values. William Zhang, a high school junior on Long Island, NY, for general career […]
-The post Emergent Ventures winners, 15th cohort appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The behavioral economics of pandemic sex]]></title>
-        <id>https://marginalrevolution.com/?p=81269</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/FjC5jHh-GsA/the-behavioral-economics-of-sex-during-the-pandemic.html"/>
-        <updated>2021-06-12T19:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Another girl did ask if she could call me Fauci during sex. She said it with a straight face. I pretended that I didn’t hear and kept going, because how do you even address that? I’m not going to say yes, because that’s going to be weird. And if I say no, that kills the […]
-The post The behavioral economics of pandemic sex appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

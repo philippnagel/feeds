@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T00:10:18.007Z</id>
+    <id>urn:2021-06-19T00:11:34.139Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-18T00:10:18.007Z</updated>
+    <updated>2021-06-19T00:11:34.139Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Friday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81313</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/4cm9_iQB-B8/friday-assorted-links-315.html"/>
+        <updated>2021-06-18T15:55:09.000Z</updated>
+        <summary type="html"><![CDATA[1. Megan McArdle on where Obamacare stands. 2. Exactly how weather matters for Covid spread. 3. Covid and brain tissue loss confirmed. 4. The politics of vaccines and Covid in Taiwan. 5. Chilaquiles and migas are not the same thing duh.
+The post Friday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Time to Open the Canada-US Border]]></title>
+        <id>https://marginalrevolution.com/?p=81314</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/lkNSotDQVrk/its-time-to-open-the-canada-us-border.html"/>
+        <updated>2021-06-18T13:11:21.000Z</updated>
+        <summary type="html"><![CDATA[When infection rates in two areas are similar the argument for closing borders is weak. Canadian and US infection rates are now similar and both countries are highly vaccinated by world standards. The arguments for not opening are mostly psychological, a fear of foreigners. As a result, we have both Canadians fearful of opening to […]
+The post It’s Time to Open the Canada-US Border appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caplan on Open Borders]]></title>
+        <id>https://marginalrevolution.com/?p=81309</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/zGQo0zlEdN0/caplan-on-open-borders.html"/>
+        <updated>2021-06-18T11:25:29.000Z</updated>
+        <summary type="html"><![CDATA[A good interview. I take it personally, however, when Bryan says “it’s bad for me when we let in foreign economists.” 🙁 Do buy Bryan’s excellent graphic non-fiction on these questions.
+The post Caplan on Open Borders appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Edward Nelson books on Milton Friedman]]></title>
+        <id>https://marginalrevolution.com/?p=81312</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/a-23ikMtFHk/the-edward-nelson-book-on-milton-friedman.html"/>
+        <updated>2021-06-18T07:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Two volumes, such a wonderful book, for sure one of the best of the year.  Not quite a biography, more a study of Friedman’s career, but his career was his life so this is a wonderful biography too.  Here is one excerpt: Friedman was a student of business cycles who was prone to say that […]
+The post The Edward Nelson books on Milton Friedman appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Stuart Mill on the English]]></title>
+        <id>https://marginalrevolution.com/?p=81308</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/6Sl4umFhK8c/john-stuart-mill-on-the-english.html"/>
+        <updated>2021-06-18T04:54:12.000Z</updated>
+        <summary type="html"><![CDATA[From causes which might be traced in the history and development of English society and government, the general habit and practice of the English mind is compromise.  No idea is carried out to more than a small portion of its legitimate consequences.  Neither by the generality of our speculative thinkers, nor in the practice of […]
+The post John Stuart Mill on the English appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The political economy of green energy]]></title>
         <id>https://marginalrevolution.com/?p=81311</id>
@@ -121,61 +176,6 @@ The post What we learned doing Fast Grants appeared first on Marginal REVOLUTION
         <updated>2021-06-15T19:35:54.000Z</updated>
         <summary type="html"><![CDATA[Initial replication of SARS-CoV-2 in the upper respiratory tract is required to establish infection, and the replication level correlates with the likelihood of viral transmission. Here, we examined the role of host innate immune defenses in restricting early SARS-CoV-2 infection using transcriptomics and biomarker-based tracking in serial patient nasopharyngeal samples and experiments with airway epithelial […]
 The post A recent common cold may confer partial Covid-19 protection appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuesday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81288</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/3e9JoHUgpbY/tuesday-assorted-links-318.html"/>
-        <updated>2021-06-15T15:44:59.000Z</updated>
-        <summary type="html"><![CDATA[1. What would one-dimensional chess look like? 2. Very high implicit marginal tax rates for poor people (link fixed). 3. Very good Jason Furman thread on inflation uncertainty. 4. The power of median inflation. 5. Buy shares in your favorite musicians? 6. Andreu Mas-Colell is in trouble for secessionary activities.  And more from Pol Antras.  […]
-The post Tuesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incentives for Organ Donation]]></title>
-        <id>https://marginalrevolution.com/?p=81287</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/XIqSRc_kps4/incentives-for-organ-donation.html"/>
-        <updated>2021-06-15T11:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Lottery tickets for vaccination seems to have been reasonably succesful. What else could we use incentives for? Al Roth sends us to kidney surgeon Arthur Matas’s argument for testing incentives for organ donation: A regulated system of incentives for donation could provide a sizable increase in the number of kidneys available for transplant. Yet incentives […]
-The post Incentives for Organ Donation appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roger Scruton Hungarian coffee shop markets in everything]]></title>
-        <id>https://marginalrevolution.com/?p=81292</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/9kal3rIMp4Q/roger-scruton-hungarian-coffee-shop-markets-in-everything.html"/>
-        <updated>2021-06-15T10:56:57.000Z</updated>
-        <summary type="html"><![CDATA[When the philosopher Sir Roger Scruton died last year Boris Johnson called him “the greatest modern conservative thinker”. It seems that he had an even greater admirer in Viktor Orban, the right-wing prime minister of Hungary, whose allies have poured £1.5 million into a chain of coffee shops in Scruton’s memory. The first opened in […]
-The post Roger Scruton Hungarian coffee shop markets in everything appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has Uncovered Interest Parity been resolved?]]></title>
-        <id>https://marginalrevolution.com/?p=81289</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/YEDXqkYrGTg/has-uncovered-interest-parity-been-resolved.html"/>
-        <updated>2021-06-15T04:15:52.000Z</updated>
-        <summary type="html"><![CDATA[For a long time it was wondered whether excess returns were available from investing in the higher nominal interest rate albeit riskier currencies.  After all, what was truly the population rather than the sample risk?  Perhaps this is the closest we will come to answering those questions: We document five novel facts about Uncovered Interest […]
-The post Has Uncovered Interest Parity been resolved? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fully public tax information?]]></title>
-        <id>https://marginalrevolution.com/?p=81286</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/W9HPqwOEx0g/fully-public-tax-information.html"/>
-        <updated>2021-06-14T18:43:48.000Z</updated>
-        <summary type="html"><![CDATA[Our model predicts that transparency reduces the individual bargaining power of workers, leading to lower average wages. A key insight is that employers credibly refuse to pay high wages to any one worker to avoid costly renegotiations with others under transparency. Here is the paper by Zoe B. Cullen and Bobak Paksad-Hurson, which focuses on […]
-The post Fully public tax information? appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

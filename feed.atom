@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-19T00:11:34.139Z</id>
+    <id>urn:2021-06-20T00:12:28.455Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-19T00:11:34.139Z</updated>
+    <updated>2021-06-20T00:12:28.455Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Basil Halperin on sticky wage vs. sticky price models]]></title>
+        <id>https://marginalrevolution.com/?p=81321</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/orlu0PxS-Tk/basil-helperin-on-sticky-wage-vs-sticky-price-models.html"/>
+        <updated>2021-06-19T18:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Here is a long post, full of insight and citations, basically arguing that sticky wage models are better for macro than sticky price models.  Sticky wage models had been deemphasized because real wages seemed to be acyclical, but sticky prices can’t quite do the work either.  The post is hard to summarize, but my reading […]
+The post Basil Halperin on sticky wage vs. sticky price models appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North vs. South India?]]></title>
+        <id>https://marginalrevolution.com/?p=81320</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Xv1mlSL2HpI/north-vs-south-india.html"/>
+        <updated>2021-06-19T15:47:16.000Z</updated>
+        <summary type="html"><![CDATA[The data set used by Paul and Sridhar starts with the year 1960, when per capita income in Tamil Nadu was 51 per cent higher than UP’s. In the early 1980s, this difference had narrowed to 39 per cent. However, over the following decades the gap began to rapidly grow, and in 2005 an average resident of […]
+The post North vs. South India? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81318</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/nIcLuZDAeZs/saturday-assorted-links-314.html"/>
+        <updated>2021-06-19T05:03:49.000Z</updated>
+        <summary type="html"><![CDATA[1. “A set of land in virtual world Decentraland has sold for a record-breaking $913,808 worth of MANA, the game’s Ethereum-based cryptocurrency.” 2. Vitalik on Verkle trees.  And cryptocurrency machines headed to San Antonio. 3. Ecuadorean frog named after Led Zeppelin. 4. Profile of economist Natasha Sarin (NYT). 5. “Soccer’s international governing body Friday punished […]
+The post Saturday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China fact of the day]]></title>
+        <id>https://marginalrevolution.com/?p=81315</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/R_vWSuOAr74/china-fact-of-the-day-64.html"/>
+        <updated>2021-06-19T04:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Here is the link and source.
+The post China fact of the day appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Friday assorted links]]></title>
         <id>https://marginalrevolution.com/?p=81313</id>
@@ -127,39 +171,6 @@ The post Wednesday assorted links appeared first on Marginal REVOLUTION.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Conversation with Elijah Millgram]]></title>
-        <id>https://marginalrevolution.com/?p=81299</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/tsCpCqrW8kQ/my-conversation-with-elijah-millgram.html"/>
-        <updated>2021-06-16T14:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Elijah is one of my favorite contemporary philosophers, here is the audio, video, and transcript.  Here is part of the summary: Elijah joined Tyler to discuss Newcomb’s paradox, the reason he doesn’t have an opinion about everything, the philosophy of Dave Barry, style and simulation theory, why philosophers aren’t often consulted about current events, his […]
-The post My Conversation with Elijah Millgram appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://future.a16z.com/]]></title>
-        <id>https://marginalrevolution.com/?p=81297</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/esHNbfPEVfc/https-future-a16z-com.html"/>
-        <updated>2021-06-16T05:46:47.000Z</updated>
-        <summary type="html"><![CDATA[A new web site, and much more. The site has many fine pieces, here is Marc Andreessen “Technology Saves the World.”
-The post https://future.a16z.com/ appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we learned doing Fast Grants]]></title>
-        <id>https://marginalrevolution.com/?p=81298</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/8RlIGd19e_k/what-we-learned-doing-fast-grants.html"/>
-        <updated>2021-06-16T04:54:12.000Z</updated>
-        <summary type="html"><![CDATA[Here is my new piece with Patrick Collison and Patrick Hsu.  The title says it all, here is one excerpt: …we recently ran a survey of Fast Grants recipients, asking how much their Fast Grant accelerated their work. 32% said that Fast Grants accelerated their work by “a few months”, which is roughly what we […]
-The post What we learned doing Fast Grants appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Origins of the Thornley/Oswald Manuscript]]></title>
         <id>http://historiadiscordia.com/?p=9680</id>
         <link href="http://historiadiscordia.com/the-origins-of-the-thornley-oswald-manuscript/"/>
@@ -167,17 +178,6 @@ The post What we learned doing Fast Grants appeared first on Marginal REVOLUTION
         <summary type="html"><![CDATA[In his monograph Notes of a Neon Gringo, Kerry Thornley wrote: “When Robert Anton Wilson printed up letterheads for the Bavarian Illuminati, they carried the notice: ‘Safeguard this letter; it may be an important historical document.’ That was very much how I felt about my first little notebook, penned in 1975. I had just begun […]]]></summary>
         <author>
             <name>Gorightly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A recent common cold may confer partial Covid-19 protection]]></title>
-        <id>https://marginalrevolution.com/?p=81294</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/_gXkVVHLZ5I/a-recent-common-cold-may-confer-partial-covid-19-protection.html"/>
-        <updated>2021-06-15T19:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Initial replication of SARS-CoV-2 in the upper respiratory tract is required to establish infection, and the replication level correlates with the likelihood of viral transmission. Here, we examined the role of host innate immune defenses in restricting early SARS-CoV-2 infection using transcriptomics and biomarker-based tracking in serial patient nasopharyngeal samples and experiments with airway epithelial […]
-The post A recent common cold may confer partial Covid-19 protection appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
         </author>
     </entry>
     <entry>

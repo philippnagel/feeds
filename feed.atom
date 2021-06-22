@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T00:11:36.855Z</id>
+    <id>urn:2021-06-22T00:11:34.564Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-21T00:11:36.855Z</updated>
+    <updated>2021-06-22T00:11:34.564Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What should I ask Zeynep Tufekci?]]></title>
+        <id>https://marginalrevolution.com/?p=81342</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/rI__2bi1W_0/what-should-i-ask-zeynep-tufekci.html"/>
+        <updated>2021-06-21T19:42:17.000Z</updated>
+        <summary type="html"><![CDATA[I will be doing a Conversation with her.  So what should I ask?
+The post What should I ask Zeynep Tufekci? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What crypto people get wrong]]></title>
+        <id>https://marginalrevolution.com/?p=81340</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/r2e7ORJ9M9M/what-crypto-people-get-wrong.html"/>
+        <updated>2021-06-21T17:57:35.000Z</updated>
+        <summary type="html"><![CDATA[That is the topic of my latest Bloomberg column, here is one excerpt: If anything, crypto is more likely to hurt the currencies of countries that are doing very poorly, such as Venezuela. Fiat currency won’t just go away, so over the long run crypto could actually boost the value of the dollar by stifling the […]
+The post What crypto people get wrong appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81337</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/dm1-waiem94/monday-assorted-links-310.html"/>
+        <updated>2021-06-21T16:14:12.000Z</updated>
+        <summary type="html"><![CDATA[1. Cacti poaching. 2. Chinese feminimization vs. Chinese manosphere. 3. Hard to find cross-state evidence that shelter-in-place policies worked.  And lockdowns can take more lives than they save in low-income countries. 4. Deterioration of speed. 5. Culture Ministry says all music used by government services will feature Quebec artists. 6. Swedish government falls over rent […]
+The post Monday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More on Alternative Dosing]]></title>
+        <id>https://marginalrevolution.com/?p=81328</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/VZ_frAtCCNc/more-on-fractional-dosing.html"/>
+        <updated>2021-06-21T11:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Some quick comments in response to questions and discussion about my paper Could Vaccine Dose Stretching Reduce COVID-19 Deaths? (written with the all-star cast of Witold Więcek, Amrita Ahuja, Michael Kremer, Alexandre Simoes Gomes, Christopher M. Snyder and Brandon Joel Tan. 1) Any method of increasing vaccine supply will require other changes in the supply […]
+The post More on Alternative Dosing appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CDC is broken, our regulatory state has been failing us]]></title>
+        <id>https://marginalrevolution.com/?p=81338</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/t-GtWXH9W1M/the-cdc-is-broken-our-regulatory-state-has-been-failing-us.html"/>
+        <updated>2021-06-21T04:59:58.000Z</updated>
+        <summary type="html"><![CDATA[I was surprised by how good this NYT piece was, for instance here is one of the better diagnoses of the problem, or at least part of it: Allen disputes the notion that she and her colleagues are doing work that the C.D.C. itself should be doing; in fact, she says, the task force and […]
+The post The CDC is broken, our regulatory state has been failing us appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunday assorted links]]></title>
         <id>https://marginalrevolution.com/?p=81325</id>
@@ -116,61 +171,6 @@ The post Friday assorted links appeared first on Marginal REVOLUTION.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s Time to Open the Canada-US Border]]></title>
-        <id>https://marginalrevolution.com/?p=81314</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/lkNSotDQVrk/its-time-to-open-the-canada-us-border.html"/>
-        <updated>2021-06-18T13:11:21.000Z</updated>
-        <summary type="html"><![CDATA[When infection rates in two areas are similar the argument for closing borders is weak. Canadian and US infection rates are now similar and both countries are highly vaccinated by world standards. The arguments for not opening are mostly psychological, a fear of foreigners. As a result, we have both Canadians fearful of opening to […]
-The post It’s Time to Open the Canada-US Border appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caplan on Open Borders]]></title>
-        <id>https://marginalrevolution.com/?p=81309</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/zGQo0zlEdN0/caplan-on-open-borders.html"/>
-        <updated>2021-06-18T11:25:29.000Z</updated>
-        <summary type="html"><![CDATA[A good interview. I take it personally, however, when Bryan says “it’s bad for me when we let in foreign economists.” 🙁 Do buy Bryan’s excellent graphic non-fiction on these questions.
-The post Caplan on Open Borders appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Edward Nelson books on Milton Friedman]]></title>
-        <id>https://marginalrevolution.com/?p=81312</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/a-23ikMtFHk/the-edward-nelson-book-on-milton-friedman.html"/>
-        <updated>2021-06-18T07:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Two volumes, such a wonderful book, for sure one of the best of the year.  Not quite a biography, more a study of Friedman’s career, but his career was his life so this is a wonderful biography too.  Here is one excerpt: Friedman was a student of business cycles who was prone to say that […]
-The post The Edward Nelson books on Milton Friedman appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Stuart Mill on the English]]></title>
-        <id>https://marginalrevolution.com/?p=81308</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/6Sl4umFhK8c/john-stuart-mill-on-the-english.html"/>
-        <updated>2021-06-18T04:54:12.000Z</updated>
-        <summary type="html"><![CDATA[From causes which might be traced in the history and development of English society and government, the general habit and practice of the English mind is compromise.  No idea is carried out to more than a small portion of its legitimate consequences.  Neither by the generality of our speculative thinkers, nor in the practice of […]
-The post John Stuart Mill on the English appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The political economy of green energy]]></title>
-        <id>https://marginalrevolution.com/?p=81311</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/YQ5b9Aetf8w/the-political-economy-of-green-energy.html"/>
-        <updated>2021-06-17T18:53:39.000Z</updated>
-        <summary type="html"><![CDATA[That is the topic of my latest Bloomberg column, here is one excerpt: Japan seems to be approaching its energy infrastructure with politics at the forefront. It is making a big bet on hydrogen power, which is technologically iffy and expensive, currently about eight times more so than natural gas. Yet Japanese leaders are aware that Japan […]
-The post The political economy of green energy appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Origins of the Thornley/Oswald Manuscript]]></title>
         <id>http://historiadiscordia.com/?p=9680</id>
         <link href="http://historiadiscordia.com/the-origins-of-the-thornley-oswald-manuscript/"/>
@@ -223,27 +223,6 @@ No image support yet. Some shows might have disabled CORS or use a relative URL 
 You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
 Fixed: the articles in template data were not sorted.
 Thank you @Zenigata]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
-        <updated>2021-05-23T05:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
-        <updated>2021-05-23T05:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
-Thank you: @LooperXX.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T00:10:48.215Z</id>
+    <id>urn:2021-06-24T00:09:35.603Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-23T00:10:48.215Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:09:35.603Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The economics of peer review]]></title>
+        <id>https://marginalrevolution.com/?p=81352</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/dpu-Rg7-Pms/the-economics-of-peer-review.html"/>
+        <updated>2021-06-23T18:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Springer-Nature, the Anglo-German publisher of the world’s leading scientific journal Nature, announced in 2017 that in some of its publications it was censoring articles that used words like “Taiwan”, “Tibet” and “cultural revolution”, when printing in China. In April 2020 Nature ran an editorial apologising for its “error” in “associating the virus with Wuhan” in its news coverage. …The magazines […]
+The post The economics of peer review appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wednesday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81345</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/zsoeatsWLIc/wednesday-assorted-links-301.html"/>
+        <updated>2021-06-23T15:19:39.000Z</updated>
+        <summary type="html"><![CDATA[1. Noah Smith interviews @pmarca. 2. Glad to see so many economists waking up to the potential tyranny of administrative law (in Spanish).  If there should be a jury trial for anything, it is sedition. 3. Early days of the comic book industry.  And the rise of the $10 million disc golf celebrity. 4.  Way […]
+The post Wednesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rent-seeking within organizations]]></title>
+        <id>https://marginalrevolution.com/?p=81350</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Jcu2lf7sJ_o/rent-seeking-within-organizations.html"/>
+        <updated>2021-06-23T14:41:51.000Z</updated>
+        <summary type="html"><![CDATA[What are the best books and articles to read on this public choice topic?  I am not looking for critiques of democracy per se.  Your recommendations would be most welcome, government, corporate, and non-profit settings are all welcome…
+The post Rent-seeking within organizations appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentences to ponder model this]]></title>
+        <id>https://marginalrevolution.com/?p=81348</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/BrzkcT04CgQ/sentences-to-ponder-model-this-3.html"/>
+        <updated>2021-06-23T07:36:52.000Z</updated>
+        <summary type="html"><![CDATA[We found that people overestimated their own IQ (women and men ≈ 30 IQ points) and their partner’s IQ (women = 38 IQ points; men = 36 IQ points). Here is the full research, via Scott Alexander and yes you should subscribe to his Substack.
+The post Sentences to ponder model this appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
+        <updated>2021-06-23T05:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
+
+Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
+Videos are embedded via iframe and loading accelerated by youtube-lite-embed
+Ads are reduced thanks to YouTube's policy for embedded videos 🙃
+Works on mobile devices with butter smooth horizontal scroll.
+Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
+Changed: Default HTML template meta tag adjusted to match convention
+Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
+Thank you @PiyushLosalka]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How and why is Conquest’s Second Law true?]]></title>
+        <id>https://marginalrevolution.com/?p=81346</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/bRCibNbOGuA/how-and-why-is-conquests-second-law-true.html"/>
+        <updated>2021-06-23T04:18:35.000Z</updated>
+        <summary type="html"><![CDATA[“Any organization not explicitly and constitutionally right-wing will sooner or later become left-wing.” That is the topic of my latest Bloomberg column, here is one excerpt: Additional forces strengthen Conquest’s Second Law. Educational polarization increasingly characterizes U.S. politics, with more educated Americans more likely to vote Democratic. Those same Americans are also likely to run […]
+The post How and why is Conquest’s Second Law true? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Racial segregation is increasing in many parts of America]]></title>
         <id>https://marginalrevolution.com/?p=81343</id>
@@ -111,61 +185,6 @@ The post More on Alternative Dosing appeared first on Marginal REVOLUTION.]]></s
         <updated>2021-06-21T04:59:58.000Z</updated>
         <summary type="html"><![CDATA[I was surprised by how good this NYT piece was, for instance here is one of the better diagnoses of the problem, or at least part of it: Allen disputes the notion that she and her colleagues are doing work that the C.D.C. itself should be doing; in fact, she says, the task force and […]
 The post The CDC is broken, our regulatory state has been failing us appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81325</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/2guud-7fnBQ/sunday-assorted-links-319.html"/>
-        <updated>2021-06-20T20:26:33.000Z</updated>
-        <summary type="html"><![CDATA[1. Is this new drinking straw an instant cure for hiccups? 2. Mark Lutter page of major instances of social change led by movements. 3. Interview with Jim Keller. 4. Which countries have appeared the most in NYT headlines over the decades? 5. Crypto joint accounts to cement relationships? 6. Tokyo Olympic eugenics?
-The post Sunday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ho-hum]]></title>
-        <id>https://marginalrevolution.com/?p=81334</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/_oABIOA-BoQ/ho-hum-2.html"/>
-        <updated>2021-06-20T18:07:04.000Z</updated>
-        <summary type="html"><![CDATA[After nearly two decades of hardcore drug addiction — after overdoses and rehabs and relapses, homelessness and dead friends and ruined lives — Gerod Buckhalter had one choice left, and he knew it. He could go on the same way and die young in someone’s home or a parking lot, another casualty in a drug […]
-The post Ho-hum appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The looks gap in earnings]]></title>
-        <id>https://marginalrevolution.com/?p=81332</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/B9M8Pd4q_Tk/the-looks-gap-in-earnings.html"/>
-        <updated>2021-06-20T15:10:44.000Z</updated>
-        <summary type="html"><![CDATA[…the magnitude of the earnings disparities along the perceived attractiveness continuum, net of controls, rivals and/or exceeds in magnitude the black-white race gap and, among African-Americans, the black-white race gap and the gender gap in earnings. Here is the full paper.  Here is an earlier MR post on lookism, and here.  Two points are worth […]
-The post The looks gap in earnings appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best mask-wearing study so far?]]></title>
-        <id>https://marginalrevolution.com/?p=81330</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/bVkJHGDNcv0/the-best-mask-wearing-study-so-far.html"/>
-        <updated>2021-06-20T06:37:12.000Z</updated>
-        <summary type="html"><![CDATA[Mask-wearing has been a controversial measure to control the COVID-19 pandemic. While masks are known to substantially reduce disease transmission in healthcare settings (Howard et al 2021), studies in community settings report inconsistent results (Brainard et al 2020). Investigating the inconsistency within epidemiological studies, we find that a commonly used proxy, government mask mandates, does […]
-The post The best mask-wearing study so far? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term gene–culture coevolution and the human evolutionary transition]]></title>
-        <id>https://marginalrevolution.com/?p=81322</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/rd9dDpI2JOM/long-term-gene-culture-coevolution-and-the-human-evolutionary-transition.html"/>
-        <updated>2021-06-20T04:49:19.000Z</updated>
-        <summary type="html"><![CDATA[It has been suggested that the human species may be undergoing an evolutionary transition in individuality (ETI). But there is disagreement about how to apply the ETI framework to our species, and whether culture is implicated as either cause or consequence. Long-term gene–culture coevolution (GCC) is also poorly understood. Some have argued that culture steers […]
-The post Long-term gene–culture coevolution and the human evolutionary transition appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

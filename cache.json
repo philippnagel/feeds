@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "author": null,
+          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "publishedOn": "2021-06-23T05:57:59.000Z",
+          "wordCount": 368,
+          "title": "v1.11.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
           "author": null,
           "description": "Added: testing and CI/CD workflows",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
           "publishedOn": "2021-06-01T04:39:30.000Z",
-          "wordCount": 268,
+          "wordCount": 263,
           "title": "v1.10.2"
         },
         {
@@ -20,7 +29,7 @@
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "publishedOn": "2021-05-26T06:02:55.000Z",
-          "wordCount": 413,
+          "wordCount": 412,
           "title": "v1.9.0"
         }
       ]
@@ -30,6 +39,51 @@
       "feedUrl": "http://www.marginalrevolution.com/marginalrevolution/index.rdf",
       "siteUrl": "http://marginalrevolution.com",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=81352",
+          "author": "Tyler Cowen",
+          "description": "Springer-Nature, the Anglo-German publisher of the world’s leading scientific journal Nature, announced in 2017 that in some of its publications it was censoring articles that used words like “Taiwan”, “Tibet” and “cultural revolution”, when printing in China. In April 2020 Nature ran an editorial apologising for its “error” in “associating the virus with Wuhan” in its news coverage. …The magazines […]\nThe post The economics of peer review appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/dpu-Rg7-Pms/the-economics-of-peer-review.html",
+          "publishedOn": "2021-06-23T18:34:09.000Z",
+          "wordCount": 347,
+          "title": "The economics of peer review"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81345",
+          "author": "Tyler Cowen",
+          "description": "1. Noah Smith interviews @pmarca. 2. Glad to see so many economists waking up to the potential tyranny of administrative law (in Spanish).  If there should be a jury trial for anything, it is sedition. 3. Early days of the comic book industry.  And the rise of the $10 million disc golf celebrity. 4.  Way […]\nThe post Wednesday assorted links appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/zsoeatsWLIc/wednesday-assorted-links-301.html",
+          "publishedOn": "2021-06-23T15:19:39.000Z",
+          "wordCount": 371,
+          "title": "Wednesday assorted links"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81350",
+          "author": "Tyler Cowen",
+          "description": "What are the best books and articles to read on this public choice topic?  I am not looking for critiques of democracy per se.  Your recommendations would be most welcome, government, corporate, and non-profit settings are all welcome…\nThe post Rent-seeking within organizations appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/Jcu2lf7sJ_o/rent-seeking-within-organizations.html",
+          "publishedOn": "2021-06-23T14:41:51.000Z",
+          "wordCount": 260,
+          "title": "Rent-seeking within organizations"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81348",
+          "author": "Tyler Cowen",
+          "description": "We found that people overestimated their own IQ (women and men ≈ 30 IQ points) and their partner’s IQ (women = 38 IQ points; men = 36 IQ points). Here is the full research, via Scott Alexander and yes you should subscribe to his Substack.\nThe post Sentences to ponder model this appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/BrzkcT04CgQ/sentences-to-ponder-model-this-3.html",
+          "publishedOn": "2021-06-23T07:36:52.000Z",
+          "wordCount": 270,
+          "title": "Sentences to ponder model this"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81346",
+          "author": "Tyler Cowen",
+          "description": "“Any organization not explicitly and constitutionally right-wing will sooner or later become left-wing.” That is the topic of my latest Bloomberg column, here is one excerpt: Additional forces strengthen Conquest’s Second Law. Educational polarization increasingly characterizes U.S. politics, with more educated Americans more likely to vote Democratic. Those same Americans are also likely to run […]\nThe post How and why is Conquest’s Second Law true? appeared first on Marginal REVOLUTION.",
+          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/bRCibNbOGuA/how-and-why-is-conquests-second-law-true.html",
+          "publishedOn": "2021-06-23T04:18:35.000Z",
+          "wordCount": 597,
+          "title": "How and why is Conquest’s Second Law true?"
+        },
         {
           "id": "https://marginalrevolution.com/?p=81343",
           "author": "Tyler Cowen",
@@ -119,51 +173,6 @@
           "publishedOn": "2021-06-21T04:59:58.000Z",
           "wordCount": 496,
           "title": "The CDC is broken, our regulatory state has been failing us"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81325",
-          "author": "Tyler Cowen",
-          "description": "1. Is this new drinking straw an instant cure for hiccups? 2. Mark Lutter page of major instances of social change led by movements. 3. Interview with Jim Keller. 4. Which countries have appeared the most in NYT headlines over the decades? 5. Crypto joint accounts to cement relationships? 6. Tokyo Olympic eugenics?\nThe post Sunday assorted links appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/2guud-7fnBQ/sunday-assorted-links-319.html",
-          "publishedOn": "2021-06-20T20:26:33.000Z",
-          "wordCount": 271,
-          "title": "Sunday assorted links"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81334",
-          "author": "Tyler Cowen",
-          "description": "After nearly two decades of hardcore drug addiction — after overdoses and rehabs and relapses, homelessness and dead friends and ruined lives — Gerod Buckhalter had one choice left, and he knew it. He could go on the same way and die young in someone’s home or a parking lot, another casualty in a drug […]\nThe post Ho-hum appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/_oABIOA-BoQ/ho-hum-2.html",
-          "publishedOn": "2021-06-20T18:07:04.000Z",
-          "wordCount": 418,
-          "title": "Ho-hum"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81332",
-          "author": "Tyler Cowen",
-          "description": "…the magnitude of the earnings disparities along the perceived attractiveness continuum, net of controls, rivals and/or exceeds in magnitude the black-white race gap and, among African-Americans, the black-white race gap and the gender gap in earnings. Here is the full paper.  Here is an earlier MR post on lookism, and here.  Two points are worth […]\nThe post The looks gap in earnings appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/B9M8Pd4q_Tk/the-looks-gap-in-earnings.html",
-          "publishedOn": "2021-06-20T15:10:44.000Z",
-          "wordCount": 406,
-          "title": "The looks gap in earnings"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81330",
-          "author": "Tyler Cowen",
-          "description": "Mask-wearing has been a controversial measure to control the COVID-19 pandemic. While masks are known to substantially reduce disease transmission in healthcare settings (Howard et al 2021), studies in community settings report inconsistent results (Brainard et al 2020). Investigating the inconsistency within epidemiological studies, we find that a commonly used proxy, government mask mandates, does […]\nThe post The best mask-wearing study so far? appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/bVkJHGDNcv0/the-best-mask-wearing-study-so-far.html",
-          "publishedOn": "2021-06-20T06:37:12.000Z",
-          "wordCount": 499,
-          "title": "The best mask-wearing study so far?"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=81322",
-          "author": "Tyler Cowen",
-          "description": "It has been suggested that the human species may be undergoing an evolutionary transition in individuality (ETI). But there is disagreement about how to apply the ETI framework to our species, and whether culture is implicated as either cause or consequence. Long-term gene–culture coevolution (GCC) is also poorly understood. Some have argued that culture steers […]\nThe post Long-term gene–culture coevolution and the human evolutionary transition appeared first on Marginal REVOLUTION.",
-          "link": "http://feedproxy.google.com/~r/marginalrevolution/feed/~3/rd9dDpI2JOM/long-term-gene-culture-coevolution-and-the-human-evolutionary-transition.html",
-          "publishedOn": "2021-06-20T04:49:19.000Z",
-          "wordCount": 438,
-          "title": "Long-term gene–culture coevolution and the human evolutionary transition"
         }
       ]
     },
@@ -215,5 +224,5 @@
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }

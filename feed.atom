@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T00:09:35.603Z</id>
+    <id>urn:2021-06-25T00:09:48.286Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-24T00:09:35.603Z</updated>
+    <updated>2021-06-25T00:09:48.286Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USA facts of the day]]></title>
+        <id>https://marginalrevolution.com/?p=81357</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/LZGQvlFW_tk/usa-facts-of-the-day.html"/>
+        <updated>2021-06-24T18:05:55.000Z</updated>
+        <summary type="html"><![CDATA[A survey of almost 200 police departments indicated that retirements were up 45 percent and resignations rose by 18 percent in the year from April 2020 to April 2021 when compared with the previous 12 months, according to the Police Executive Research Forum, a Washington policy institute. New York City saw 2,600 officers retire in […]
+The post USA facts of the day appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thursday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81353</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/ZYYNz4-jxsQ/thursday-assorted-links-312.html"/>
+        <updated>2021-06-24T15:57:28.000Z</updated>
+        <summary type="html"><![CDATA[1. Do mongooses sit behind a Rawlsian veil of ignorance? 2. “…despite the socially progressive and egalitarian outlook traditionally associated with liberalism, the most liberal Democrats actually expressed the greatest dehumanization of Republicans.”  And how about this clincher: “…and demonstrates the need to develop more constructive outlets for social identity maintenance.” 3. Claims about Tether. […]
+The post Thursday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China fact of the day]]></title>
+        <id>https://marginalrevolution.com/?p=81355</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/9Snpo_GnR3Y/china-fact-of-the-day-65.html"/>
+        <updated>2021-06-24T11:55:01.000Z</updated>
+        <summary type="html"><![CDATA[China is still wrestling with how to rule over a diverse, ethnically mixed population that does not necessarily accept the dominance of the Han or the CCP narrative.  The challenge for the CCP is that ethnic minorities constitute only about 10 percent of the total population but inhabit 60 percent of the land mass, much […]
+The post China fact of the day appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Stuart Mill on America]]></title>
+        <id>https://marginalrevolution.com/?p=81324</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/K0bOK0NCDIw/john-stuart-mill-on-america.html"/>
+        <updated>2021-06-24T06:00:19.000Z</updated>
+        <summary type="html"><![CDATA[I call this Mill’s Conjecture: High wages and universal reading are the two elements of democracy; where they co-exist, all government, except the government of public opinion, is impossible. That is from Mill’s State of Society in America.  But is it true about China?
+The post John Stuart Mill on America appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long COVID in a prospective cohort of home-isolated patients]]></title>
+        <id>https://marginalrevolution.com/?p=81354</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/whPOpcBUBtA/long-covid-in-a-prospective-cohort-of-home-isolated-patients.html"/>
+        <updated>2021-06-24T04:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Long-term complications after coronavirus disease 2019 (COVID-19) are common in hospitalized patients, but the spectrum of symptoms in milder cases needs further investigation. We conducted a long-term follow-up in a prospective cohort study of 312 patients—247 home-isolated and 65 hospitalized—comprising 82% of total cases in Bergen during the first pandemic wave in Norway. At 6 […]
+The post Long COVID in a prospective cohort of home-isolated patients appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The economics of peer review]]></title>
         <id>https://marginalrevolution.com/?p=81352</id>
@@ -135,61 +190,6 @@ The post USA fact of the day appeared first on Marginal REVOLUTION.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What should I ask Zeynep Tufekci?]]></title>
-        <id>https://marginalrevolution.com/?p=81342</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/rI__2bi1W_0/what-should-i-ask-zeynep-tufekci.html"/>
-        <updated>2021-06-21T19:42:17.000Z</updated>
-        <summary type="html"><![CDATA[I will be doing a Conversation with her.  So what should I ask?
-The post What should I ask Zeynep Tufekci? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What crypto people get wrong]]></title>
-        <id>https://marginalrevolution.com/?p=81340</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/r2e7ORJ9M9M/what-crypto-people-get-wrong.html"/>
-        <updated>2021-06-21T17:57:35.000Z</updated>
-        <summary type="html"><![CDATA[That is the topic of my latest Bloomberg column, here is one excerpt: If anything, crypto is more likely to hurt the currencies of countries that are doing very poorly, such as Venezuela. Fiat currency won’t just go away, so over the long run crypto could actually boost the value of the dollar by stifling the […]
-The post What crypto people get wrong appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81337</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/dm1-waiem94/monday-assorted-links-310.html"/>
-        <updated>2021-06-21T16:14:12.000Z</updated>
-        <summary type="html"><![CDATA[1. Cacti poaching. 2. Chinese feminimization vs. Chinese manosphere. 3. Hard to find cross-state evidence that shelter-in-place policies worked.  And lockdowns can take more lives than they save in low-income countries. 4. Deterioration of speed. 5. Culture Ministry says all music used by government services will feature Quebec artists. 6. Swedish government falls over rent […]
-The post Monday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More on Alternative Dosing]]></title>
-        <id>https://marginalrevolution.com/?p=81328</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/VZ_frAtCCNc/more-on-fractional-dosing.html"/>
-        <updated>2021-06-21T11:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Some quick comments in response to questions and discussion about my paper Could Vaccine Dose Stretching Reduce COVID-19 Deaths? (written with the all-star cast of Witold Więcek, Amrita Ahuja, Michael Kremer, Alexandre Simoes Gomes, Christopher M. Snyder and Brandon Joel Tan. 1) Any method of increasing vaccine supply will require other changes in the supply […]
-The post More on Alternative Dosing appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CDC is broken, our regulatory state has been failing us]]></title>
-        <id>https://marginalrevolution.com/?p=81338</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/t-GtWXH9W1M/the-cdc-is-broken-our-regulatory-state-has-been-failing-us.html"/>
-        <updated>2021-06-21T04:59:58.000Z</updated>
-        <summary type="html"><![CDATA[I was surprised by how good this NYT piece was, for instance here is one of the better diagnoses of the problem, or at least part of it: Allen disputes the notion that she and her colleagues are doing work that the C.D.C. itself should be doing; in fact, she says, the task force and […]
-The post The CDC is broken, our regulatory state has been failing us appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Origins of the Thornley/Oswald Manuscript]]></title>
         <id>http://historiadiscordia.com/?p=9680</id>
         <link href="http://historiadiscordia.com/the-origins-of-the-thornley-oswald-manuscript/"/>
@@ -227,23 +227,6 @@ The post The CDC is broken, our regulatory state has been failing us appeared fi
         <summary type="html"><![CDATA[This is how an attacker could have hid a ticking time bomb on the Ethereum blockchain that, when triggered, would hard fork the entire network]]></summary>
         <author>
             <name>samczsun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.9.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
-        <updated>2021-05-26T06:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
-
-This feature is currently only available through custom template.
-iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
-No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
-You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
-Fixed: the articles in template data were not sorted.
-Thank you @Zenigata]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>

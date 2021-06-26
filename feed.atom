@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T00:09:48.286Z</id>
+    <id>urn:2021-06-26T00:10:22.748Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-25T00:09:48.286Z</updated>
+    <updated>2021-06-26T00:10:22.748Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The UAPs [UFOs] report]]></title>
+        <id>https://marginalrevolution.com/?p=81370</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/HaVWcFxFNcQ/the-uaps-ufos-report.html"/>
+        <updated>2021-06-25T21:50:18.000Z</updated>
+        <summary type="html"><![CDATA[You can read it here.  I don’t think it clarifies much, other than to stress the multiple sources of sensor data for the observations and the inexplicability of some number of the sightings, well into triple digits.  So you can put aside Mick West, PewdiePie, and the like.  It is “real stuff” being measured, no […]
+The post The UAPs [UFOs] report appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81362</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/XJWa0VsWbVc/friday-assorted-links-316.html"/>
+        <updated>2021-06-25T17:41:04.000Z</updated>
+        <summary type="html"><![CDATA[1. Is Tibetan New Wave cinema a thing? 2. Even finance professors lean left.  And more from John Cochrane. 3. The Czech fertility rebound. 4. Chris Herd on remote work. 5. “S.F. spends more than 60k per tent at homeless sites.“
+The post Friday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is blockchain puny?]]></title>
+        <id>https://marginalrevolution.com/?p=81365</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/4HdzOV0YQko/is-blockchain-puny.html"/>
+        <updated>2021-06-25T13:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Here is a new and intriguing idea (link now fixed) from StarkWare, a blockchain start-up based in Israel.  Authored by Eli Ben-Sasson, here is one excerpt: Imagine if we accepted, for the foreseeable future, that we can only write on a given blockchain ten times per second, but instead of writing ten single transactions, made […]
+The post Is blockchain puny? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is it OK to be mean to the ugly?]]></title>
+        <id>https://marginalrevolution.com/?p=81361</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/nNlTcyAvqus/why-is-it-ok-to-be-mean-to-the-ugly.html"/>
+        <updated>2021-06-25T11:37:17.000Z</updated>
+        <summary type="html"><![CDATA[That is the new NYT David Brooks column, here is one excerpt: Not all the time, but often, the attractive get the first-class treatment. Research suggests they are more likely to be offered job interviews, more likely to be hired when interviewed and more likely to be promoted than less attractive individuals. They are more […]
+The post Why is it OK to be mean to the ugly? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquidity trap for me but not for thee?]]></title>
+        <id>https://marginalrevolution.com/?p=81358</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/qK4crhCguck/no-one-wants-to-talk-about-the-liquidity-trap-any-more.html"/>
+        <updated>2021-06-25T04:32:38.000Z</updated>
+        <summary type="html"><![CDATA[The idea has not held up.  As I write the rate on 6-month T-Bills is 0.06%.  That is pretty close to zero, right? And yet everyone is debating what will happen with the rate of price inflation.  No one is claiming it is indeterminate, as the simplest liquidity trap models suggest.  Nor, with rising rates […]
+The post Liquidity trap for me but not for thee? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USA facts of the day]]></title>
         <id>https://marginalrevolution.com/?p=81357</id>
@@ -130,61 +185,6 @@ Thank you @PiyushLosalka]]></summary>
         <updated>2021-06-23T04:18:35.000Z</updated>
         <summary type="html"><![CDATA[“Any organization not explicitly and constitutionally right-wing will sooner or later become left-wing.” That is the topic of my latest Bloomberg column, here is one excerpt: Additional forces strengthen Conquest’s Second Law. Educational polarization increasingly characterizes U.S. politics, with more educated Americans more likely to vote Democratic. Those same Americans are also likely to run […]
 The post How and why is Conquest’s Second Law true? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Racial segregation is increasing in many parts of America]]></title>
-        <id>https://marginalrevolution.com/?p=81343</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/f3pPlax3Aac/racial-segregation-is-increasing-in-many-parts-of-america.html"/>
-        <updated>2021-06-22T18:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Some of the nation’s largest metropolitan regions have become increasingly segregated in the last 30 years, underscoring racial inequalities that have led to poorer life outcomes in Black and brown neighborhoods, according to a study released Monday by the University of California Berkeley’s Othering & Belonging Institute. The study found that 81% of regions with more than […]
-The post Racial segregation is increasing in many parts of America appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuesday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81341</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/dmAZ-F9UizU/tuesday-assorted-links-320.html"/>
-        <updated>2021-06-22T16:14:58.000Z</updated>
-        <summary type="html"><![CDATA[1. Updated data on unicorns, including Chinese numbers. 2. Those new Indian service sector jobs: A CCTV Company Is Paying Remote Workers in India to Yell at Armed Robbers.  And Stalin’s Economic Council. 3. NYT profile of Emily Oster. 4. What is ranked-choice voting, and why is NYC using it? 5. More arguments about Tether […]
-The post Tuesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York Fact of the Day]]></title>
-        <id>https://marginalrevolution.com/?p=81326</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/FVyCL72PL2I/new-york-fact-of-the-day-3.html"/>
-        <updated>2021-06-22T11:21:38.000Z</updated>
-        <summary type="html"><![CDATA[NYTimes: New York City built only 163,000 units of housing in the 2010s, fewer than the 205,000 created in the 1930s, during and after the Great Depression, according to a city report. From 2009 to 2018, the New York metro region added 0.5 units of housing for every new job, down from 2.2 units per […]
-The post New York Fact of the Day appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milton Friedman was once a Keynesian]]></title>
-        <id>https://marginalrevolution.com/?p=81331</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/fkI2NhpLWJs/milton-friedman-was-once-a-keynesian.html"/>
-        <updated>2021-06-22T06:51:58.000Z</updated>
-        <summary type="html"><![CDATA[In the early 1940s, Friedman’s own analysis of monetary policy adhered closely to the dismissive tone prevalent in much other Keynesian literature of that vintage.  His solo-authored contribution to 1943’s Taxing to Prevent Inflation, written while he was at the Treasury, plotted growth rates of the nominal money stock and nominal income for the United […]
-The post Milton Friedman was once a Keynesian appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA fact of the day]]></title>
-        <id>https://marginalrevolution.com/?p=81329</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/74tZHCBDyMw/usa-fact-of-the-day-3.html"/>
-        <updated>2021-06-22T04:57:11.000Z</updated>
-        <summary type="html"><![CDATA[The average U.S. customer loses power for 214 minutes per year. That compares to 70 in the United Kingdom, 53 in France, 29 in the Netherlands, 6 in Japan, and 2 minutes per year in Singapore. These outage durations tell only part of the story. In Japan, the average customer loses power once every 20 […]
-The post USA fact of the day appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

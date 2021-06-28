@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-27T00:11:28.427Z</id>
+    <id>urn:2021-06-28T00:11:40.123Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-27T00:11:28.427Z</updated>
+    <updated>2021-06-28T00:11:40.123Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[*Sweat*]]></title>
+        <id>https://marginalrevolution.com/?p=81388</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/khUO1irgTeY/sweat.html"/>
+        <updated>2021-06-27T21:10:06.000Z</updated>
+        <summary type="html"><![CDATA[One of the better movies of this year, Sweat (or this review, spoilers in both) focuses on a female Polish Instagram star, and what she has to go through to produce fresh content each day, and how she gets hooked on the income and status of her privileged position.  At first it seems like a […]
+The post *Sweat* appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81378</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/D98Y8xiHLak/sunday-assorted-links-320.html"/>
+        <updated>2021-06-27T16:41:27.000Z</updated>
+        <summary type="html"><![CDATA[1. “In fact it would be a *routine occurrence* that fully vaccinated individuals make up half of new infections.” 2. Jennifer Doleac on lead and crime. 3. Can we reduce sonic booms? (New Yorker) 4. Will Singapore learn to live with Covid? 5. Pending regulation of DeFi? (FT)  And the outrage of Britney.  And is […]
+The post Sunday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andreessen on Crypto]]></title>
+        <id>https://marginalrevolution.com/?p=81383</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/O779Cu1mNk4/andreessen-on-crypto.html"/>
+        <updated>2021-06-27T11:23:50.000Z</updated>
+        <summary type="html"><![CDATA[From Noahpinion’s interview with Marc Andreessen: [C]rypto represents an architectural shift in how technology works and therefore how the world works. That architectural shift is called distributed consensus — the ability for many untrusted participants in a network to establish consistency and trust. This is something the Internet has never had, but now it does, […]
+The post Andreessen on Crypto appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Effect of Adult Entertainment Establishments on Sex Crime]]></title>
+        <id>https://marginalrevolution.com/?p=81377</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/WJqcH3YE_u4/the-effect-of-adult-entertainment-establishments-on-sex-crime.html"/>
+        <updated>2021-06-27T07:07:05.000Z</updated>
+        <summary type="html"><![CDATA[This paper studies how the presence of adult entertainment establishments affects the incidence of sex crimes, including sexual abuse and rape. We build a high frequency daily and weekly panel that combines the exact location of not-self-reported sex crimes with the day of opening and exact location of adult entertainment establishments in New York City. […]
+The post The Effect of Adult Entertainment Establishments on Sex Crime appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I’ve been reading]]></title>
+        <id>https://marginalrevolution.com/?p=81290</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/odlLEahdcFA/what-ive-been-reading-195.html"/>
+        <updated>2021-06-27T04:33:23.000Z</updated>
+        <summary type="html"><![CDATA[1. Ivo Maes, Robert Triffin: A Life.  There should be more biographies of economists, and while this one does not succeed in making Triffin exciting, it is thorough and informative and shows there was more to the man than his famous dilemma.  I hadn’t even known Triffin was from Belgium. 2. Elizabeth Bowen, The Last […]
+The post What I’ve been reading appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[*Sub-Saharan Africa: Architectural Guide*]]></title>
         <id>https://marginalrevolution.com/?p=81374</id>
@@ -111,61 +166,6 @@ The post Liquidity trap for me but not for thee? appeared first on Marginal REVO
         <updated>2021-06-24T18:05:55.000Z</updated>
         <summary type="html"><![CDATA[A survey of almost 200 police departments indicated that retirements were up 45 percent and resignations rose by 18 percent in the year from April 2020 to April 2021 when compared with the previous 12 months, according to the Police Executive Research Forum, a Washington policy institute. New York City saw 2,600 officers retire in […]
 The post USA facts of the day appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81353</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/ZYYNz4-jxsQ/thursday-assorted-links-312.html"/>
-        <updated>2021-06-24T15:57:28.000Z</updated>
-        <summary type="html"><![CDATA[1. Do mongooses sit behind a Rawlsian veil of ignorance? 2. “…despite the socially progressive and egalitarian outlook traditionally associated with liberalism, the most liberal Democrats actually expressed the greatest dehumanization of Republicans.”  And how about this clincher: “…and demonstrates the need to develop more constructive outlets for social identity maintenance.” 3. Claims about Tether. […]
-The post Thursday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China fact of the day]]></title>
-        <id>https://marginalrevolution.com/?p=81355</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/9Snpo_GnR3Y/china-fact-of-the-day-65.html"/>
-        <updated>2021-06-24T11:55:01.000Z</updated>
-        <summary type="html"><![CDATA[China is still wrestling with how to rule over a diverse, ethnically mixed population that does not necessarily accept the dominance of the Han or the CCP narrative.  The challenge for the CCP is that ethnic minorities constitute only about 10 percent of the total population but inhabit 60 percent of the land mass, much […]
-The post China fact of the day appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Stuart Mill on America]]></title>
-        <id>https://marginalrevolution.com/?p=81324</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/K0bOK0NCDIw/john-stuart-mill-on-america.html"/>
-        <updated>2021-06-24T06:00:19.000Z</updated>
-        <summary type="html"><![CDATA[I call this Mill’s Conjecture: High wages and universal reading are the two elements of democracy; where they co-exist, all government, except the government of public opinion, is impossible. That is from Mill’s State of Society in America.  But is it true about China?
-The post John Stuart Mill on America appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long COVID in a prospective cohort of home-isolated patients]]></title>
-        <id>https://marginalrevolution.com/?p=81354</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/whPOpcBUBtA/long-covid-in-a-prospective-cohort-of-home-isolated-patients.html"/>
-        <updated>2021-06-24T04:35:23.000Z</updated>
-        <summary type="html"><![CDATA[Long-term complications after coronavirus disease 2019 (COVID-19) are common in hospitalized patients, but the spectrum of symptoms in milder cases needs further investigation. We conducted a long-term follow-up in a prospective cohort study of 312 patients—247 home-isolated and 65 hospitalized—comprising 82% of total cases in Bergen during the first pandemic wave in Norway. At 6 […]
-The post Long COVID in a prospective cohort of home-isolated patients appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The economics of peer review]]></title>
-        <id>https://marginalrevolution.com/?p=81352</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/dpu-Rg7-Pms/the-economics-of-peer-review.html"/>
-        <updated>2021-06-23T18:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Springer-Nature, the Anglo-German publisher of the world’s leading scientific journal Nature, announced in 2017 that in some of its publications it was censoring articles that used words like “Taiwan”, “Tibet” and “cultural revolution”, when printing in China. In April 2020 Nature ran an editorial apologising for its “error” in “associating the virus with Wuhan” in its news coverage. …The magazines […]
-The post The economics of peer review appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

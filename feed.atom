@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T00:10:21.557Z</id>
+    <id>urn:2021-06-30T00:11:17.532Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-06-29T00:10:21.557Z</updated>
+    <updated>2021-06-30T00:11:17.532Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bulletin: a more than marginal boost for Marginal Revolution]]></title>
+        <id>https://marginalrevolution.com/?p=81366</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/nyh3S0Y_EyY/a-more-than-marginal-boost-for-marginal-revolution.html"/>
+        <updated>2021-06-29T18:25:44.000Z</updated>
+        <summary type="html"><![CDATA[We are proud to announce that Marginal Revolution now exists on a second site as well, affiliated with Facebook, at marginalrevolution.bulletin.com. We are excited to be part of this new project, called Bulletin.  Please note that marginalrevolution.bulletin.com will be fully free and open, just as the current site is. If you prefer to stay here, […]
+The post Bulletin: a more than marginal boost for Marginal Revolution appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bulletin!]]></title>
+        <id>https://marginalrevolution.com/?p=81368</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/iTe6aZ3Isx4/bulletin.html"/>
+        <updated>2021-06-29T18:24:55.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled that Marginal Revolution is a featured part of Facebook’s new Bulletin writing service. Facebook has nearly 3 billion active users and this new partnership will bring additional readers to Marginal Revolution. Don’t worry, however, we remain an independent source of news and opinion and Marginal Revolution will continue to exist at Marginal […]
+The post Bulletin! appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuesday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81395</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/LifOfH5fvgk/tuesday-assorted-links-321.html"/>
+        <updated>2021-06-29T15:10:14.000Z</updated>
+        <summary type="html"><![CDATA[1. Quarles skeptical about a CBDC. 2. Ransomware hackers building their own VC system. 3. Why is American infrastructure so expensive? 4. Mas-Colell update (in Spanish), here in English.  Judgment rendered, and he (joint with Mas, if I understand correctly) has to put up a bond of over two million euros and later stand trial, […]
+The post Tuesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pandemic JOLTS]]></title>
+        <id>https://marginalrevolution.com/?p=81381</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/SPqjz0hgdf0/the-pandemic-jolts.html"/>
+        <updated>2021-06-29T11:20:31.000Z</updated>
+        <summary type="html"><![CDATA[The 2009 recession was big but it followed a very familiar pattern–job separations were a little bit larger than job hires and this lasted for a little less than year which drove up unemployment rates. Unemployment rates then declined slowly as hires became a little bit larger than separations. Now look at the pandemic recession! […]
+The post The Pandemic JOLTS appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*The Dope: The Real History of the Mexican Drug Trade*]]></title>
+        <id>https://marginalrevolution.com/?p=81391</id>
+        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/ZZfAGqnEx-I/the-dope-the-real-history-of-the-mexican-drug-trade.html"/>
+        <updated>2021-06-29T04:17:19.000Z</updated>
+        <summary type="html"><![CDATA[That is a new and very useful book by Benjamin T. Smith, oddly it came out first in the UK.  Here is one excerpt: Over the past fifty years, to earn the median wage, a Mexican has had to sell an average of 700 grams of marijuana, 18 grams of heroin, or 66 grams of […]
+The post *The Dope: The Real History of the Mexican Drug Trade* appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June Eris of the Month 2021: Eris Trojan Horse]]></title>
+        <id>http://historiadiscordia.com/?p=9730</id>
+        <link href="http://historiadiscordia.com/june-eris-of-the-month-2021-eris-trojan-horse/"/>
+        <updated>2021-06-29T02:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Anonymously submitted entry for June Eris of the Month 2021. A burning Troy, the Trojan Horse, and a bad-ass nipple revealing Eris. Ah, when times were simpler. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.]]></summary>
+        <author>
+            <name>themgt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There is now actually a book like this]]></title>
         <id>https://marginalrevolution.com/?p=81386</id>
@@ -116,61 +181,6 @@ The post What I’ve been reading appeared first on Marginal REVOLUTION.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[*Sub-Saharan Africa: Architectural Guide*]]></title>
-        <id>https://marginalrevolution.com/?p=81374</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/T8A1B3TmSuY/sub-saharan-africa-architectural-guide.html"/>
-        <updated>2021-06-26T18:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Seven volumes, $200 in paperback, multiple editors, due out in July.  I just pre-ordered.  Much better than wasting your time reading about the debates du jour. I am very much looking forward to this one, I will learn lots from it.  Will this be the book(s) of the year?
-The post *Sub-Saharan Africa: Architectural Guide* appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81369</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/kDFQAAJq5uo/saturday-assorted-links-315.html"/>
-        <updated>2021-06-26T15:56:41.000Z</updated>
-        <summary type="html"><![CDATA[1. “The perpetrators were making low value transactions – often as little as one cent – as a means to contact their victims.” 2. How to improve construction productivity, and why that is hard. 3. Best of Econtwitter Substack. 4. Mix and match for vaccines seems to be working out.  And new and promising CRISPR […]
-The post Saturday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What should I ask Ruth Scurr?]]></title>
-        <id>https://marginalrevolution.com/?p=81372</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/ks1Y26aB8Dg/what-should-i-ask-ruth-scurr.html"/>
-        <updated>2021-06-26T13:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Dr Ruth Scurr FRSL (born 1971, London) is a British writer, historian and literary critic. She is a Fellow of Gonville & Caius College, Cambridge. Her first book, Fatal Purity: Robespierre and the French Revolution (Chatto & Windus, 2006; Metropolitan Books, 2006) won the Franco-British Society Literary Prize (2006), was shortlisted for the Duff Cooper Prize (2006), long-listed […]
-The post What should I ask Ruth Scurr? appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“How Britney Spears was trapped in a web of injustice”]]></title>
-        <id>https://marginalrevolution.com/?p=81371</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/gi23jUB5IwU/how-britney-spears-was-trapped-in-a-web-of-injustice.html"/>
-        <updated>2021-06-26T04:17:05.000Z</updated>
-        <summary type="html"><![CDATA[That from the FT is the kind of headline we should be seeing.  From Henry Mance: …for 13 years, courts in California have rewarded Spears’s father Jamie, a failed businessman who struggled with alcoholism, once filed for bankruptcy and who, according to the documentary Framing Britney Spears, was often absent from his daughter’s childhood. They have […]
-The post “How Britney Spears was trapped in a web of injustice” appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The UAPs [UFOs] report]]></title>
-        <id>https://marginalrevolution.com/?p=81370</id>
-        <link href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/HaVWcFxFNcQ/the-uaps-ufos-report.html"/>
-        <updated>2021-06-25T21:50:18.000Z</updated>
-        <summary type="html"><![CDATA[You can read it here.  I don’t think it clarifies much, other than to stress the multiple sources of sensor data for the observations and the inexplicability of some number of the sightings, well into triple digits.  So you can put aside Mick West, PewdiePie, and the like.  It is “real stuff” being measured, no […]
-The post The UAPs [UFOs] report appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.11.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
@@ -214,7 +224,6 @@ Thank you @PiyushLosalka]]></summary>
         <id>http://historiadiscordia.com/?p=9672</id>
         <link href="http://historiadiscordia.com/may-eris-of-the-month-2021-eris-%e1%bc%90%cf%81%ce%b9%cf%82-by-matthias-jiury/"/>
         <updated>2021-06-01T02:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Found on flickr. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.]]></summary>
         <author>
             <name>themgt</name>
         </author>

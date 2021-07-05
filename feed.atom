@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-04T00:10:34.327Z</id>
+    <id>urn:2021-07-05T00:10:19.722Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-04T00:10:34.327Z</updated>
+    <updated>2021-07-05T00:10:19.722Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sunday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81435</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/sunday-assorted-links-321.html"/>
+        <updated>2021-07-04T16:52:39.000Z</updated>
+        <summary type="html"><![CDATA[1. Culture wars are long wars.  And is it the Left that has jacked up the culture wars? 2. More Scott Sumner movie reviews, he is always right. 3. Cleaner air has contributed one-fifth of U.S. maize and soybean yield gains since 1999. 4. Do we enjoy our stereotypes? 5. Police officer plays Taylor Swift […]
+The post Sunday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nematodes Maximize Expected Utility]]></title>
+        <id>https://marginalrevolution.com/?p=81434</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/nematodes-maximize-expected-utility.html"/>
+        <updated>2021-07-04T11:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Hot on the heels of the new paper showing that the trading behavior of mycorrhizal fungi is consistent with the predictions of general equilibrium theory we have that nematodes obey the generalized axiom of revealed preference. It would be amusing if economics turns out to work well everywhere except for humans. Abstract: In value-based decision […]
+The post Nematodes Maximize Expected Utility appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some major cities ranked by surveillance cameras per km]]></title>
+        <id>https://marginalrevolution.com/?p=81396</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/some-major-cities-ranked-by-surveillance-cameras-per-km.html"/>
+        <updated>2021-07-04T06:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Not what I would have expected: 1. Seoul 2. Paris 3. Boston 4. NYC 5. Baltimore 6. San Francisco 7. Tokyo 8. London 9. Chicago 10. Philadelphia 11. Bangkok 12. Washington, D.C. 13. Milwaukee 14. Singapore 15. Seattle 16. Los Angeles The difference here between Seoul and Los Angeles is almost 4x.  Mostly I am […]
+The post Some major cities ranked by surveillance cameras per km appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*The Volga: A History of Russia’s Greatest River*]]></title>
+        <id>https://marginalrevolution.com/?p=81387</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/the-volga-a-history-of-russias-greatest-river.html"/>
+        <updated>2021-07-04T04:49:25.000Z</updated>
+        <summary type="html"><![CDATA[The author is Janet M. Hartley from LSE, here is one excerpt: …the religious composition on the Volga is complex.  Finno-Ugric settlers originally followed shamanistic beliefs, although many converted, at least nominally, to Orthodoxy after they became subjects of the Russian Empire.  The ruler and the elite in Khazaria probably converted to Judaism sometime in […]
+The post *The Volga: A History of Russia’s Greatest River* appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Living under guardianship is worse than you think]]></title>
         <id>https://marginalrevolution.com/?p=81430</id>
@@ -122,50 +166,6 @@ The post *Syndromes and a Century* (with spoilers, but the movie is not about su
         <updated>2021-07-01T18:01:13.000Z</updated>
         <summary type="html"><![CDATA[1. Stablecoins, 1830-63. 2. New youngest chess grandmaster in history is 12 years old and lives in New Jersey.  Father is a software engineer, Indian background. 3. Today’s central bank digital currency status.  And Timothy Taylor on CBDC. 4. “This paper uses data from biological experiments to demonstrate that the trading behavior of mycorrhizal fungi […]
 The post Thursday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The replacement service for Feedburner]]></title>
-        <id>https://marginalrevolution.com/?p=81420</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/the-replacement-service-for-feedburner.html"/>
-        <updated>2021-07-01T14:27:01.000Z</updated>
-        <summary type="html"><![CDATA[I am told: “Those of you who receive Feedburner email notifications may cease receiving them in the next few days. If you would like to continue receiving these email notifications, please sign up for our new service here, which will be up and running in the next few days.” All other RSS stays the same.  […]
-The post The replacement service for Feedburner appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Strange Death of Human Challenge Trials]]></title>
-        <id>https://marginalrevolution.com/?p=81416</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/the-strange-death-of-human-challenge-trials.html"/>
-        <updated>2021-07-01T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A good post at the Effective Altruism Forum on all the stuff we could have done to stop the pandemic but didn’t: Probably the biggest mistake was not intentionally infecting vaccinated volunteers. This could be done in 1 month, vs 6.5 months for the ecological trials that the entire world did out of misguided PR […]
-The post The Strange Death of Human Challenge Trials appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afghanistan Dept. of Uh-Oh]]></title>
-        <id>https://marginalrevolution.com/?p=81413</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/afghanistan-dept-of-uh-oh.html"/>
-        <updated>2021-07-01T06:55:39.000Z</updated>
-        <summary type="html"><![CDATA[We find a significant, sharp, and timely decline of insurgent violence in the initial phase: the security transfer to Afghan forces. We find that this is followed by a significant surge in violence in the second phase: the actual physical withdrawal of foreign troops. We argue that this pattern is consistent with a signaling model, […]
-The post Afghanistan Dept. of Uh-Oh appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Straussian Beatles cofounders — We Can’t Work It Out]]></title>
-        <id>https://marginalrevolution.com/?p=81400</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/straussian-beatles-cofounders-we-cant-work-it-out.html"/>
-        <updated>2021-07-01T05:03:22.000Z</updated>
-        <summary type="html"><![CDATA[The Beatles 1965 song “We Can Work It Out” typically is taken as a tale of harmonious cooperation, a kind of precursor to “All You Need is Love,” but expressing the ability of the Beatles to work together toward productive outcomes and furthermore to stay united as friends.  (All before the bitter split of course.)  […]
-The post Straussian Beatles cofounders — We Can’t Work It Out appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

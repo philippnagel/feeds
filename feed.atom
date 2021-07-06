@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-05T00:10:19.722Z</id>
+    <id>urn:2021-07-06T00:10:54.997Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-05T00:10:19.722Z</updated>
+    <updated>2021-07-06T00:10:54.997Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wyoming fact of the day]]></title>
+        <id>https://marginalrevolution.com/?p=81447</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/wyoming-fact-of-the-day.html"/>
+        <updated>2021-07-05T23:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Wyoming—the first US state to grant a charter to a crypto bank—has approved legal status for a decentralized autonomous organization (DAO), the American CryptoFed DAO, according to an announcement on Sunday. The organization, which has a mission to introduce a new monetary system, now becomes the first legally recognized DAO in the U.S. It comes […]
+The post Wyoming fact of the day appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which media have proven sticky as pandemic has diminished?]]></title>
+        <id>https://marginalrevolution.com/?p=81444</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/which-media-have-proven-sticky-as-pandemic-has-diminished.html"/>
+        <updated>2021-07-05T21:53:29.000Z</updated>
+        <summary type="html"><![CDATA[The single biggest new media habit to be formed during the pandemic appears to be gaming. The extra hour per week that people spent gaming last year represented the largest percentage increase of any media category. And unlike other lockdown hobbies, it is showing no sign of falling away as life gets back to normal. […]
+The post Which media have proven sticky as pandemic has diminished? appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curious Task podcast, food in Canada and revisiting *An Economist Gets Lunch*]]></title>
+        <id>https://marginalrevolution.com/?p=81423</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/curious-task-podcast-food-in-canada-and-revisiting-an-economist-gets-lunch.html"/>
+        <updated>2021-07-05T18:22:35.000Z</updated>
+        <summary type="html"><![CDATA[About one hour long, from one of Canada’s classical liberal groups, Institute for Liberal Studies, here are some links: Podbean: Click here Apple Podcasts: Click Here Spotify: Click Here
+The post Curious Task podcast, food in Canada and revisiting *An Economist Gets Lunch* appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81437</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/monday-assorted-links-312.html"/>
+        <updated>2021-07-05T16:08:21.000Z</updated>
+        <summary type="html"><![CDATA[1. The license plate culture that is Maine. 2. Some speculations about rising crime rates. 3. Three-minute TikTok?  Why isn’t this bigger news? 4. A slightly different diagnosis of “the epistemic crisis.” 5. “Manufacturers can’t produce leading-edge chips without the system, and “it is only made by the Dutch firm ASML,”” (NYT) 6. “Beware the […]
+The post Monday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new study of crypto ownership]]></title>
+        <id>https://marginalrevolution.com/?p=81438</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/a-new-study-of-crypto-ownership.html"/>
+        <updated>2021-07-05T05:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Employing representative data from the U.S. Survey of Consumer Payment Choice, we disprove the hypothesis that cryptocurrency investors are motivated by distrust in fiat currencies or regulated finance. Compared with the general population, investors show no differences in their level of security concerns with either cash or commercial banking services. We find that cryptocurrency investors […]
+The post A new study of crypto ownership appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facts and uncertainties about ear wax]]></title>
+        <id>https://marginalrevolution.com/?p=81384</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/facts-and-uncertainties-about-ear-wax.html"/>
+        <updated>2021-07-05T04:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Our attitude to ear wax is in some ways surprising. A review of impacted ear wax estimates that 2.3 million people a year in the United Kingdom suffer problems with wax needing treatment, with some 4 million ears being syringed annually.2 This makes it possibly the the most common therapeutic procedure carried out on any part of the […]
+The post Facts and uncertainties about ear wax appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunday assorted links]]></title>
         <id>https://marginalrevolution.com/?p=81435</id>
@@ -100,72 +166,6 @@ The post Let’s all have a revisionist Fourth of July appeared first on Margina
         <updated>2021-07-03T00:38:28.000Z</updated>
         <summary type="html"><![CDATA[Here is one sample question: Which of the following states seceded during the Civil War? The choices are Kentucky, Maryland, Delaware, Florida. Or try this one: What evidence is required for a citizen to be convicted of treason? The options are: — It varies by state — Nothing beyond what is needed to convict an […]
 The post U.S. Citizenship exam from 1944 appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81419</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/friday-assorted-links-317.html"/>
-        <updated>2021-07-02T16:10:51.000Z</updated>
-        <summary type="html"><![CDATA[1. “Given these results, we show that it may be optimal to visit restaurants in a zigzag that alternates between high- and low-quality choices.”  I am not endorsing that one! 2. Jordan Schneider podcast has Larry Summers on China. 3. Is your “aha!” moment actually the announcement of a meta-cognition prediction error? 4. Long Twitter […]
-The post Friday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banning Payday Loans Harms Borrowers]]></title>
-        <id>https://marginalrevolution.com/?p=81210</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/banning-payday-loans-harms-borrowers.html"/>
-        <updated>2021-07-02T11:28:06.000Z</updated>
-        <summary type="html"><![CDATA[A new NBER paper by Allcott, Kim, Taubinsky and Zinman takes a close look at the behavioral economics of payday loans and finds that most common regulations make borrowers worse off. Critics argue that payday loans are predatory, trapping consumers in cycles of repeated high interest borrowing. A typical payday loan incurs $15 interest per […]
-The post Banning Payday Loans Harms Borrowers appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haiti fact of the day]]></title>
-        <id>https://marginalrevolution.com/?p=81411</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/haiti-fact-of-the-day-6.html"/>
-        <updated>2021-07-02T07:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Democratic governance is eroding in Haiti, but through an unusual mechanism — an ongoing diminution [The Economist] in the number of federally elected officials: Today there are only 11 nationally-elected officials, including him [Jovenel Moïse]. A parliamentary election had been scheduled for October 2019, but it was never held.  The current president refers to himself […]
-The post Haiti fact of the day appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Market fragmentation can boost liquidity]]></title>
-        <id>https://marginalrevolution.com/?p=81412</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/market-fragmentation-can-boost-liquidity.html"/>
-        <updated>2021-07-02T05:27:43.000Z</updated>
-        <summary type="html"><![CDATA[We model a simple market setting in which fragmentation of trade of the same asset across multiple exchanges improves allocative efficiency. Fragmentation reduces the inhibiting effect of price-impact avoidance on order submission. Although fragmentation reduces market depth on each exchange, it also isolates cross-exchange price impacts, leading to more aggressive overall order submission and better […]
-The post Market fragmentation can boost liquidity appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*Syndromes and a Century* (with spoilers, but the movie is not about suspense)]]></title>
-        <id>https://marginalrevolution.com/?p=81409</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/syndromes-and-a-century-with-spoilers-but-the-movie-is-not-about-suspense.html"/>
-        <updated>2021-07-01T23:52:32.000Z</updated>
-        <summary type="html"><![CDATA[By Thai director Apichatpong Weerasethakul, this film pushes the idea that modernity is the truly strange phenomenon, not ancient religion or what we like to call pre-modern times.  The pre-modern is represented by the two monks in their orange robes, and their direct, down-to-earth manner.  The supposedly modern is represented by various doctors in their […]
-The post *Syndromes and a Century* (with spoilers, but the movie is not about suspense) appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81415</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/thursday-assorted-links-313.html"/>
-        <updated>2021-07-01T18:01:13.000Z</updated>
-        <summary type="html"><![CDATA[1. Stablecoins, 1830-63. 2. New youngest chess grandmaster in history is 12 years old and lives in New Jersey.  Father is a software engineer, Indian background. 3. Today’s central bank digital currency status.  And Timothy Taylor on CBDC. 4. “This paper uses data from biological experiments to demonstrate that the trading behavior of mycorrhizal fungi […]
-The post Thursday assorted links appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-06T00:10:54.997Z</id>
+    <id>urn:2021-07-07T00:11:32.833Z</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-06T00:10:54.997Z</updated>
+    <updated>2021-07-07T00:11:32.833Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Very good sentences]]></title>
+        <id>https://marginalrevolution.com/?p=81448</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/very-good-sentences-42.html"/>
+        <updated>2021-07-06T23:38:21.000Z</updated>
+        <summary type="html"><![CDATA[“One highlight of the night, aside from the enormous spread of pies, was chatting with former Sen. Bill Nelson, now the head of NASA, and hearing him talk about the recent UFO report — he’s convinced life is out there somewhere” Here is the context, if you are curious, though you shouldn’t be.  Via the […]
+The post Very good sentences appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover spiders are eating snakes all over the world]]></title>
+        <id>https://marginalrevolution.com/?p=81407</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/scientists-discover-spiders-are-eating-snakes-all-over-the-world.html"/>
+        <updated>2021-07-06T18:49:27.000Z</updated>
+        <summary type="html"><![CDATA[“They can outfight snakes 10 to 30 times their size,” says the University of Basel in Switzerland. According to a new meta-analysis study, perhaps snakes should be fearful of spiders. It seems arachnids like to chow down on the reptiles, all over the world. The study, published in The Journal of Arachnology, has the straightforward […]
+The post Scientists discover spiders are eating snakes all over the world appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuesday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81445</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/tuesday-assorted-links-322.html"/>
+        <updated>2021-07-06T16:28:49.000Z</updated>
+        <summary type="html"><![CDATA[1. Taiwan and TSMC dependence. 2. Claims about necks. 3. Replicable mask results. 4. Rigged for thee but not for me? 5. Can individual investors beat the market? 6. “With low level of infections, vaccines may (depending on testing strategy, but especially with universal or random testing) appear ineffective simply because of randomness due to […]
+The post Tuesday assorted links appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Fractional Dosing to Speed Vaccination and Save Lives]]></title>
+        <id>https://marginalrevolution.com/?p=81451</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/fractional-dosing.html"/>
+        <updated>2021-07-06T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been shouting about fractional dosing since January, most recently with my post A Half Dose of Moderna is More Effective Than a Full Dose of AstraZeneca and the associated paper with Michael Kremer and co-authors. Yesterday we saw some big movement. Writing in Nature Medicine, WHO epidemiologists Benjamin Cowling and Wey Wen Lim and […]
+The post Use Fractional Dosing to Speed Vaccination and Save Lives appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Public Choice Outreach Conference!]]></title>
+        <id>https://marginalrevolution.com/?p=81443</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/the-public-choice-outreach-conference-3.html"/>
+        <updated>2021-07-06T11:25:24.000Z</updated>
+        <summary type="html"><![CDATA[The Public Choice Outreach Conference, a compact lecture series designed as a “crash course” in Public Choice for students planning careers in academia, journalism, law, or public policy, will be online this year–a week of noon to 1:15 (EST) Zooms, August 2-7. Monday, August 2 An Introduction to Public Choice—Alex Tabarrok Tuesday, August 3 Arrow’s […]
+The post The Public Choice Outreach Conference! appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abolishing tenure is the least of my proposals]]></title>
+        <id>https://marginalrevolution.com/?p=81449</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/abolishing-tenure-is-the-least-of-my-proposals.html"/>
+        <updated>2021-07-06T04:55:27.000Z</updated>
+        <summary type="html"><![CDATA[In my latest Bloomberg column I attempt to design an ideal university from scratch.  The point is not that all schools should be this way, rather this is the experiment I would like to see at the margin: I would start with what I expect students to know. They should be able to write very […]
+The post Abolishing tenure is the least of my proposals appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wyoming fact of the day]]></title>
         <id>https://marginalrevolution.com/?p=81447</id>
@@ -100,72 +166,6 @@ The post Nematodes Maximize Expected Utility appeared first on Marginal REVOLUTI
         <updated>2021-07-04T06:49:57.000Z</updated>
         <summary type="html"><![CDATA[Not what I would have expected: 1. Seoul 2. Paris 3. Boston 4. NYC 5. Baltimore 6. San Francisco 7. Tokyo 8. London 9. Chicago 10. Philadelphia 11. Bangkok 12. Washington, D.C. 13. Milwaukee 14. Singapore 15. Seattle 16. Los Angeles The difference here between Seoul and Los Angeles is almost 4x.  Mostly I am […]
 The post Some major cities ranked by surveillance cameras per km appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*The Volga: A History of Russia’s Greatest River*]]></title>
-        <id>https://marginalrevolution.com/?p=81387</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/the-volga-a-history-of-russias-greatest-river.html"/>
-        <updated>2021-07-04T04:49:25.000Z</updated>
-        <summary type="html"><![CDATA[The author is Janet M. Hartley from LSE, here is one excerpt: …the religious composition on the Volga is complex.  Finno-Ugric settlers originally followed shamanistic beliefs, although many converted, at least nominally, to Orthodoxy after they became subjects of the Russian Empire.  The ruler and the elite in Khazaria probably converted to Judaism sometime in […]
-The post *The Volga: A History of Russia’s Greatest River* appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Living under guardianship is worse than you think]]></title>
-        <id>https://marginalrevolution.com/?p=81430</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/living-under-guardianship-is-worse-than-you-think.html"/>
-        <updated>2021-07-03T18:11:34.000Z</updated>
-        <summary type="html"><![CDATA[According to Jonathan Martinis, the senior director for law and policy at a center for disability rights at Syracuse University, one of the most dangerous aspects of guardianships is the way that they prevent people from getting their own legal counsel. “The rights at stake in guardianship are analogous to the rights at stake in […]
-The post Living under guardianship is worse than you think appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=81428</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/saturday-assorted-links-316.html"/>
-        <updated>2021-07-03T16:24:24.000Z</updated>
-        <summary type="html"><![CDATA[1. Memos related to the hiring of the “radical” economists at U. Mass Amherst, way back when.  And Bobby Fischer video on what went wrong with chess. 2. The history of Earl Slick, sideman guitarist. 3. A Richmond series on how the guardianship process leaves vulnerable people unprotected. 4. What the commies think. 5. “This […]
-The post Saturday assorted links appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bullshit Ability as an Honest Signal of Intelligence]]></title>
-        <id>https://marginalrevolution.com/?p=81429</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/bullshit-ability-as-an-honest-signal-of-intelligence.html"/>
-        <updated>2021-07-03T11:29:58.000Z</updated>
-        <summary type="html"><![CDATA[By Martin Harry Turpin, et.al.: Navigating social systems efficiently is critical to our species. Humans appear endowed with a cognitive system that has formed to meet the unique challenges that emerge for highly social species. Bullshitting, communication characterised by an intent to be convincing or impressive without concern for truth, is ubiquitous within human societies. […]
-The post Bullshit Ability as an Honest Signal of Intelligence appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s all have a revisionist Fourth of July]]></title>
-        <id>https://marginalrevolution.com/?p=81425</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/lets-all-have-a-revisionist-fourth-of-july.html"/>
-        <updated>2021-07-03T04:11:12.000Z</updated>
-        <summary type="html"><![CDATA[That is the theme of my latest Bloomberg column, here is one excerpt: Revisionist history serves many useful purposes, and for the most part it should be encouraged — even though many particular revisionist claims turn out to be wrong. The natural human state of affairs is a kind of complacency and acceptance of the […]
-The post Let’s all have a revisionist Fourth of July appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Citizenship exam from 1944]]></title>
-        <id>https://marginalrevolution.com/?p=81427</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/u-s-citizenship-exam-from-1944.html"/>
-        <updated>2021-07-03T00:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Here is one sample question: Which of the following states seceded during the Civil War? The choices are Kentucky, Maryland, Delaware, Florida. Or try this one: What evidence is required for a citizen to be convicted of treason? The options are: — It varies by state — Nothing beyond what is needed to convict an […]
-The post U.S. Citizenship exam from 1944 appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Tyler Cowen</name>
         </author>

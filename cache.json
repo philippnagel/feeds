@@ -7947,6 +7947,205 @@
       "feedUrl": "https://www.gomagazin.ch/feed/",
       "siteUrl": "https://www.gomagazin.ch",
       "articles": []
+    },
+    {
+      "title": "ChocoBlog",
+      "feedUrl": "https://docofchoc.wordpress.com/feed/",
+      "siteUrl": "https://docofchoc.wordpress.com",
+      "articles": []
+    },
+    {
+      "title": "Uwe Spiekermann",
+      "feedUrl": "https://uwe-spiekermann.com/feed/",
+      "siteUrl": "https://uwe-spiekermann.com",
+      "articles": [
+        {
+          "id": "http://uwe-spiekermann.com/?p=19015",
+          "author": "Uwe Spiekermann",
+          "description": "Wieder einmal herrscht Aufbruchsstimmung… Fleischersatzprodukte sind auf dem Vormarsch, Vorreiter einer umweltverträglichen und klimasensiblen Ernährungsweise aufgeklärter Menschen. Besser noch: Fleisch essen ist weiter möglich, da „Fleisch“ eben kein Fleisch mehr ist, doch „Fleisch“ nach Fleisch schmeckt. Wahrlich, auch ich habe … Weiterlesen →",
+          "link": "https://uwe-spiekermann.com/2021/06/19/ein-fleischersatz-der-besonderen-art-ochsena/",
+          "publishedOn": "2021-06-19T08:00:00.000Z",
+          "wordCount": 7760,
+          "title": "Ein Fleischersatz der besonderen Art: Ochsena"
+        }
+      ]
+    },
+    {
+      "title": "RSU-Kräfte der Bundeswehr",
+      "feedUrl": "https://rsu-kraefte.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://rsu-kraefte.blogspot.com/",
+      "articles": [
+        {
+          "id": "https://rsu-kraefte.blogspot.com/2021/06/die-geister-die-er-rief-fotsetzung-3.html",
+          "author": null,
+          "description": "(Ausschnitt Titelseite '.loyal' - Ausgabe 06.2021)\n\n\n\nViel zu berichten in der Sache (letzter Beitrag hierzu vom 16. Mai) gibt es nicht - aber der Vollständigkeit halber und insbesondere für's Archiv:\nIch hatte also vor einem Monat sowohl den VdRBw-Präsidenten Prof. Dr. Sensburg persönlich per Email sowie Einschreiben/Rückschein über die Bundesgeschäftsstelle angeschrieben. Ohne Reaktion. Noch nicht einmal eine Eingangsbestätigung oder eine wie auch immer geartete Absage -und sei es nur der guten Form halber- war meine Anfrage dem Reservistenverband, respektive dessen Chef, wert.\nAuch der Chefredakteur des Verbandsmagazins 'loyal' wollte sich wohl nicht mit lästigen Nachfragen einzelner VdRBw-Mitglieder aufhalten - zumindest erhielt ich auch von dort keinerlei Reaktion. Nun gut, ich hatte …",
+          "link": "https://rsu-kraefte.blogspot.com/2021/06/die-geister-die-er-rief-fotsetzung-3.html",
+          "publishedOn": "2021-06-19T07:45:00.007Z",
+          "wordCount": 1365,
+          "title": "Die Geister. die er rief .... (Fotsetzung #3)"
+        }
+      ]
+    },
+    {
+      "title": "taz.de - Aus taz FUTURZWEI",
+      "feedUrl": "https://taz.de/FUTURZWEI/Aus-taz-FUTURZWEI/!p5107;rss/",
+      "siteUrl": "https://taz.de/FUTURZWEI/Aus-taz-FUTURZWEI/!p5107/",
+      "articles": []
+    },
+    {
+      "title": "Woodside Apiary",
+      "feedUrl": "https://woodsideapiary.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://woodsideapiary.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": null,
+      "feedUrl": "https://breakingthemarket.com/feed/",
+      "siteUrl": "https://breakingthemarket.com",
+      "articles": [
+        {
+          "id": "https://breakingthemarket.com/?p=12117",
+          "author": "btm",
+          "description": "The decision last week to go heavy stocks and no bonds looked pretty good for half the week. Stocks were down, but they were down less than everything else. Then the Fed started talking. I honestly didn’t pay much attention to what they said, but its clear the market did as everything switched soon after.…\nThe post Portfolio on 6.18.21 appeared first on .",
+          "link": "https://breakingthemarket.com/portfolio-on-6-18-21/?utm_source=rss&utm_medium=rss&utm_campaign=portfolio-on-6-18-21",
+          "publishedOn": "2021-06-18T20:49:56.000Z",
+          "wordCount": 444,
+          "title": "Portfolio on 6.18.21"
+        },
+        {
+          "id": "https://breakingthemarket.com/?p=7194",
+          "author": "btm",
+          "description": "With the US Open returning to the site of one of Tiger Woods’ greatest triumphs, it’s time to re-evaluate investing and portfolio construction from the perspective of Tiger Woods’ golf strategy. This time though instead of looking at the peak and maximizing return, we are going to explore errors and the affect they have on…\nThe post To Stay Sharpe Miss Right appeared first on .",
+          "link": "https://breakingthemarket.com/to-stay-sharpe-miss-right/?utm_source=rss&utm_medium=rss&utm_campaign=to-stay-sharpe-miss-right",
+          "publishedOn": "2021-06-17T15:38:22.000Z",
+          "wordCount": 2513,
+          "title": "To Stay Sharpe Miss Right"
+        },
+        {
+          "id": "https://breakingthemarket.com/?p=12024",
+          "author": "btm",
+          "description": "I should have put this out a few days ago, but better late than never. The portfolio has moved pretty aggressively over the last few weeks away from bonds, and it’s worth discussing. Correlations between bonds and stocks are quite high right now. As we know, treasury bonds aren’t paying out much with the 30…\nThe post Portfolio on 6.10.21 appeared first on .",
+          "link": "https://breakingthemarket.com/portfolio-on-6-10-21/?utm_source=rss&utm_medium=rss&utm_campaign=portfolio-on-6-10-21",
+          "publishedOn": "2021-06-14T01:44:54.000Z",
+          "wordCount": 832,
+          "title": "Portfolio on 6.10.21"
+        }
+      ]
+    },
+    {
+      "title": "Rest of World -",
+      "feedUrl": "https://restofworld.org/feed/latest",
+      "siteUrl": "https://restofworld.org",
+      "articles": [
+        {
+          "id": "https://restofworld.org/2021/3-minutes-with-moulaye-taboure-%f0%9f%87%b2%f0%9f%87%b1/",
+          "author": null,
+          "description": "Co-founder, Afrikrea.com",
+          "link": "https://restofworld.org/2021/3-minutes-with-moulaye-taboure-%f0%9f%87%b2%f0%9f%87%b1/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-07-07T17:00:00.000Z",
+          "wordCount": 576,
+          "title": "3 minutes with Moulaye Tabouré 🇲🇱"
+        },
+        {
+          "id": "https://restofworld.org/2021/chile-neuro-rights/",
+          "author": "Abel Wajnerman Paz",
+          "description": "Chile's new \"mental privacy\" laws would lead the way in protecting neuro-rights.",
+          "link": "https://restofworld.org/2021/chile-neuro-rights/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-07-07T14:48:11.000Z",
+          "wordCount": 1354,
+          "title": "We need to regulate mind-reading tech before it exists"
+        },
+        {
+          "id": "https://restofworld.org/2021/tech-contractors-are-organizing-and-facing-violent-threats-in-the-philippines/",
+          "author": "Vittoria Elliott",
+          "description": "“It’s like a death sentence.”",
+          "link": "https://restofworld.org/2021/tech-contractors-are-organizing-and-facing-violent-threats-in-the-philippines/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-07-06T14:38:05.000Z",
+          "wordCount": 1886,
+          "title": "Tech contractors are organizing and facing violent threats in the Philippines"
+        },
+        {
+          "id": "https://restofworld.org/2021/k-pop-vs-the-coup/",
+          "author": "Nu Nu Lusan and Emily Fishbein",
+          "description": "A group of young Burmese are braving blackouts and crackdowns to make sure the world stays focused on what’s happening in their country.",
+          "link": "https://restofworld.org/2021/k-pop-vs-the-coup/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-07-05T10:00:00.000Z",
+          "wordCount": 2773,
+          "title": "From K-Pop stan to keyboard warrior: Meet the activists battling Myanmar’s military junta"
+        },
+        {
+          "id": "https://restofworld.org/2021/how-nigeria-can-solve-its-tech-talent-gap/",
+          "author": "Olayinka David-West and Ibukun Taiwo",
+          "description": "Nigeria is becoming a fintech powerhouse, but a lack of employees is holding startups back.",
+          "link": "https://restofworld.org/2021/how-nigeria-can-solve-its-tech-talent-gap/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-07-01T10:00:00.000Z",
+          "wordCount": 1178,
+          "title": "How Nigeria can solve its tech talent gap"
+        },
+        {
+          "id": "https://restofworld.org/2021/3-minutes-with-kaisei-hamamoto/",
+          "author": "Andrew Deck",
+          "description": "Co-founder/COO SmartNews 🇯🇵",
+          "link": "https://restofworld.org/2021/3-minutes-with-kaisei-hamamoto/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-06-30T17:00:00.000Z",
+          "wordCount": 456,
+          "title": "3 minutes with Kaisei Hamamoto"
+        },
+        {
+          "id": "https://restofworld.org/2021/rest-of-world-2021-reading-guide/",
+          "author": "Rest of World Staff",
+          "description": "🇵🇰 A Woman Like Her: The Story Behind the Honor Killing of a Social Media Star By Sanam Maher Sanam Maher’s vivid, fast-paced book details the rise of Pakistan’s first...",
+          "link": "https://restofworld.org/2021/rest-of-world-2021-reading-guide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 2345,
+          "title": "Books from everywhere: Rest of World’s 2021 reading guide"
+        },
+        {
+          "id": "https://restofworld.org/2021/hi-im-disaster-bot/",
+          "author": "Antonia Timmerman",
+          "description": "An Indonesian mapping platform is turning social media chatter into life-saving information during natural disasters.",
+          "link": "https://restofworld.org/2021/hi-im-disaster-bot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-06-29T10:00:00.000Z",
+          "wordCount": 3215,
+          "title": "Hi, I’m Disaster Bot"
+        },
+        {
+          "id": "https://restofworld.org/2021/why-the-chinese-government-turned-on-jack-mas-harvard-for-china/",
+          "author": "Yi-Ling Liu",
+          "description": "Ma created Hupan University to cultivate Chinese entrepreneurs. Then the government suspended future enrollment.",
+          "link": "https://restofworld.org/2021/why-the-chinese-government-turned-on-jack-mas-harvard-for-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-06-28T10:00:00.000Z",
+          "wordCount": 1788,
+          "title": "Why the Chinese government turned on Jack Ma’s ‘Harvard for China’"
+        },
+        {
+          "id": "https://restofworld.org/2021/learning-on-the-last-mile/",
+          "author": "Ray Mwareya and Audrey Simango",
+          "description": "Maxwell Chimedza says he doesn't know how to use a computer, but his 32GB cellphone was all he needed to coach students in Zimbabwe.",
+          "link": "https://restofworld.org/2021/learning-on-the-last-mile/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-06-25T07:00:00.000Z",
+          "wordCount": 1088,
+          "title": "How an “unqualified” 27-year-old Zimbabwean teacher created a top tutoring academy on WhatsApp"
+        },
+        {
+          "id": "https://restofworld.org/2021/google-covid-costa-rica/",
+          "author": "Leo Schwartz",
+          "description": "The move sparked fears and fueled conspiracy theories.",
+          "link": "https://restofworld.org/2021/google-covid-costa-rica/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-06-24T17:27:41.000Z",
+          "wordCount": 1070,
+          "title": "Google automatically installed a Covid-19 tracker on phones in Costa Rica"
+        },
+        {
+          "id": "https://restofworld.org/2021/the-chinese-content-farms-behind-factory-tiktok/",
+          "author": "Andrew Deck",
+          "description": "How workers manufacturing products like aloe jelly and gardening gloves also became the influencers selling them.",
+          "link": "https://restofworld.org/2021/the-chinese-content-farms-behind-factory-tiktok/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "publishedOn": "2021-06-24T12:00:00.000Z",
+          "wordCount": 1949,
+          "title": "The Chinese content farms behind Factory TikTok"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

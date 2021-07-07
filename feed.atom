@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-07T00:11:32.833Z</id>
+    <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T00:11:32.833Z</updated>
+    <updated>2021-07-07T05:08:54.000Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
+    <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In which ways are Democratic economists Democrats? (or not)]]></title>
+        <id>https://marginalrevolution.com/?p=81454</id>
+        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/in-which-ways-are-democratic-economists-democrats-or-not.html"/>
+        <updated>2021-07-07T05:02:36.000Z</updated>
+        <summary type="html"><![CDATA[In a series of tweets (try this one), Matt Yglesias has been arguing that academic economists are far more Democratic than the U.S. population as a whole, though less left-wing than most other academics.  I agree with his claims, which are backed by plenty of data, but I wish to add some further thoughts. Very […]
+The post In which ways are Democratic economists Democrats? (or not) appeared first on Marginal REVOLUTION.]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Very good sentences]]></title>
         <id>https://marginalrevolution.com/?p=81448</id>
@@ -157,17 +169,6 @@ The post Sunday assorted links appeared first on Marginal REVOLUTION.]]></summar
 The post Nematodes Maximize Expected Utility appeared first on Marginal REVOLUTION.]]></summary>
         <author>
             <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some major cities ranked by surveillance cameras per km]]></title>
-        <id>https://marginalrevolution.com/?p=81396</id>
-        <link href="http://marginalrevolution.com/marginalrevolution/2021/07/some-major-cities-ranked-by-surveillance-cameras-per-km.html"/>
-        <updated>2021-07-04T06:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Not what I would have expected: 1. Seoul 2. Paris 3. Boston 4. NYC 5. Baltimore 6. San Francisco 7. Tokyo 8. London 9. Chicago 10. Philadelphia 11. Bangkok 12. Washington, D.C. 13. Milwaukee 14. Singapore 15. Seattle 16. Los Angeles The difference here between Seoul and Los Angeles is almost 4x.  Mostly I am […]
-The post Some major cities ranked by surveillance cameras per km appeared first on Marginal REVOLUTION.]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
         </author>
     </entry>
     <entry>

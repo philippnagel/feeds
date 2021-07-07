@@ -1519,6 +1519,22 @@
       "feedUrl": "https://feeds.theoutline.com/globaldispatch",
       "siteUrl": "https://theoutline.com",
       "articles": []
+    },
+    {
+      "title": "Gwynne Dyer",
+      "feedUrl": "http://gwynnedyer.com/feed/",
+      "siteUrl": "https://gwynnedyer.com",
+      "articles": [
+        {
+          "id": "https://gwynnedyer.com/?p=4971",
+          "author": "Gwynne Dyer",
+          "description": "8 June 2021 The Silly Season has come early this year. Normally it happens in August, when wicked people all over the northern hemisphere temporarily stop doing evil things to take their children to the beach and enjoy the last of the summer. With no bad news to report, desperate journalists will run any story, …\n  UFOs: The Silly Season Comes Early Read More »\nThe post UFOs: The Silly Season Comes Early first appeared on Gwynne Dyer.",
+          "link": "https://gwynnedyer.com/2021/ufos-the-silly-season-comes-early/?utm_source=rss&utm_medium=rss&utm_campaign=ufos-the-silly-season-comes-early",
+          "publishedOn": "2021-06-08T19:37:48.000Z",
+          "wordCount": 1811,
+          "title": "UFOs: The Silly Season Comes Early"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

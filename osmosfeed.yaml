@@ -29,4 +29,5 @@ sources:
   - href: http://gwynnedyer.com/feed/
   - href: https://whatever.scalzi.com/feed/
   - href: https://davidgerard.co.uk/blockchain/feed/
-  - href: https://gonium.net/atom.xml
+ # - href: https://gonium.net/atom.xml
+  - href: https://www.monde-diplomatique.fr/rss/

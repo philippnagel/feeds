@@ -3,7 +3,4 @@ cacheUrl: https://philippnagel.com/feeds/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://feeds.feedblitz.com/marginalrevolution&x=1
-  - href: https://taz.de/
-  - href: http://historiadiscordia.com/feed/
-  - href: https://samczsun.com/rss/
- 
+

@@ -4144,6 +4144,991 @@
           "title": "Not all exploits are “grey in the dark”"
         }
       ]
+    },
+    {
+      "title": "Golem.de",
+      "feedUrl": "https://rss.golem.de/rss.php?feed=RSS2.0",
+      "siteUrl": "https://www.golem.de/",
+      "articles": [
+        {
+          "id": "https://www.golem.de/2107/157961-rss.html",
+          "author": null,
+          "description": "Call-ID-Spoofing und verbotene Roboteranrufe f�r eine Querdenker-Demo in Stuttgart: Die Bundesnetzagentur gibt auf. (Bundesnetzagentur, Internet)",
+          "link": "https://www.golem.de/news/call-id-spoofing-bundesnetzagentur-kann-querdenker-nicht-rueckverfolgen-2107-157961-rss.html",
+          "publishedOn": "2021-07-07T17:02:00.000Z",
+          "wordCount": 352,
+          "title": "Call-ID-Spoofing: Bundesnetzagentur kann Querdenker nicht r�ckverfolgen"
+        },
+        {
+          "id": "https://www.golem.de/2107/157960-rss.html",
+          "author": null,
+          "description": "Mit Elektroautos wird wegen der Reichweite in Zukunft langsamer gefahren. (Verkehr, Elektroauto)",
+          "link": "https://www.golem.de/news/autobahn-vw-chef-diess-ist-gegen-ein-tempolimit-auf-der-autobahn-2107-157960-rss.html",
+          "publishedOn": "2021-07-07T15:45:00.000Z",
+          "wordCount": 352,
+          "title": "Autobahn: VW-Chef Diess ist gegen ein Tempolimit auf der Autobahn"
+        },
+        {
+          "id": "https://www.golem.de/2107/157959-rss.html",
+          "author": null,
+          "description": "Word, Excel, Powerpoint, Outlook: Microsoft 365 sieht bald aus wie Windows 11. Das Design-Update kann bereits ausprobiert werden. (Microsoft 365, Microsoft)",
+          "link": "https://www.golem.de/news/microsoft-365-neues-office-design-im-stil-von-windows-11-kommt-2107-157959-rss.html",
+          "publishedOn": "2021-07-07T15:31:00.000Z",
+          "wordCount": 352,
+          "title": "Microsoft 365: Neues Office-Design im Stil von Windows 11 kommt"
+        },
+        {
+          "id": "https://www.golem.de/2107/157957-rss.html",
+          "author": null,
+          "description": "Im angeblichen Kampf gegen Zensur und f�r Meinungsfreiheit reicht Donald Trump eine Klage gegen Mark Zuckerberg und Jack Dorsey ein. (Donald Trump, Soziales Netz)",
+          "link": "https://www.golem.de/news/social-media-trump-verklagt-facebook-und-twitter-2107-157957-rss.html",
+          "publishedOn": "2021-07-07T15:15:00.000Z",
+          "wordCount": 352,
+          "title": "Social Media: Trump verklagt Facebook und Twitter"
+        },
+        {
+          "id": "https://www.golem.de/2107/157952-rss.html",
+          "author": null,
+          "description": "Was am 7. Juli 2021 neben den gro�en Meldungen sonst noch passiert ist, in aller K�rze. (Kurznews, Intel)",
+          "link": "https://www.golem.de/news/audacity-free-now-playstation-the-last-of-us-bekommt-eigene-tv-serie-2107-157952-rss.html",
+          "publishedOn": "2021-07-07T15:00:00.000Z",
+          "wordCount": 352,
+          "title": "Audacity, Free Now, Playstation: The Last of Us bekommt eigene TV-Serie"
+        },
+        {
+          "id": "https://www.golem.de/2107/157954-rss.html",
+          "author": null,
+          "description": "Spielen auf Reisen: Der selbstgebaute Koffer-PC verwendet handels�bliche Komponenten und integriert den Bildschirm direkt im Seitenteil. (DIY - Do it yourself, Computer)",
+          "link": "https://www.golem.de/news/desktop-auf-reisen-bastler-baut-koffer-pc-mit-integriertem-bildschirm-und-griff-2107-157954-rss.html",
+          "publishedOn": "2021-07-07T13:47:00.000Z",
+          "wordCount": 352,
+          "title": "Desktop auf Reisen: Bastler baut Koffer-PC mit integriertem Bildschirm und Griff"
+        },
+        {
+          "id": "https://www.golem.de/2107/157953-rss.html",
+          "author": null,
+          "description": "An einzelnen Vodafone- und Telekom-Standorten ist seit der 3G-Abschaltung nur noch das GSM-Netz und EDGE verf�gbar. (UMTS, Telekom)",
+          "link": "https://www.golem.de/news/telekom-einzelne-standorte-haben-nach-3g-abschaltung-nur-2g-2107-157953-rss.html",
+          "publishedOn": "2021-07-07T13:30:00.000Z",
+          "wordCount": 352,
+          "title": "Telekom: Einzelne Standorte haben nach 3G-Abschaltung nur 2G"
+        },
+        {
+          "id": "https://www.golem.de/2107/157950-rss.html",
+          "author": null,
+          "description": "Damit Schadensersatzanspr�che wegen manipulierter Fahrzeug-Software nicht verj�hren, klagt der VZBV gegen Daimler. (VZBV, Technologie)",
+          "link": "https://www.golem.de/news/wegen-abschalteinrichtung-verbraucherschutzverband-klagt-gegen-daimler-2107-157950-rss.html",
+          "publishedOn": "2021-07-07T13:15:00.000Z",
+          "wordCount": 352,
+          "title": "Wegen Abschalteinrichtung: Verbraucherschutzverband klagt gegen Daimler"
+        },
+        {
+          "id": "https://www.golem.de/2107/157945-rss.html",
+          "author": null,
+          "description": "Ob wir Neukunden sind oder bereits eine Nintendo Switch besitzen: Lohnt der Kauf des neuen OLED-Modells? Golem.de gibt einen �berblick. Eine Analyse von Oliver Nickel (Nintendo Switch, OLED)",
+          "link": "https://www.golem.de/news/mario-zelda-und-co-fuer-wen-sich-die-nintendo-switch-oled-lohnen-koennte-2107-157945-rss.html",
+          "publishedOn": "2021-07-07T13:00:00.000Z",
+          "wordCount": 352,
+          "title": "Mario, Zelda und Co.: F�r wen sich die Nintendo Switch OLED lohnen k�nnte"
+        },
+        {
+          "id": "https://www.golem.de/2107/157949-rss.html",
+          "author": null,
+          "description": "Kein h�sslich-praktisches Dach, sondern ein Ausflug in die Welt von Tron: Der Elektroroller CE 04 von BMW erscheint 2022. (Elektroroller, GreenIT)",
+          "link": "https://www.golem.de/news/elektroroller-bmw-rollt-mit-dem-futuristischen-ce-04-an-2107-157949-rss.html",
+          "publishedOn": "2021-07-07T12:48:00.000Z",
+          "wordCount": 352,
+          "title": "Elektroroller: BMW rollt mit dem futuristischen CE 04 an"
+        },
+        {
+          "id": "https://www.golem.de/2107/157951-rss.html",
+          "author": null,
+          "description": "Verbundene Onlinewelten, die sich immer wieder �ndern: Ubisoft arbeitet an Assassin's Creed Infinity. Konkurrenz zu GTA Online und Fortnite? (Assassin's Creed, Rollenspiel)",
+          "link": "https://www.golem.de/news/infinity-ubisoft-entwickelt-ewiges-assassin-s-creed-2107-157951-rss.html",
+          "publishedOn": "2021-07-07T12:30:00.000Z",
+          "wordCount": 352,
+          "title": "Infinity: Ubisoft entwickelt ewiges Assassin's Creed"
+        },
+        {
+          "id": "https://www.golem.de/2107/157948-rss.html",
+          "author": null,
+          "description": "Statt der eigenen Windows Server Container empfiehlt Microsoft nun die Nutzung von Linux f�r eines seiner wichtigsten Produkte: den SQL Server. (Microsoft, Server)",
+          "link": "https://www.golem.de/news/linux-empfohlen-microsoft-stellt-sql-server-fuer-windows-container-ein-2107-157948-rss.html",
+          "publishedOn": "2021-07-07T12:13:00.000Z",
+          "wordCount": 352,
+          "title": "Linux empfohlen: Microsoft stellt SQL Server f�r Windows Container ein"
+        },
+        {
+          "id": "https://www.golem.de/2107/157946-rss.html",
+          "author": null,
+          "description": "Urspr�nglich f�r dieses Jahr geplant, soll die Serienfertigung erst 2023 starten. Auch �berspringt Samsung Foundry die erste Version. (Halbleiterfertigung, Samsung)",
+          "link": "https://www.golem.de/news/gate-all-around-gaa-samsungs-nanowire-transistoren-verspaeten-sich-2107-157946-rss.html",
+          "publishedOn": "2021-07-07T11:58:00.000Z",
+          "wordCount": 352,
+          "title": "Gate All Around (GAA): Samsungs Nanowire-Transistoren versp�ten sich"
+        },
+        {
+          "id": "https://www.golem.de/2107/157944-rss.html",
+          "author": null,
+          "description": "Das EU-Parlament hat einer umstrittenen Regelung zur Nachrichtenkontrolle zugestimmt. Online-Plattformen d�rfen nun wieder Chat-Inhalte scannen. (Europaparlament, Google)",
+          "link": "https://www.golem.de/news/darstellungen-von-kindesmissbrauch-eu-parlament-stimmt-nachrichten-scans-zu-2107-157944-rss.html",
+          "publishedOn": "2021-07-07T11:43:00.000Z",
+          "wordCount": 352,
+          "title": "Darstellungen von Kindesmissbrauch: EU-Parlament stimmt Nachrichten-Scans zu"
+        },
+        {
+          "id": "https://www.golem.de/2107/157943-rss.html",
+          "author": null,
+          "description": "In China wird Gaming immer st�rker reguliert. Nun sperrt Tencent seine minderj�hrige Kundschaft nachts per Gesichtserkennung. (Mobile Games, Jugendschutz)",
+          "link": "https://www.golem.de/news/jugendschutz-tencent-sperrt-minderjaehrige-spieler-per-gesichtserkennung-2107-157943-rss.html",
+          "publishedOn": "2021-07-07T11:28:00.000Z",
+          "wordCount": 352,
+          "title": "Jugendschutz: Tencent sperrt minderj�hrige Spieler per Gesichtserkennung"
+        },
+        {
+          "id": "https://www.golem.de/2107/157942-rss.html",
+          "author": null,
+          "description": "Gerade mal ein Jahr war Lakefield am Markt, da schickt Intel seine erste Hybrid-CPU bereits in Rente. Die Nachfrage war einfach zu gering. (Prozessor, Intel)",
+          "link": "https://www.golem.de/news/lakefield-intels-erste-hybrid-cpu-ist-schon-end-of-life-2107-157942-rss.html",
+          "publishedOn": "2021-07-07T11:13:00.000Z",
+          "wordCount": 352,
+          "title": "Lakefield: Intels erste Hybrid-CPU ist schon End of Life"
+        },
+        {
+          "id": "https://www.golem.de/2107/157941-rss.html",
+          "author": null,
+          "description": "Das Ausliefern frischer Lebensmittel scheint sich zu lohnen. Der zum Oetker-Konzern geh�rende Online-Lieferdienst Flaschenpost steigt hier ein. (Lieferdienst, Wirtschaft)",
+          "link": "https://www.golem.de/news/getraenkedienst-flaschenpost-will-bundesweit-frische-lebensmittel-liefern-2107-157941-rss.html",
+          "publishedOn": "2021-07-07T10:59:00.000Z",
+          "wordCount": 352,
+          "title": "Getr�nkedienst: Flaschenpost will bundesweit frische Lebensmittel liefern"
+        },
+        {
+          "id": "https://www.golem.de/2107/157939-rss.html",
+          "author": null,
+          "description": "Die freie Engine ist eine Abk�mmling von AWS' Lumberyard. Verwaltet wird das neue O3DE-Projekt von der Linux Foundation. (AWS, DirectX)",
+          "link": "https://www.golem.de/news/o3de-amazon-macht-eigene-gaming-engine-open-source-2107-157939-rss.html",
+          "publishedOn": "2021-07-07T10:44:00.000Z",
+          "wordCount": 352,
+          "title": "O3DE: Amazon macht eigene Gaming-Engine Open Source"
+        },
+        {
+          "id": "https://www.golem.de/2107/157940-rss.html",
+          "author": null,
+          "description": "Die Diskussion um das Recht auf Reparatur in den USA wird konkret. Pr�sident Biden hat die FTC angewiesen, eine Regelung zu finden. (Elektronikschrott, GreenIT)",
+          "link": "https://www.golem.de/news/defekte-technik-us-praesident-kaempft-nun-fuer-das-recht-auf-reparatur-2107-157940-rss.html",
+          "publishedOn": "2021-07-07T10:30:00.000Z",
+          "wordCount": 352,
+          "title": "Defekte Technik: US-Pr�sident k�mpft nun f�r das Recht auf Reparatur"
+        },
+        {
+          "id": "https://www.golem.de/2107/157862-rss.html",
+          "author": null,
+          "description": "Staatstrojaner d�rfen immer h�ufiger eingesetzt werden. Wir erkl�ren, wie sie auf unsere Ger�te kommen und wie wir uns davor sch�tzen k�nnen. Von Moritz Tremmel (Trojaner, Datenschutz)",
+          "link": "https://www.golem.de/news/ueberwachung-was-hilft-gegen-den-staatstrojaner-2107-157862-rss.html",
+          "publishedOn": "2021-07-07T10:00:00.000Z",
+          "wordCount": 352,
+          "title": "�berwachung: Was hilft gegen den Staatstrojaner?"
+        },
+        {
+          "id": "https://www.golem.de/2107/157937-rss.html",
+          "author": null,
+          "description": "Wie gut ist der Akku des Elektroautos? Aiways will das beim Laden pr�fen. (Lades�ule, KI)",
+          "link": "https://www.golem.de/news/elektroauto-ladestation-prueft-den-zustand-des-akkus-2107-157937-rss.html",
+          "publishedOn": "2021-07-07T09:45:00.000Z",
+          "wordCount": 352,
+          "title": "Elektroauto: Ladestation pr�ft den Zustand des Akkus"
+        },
+        {
+          "id": "https://www.golem.de/2107/157935-rss.html",
+          "author": null,
+          "description": "Der nach dem Quokka benannte Supercomputer setzt auf Instinct-Karten, die mit sehr viel HBM-Stapelspeicher und Chiplet-Technik antreten. (Supercomputer, AMD)",
+          "link": "https://www.golem.de/news/setonix-kaenguru-supercomputer-nutzt-128-gbyte-amd-beschleuniger-2107-157935-rss.html",
+          "publishedOn": "2021-07-07T09:37:00.000Z",
+          "wordCount": 352,
+          "title": "Setonix: K�nguru-Supercomputer nutzt 128-GByte-AMD-Beschleuniger"
+        },
+        {
+          "id": "https://www.golem.de/2107/157938-rss.html",
+          "author": null,
+          "description": "Die gerade angek�ndigte OLED-Version muss nicht die letzte Nintendo Switch sein: Es gibt Spekulationen �ber ein echtes Pro-Modell. (Nintendo Switch, OLED)",
+          "link": "https://www.golem.de/news/hybridkonsole-2022-koennte-leistungsstaerkere-nintendo-switch-pro-kommen-2107-157938-rss.html",
+          "publishedOn": "2021-07-07T09:23:00.000Z",
+          "wordCount": 352,
+          "title": "Hybridkonsole: 2022 k�nnte leistungsst�rkere Nintendo Switch Pro kommen"
+        },
+        {
+          "id": "https://www.golem.de/2107/157936-rss.html",
+          "author": null,
+          "description": "Keyboardio finanziert eine ergonomische Tastatur. Das Model 100 kann in Holz und mit Keycaps, die mit minoischer Schrift bedruckt sind, bestellt werden. (Tastatur, Eingabeger�t)",
+          "link": "https://www.golem.de/news/keyboardio-model-100-mechanische-tastatur-hat-tauschbare-switches-im-holzgehaeuse-2107-157936-rss.html",
+          "publishedOn": "2021-07-07T09:14:00.000Z",
+          "wordCount": 352,
+          "title": "Keyboardio Model 100: Mechanische Tastatur hat tauschbare Switches im Holzgeh�use"
+        },
+        {
+          "id": "https://www.golem.de/2107/157933-rss.html",
+          "author": null,
+          "description": "Die B�rseng�nge chinesischer Unternehmen im Ausland missfallen der chinesischen F�hrung. Die setzt nun auf strikten Datenschutz. (B�rse, Datenschutz)",
+          "link": "https://www.golem.de/news/boerse-china-setzt-auf-datenschutz-bei-firmen-im-ausland-2107-157933-rss.html",
+          "publishedOn": "2021-07-07T08:10:00.000Z",
+          "wordCount": 352,
+          "title": "B�rse: China setzt auf Datenschutz bei Firmen im Ausland"
+        },
+        {
+          "id": "https://www.golem.de/2107/157934-rss.html",
+          "author": null,
+          "description": "Er nennt sich selbst Bitcoin-K�nig Brasiliens, jetzt sitzt er im Gef�ngnis. Cl�udio Oliveira soll Investoren um 244 Millionen Euro betrogen haben. (Bitcoin, Kryptomining)",
+          "link": "https://www.golem.de/news/millionenbetrug-brasilien-verhaftet-selbsternannten-bitcoin-koenig-2107-157934-rss.html",
+          "publishedOn": "2021-07-07T07:52:00.000Z",
+          "wordCount": 352,
+          "title": "Millionenbetrug: Brasilien verhaftet selbsternannten Bitcoin-K�nig"
+        },
+        {
+          "id": "https://www.golem.de/2107/157932-rss.html",
+          "author": null,
+          "description": "Lange sah AWS wie der sichere Gewinner des Jedi-Projekts aus. Unter Trump erhielt Microsoft den Zuschlag. Der Vertrag wird nun aufgel�st. (Politik/Recht, Web Service)",
+          "link": "https://www.golem.de/news/project-jedi-pentagon-schreibt-milliardenschweren-cloud-auftrag-neu-aus-2107-157932-rss.html",
+          "publishedOn": "2021-07-07T07:37:00.000Z",
+          "wordCount": 352,
+          "title": "Project Jedi: Pentagon schreibt milliardenschweren Cloud-Auftrag neu aus"
+        },
+        {
+          "id": "https://www.golem.de/2107/157931-rss.html",
+          "author": null,
+          "description": "Durch ein Problem mit dem Windows-Druck-Spooler k�nnen Angreifer Code aus der Ferne ausf�hren. Erste Patches stehen bereit, aber noch nicht f�r alles. (Windows, Drucker)",
+          "link": "https://www.golem.de/news/printnightmare-erste-patches-fuer-windows-sicherheitsluecke-2107-157931-rss.html",
+          "publishedOn": "2021-07-07T07:21:00.000Z",
+          "wordCount": 352,
+          "title": "Printnightmare: Erste Patches f�r Windows-Sicherheitsl�cke"
+        },
+        {
+          "id": "https://www.golem.de/2107/157775-rss.html",
+          "author": null,
+          "description": "Kn�pfe, Regler, Minidisplays - das Loupedeck CT �berraschte uns im Test in Lightroom mit n�tzlichen Funktionen und einer sehr kurzen Einarbeitungszeit. Ein Test von Martin Wolf (Lightroom, Eingabeger�t)",
+          "link": "https://www.golem.de/news/loupedeck-ct-im-test-fotos-entwickeln-mit-guter-haptik-2107-157775-rss.html",
+          "publishedOn": "2021-07-07T07:01:00.000Z",
+          "wordCount": 352,
+          "title": "Loupedeck CT im Test: Fotos entwickeln mit guter Haptik"
+        },
+        {
+          "id": "https://www.golem.de/2107/157930-rss.html",
+          "author": null,
+          "description": "Durch ein Winken h�lt der autonome Kiosk namens Snackmobil an, und es kann eingekauft werden. Realisiert wird das von Rewe und Vodafone. (Autonomes Fahren, Vodafone)",
+          "link": "https://www.golem.de/news/kein-fahrer-und-kein-verkaeufer-autonomer-kiosk-rollt-in-koeln-2107-157930-rss.html",
+          "publishedOn": "2021-07-07T05:57:00.000Z",
+          "wordCount": 352,
+          "title": "Kein Fahrer und kein Verk�ufer: Autonomer Kiosk rollt in K�ln"
+        },
+        {
+          "id": "https://www.golem.de/2107/157928-rss.html",
+          "author": null,
+          "description": "Unions-Abgeordnete im EU-Parlament lehnen Klimavorgaben ab, die zu einem Ende von Verbrennungsmotoren f�hren. (Auto, GreenIT)",
+          "link": "https://www.golem.de/news/eu-klimaschutzpaket-cdu-und-csu-in-der-eu-fuer-verbrennermotoren-schutz-2107-157928-rss.html",
+          "publishedOn": "2021-07-07T05:45:00.000Z",
+          "wordCount": 352,
+          "title": "EU-Klimaschutzpaket: CDU und CSU in der EU f�r Verbrennermotoren-Schutz"
+        },
+        {
+          "id": "https://www.golem.de/2107/157927-rss.html",
+          "author": null,
+          "description": "DHL will seine CO2-Bilanz verbessern und plant, in der Bundeshauptstadt die Zustellung mit 61 vollelektrisch betriebenen Fahrzeugen zu realisieren. (Lkw, Elektroauto)",
+          "link": "https://www.golem.de/news/paketdienst-dhl-express-will-in-berlin-elektrisch-zustellen-2107-157927-rss.html",
+          "publishedOn": "2021-07-07T05:31:00.000Z",
+          "wordCount": 352,
+          "title": "Paketdienst: DHL Express will in Berlin elektrisch zustellen"
+        },
+        {
+          "id": "https://www.golem.de/2107/157929-rss.html",
+          "author": null,
+          "description": "In Modellversuchen wollen mehrere deutsche St�dte Tempo 30 zur Regel machen. Dazu w�re eine Gesetzes�nderung erforderlich. (Verkehr, Politik/Recht)",
+          "link": "https://www.golem.de/news/ausserhalb-von-hauptstrassen-sieben-grossstaedte-wollen-tempo-50-als-ausnahme-2107-157929-rss.html",
+          "publishedOn": "2021-07-07T05:20:00.000Z",
+          "wordCount": 352,
+          "title": "Au�erhalb von Hauptstra�en: Sieben Gro�st�dte wollen Tempo 50 als Ausnahme"
+        },
+        {
+          "id": "https://www.golem.de/2107/157926-rss.html",
+          "author": null,
+          "description": "BBV Deutschland und Deutsche Giganetz k�mpfen um die Region Heilbronn-Franken. Deutsche Glasfaser ist in einem Kreis gar nicht mehr erschienen. (Glasfaser, Internet)",
+          "link": "https://www.golem.de/news/glasfaser-bbv-und-deutsche-giganetz-kaempfen-um-ausbaugebiete-2107-157926-rss.html",
+          "publishedOn": "2021-07-06T16:43:00.000Z",
+          "wordCount": 352,
+          "title": "Glasfaser: BBV und Deutsche Giganetz k�mpfen um Ausbaugebiete"
+        },
+        {
+          "id": "https://www.golem.de/2107/157916-rss.html",
+          "author": null,
+          "description": "Was am 6. Juli 2021 neben den gro�en Meldungen sonst noch passiert ist, in aller K�rze. (Kurznews, Firefox)",
+          "link": "https://www.golem.de/news/e-auto-nintendo-mozilla-kein-geld-mehr-fuer-wallboxen-in-der-heimischen-garage-2107-157916-rss.html",
+          "publishedOn": "2021-07-06T15:10:00.000Z",
+          "wordCount": 352,
+          "title": "E-Auto, Nintendo, Mozilla: Kein Geld mehr f�r Wallboxen in der heimischen Garage"
+        },
+        {
+          "id": "https://www.golem.de/2107/157921-rss.html",
+          "author": null,
+          "description": "Die Windowstaste k�nnte in Windows 11 wichtiger werden. Verschiedene Funktionen sind �ber K�rzel bereits nutzbar. Wir haben sie ausprobiert. (Windows 11, Microsoft)",
+          "link": "https://www.golem.de/news/microsoft-windows-11-bringt-einige-neue-tastenkombinationen-2107-157921-rss.html",
+          "publishedOn": "2021-07-06T14:55:00.000Z",
+          "wordCount": 352,
+          "title": "Microsoft: Windows 11 bringt einige neue Tastenkombinationen"
+        },
+        {
+          "id": "https://www.golem.de/2107/157924-rss.html",
+          "author": null,
+          "description": "Mit der Zahlung einer hohen Summe sichert sich Softbank die dauerhaften Rechte an Yahoo Japan. (Softbank, Yahoo)",
+          "link": "https://www.golem.de/news/yahoo-softbank-investiert-1-6-milliarden-us-dollar-in-namensrechte-2107-157924-rss.html",
+          "publishedOn": "2021-07-06T14:40:00.000Z",
+          "wordCount": 352,
+          "title": "Yahoo: Softbank investiert 1,6 Milliarden US-Dollar in Namensrechte"
+        },
+        {
+          "id": "https://www.golem.de/2107/157922-rss.html",
+          "author": null,
+          "description": "Das Paketzentrum Ludwigsfelde der DHL kann 50.000 Pakete pro Stunde verarbeiten. Sendungen k�nnen zu noch sp�teren Tageszeiten abgeholt und am Folgetag zugestellt werden. (E-Commerce, Onlineshop)",
+          "link": "https://www.golem.de/news/onlinehandel-dhl-bringt-eines-der-groessten-paketzentren-europas-an-netz-2107-157922-rss.html",
+          "publishedOn": "2021-07-06T14:25:00.000Z",
+          "wordCount": 352,
+          "title": "Onlinehandel: Berlin-Brandenburg bekommt DHL-Pakete bald schneller"
+        },
+        {
+          "id": "https://www.golem.de/2107/157925-rss.html",
+          "author": null,
+          "description": "Keine schnellere Switch Pro, sondern eine Konsole mit besserem Bildschirm und Optimierungen: Die Nintendo Switch OLED erscheint im Oktober 2021. (Nintendo Switch, OLED)",
+          "link": "https://www.golem.de/news/hybridkonsole-nintendo-kuendigt-switch-oled-ohne-4k-turbo-an-2107-157925-rss.html",
+          "publishedOn": "2021-07-06T14:10:00.000Z",
+          "wordCount": 352,
+          "title": "Hybridkonsole: Nintendo k�ndigt Switch OLED ohne 4K-Turbo an"
+        },
+        {
+          "id": "https://www.golem.de/2107/157923-rss.html",
+          "author": null,
+          "description": "Mit seinen Rabatten auf die Produkte von Lenovo bietet Amazon heute und morgen Top-Hardware zum g�nstigen Preis. (Lenovo, Notebook)",
+          "link": "https://www.golem.de/news/anzeige-lenovo-tablets-und-notebooks-bei-amazon-zum-schnaeppchenpreis-2107-157923-rss.html",
+          "publishedOn": "2021-07-06T13:51:00.000Z",
+          "wordCount": 352,
+          "title": "Anzeige: Lenovo Tablets und Notebooks bei Amazon zum Schn�ppchenpreis"
+        }
+      ]
+    },
+    {
+      "title": "The Verge -  All Posts",
+      "feedUrl": "https://www.theverge.com/rss/index.xml",
+      "siteUrl": "https://www.theverge.com/",
+      "articles": [
+        {
+          "id": "https://www.theverge.com/2021/7/7/22457264/roblox-explainer-game-app-faq",
+          "author": null,
+          "description": "Illustration by Grayson Blackmon / The Verge\n    \n\n  \nRoblox is one of the biggest apps in the world, and you’ve probably been hearing its name: the company recently went public, and its stock price climbed so high it was temporarily worth more than gaming giants EA and Take-Two combined. Roblox has come up as a contentious topic in the Epic Games v. Apple trial as well.\nBut it’s also just an astonishingly popular app: 42.1 million people play Roblox daily. And its popularity is surging during the pandemic. Daily active users were up 85 percent in 2020, compared to the year before.\nUntil recently, though, I didn’t really understand what Roblox actually was, despite the app having been around since 2006. (Just to give you an idea of how long that is in tech years, the App Store for iOS...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22457264/roblox-explainer-game-app-faq",
+          "publishedOn": "2021-07-07T19:15:00.000Z",
+          "wordCount": 2626,
+          "title": "Roblox, explained"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/7/22566889/bill-and-melinda-gates-foundation-divorce-governance-plan-two-years",
+          "author": null,
+          "description": "Photo credit should read SONNY TUMBELAKA/AFP via Getty Images\n    \n\n  \nMelinda French Gates and Bill Gates recently announced their divorce plans but largely left the question of how the co-chairs would continue to work together at the Bill and Melinda Gates Foundation unanswered. Now, a new statement from the foundation has offered some clarity: they might not (via The New York Times). The foundation says Melinda French Gates will resign from her position as co-chair and trustee if either she or Bill Gates decides they are unable to work together after two years. It’s not clear how the organization settled on that timeframe.\nBill and Melinda Gates Foundation CEO Mark Suzman announced the two-year post-divorce trial period along with the commitment of an additional $15 billion from Melinda and Bill toward...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22566889/bill-and-melinda-gates-foundation-divorce-governance-plan-two-years",
+          "publishedOn": "2021-07-07T18:59:53.000Z",
+          "wordCount": 700,
+          "title": "Melinda French Gates will leave foundation if she and Bill Gates can’t ‘work constructively’"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/7/22567035/verizon-spatial-audio-adaptive-sound-motorola",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nYou know spatial audio is having quite a moment when wireless carriers decide to create their own implementations of it. Verizon has announced a new sound feature it’s calling “Verizon Adaptive Sound,” and the company claims it “produces a brilliant spatial surround experience regardless of what headphone, soundbar, or earbud brand you use or what application you’re watching or listening to.” \nThe audio trick, which Verizon says has been in the works since 2019, is coming to Motorola phones first, including the new Motorola One 5G UW Ace that goes on sale July 8th. The Motorola Edge Plus also just received a firmware update that seems to add this feature, as noted by Droid Life. \nVerizon Adaptive Sound is integrated right into the...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22567035/verizon-spatial-audio-adaptive-sound-motorola",
+          "publishedOn": "2021-07-07T17:43:03.000Z",
+          "wordCount": 844,
+          "title": "Verizon has its own version of spatial audio and it’s already pushing it on phones"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/7/22566729/trump-lawsuit-facebook-twitter-google-social-media-censorship",
+          "author": null,
+          "description": "Photo by James Devaney/ GC Images\n    \n\n  \nFormer President Donald Trump has filed proposed class action lawsuits against Facebook, Twitter, and Google subsidiary YouTube as well as CEOs Mark Zuckerberg, Jack Dorsey, and Sundar Pichai. The lawsuits come six months after Trump was permanently or temporarily suspended from all three platforms.\nTrump announced the lawsuits at a press conference today, following an early report by Axios. He referred to the cases as “a very important game-changer for our country.”\nHowever, the claims are based on an amalgamation of mostly untested or disregarded legal arguments, and they come after numerous other failed attempts to sue social media companies over suspensions or other forms of moderation.\nThe complaints allege that social media...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22566729/trump-lawsuit-facebook-twitter-google-social-media-censorship",
+          "publishedOn": "2021-07-07T16:56:38.000Z",
+          "wordCount": 1170,
+          "title": "Donald Trump files sweeping, nonsensical lawsuits against Facebook, Twitter, and Google"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/7/22566878/facebook-ar-harry-potter-cursed-child-characters",
+          "author": null,
+          "description": "Facebook’s Harry Potter-themed AR masks for Portal. | Image: Facebook\n    \n\n  \nFacebook’s Portal video calling device is getting a Harry Potter and the Cursed Child crossover that lets you and up to three friends dress up as characters from the play using augmented reality technology.\nHere’s how you can use it, according to a Facebook blog:\nAnyone can initiate the experience by tapping “Curtain Call” in the effects tray on Portal. You can then select one of three locations from the menu to visit: Hogwarts Great Hall, the Ministry of Magic or the Edge of the Forbidden Forest. When the lights come up, each person on the call will embody a character from the show with a unique spell, which is assigned randomly. Simply nod your head or tap the screen to cast it and watch as your friends marvel at the magic.\n\nThe AR...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22566878/facebook-ar-harry-potter-cursed-child-characters",
+          "publishedOn": "2021-07-07T16:39:24.000Z",
+          "wordCount": 660,
+          "title": "Facebook’s new AR feature for Portal lets you dress up as Harry Potter characters"
+        },
+        {
+          "id": "https://www.theverge.com/tldr/2021/7/7/22563631/nomad-magsafe-leather-cover-charger-price",
+          "author": null,
+          "description": "What if MagSafe, but covered in leather? | Image: Nomad\n    \n\n  \nI’m not going to pretend to understand how product development meetings work, but there must have been something pretty special in the water when Nomad’s crack team of accessory specialists put together its latest pitch. From the company that was brave enough to encase your AirPods Pro case in leather, comes an all-new leather MagSafe case. That’s right, it’s a leather case for the iPhone 12’s magnetic charging puck.\nNomad’s argument is that the case, which is available in either black or brown, gives a MagSafe charger “a classic, yet bold new look,” and that it makes the charger slightly bigger and easier to grip to remove from a phone. But it also costs $25. \nImage: Nomad\n      Nomad’s expanded leather universe.\n  \nAs...\nContinue reading…",
+          "link": "https://www.theverge.com/tldr/2021/7/7/22563631/nomad-magsafe-leather-cover-charger-price",
+          "publishedOn": "2021-07-07T16:00:00.000Z",
+          "wordCount": 653,
+          "title": "Ladies and gentlemen, a leather case for your MagSafe puck"
+        },
+        {
+          "id": "https://www.theverge.com/22565517/final-fantasy-7-remake-intermission-intergrade-yuffie-interview-ps5",
+          "author": null,
+          "description": "Final Fantasy VII Remake isn’t a complete story. Instead, the game explores the beginning of the classic RPG, with later chapters planned to finish the narrative at some point in the future. This means you’ll meet most of the main cast, but certain characters haven’t yet made an appearance — which turned out to be helpful when co-director Motomu Toriyama started thinking of the game’s first add-on.\n“We were going to depict a side of Midgar that took place during the same timeline as the Final Fantasy VII Remake base game, and so I thought Yuffie, who was an optional character [in the original game], was the logical choice,” he tells The Verge. “Even in the source material, she makes an appearance in the middle of the journey, but the...\nContinue reading…",
+          "link": "https://www.theverge.com/22565517/final-fantasy-7-remake-intermission-intergrade-yuffie-interview-ps5",
+          "publishedOn": "2021-07-07T15:00:00.000Z",
+          "wordCount": 1107,
+          "title": "Final Fantasy VII Remake’s directors wanted to show ‘a new side’ of Midgar with Yuffie chapter"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/7/22566683/bmw-ce-04-electric-city-scooter-futuristic-design-motorrad",
+          "author": null,
+          "description": "Image: BMW\n    \n\n  \nBMW has been warning us for years that it wants to make and sell a radical electric city scooter, and now it’s following through. On Wednesday, the German automaker announced that its Motorrad division will put the striking BMW CE 04 into production, with decent range and speed on offer as well as plenty of futuristic vibes.\nThe CE 04 broke cover as a concept scooter in November 2020, though that itself was basically just a reimagining of another concept that BMW debuted in 2017. What’s really striking about the images BMW released Wednesday is how similar the production version looks. Instead of watering down the bold design in an attempt to please a wider range of buyers, the CE 04’s bright orange accents and sharp, angular lines make...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22566683/bmw-ce-04-electric-city-scooter-futuristic-design-motorrad",
+          "publishedOn": "2021-07-07T14:55:17.000Z",
+          "wordCount": 867,
+          "title": "BMW’s actually making the futuristic CE 04 electric scooter"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/7/22566652/grubhub-delivery-robot-yandex-college-campus-autonomous",
+          "author": null,
+          "description": "Grubhub and Russian self-driving startup Yandex are teaming up to use robots to deliver food on US college campuses. It represents the latest deal that envisions hundreds of six-wheeled self-driving robots that essentially act as roving lunchboxes in cities across the country. \nThe robot-powered delivery service won’t kick off until this fall when college students return to campus. Yandex, which is often described as Russia’s Google, will operate the robots, as well as handle the entire food delivery process. Grubhub, which has partnerships with over 250 college campuses in the US, will serve as the platform for the delivery transactions. \nGrubhub cited the cost savings it will get by eliminating delivery workers\nGrubhub cited the cost...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22566652/grubhub-delivery-robot-yandex-college-campus-autonomous",
+          "publishedOn": "2021-07-07T14:36:50.000Z",
+          "wordCount": 757,
+          "title": "Grubhub will use Russian-made robots to deliver food on college campuses"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/7/22566676/assassins-creed-infinity-ubisoft-confirmed-online-service-based-game",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nUbisoft has officially confirmed the existence of a new Assassin’s Creed game codenamed “Infinity,” after a report from Bloomberg detailed the new online service-based game. While Ubisoft’s announcement doesn’t shed much light on what form the new game will take, Bloomberg reports that it will be an evolving online game similar to the likes of Fortnite or GTA Online.\nInfinity marks what is likely to be the biggest change in the franchise’s history since its debut in 2007. Until now, Ubisoft has tended to release a new standalone Assassin’s Creed game once every one or two years, each focused on a single location and time period. But according to Bloomberg, Infinity will feature multiple connected settings that may look and play...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/7/22566676/assassins-creed-infinity-ubisoft-confirmed-online-service-based-game",
+          "publishedOn": "2021-07-07T14:11:12.000Z",
+          "wordCount": 672,
+          "title": "Ubisoft is reportedly shaking up Assassin’s Creed with new live-service game"
+        }
+      ]
+    },
+    {
+      "title": "The Grumpy Economist",
+      "feedUrl": "https://johnhcochrane.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://johnhcochrane.blogspot.com/",
+      "articles": [
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/07/lessons-learned-review-of-great-review.html",
+          "author": null,
+          "description": "After great events, will the US government and political system learn from mistakes? Or will we raise the bridges and enshrine whatever was done last time as holy writ, to be repeated again? Reputations of people in power push for the latter. But learning from mistakes is the only way to get ahead. \nBailouts and stimulus from 2008 seem to have followed the latter possibility. Will the lesson from covid look skeptically on the disastrous performance of CDC and FDA, evaluate whether lockdowns did good commensurate with cost, question the need to spread trillions of newly printed money around, measure the  effectiveness of masks that have now become political symbols? Or will this simply be enshrined as the playbook? Do we twist every event to push our partisan narratives, facts be damned? A …",
+          "link": "https://johnhcochrane.blogspot.com/2021/07/lessons-learned-review-of-great-review.html",
+          "publishedOn": "2021-07-07T18:55:00.004Z",
+          "wordCount": 2098,
+          "title": "Lessons learned? Review of a great review."
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/fast-grants-and-economics-of.html",
+          "author": null,
+          "description": "One of the great insights of modern growth theory -- Paul Romer's Nobel Prize -- is that ideas are the foundation of economic growth. Ideas are also \"nonrivial.\" If you use my car, I can't use it, but if you use our family recipe for road-oil chocolate cake (yum), we can still enjoy it as much as ever. Once an idea has been had, economics says it should be used as widely as possible as soon as possible  \nBut coming up with ideas is expensive. And aside patent protections, I can't charge for the benefit to you of my new ideas.  So, economists naturally notice the mother of all public goods. Research -- finding new ideas --  has enormous benefits, and people will not naturally devote enough resources to finding, refining, implementing new ideas. So, economists conclude,  the government shoul…",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/fast-grants-and-economics-of.html",
+          "publishedOn": "2021-06-30T16:12:00.001Z",
+          "wordCount": 4670,
+          "title": "Fast grants and the economics of subsidizing science"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/even-finance-professors-lean-left.html",
+          "author": null,
+          "description": "You may have thought of finance professors at business schools as likely to be a fairly conservative lot, or at least to include a good number of them. You might think finance would be an exception to the growing political monoculture in US academia. You would be mostly wrong.  \nEmre Kuvvet tracked down the party affiliation of finance professors in the top 20 US departments, and wrote up the results in \"Even Finance Professors Lean Left. \n\n\nBerkeley has more Republicans than Chicago? I think numbers are low because so many faculty are not US citizens. It's initially striking  how many finance faculty are not even registered to vote, but I suspect that this reflects the large number of non-US citizens in finance departments. \n\n\nHere come the millennials... Or, maybe Churchill was right about hearts and brains. \nJournal editors: \n\nNot even the JFE can manifest many Republicans! \nOf course this is a striking amount of political diversity by the standards of the rest of most universities.",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/even-finance-professors-lean-left.html",
+          "publishedOn": "2021-06-25T04:10:00.001Z",
+          "wordCount": 3711,
+          "title": "Even Finance Professors Lean Left"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/garicanos-conversations-with-economists.html",
+          "author": null,
+          "description": "Luis Garicano has just posted a very interesting free e-book, \"Capitalism after covid: Conversations with 21 economists.\" I was honored to be one of his interviewees, video here. Luis has a VoxEU column summarizing conversations, and twitter thread if you like reading such things. Luis is a great interviewer. \n\nThis is not an endorsement of all the ideas! Luis found a wide spectrum of ideas, and I think that is the strong thing about the project. You can see how really smart people, on top of the latest academic research, come to still widely different conclusions about the current state of affairs and directions we should go. Though Luis is a pretty free-market Chicago guy, he did not impose that view which I find admirable. \nIn particular, referring to the VoxEU column, I would take issu…",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/garicanos-conversations-with-economists.html",
+          "publishedOn": "2021-06-17T17:21:00.004Z",
+          "wordCount": 4316,
+          "title": "Garicano's conversations with economists"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/meritocracy.html",
+          "author": null,
+          "description": "Adrian Woolridge wrote a thought-provoking essay titled \"Meritocracy, Not Democracy, Is the Golden Ticket to Growth,\" advertising a forthcoming book. \nMeritocracy, the secret sauce of growth?  \nTo Woolridge, meritocracy is the secret sauce of prosperity: \n\nThe surest sign that a country will be economically successful is not the health of its democracy, as some liberals like to think, or the leanness of its government, as some free-marketers imagine, but its commitment to meritocracy. Singapore is a soft authoritarian power. But it has transformed itself in a few decades from a poverty-stricken swamp into one of the world’s most prosperous countries, with a higher standard of living and a longer life expectancy than its old colonial master, because it is perhaps the world’s leading practit…",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/meritocracy.html",
+          "publishedOn": "2021-06-14T04:22:00.009Z",
+          "wordCount": 8303,
+          "title": "Meritocracy"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/vaccine-slowdown.html",
+          "author": null,
+          "description": "Source. Everyone seems tired of covid. And sure, inflation, debts, \"infrastructure,\" competing voting narratives and so on are more fun. But covid is still with us. \n\nThe graph summarizes what I've read in lots of news stories: vaccination is slowing down. There is plenty of supply, but we are running in to people who do not go get the vaccine. \n\n\nThis strikes me as a tragedy. (Disclaimer: this is an exploratory post, and I'm anxious to hear about it from more knowledgeable people). It means covid will remain with us as an endemic disease, occasionally breaking out as immunity fades and covid evolves. We're on the 20 yard line, folks, it's not time to punt.\n\n\nI'm pretty darn libertarian, but not about vaccinations. The US should be pushing for near universal vaccination. This is like finis…",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/vaccine-slowdown.html",
+          "publishedOn": "2021-06-12T21:58:00.003Z",
+          "wordCount": 3627,
+          "title": "Vaccine slowdown?"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/eurosclerosis-update.html",
+          "author": null,
+          "description": "All pre-covid. European GDP per capita fell in the decade following the financial crisis. US growth was nothing to write home about, but things could be worse. The we-should-be-more-like-Europe crowd has some explaining to do. (The Word Bank's software misplaced the UK label; it is the red line on the top of the European group.) From the World Bank, HT Marginal Revolution.\nThe graph is in dollars, so part of the effect is that the dollar got more valuable relative to the euro. (Thanks to the commenters who noticed that I misread the graph caption. Blog post now fixed to reflect that.) \n\nUpdate\nA correspondent sends along the following graph from IMF data. IMF data uses PPP adjustments, not straight conversion to dollars. So the exchange rate really is an issue in comparing US to EU growth.  \n\n\nRelative inflation has not been that different between the two countries. \n\n\nAt least by these measures, EU inflation has been only very slightly less than US inflation \nSo indeed, the exchange rate is the major part of the difference between the two graphs. Whether PPP or actual exchange rates are \"right\" for this purpose I leave for another day. Certainly the average American's ability to buy European goods has risen relative to the average European's ability to buy American goods. Why exchange rates diverge so long from PPP measures remains, I think, a central puzzle. But thanks to blog readers for quickly pointing out that the Marginal Revolution graph isn't as immediately relevant as it seemed.",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/eurosclerosis-update.html",
+          "publishedOn": "2021-06-12T16:27:00.007Z",
+          "wordCount": 2015,
+          "title": "Eurosclerosis update"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/whither-fed.html",
+          "author": null,
+          "description": "I gave the UCSD economic roundtable lecture Friday June 11 on inflation and the future of the Fed. It summarizes quickly a number of themes from previous Grumpy writings, and if you enjoy videos you might find it fun. Youtube link in case the above embed does not work. \nI happened on the New York Fed website, proclaiming on its landing page that it is now\n\n\"...dedicated to understanding and finding solutions to the numerous forms of inequality that communities of color experience and working with communities in our District to address deep-seated inequities,\" \n\nin case you want documentation that the Federal Reserve is taking on inequality and racial issues. \nSlides available here.",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/whither-fed.html",
+          "publishedOn": "2021-06-11T18:03:00.001Z",
+          "wordCount": 1602,
+          "title": "Whither the Fed"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/the-end-of-end-of-inflation.html",
+          "author": null,
+          "description": "This spring's spurt of inflation clearly already means one thing: The end of \"the end of inflation.\" \nFor 25 years inflation has seemed stuck on a downward trend. Those of us who worry about it seemed like end-of-the-world sign-holders that couldn't leave the 1970s behind. It's hard to buck the trend. A famous economist advised me to give up studying inflation -- inflation is 2%, he said, that's all you need to know. Apparently a new constant of nature. \nWell, apparently not. Inflation can happen, and there is an economics of inflation. Right now it's pretty obvious -- supply constraints both natural and artificial, coupled with rampant demand. \nNobody is really sure where it will go. See the IGM survey for a good indication of how wide sensible consensus is on the issue. Maybe these are j…",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/the-end-of-end-of-inflation.html",
+          "publishedOn": "2021-06-10T21:44:00.005Z",
+          "wordCount": 6642,
+          "title": "The end of \"the end of inflation\""
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/why-wont-banks-take-your-money.html",
+          "author": null,
+          "description": "Banks to Companies: No More Deposits, Please, says the puzzling headline at WSJ. \nWhy would bankers not want to take any amount of deposits, park them in reserves at the Fed or short term Treasury bills, charge fees and a slight interest spread, and sign up for an early tee-time at the local golf club? Sure \"net interest margin\" or other metrics might not look good, but money is money and more money is more money. \nThe answer: \n\nTop of mind for many big banks is a rule requiring them to hold [sic] capital equivalent to at least 3% of all assets. Worried about the rule’s impact during the pandemic, the Fed changed the calculation in 2020 to ignore deposits the banks held at the central bank, but ended that break this March. Since then, some banks have warned the growing deposits could force…",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/why-wont-banks-take-your-money.html",
+          "publishedOn": "2021-06-10T17:46:00.005Z",
+          "wordCount": 3048,
+          "title": "Why won't banks take your money?"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/three-inflations.html",
+          "author": null,
+          "description": "The latest inflation numbers are out, up 0.64% from April to May (7.7% annualized), on top of 0.77% (9.2% annualized) from March to April. . To get around the base controversy, I like to plot the level of the CPI: \n\n\nThe graph suggests that  \"reflation\" from the pandemic recession was over last year, we had been back to the usual growth, and now we're embarked on something new. \nInflation is not the same everywhere. For another purpose I broke inflation down to durable goods and services. \n\n\nUntil about 1985, the three categories moved together. After that we saw a sharp divergence. Inflation depends on what you buy. Services got much more expensive, while durable goods actually saw deflation. The forces are familiar. The rise in skill premium has meant that people got more expensive, and …",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/three-inflations.html",
+          "publishedOn": "2021-06-10T15:31:00.001Z",
+          "wordCount": 1885,
+          "title": "Three inflations"
+        },
+        {
+          "id": "https://johnhcochrane.blogspot.com/2021/06/inflation-options.html",
+          "author": null,
+          "description": "From the lovely Minneapolis Fed website that computes probabilities from option prices.",
+          "link": "https://johnhcochrane.blogspot.com/2021/06/inflation-options.html",
+          "publishedOn": "2021-06-09T19:42:00.004Z",
+          "wordCount": 1577,
+          "title": "Inflation options"
+        }
+      ]
+    },
+    {
+      "title": "Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten",
+      "feedUrl": "https://www.nzz.ch/wirtschaft.rss",
+      "siteUrl": "https://www.nzz.ch/wirtschaft/",
+      "articles": [
+        {
+          "id": "https://www.nzz.ch/wirtschaft/cholesterinsenker-novartis-amgen-und-sanofi-buhlen-um-anteile-ld.1634452",
+          "author": null,
+          "description": "Eineinhalb Jahre nach einem milliardenschweren Zukauf gilt beim Pharmakonzern Novartis noch immer «ausser Spesen fast nichts gewesen». Ein neuer Cholesterinsenker muss zum Erfolg gebracht werden. Viel Zeit bleibt nicht mehr übrig.",
+          "link": "https://www.nzz.ch/wirtschaft/cholesterinsenker-novartis-amgen-und-sanofi-buhlen-um-anteile-ld.1634452",
+          "publishedOn": "2021-07-07T16:21:17.000Z",
+          "wordCount": 180,
+          "title": "KOMMENTAR - Novartis braucht die Einnahmen aus seinem neuen Cholesterinsenker"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/pentagon-zieht-milliardenschweren-auftrag-an-microsoft-zurueck-und-weitere-wirtschaftsmeldungen-ld.1634348",
+          "author": null,
+          "description": "NZZ Nachrichten, Hintergründe, Meinungen aus der Schweiz, International, Sport, Digital, Wirtschaft, Auto & mehr. Fundierte Berichterstattung rund um die Uhr.",
+          "link": "https://www.nzz.ch/wirtschaft/pentagon-zieht-milliardenschweren-auftrag-an-microsoft-zurueck-und-weitere-wirtschaftsmeldungen-ld.1634348",
+          "publishedOn": "2021-07-07T16:10:26.000Z",
+          "wordCount": 115,
+          "title": "Swatch wird im SMI von Logitech abgelöst – und weitere Wirtschaftsmeldungen"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/gates-stiftung-abgang-von-melinda-gates-wird-vorbereitet-ld.1634517",
+          "author": null,
+          "description": "Nach der privaten Trennung gehen Bill und Melinda Gates möglicherweise auch in ihrer philanthropischen Arbeit künftig getrennte Wege. In der Bill-und-Melinda-Gates-Stiftung wird jedenfalls ein Abgang von Melinda Gates vorbereitet.",
+          "link": "https://www.nzz.ch/wirtschaft/gates-stiftung-abgang-von-melinda-gates-wird-vorbereitet-ld.1634517",
+          "publishedOn": "2021-07-07T16:07:05.000Z",
+          "wordCount": 104,
+          "title": "Bill Gates kann Melinda Gates aus der gemeinsamen Stiftung entfernen"
+        },
+        {
+          "id": "https://www.nzz.ch/finanzen/der-druck-auf-den-bitcoin-nimmt-zu-dieser-faellt-auf-35-000-dollar-ld.1336477",
+          "author": null,
+          "description": "Virtuelle Währungen wie Bitcoin und Co. haben einen schlechten Ruf. Sie gelten als unbeständig und als Energiefresser. Doch sie haben gegenüber herkömmlichen Zahlungsmitteln auch Vorteile – und ein breiteres Einsatzgebiet. Die wichtigsten Antworten zu Kryptowährungen.",
+          "link": "https://www.nzz.ch/finanzen/der-druck-auf-den-bitcoin-nimmt-zu-dieser-faellt-auf-35-000-dollar-ld.1336477",
+          "publishedOn": "2021-07-07T13:56:08.000Z",
+          "wordCount": 330,
+          "title": "DIE NEUSTEN ENTWICKLUNGEN - Bei Kryptowährungen scheiden sich die Geister: Das sollten Sie über Bitcoin, Ethereum und Co. wissen"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/jedi-milliardenprojekt-das-amerikanische-verteidigungsministerium-entzieht-microsoft-den-auftrag-und-schreibt-ihn-neu-aus-ld.1634430",
+          "author": null,
+          "description": "Microsoft wollte für das amerikanische Militär eine Cloud für militärische Daten aufbauen. Doch daraus wird nun wohl nichts, denn das Pentagon will die Vereinbarung auflösen. Nun könnte der Konkurrent Amazon doch noch zum Zuge kommen, nachdem ihm zunächst die Aversionen Trumps gegen Bezos in die Quere gekommen waren.",
+          "link": "https://www.nzz.ch/wirtschaft/jedi-milliardenprojekt-das-amerikanische-verteidigungsministerium-entzieht-microsoft-den-auftrag-und-schreibt-ihn-neu-aus-ld.1634430",
+          "publishedOn": "2021-07-07T12:03:24.000Z",
+          "wordCount": 230,
+          "title": "Jedi-Milliardenprojekt: Das amerikanische Verteidigungsministerium entzieht Microsoft den Auftrag und schreibt ihn neu aus"
+        },
+        {
+          "id": "https://www.nzz.ch/technologie/ransomware-angriff-usa-wollen-selbst-gegen-erpresser-vorgehen-wenn-russland-nicht-handelt-ld.1628409",
+          "author": null,
+          "description": "In den vergangenen Wochen wurden mehrere bedeutende Firmen Opfer von Ransomware. Die USA räumen nun dem Kampf gegen die Kriminellen höchste Priorität ein. Doch wie funktioniert Ransomware überhaupt, und wer steckt dahinter?",
+          "link": "https://www.nzz.ch/technologie/ransomware-angriff-usa-wollen-selbst-gegen-erpresser-vorgehen-wenn-russland-nicht-handelt-ld.1628409",
+          "publishedOn": "2021-07-07T08:55:18.000Z",
+          "wordCount": 709,
+          "title": "DIE NEUSTEN ENTWICKLUNGEN - Ransomware-Angriff: Die USA wollen selbst gegen Erpresser vorgehen, wenn Russland nicht handelt"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/coronavirus-und-die-wirtschaft-daten-in-echtzeit-zeigen-erholung-ld.1561501",
+          "author": null,
+          "description": "Nach dem Ende der Home-Office-Pflicht pendeln wieder etwas mehr Menschen ins Büro. Aber es sind deutlich weniger als vor der Pandemie. Wir zeigen mit Echtzeitdaten in Grafiken den Verlauf der Corona-Krise – und wo wir gegenwärtig stehen.",
+          "link": "https://www.nzz.ch/wirtschaft/coronavirus-und-die-wirtschaft-daten-in-echtzeit-zeigen-erholung-ld.1561501",
+          "publishedOn": "2021-07-07T03:30:00.000Z",
+          "wordCount": 197,
+          "title": "Die Schweizer kehren nur zögerlich ins Büro zurück – die Wirtschaftsentwicklung in Echtzeit"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/cyber-versicherung-niemand-weiss-was-sie-kosten-muss-ld.1634197",
+          "author": null,
+          "description": "Die jüngsten Ransomware-Angriffe zeigten einmal mehr, wie verwundbar Unternehmen gegenüber neuartigen digitalen Bedrohungen sind. Der Versicherungsschutz dagegen ist entsprechend gefragt. Er trägt aber noch nicht immer.",
+          "link": "https://www.nzz.ch/wirtschaft/cyber-versicherung-niemand-weiss-was-sie-kosten-muss-ld.1634197",
+          "publishedOn": "2021-07-07T03:30:00.000Z",
+          "wordCount": 169,
+          "title": "Das Dilemma mit der Cyberversicherung: Alle wollen sie, niemand weiss, wie viel sie kosten muss"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/bund-kaempft-gegen-schein-occasionen-autohaendler-wehren-sich-ld.1633626",
+          "author": null,
+          "description": "Bei Autos aus dem Ausland, die seit mindestens sechs Monaten zugelassen sind, entfällt bei der Einfuhr die CO2-Abgabe. Der Bund spricht von als Occasionen getarnten Neuwagen und will dies unterbinden. Die freien Autohändler halten dagegen.",
+          "link": "https://www.nzz.ch/wirtschaft/bund-kaempft-gegen-schein-occasionen-autohaendler-wehren-sich-ld.1633626",
+          "publishedOn": "2021-07-07T03:30:00.000Z",
+          "wordCount": 217,
+          "title": "Importierte Autos: Der Bund will gegen angebliche Schein-Occasionen vorgehen – die Branche wehrt sich"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/die-freiheit-im-billigflieger-ist-noch-nicht-grenzenlos-ld.1634295",
+          "author": null,
+          "description": "Der britische Staat will sich weitgehend aus der Regulierung des Alltags zurückziehen. Nun müssen private Firmen – und auch die Fluggesellschaften – in Eigenregie dafür sorgen, dass sich die Kunden wohl fühlen.",
+          "link": "https://www.nzz.ch/wirtschaft/die-freiheit-im-billigflieger-ist-noch-nicht-grenzenlos-ld.1634295",
+          "publishedOn": "2021-07-07T03:30:00.000Z",
+          "wordCount": 163,
+          "title": "KOMMENTAR - Die Freiheit im Billigflieger ist noch nicht grenzenlos"
+        },
+        {
+          "id": "https://www.nzz.ch/pro-global/biden-wieder-vollen-schutz-fuer-drei-national-monuments-ld.1631684",
+          "author": null,
+          "description": "Die amerikanische Innenministerin Haaland empfiehlt Biden, Trumps Verkleinerung dreier wichtiger Schutzgebiete rückgängig zu machen. Es ist der letzte Schritt in einem anhaltenden Konflikt zwischen dem Naturschutz und den Rechten der Natives einerseits und den wirtschaftlichen Interessen andererseits.",
+          "link": "https://www.nzz.ch/pro-global/biden-wieder-vollen-schutz-fuer-drei-national-monuments-ld.1631684",
+          "publishedOn": "2021-07-07T03:30:00.000Z",
+          "wordCount": 204,
+          "title": "Biden will drei National Monuments wieder vollen Schutz gewähren"
+        },
+        {
+          "id": "https://www.nzz.ch/pro-global/usa/vorerst-keine-oeffnung-gegenueber-kuba-unter-biden-ld.1633188",
+          "author": null,
+          "description": "Donald Trump hat die amerikanische Annäherung an Kuba gestoppt. Joe Biden wollte Barack Obamas Öffnung wieder aufnehmen. Doch bis jetzt ist keine Bewegung in Sicht.",
+          "link": "https://www.nzz.ch/pro-global/usa/vorerst-keine-oeffnung-gegenueber-kuba-unter-biden-ld.1633188",
+          "publishedOn": "2021-07-07T03:30:00.000Z",
+          "wordCount": 198,
+          "title": "Wird es unter Präsident Biden eine neue Öffnung gegenüber Kuba geben?"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/windhorst-hertha-investor-im-visier-von-bafin-und-staatsanwalt-ld.1634308",
+          "author": null,
+          "description": "Der schillernde deutsche Finanzinvestor Lars Windhorst sieht sich mit Ermittlungen der Staatsanwaltschaft konfrontiert. Er ist jedoch zuversichtlich, dass die Vorwürfe ohne Grundlage sind.",
+          "link": "https://www.nzz.ch/wirtschaft/windhorst-hertha-investor-im-visier-von-bafin-und-staatsanwalt-ld.1634308",
+          "publishedOn": "2021-07-06T18:19:15.000Z",
+          "wordCount": 156,
+          "title": "Staatsanwaltschaft Berlin ermittelt gegen Investor Windhorst"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/99-initiative-klassenkampf-soll-das-volk-zu-einem-ja-bewegen-ld.1634225",
+          "author": null,
+          "description": "Das Schweizervolk entscheidet im September, ob hohe Kapitaleinkommen künftig um 50% stärker besteuert werden als Arbeitseinkommen. Aus Sicht der wirtschaftlichen Effizienz und der Steuerlogik gäbe es aber eher Argumente für eine tiefere Besteuerung von Kapitaleinkommen.",
+          "link": "https://www.nzz.ch/wirtschaft/99-initiative-klassenkampf-soll-das-volk-zu-einem-ja-bewegen-ld.1634225",
+          "publishedOn": "2021-07-06T17:54:22.000Z",
+          "wordCount": 168,
+          "title": "Klassenkampf gegen die «Superreichen» soll das Volk zu einem Ja für die «99%-Initiative» bewegen"
+        },
+        {
+          "id": "https://www.nzz.ch/finanzen/pierer-mobility-auf-zwei-raedern-aus-der-pandemie-ld.1634236",
+          "author": null,
+          "description": "Europas grösster Motorradhersteller Pierer Mobility hat im ersten Halbjahr fast doppelt so viele Fahrzeuge abgesetzt wie im Vorjahr. Das österreichische Unternehmen mit Kotierung in der Schweiz ist für Publikumsaktionäre nur bedingt attraktiv.",
+          "link": "https://www.nzz.ch/finanzen/pierer-mobility-auf-zwei-raedern-aus-der-pandemie-ld.1634236",
+          "publishedOn": "2021-07-06T15:51:01.000Z",
+          "wordCount": 209,
+          "title": "KOMMENTAR - Pierer Mobility: Auf zwei Rädern aus der Pandemie"
+        },
+        {
+          "id": "https://www.nzz.ch/meinung/homeoffice-der-nachwuch-leidet-bei-roche-syngenta-co-ld.1634064",
+          "author": null,
+          "description": "Nicht mehr zur Arbeit pendeln zu müssen, ist praktisch. Doch spontane Kontakte kommen zu kurz, wenn man sich nicht oder kaum mehr im Büro trifft. Darunter leiden besonders Berufseinsteiger.",
+          "link": "https://www.nzz.ch/meinung/homeoffice-der-nachwuch-leidet-bei-roche-syngenta-co-ld.1634064",
+          "publishedOn": "2021-07-06T14:53:04.000Z",
+          "wordCount": 172,
+          "title": "KOMMENTAR - Das Home-Office schafft auch Verlierer"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/brexit-autohersteller-wie-nissan-in-grossbritannien-unter-druck-ld.1633487",
+          "author": null,
+          "description": "Das Brexit-Handelsabkommen mit der EU zwingt Firmen, sich für oder gegen die Insel zu entscheiden. Nissan lässt jetzt die grösste Batteriefabrik des Landes bauen. Aber für die Branche ist es ein Wettlauf gegen die Zeit.",
+          "link": "https://www.nzz.ch/wirtschaft/brexit-autohersteller-wie-nissan-in-grossbritannien-unter-druck-ld.1633487",
+          "publishedOn": "2021-07-06T03:30:00.000Z",
+          "wordCount": 187,
+          "title": "KOMMENTAR - Investieren oder gehen? Der Brexit setzt Autobauern in Grossbritannien die Pistole auf die Brust"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/alt-jung-frau-mann-autofahrer-velofahrer-alle-diskriminiert-ld.1633981",
+          "author": null,
+          "description": "Dank reichlich Sensibilisierung darf sich heute jede und jeder diskriminiert fühlen und von Staat und Gesellschaft Genugtuung einfordern. Doch ist in einer Gesellschaft, in der sich alle diskriminiert fühlen, überhaupt noch jemand diskriminiert?",
+          "link": "https://www.nzz.ch/wirtschaft/alt-jung-frau-mann-autofahrer-velofahrer-alle-diskriminiert-ld.1633981",
+          "publishedOn": "2021-07-06T03:30:00.000Z",
+          "wordCount": 173,
+          "title": "KOLUMNE - Hurra, wir sind diskriminiert!"
+        },
+        {
+          "id": "https://www.nzz.ch/pro-global/asien/nzz-immer-mehr-akademiker-in-der-kommunistischen-partei-chinas-ld.1634046",
+          "author": null,
+          "description": "Von wegen Arbeiter- und Bauernpartei: Die KPCh hat sich in den vergangenen Jahren zu einer elitären Organisation mit immer mehr Akademikern gewandelt.",
+          "link": "https://www.nzz.ch/pro-global/asien/nzz-immer-mehr-akademiker-in-der-kommunistischen-partei-chinas-ld.1634046",
+          "publishedOn": "2021-07-06T03:30:00.000Z",
+          "wordCount": 183,
+          "title": "So hat sich die Kommunistische Partei Chinas in den vergangenen Jahren verändert"
+        },
+        {
+          "id": "https://www.nzz.ch/pro-global/asien/studie-chinas-globaler-einfluss-waechst-nzz-ld.1633608",
+          "author": null,
+          "description": "China hat durch vertiefte Handelsbeziehungen seinen Einflussbereich ausgedehnt, insbesondere in Afrika und Südamerika. Was heisst das für den Westen?",
+          "link": "https://www.nzz.ch/pro-global/asien/studie-chinas-globaler-einfluss-waechst-nzz-ld.1633608",
+          "publishedOn": "2021-07-06T03:30:00.000Z",
+          "wordCount": 193,
+          "title": "Neue Studie: Chinas globaler Einfluss wächst, der Einfluss der USA schrumpft"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/mit-dem-abgang-von-jim-whitehurst-ist-der-kulturwandel-bei-ibm-gescheitert-ld.1633990",
+          "author": null,
+          "description": "Mit Jim Whitehurst verlässt eine Schlüsselfigur IBM. Mit dem ehemaligen Chef der Softwarefirma Red Hat schien eine neue Firmenkultur bei «Big Blue» einzuziehen. Der Kulturschock war offensichtlich zu gross.",
+          "link": "https://www.nzz.ch/wirtschaft/mit-dem-abgang-von-jim-whitehurst-ist-der-kulturwandel-bei-ibm-gescheitert-ld.1633990",
+          "publishedOn": "2021-07-05T14:35:13.000Z",
+          "wordCount": 197,
+          "title": "KOMMENTAR - Mit dem Abgang von Jim Whitehurst ist der Kulturwandel bei IBM gescheitert"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/insiderfall-hans-ziegler-die-bundesanwaltschaft-hat-berufung-angemeldet-ld.1633975",
+          "author": null,
+          "description": "Der in erster Instanz verurteilte Ex-Manager Hans Ziegler ist trotz mehreren Schuldsprüchen um eine unbedingte Freiheitsstrafe herumgekommen. Doch wenn es nach den Klägern geht, könnte sich dies noch ändern.",
+          "link": "https://www.nzz.ch/wirtschaft/insiderfall-hans-ziegler-die-bundesanwaltschaft-hat-berufung-angemeldet-ld.1633975",
+          "publishedOn": "2021-07-05T14:32:14.000Z",
+          "wordCount": 248,
+          "title": "Insider Hans Ziegler droht doch noch das Gefängnis: Die Bundesanwaltschaft meldet Berufung an – werden in der Schweiz Insiderdelikt zu milde bewertet?"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/schlag-auf-schlag-bei-glencore-kalidas-madhavpeddi-wird-neuer-verwaltungsratspraesident-des-rohstoffkonzerns-ld.1633958",
+          "author": null,
+          "description": "Beim Schweizer Rohstoffkonzern sind die Toppositionen neu besetzt: Seit Juli ist Gary Nagle neuer Konzernchef. Und ab August löst ein Branchenveteran Tony Hayward im Verwaltungsrat ab.",
+          "link": "https://www.nzz.ch/wirtschaft/schlag-auf-schlag-bei-glencore-kalidas-madhavpeddi-wird-neuer-verwaltungsratspraesident-des-rohstoffkonzerns-ld.1633958",
+          "publishedOn": "2021-07-05T08:45:27.000Z",
+          "wordCount": 172,
+          "title": "Schlag auf Schlag bei Glencore: Kalidas Madhavpeddi wird neuer Verwaltungsratspräsident des Rohstoffkonzerns"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/brexit-musiker-und-kuenstler-aus-grossbritannien-brauchen-visa-ld.1633279",
+          "author": null,
+          "description": "Das Ende der EU-Mitgliedschaft ist für Künstler aus Grossbritannien ein besonderes Problem. Auftritte, Tourneen und Transporte auf dem Kontinent werden zum Spiessrutenlauf. Die Musiker fürchten, sie werden abgeschnitten.",
+          "link": "https://www.nzz.ch/wirtschaft/brexit-musiker-und-kuenstler-aus-grossbritannien-brauchen-visa-ld.1633279",
+          "publishedOn": "2021-07-05T03:30:00.000Z",
+          "wordCount": 208,
+          "title": "Britische Musiker klagen über Brexit-Bürokratie: Elton John sagt, so hätte er es nicht zum Star geschafft"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/muriel-penicaud-frankreichs-ex-ministerin-als-ilo-direktorin-ld.1633599",
+          "author": null,
+          "description": "Muriel Pénicaud bekleidete verschiedene Kaderfunktionen in Wirtschaft und Verwaltung – nicht ohne Polemiken. Jetzt sondiert sie ihre Chancen für einen Chefposten in der Schweiz.",
+          "link": "https://www.nzz.ch/wirtschaft/muriel-penicaud-frankreichs-ex-ministerin-als-ilo-direktorin-ld.1633599",
+          "publishedOn": "2021-07-05T03:30:00.000Z",
+          "wordCount": 190,
+          "title": "Macrons fotografierende Ex-Ministerin könnte nun die erste Frau an der ILO-Spitze werden"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/teamgeist-was-fuehrungskraefte-vom-fussball-lernen-koennen-ld.1631732",
+          "author": null,
+          "description": "Bernhard Heusler hat in seiner Zeit als Präsident den Fussballclub Basel von Erfolg zu Erfolg geführt. Heute berät er auch Führungskräfte. Lässt sich ein Unternehmen ähnlich steuern wie eine Fussballmannschaft? Ein Gespräch über Starallüren, Siege, Niederlagen und die Schweizerische Nationalmannschaft.",
+          "link": "https://www.nzz.ch/wirtschaft/teamgeist-was-fuehrungskraefte-vom-fussball-lernen-koennen-ld.1631732",
+          "publishedOn": "2021-07-05T03:30:00.000Z",
+          "wordCount": 165,
+          "title": "Was Führungskräfte vom Fussball lernen können"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/telekom-was-sich-mit-den-neuen-roaming-tarifen-geaendert-hat-ld.1632829",
+          "author": null,
+          "description": "Seit dem 1. Juli müssen sich die Telekomfirmen an neue gesetzliche Vorgaben halten. Wer nur selten im Ausland ist, profitiert kaum vom neuen Tarifmodell.",
+          "link": "https://www.nzz.ch/wirtschaft/telekom-was-sich-mit-den-neuen-roaming-tarifen-geaendert-hat-ld.1632829",
+          "publishedOn": "2021-07-05T03:30:00.000Z",
+          "wordCount": 208,
+          "title": "Keine böse Überraschung nach den Ferien: Was sich mit den neuen Roaming-Tarifen geändert hat"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/enteignungs-volksentscheid-naechstes-wohnungsexperiment-in-berlin-ld.1633609",
+          "author": null,
+          "description": "Das Berliner Volksbegehren zur Enteignung grosser Wohnungsunternehmen ist zustande gekommen, im Herbst wird abgestimmt. Kritiker befürchten ein «neues sozialistisches Prestigeprojekt», das viel koste, aber keine einzige neue Wohnung schaffe.",
+          "link": "https://www.nzz.ch/wirtschaft/enteignungs-volksentscheid-naechstes-wohnungsexperiment-in-berlin-ld.1633609",
+          "publishedOn": "2021-07-04T03:30:00.000Z",
+          "wordCount": 183,
+          "title": "Enteignungs-Volksentscheid: Berlin setzt zum nächsten Experiment in der Wohnungspolitik an"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/steigender-erdoelpreis-die-opec-findet-und-findet-keine-einigung-ld.1633686",
+          "author": null,
+          "description": "Die Vereinigten Arabischen Emirate widersetzen sich vorläufig einer Erhöhung der Erdölförderung. Wenn es zu keinem Deal kommt, könnte der Ölpreis verstärkt ansteigen – was nicht einmal im Interesse der Erdölländer ist.",
+          "link": "https://www.nzz.ch/wirtschaft/steigender-erdoelpreis-die-opec-findet-und-findet-keine-einigung-ld.1633686",
+          "publishedOn": "2021-07-03T09:49:40.000Z",
+          "wordCount": 168,
+          "title": "Steigender Erdölpreis: Die Opec findet und findet keine Einigung"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/im-ausverkauf-zu-haben-outdoor-marke-mammut-ld.1633633",
+          "author": null,
+          "description": "Die Conzzeta-Gruppe hat ihre Outdoor-Firma Mammut billig abgegeben. Grund waren der schlechte Zeitpunkt für einen Verkauf und die Tatsache, dass es sich Conzzeta leisten konnte.",
+          "link": "https://www.nzz.ch/wirtschaft/im-ausverkauf-zu-haben-outdoor-marke-mammut-ld.1633633",
+          "publishedOn": "2021-07-03T03:30:00.000Z",
+          "wordCount": 160,
+          "title": "KOMMENTAR - Im Ausverkauf zu haben: Outdoor-Marke Mammut"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/lsi-schwierige-aufgabe-fuer-die-neuen-besitzer-der-chemiefirma-ld.1633667",
+          "author": null,
+          "description": "Knapp 3000 ehemalige Angestellte der Basler Lonza-Gruppe haben einen neuen Arbeitgeber. Doch noch ist nicht einmal bekannt, wie er heissen wird. Das frisch eingesetzte Management wird auch für eine neue Kultur sorgen müssen.",
+          "link": "https://www.nzz.ch/wirtschaft/lsi-schwierige-aufgabe-fuer-die-neuen-besitzer-der-chemiefirma-ld.1633667",
+          "publishedOn": "2021-07-03T03:30:00.000Z",
+          "wordCount": 183,
+          "title": "KOMMENTAR - Die neuen Eigentümer des Spezialitätenchemiegeschäfts von Lonza erwartet eine schwierige Aufgabe"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/steuergelder-von-grossunternehmen-soll-zu-absatzmaerkten-fliessen-ld.1633647",
+          "author": null,
+          "description": "130 Länder haben sich auf Prinzipien für eine Umverteilung von Steuergeldern der umsatzstärksten Firmen von den Sitzstaaten zu den Absatzmärkten geeinigt. In der Schweiz dürften nur drei bis sieben Firmen betroffen sein – obwohl deutlich mehr Unternehmen die genannte Umsatzschwelle überschreiten.",
+          "link": "https://www.nzz.ch/wirtschaft/steuergelder-von-grossunternehmen-soll-zu-absatzmaerkten-fliessen-ld.1633647",
+          "publishedOn": "2021-07-03T03:30:00.000Z",
+          "wordCount": 236,
+          "title": "Steuergelder von Novartis, Nestlé, Google, Amazon und Co. sollen von den Sitzstaaten zu den Absatzmärkten fliessen"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/audi-chef-autoproduktion-und-umweltschutz-sind-kein-gegensatz-ld.1631817",
+          "author": null,
+          "description": "Autoproduktion und Umweltschutz sind für Duesmann kein Gegensatz. Der seit 2020 amtierende Konzernchef will bei Audi im Jahr 2025 das letzte Produkt mit Verbrennungsmotor lancieren, kritisiert aber den langsamen Ausbau der Ladeinfrastruktur. Im Interview mit der NZZ erläutert der 52-Jährige seine Strategie für die kommenden Jahre.",
+          "link": "https://www.nzz.ch/wirtschaft/audi-chef-autoproduktion-und-umweltschutz-sind-kein-gegensatz-ld.1631817",
+          "publishedOn": "2021-07-03T03:30:00.000Z",
+          "wordCount": 175,
+          "title": "Audi-Konzernchef Markus Duesmann: «Politisch würde ich mich als Grün-Schwarzen bezeichnen»"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/galenica-erwirbt-hersteller-von-alternativen-arzneimitteln-ld.1633533",
+          "author": null,
+          "description": "Galenica erwirbt einen Hersteller von alternativen Arzneimitteln. Das ist einerseits Dienst am Kunden, andererseits aber auch Hoffnung auf neues Wachstum.",
+          "link": "https://www.nzz.ch/wirtschaft/galenica-erwirbt-hersteller-von-alternativen-arzneimitteln-ld.1633533",
+          "publishedOn": "2021-07-02T03:30:00.000Z",
+          "wordCount": 171,
+          "title": "KOMMENTAR - Gebt dem Apotheken-Kunden, was der Kunde wünscht – auch Globuli"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/ein-boersengang-waere-fuer-salt-eine-befreiung-ld.1633380",
+          "author": null,
+          "description": "Der Mobilfunkanbieter Salt soll konkrete Pläne für einen Börsengang wälzen. Es wäre ein willkommener Schritt, um die Abhängigkeit vom derzeitigen Eigentümer Xavier Niel zu reduzieren.",
+          "link": "https://www.nzz.ch/wirtschaft/ein-boersengang-waere-fuer-salt-eine-befreiung-ld.1633380",
+          "publishedOn": "2021-07-01T16:00:22.000Z",
+          "wordCount": 161,
+          "title": "KOMMENTAR - Ein Börsengang wäre für Salt eine Befreiung"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/wirecard-skandal-alle-sehen-sich-als-opfer-nzz-ld.1564559",
+          "author": null,
+          "description": "Der Fall des insolventen deutschen Zahlungsdienstleisters Wirecard hat weitreichende Folgen. Bisher mussten die Chefs der Finanzaufsicht Bafin, der «Bilanzpolizei» DPR und von EY Deutschland ihre Posten räumen. Der Untersuchungsausschuss des Bundestags hat seine Arbeit mit einem Abschlussbericht beendet.",
+          "link": "https://www.nzz.ch/wirtschaft/wirecard-skandal-alle-sehen-sich-als-opfer-nzz-ld.1564559",
+          "publishedOn": "2021-06-25T20:25:57.000Z",
+          "wordCount": 806,
+          "title": "DIE NEUSTEN ENTWICKLUNGEN - Wirecard-Skandal: Finanzminister Olaf Scholz erntet in der Abschlussdebatte des Bundestags viel Kritik"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/die-usa-und-europa-wollen-die-handelskonflikte-schrittweise-beseitigen-ld.1392086",
+          "author": null,
+          "description": "Die USA und die EU haben einen Zollfrieden für fünf Jahre vereinbart. In dieser Frist solle keine Strafzölle erhoben werden. Der Streit um die Subventionen für Airbus und Boeing ist damit vorläufig vom Tisch.",
+          "link": "https://www.nzz.ch/wirtschaft/die-usa-und-europa-wollen-die-handelskonflikte-schrittweise-beseitigen-ld.1392086",
+          "publishedOn": "2021-06-24T23:25:37.000Z",
+          "wordCount": 692,
+          "title": "DIE NEUSTEN ENTWICKLUNGEN - Die USA und die EU entschärfen den Handelsstreit: Altmaier hält Einigung über Strafzölle auf Stahlprodukte für möglich"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/pipeline-projekt-nord-stream-2-die-neusten-entwicklungen-ld.1483495",
+          "author": null,
+          "description": "Die Ostsee-Pipeline Nord Stream 2 ist fast fertig verlegt. Doch die USA belegen Verlegeschiffe mit Sanktionen. Können und wollen sie die Fertigstellung noch verhindern? Die wichtigsten Antworten im Überblick.",
+          "link": "https://www.nzz.ch/wirtschaft/pipeline-projekt-nord-stream-2-die-neusten-entwicklungen-ld.1483495",
+          "publishedOn": "2021-06-23T16:29:44.000Z",
+          "wordCount": 569,
+          "title": "DIE NEUSTEN ENTWICKLUNGEN - Pipeline-Projekt Nord Stream 2: Deutschland und die USA wollen Streit beilegen"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/usa-gegen-china-die-wichtigsten-antworten-zum-handelsstreit-ld.1528336",
+          "author": null,
+          "description": "Mit dem neuen US-Präsidenten Joe Biden wird einiges anders – aber nicht alles. Gegenüber China will auch Biden Stärke zeigen. Anders als sein Vorgänger Trump will er aber die Partnerstaaten mit ins Boot holen.",
+          "link": "https://www.nzz.ch/wirtschaft/usa-gegen-china-die-wichtigsten-antworten-zum-handelsstreit-ld.1528336",
+          "publishedOn": "2021-06-10T03:26:50.000Z",
+          "wordCount": 1109,
+          "title": "DIE NEUSTEN ENTWICKLUNGEN - Handelsstreit USA-China: USA blockieren Einfuhr von Solarkomponenten aus China, China und die USA wollen ihren Handel und Investitionen vorantreiben"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/vw-dieselskandal-staatsanwaltschaft-klagt-weitere-fuehrungskraefte-an-ld.1512256",
+          "author": null,
+          "description": "Gut fünf Jahre nach der Aufdeckung des Dieselskandals läuft die strafrechtliche Aufarbeitung vor Gericht. VW verlangt riesigen Schadenersatz von den Managern.",
+          "link": "https://www.nzz.ch/wirtschaft/vw-dieselskandal-staatsanwaltschaft-klagt-weitere-fuehrungskraefte-an-ld.1512256",
+          "publishedOn": "2021-06-09T11:35:27.000Z",
+          "wordCount": 1090,
+          "title": "DIE NEUSTEN ENTWICKLUNGEN - VW-Dieselskandal: Winterkorn, weitere Ex-Manager und deren Versicherungen sollen 288 Millionen Euro Schadenersatz zahlen"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/opaline-gruenderin-sofia-de-meyer-weniger-ist-mehr-ld.1624574",
+          "author": null,
+          "description": "Das Westschweizer Kleinstunternehmen Opaline setzt auf Schweizer Früchte und Natur. Kann das funktionieren? Ein Gespräch mit der Geschäftsführerin im Grünen.",
+          "link": "https://www.nzz.ch/wirtschaft/opaline-gruenderin-sofia-de-meyer-weniger-ist-mehr-ld.1624574",
+          "publishedOn": "2021-06-09T03:30:00.000Z",
+          "wordCount": 140,
+          "title": "INTERVIEW - Die Saftherstellerin Sofia de Meyer sagt: «Wir verkaufen lieber weniger – und bleiben dafür unseren Werten treu»"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/arbeiten-im-silicon-valley-zwei-manager-erzaehlen-ld.1628256",
+          "author": null,
+          "description": "Sie wollen Ihren Horizont erweitern? Ein mehrjähriger Auslandaufenthalt dürfte dazu die beste Weiterbildung sein, wie diese beiden Beispiele aus der San Francisco Bay Area zeigen.",
+          "link": "https://www.nzz.ch/wirtschaft/arbeiten-im-silicon-valley-zwei-manager-erzaehlen-ld.1628256",
+          "publishedOn": "2021-06-09T03:30:00.000Z",
+          "wordCount": 213,
+          "title": "Einfach mal machen – aber bitte nicht overdressed! – Zwei Manager aus der Schweiz erzählen von ihren Erfahrungen im Silicon Valley"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/executive-mba-an-der-hsg-mas-an-der-eth-was-passiert-da-ld.1628891",
+          "author": null,
+          "description": "Manager, die in einer komplexen Welt bestehen wollen, müssen sich weiterbilden. Aber sie müssen nicht alles verstehen. Zwei Beispiele.",
+          "link": "https://www.nzz.ch/wirtschaft/executive-mba-an-der-hsg-mas-an-der-eth-was-passiert-da-ld.1628891",
+          "publishedOn": "2021-06-09T03:30:00.000Z",
+          "wordCount": 117,
+          "title": "Was passiert eigentlich in einem Executive MBA?"
+        }
+      ]
+    },
+    {
+      "title": "Free exchange",
+      "feedUrl": "https://www.economist.com/blogs/freeexchange/index.xml",
+      "siteUrl": "https://www.economist.com/free-exchange/",
+      "articles": []
+    },
+    {
+      "title": "Buttonwood’s notebook",
+      "feedUrl": "https://www.economist.com/blogs/buttonwood/index.xml",
+      "siteUrl": "https://www.economist.com/buttonwoods-notebook/",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:22:58.458Z</updated>
+    <updated>2021-07-07T19:24:09.778Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -17,6 +17,23 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Roblox, explained]]></title>
+        <id>https://www.theverge.com/2021/7/7/22457264/roblox-explainer-game-app-faq</id>
+        <link href="https://www.theverge.com/2021/7/7/22457264/roblox-explainer-game-app-faq"/>
+        <updated>2021-07-07T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Grayson Blackmon / The Verge
+    
+
+  
+Roblox is one of the biggest apps in the world, and you’ve probably been hearing its name: the company recently went public, and its stock price climbed so high it was temporarily worth more than gaming giants EA and Take-Two combined. Roblox has come up as a contentious topic in the Epic Games v. Apple trial as well.
+But it’s also just an astonishingly popular app: 42.1 million people play Roblox daily. And its popularity is surging during the pandemic. Daily active users were up 85 percent in 2020, compared to the year before.
+Until recently, though, I didn’t really understand what Roblox actually was, despite the app having been around since 2006. (Just to give you an idea of how long that is in tech years, the App Store for iOS...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Robinhood Crypto to Pay $15M Fine Over Security, Anti-Money Laundering Issues]]></title>
         <id>https://decrypt.co/?p=75402</id>
         <link href="https://decrypt.co/75402/robinhood-crypto-nydfs-fine"/>
@@ -24,6 +41,33 @@
         <summary type="html"><![CDATA[The $15 million fine by New York state is the latest in a series of penalties to hit Robinhood. It also underscores the regulatory risk of operating in the crypto sphere.]]></summary>
         <author>
             <name>Jeff John Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melinda French Gates will leave foundation if she and Bill Gates can’t ‘work constructively’]]></title>
+        <id>https://www.theverge.com/2021/7/7/22566889/bill-and-melinda-gates-foundation-divorce-governance-plan-two-years</id>
+        <link href="https://www.theverge.com/2021/7/7/22566889/bill-and-melinda-gates-foundation-divorce-governance-plan-two-years"/>
+        <updated>2021-07-07T18:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Photo credit should read SONNY TUMBELAKA/AFP via Getty Images
+    
+
+  
+Melinda French Gates and Bill Gates recently announced their divorce plans but largely left the question of how the co-chairs would continue to work together at the Bill and Melinda Gates Foundation unanswered. Now, a new statement from the foundation has offered some clarity: they might not (via The New York Times). The foundation says Melinda French Gates will resign from her position as co-chair and trustee if either she or Bill Gates decides they are unable to work together after two years. It’s not clear how the organization settled on that timeframe.
+Bill and Melinda Gates Foundation CEO Mark Suzman announced the two-year post-divorce trial period along with the commitment of an additional $15 billion from Melinda and Bill toward...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons learned? Review of a great review.]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/07/lessons-learned-review-of-great-review.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/07/lessons-learned-review-of-great-review.html"/>
+        <updated>2021-07-07T18:55:00.004Z</updated>
+        <summary type="html"><![CDATA[After great events, will the US government and political system learn from mistakes? Or will we raise the bridges and enshrine whatever was done last time as holy writ, to be repeated again? Reputations of people in power push for the latter. But learning from mistakes is the only way to get ahead. 
+Bailouts and stimulus from 2008 seem to have followed the latter possibility. Will the lesson from covid look skeptically on the disastrous performance of CDC and FDA, evaluate whether lockdowns did good commensurate with cost, question the need to spread trillions of newly printed money around, measure the  effectiveness of masks that have now become political symbols? Or will this simply be enshrined as the playbook? Do we twist every event to push our partisan narratives, facts be damned? A …]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
         </author>
     </entry>
     <entry>
@@ -91,6 +135,23 @@ Points: 94
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Verizon has its own version of spatial audio and it’s already pushing it on phones]]></title>
+        <id>https://www.theverge.com/2021/7/7/22567035/verizon-spatial-audio-adaptive-sound-motorola</id>
+        <link href="https://www.theverge.com/2021/7/7/22567035/verizon-spatial-audio-adaptive-sound-motorola"/>
+        <updated>2021-07-07T17:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+You know spatial audio is having quite a moment when wireless carriers decide to create their own implementations of it. Verizon has announced a new sound feature it’s calling “Verizon Adaptive Sound,” and the company claims it “produces a brilliant spatial surround experience regardless of what headphone, soundbar, or earbud brand you use or what application you’re watching or listening to.” 
+The audio trick, which Verizon says has been in the works since 2019, is coming to Motorola phones first, including the new Motorola One 5G UW Ace that goes on sale July 8th. The Motorola Edge Plus also just received a firmware update that seems to add this feature, as noted by Droid Life. 
+Verizon Adaptive Sound is integrated right into the...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The first on-orbit fuel depot has been deployed]]></title>
         <id>https://news.ycombinator.com/item?id=27763763</id>
         <link href="https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed"/>
@@ -147,6 +208,16 @@ Points: 100
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Call-ID-Spoofing: Bundesnetzagentur kann Querdenker nicht r�ckverfolgen]]></title>
+        <id>https://www.golem.de/2107/157961-rss.html</id>
+        <link href="https://www.golem.de/news/call-id-spoofing-bundesnetzagentur-kann-querdenker-nicht-rueckverfolgen-2107-157961-rss.html"/>
+        <updated>2021-07-07T17:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Call-ID-Spoofing und verbotene Roboteranrufe f�r eine Querdenker-Demo in Stuttgart: Die Bundesnetzagentur gibt auf. (Bundesnetzagentur, Internet)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Great Deals on Summer Road Trip Gear and More from Amazon, eBay, Walmart, Cabela's, and Aukey]]></title>
         <id>https://www.thedrive.com/deals/41431/road-trip-deals-auto-rv</id>
         <link href="https://www.thedrive.com/deals/41431/road-trip-deals-auto-rv"/>
@@ -154,6 +225,24 @@ Points: 100
         <summary type="html"><![CDATA[With summer in full swing, chances are pretty good we've all got our summer travel plans cemented. But just because we know when and where we're headed doesn't mean we have all the gear, tools, and accessories we need to ensure the perfect summer road trip.  To that end, we've got dozens of deals below […]]]></summary>
         <author>
             <name>Jon Langston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donald Trump files sweeping, nonsensical lawsuits against Facebook, Twitter, and Google]]></title>
+        <id>https://www.theverge.com/2021/7/7/22566729/trump-lawsuit-facebook-twitter-google-social-media-censorship</id>
+        <link href="https://www.theverge.com/2021/7/7/22566729/trump-lawsuit-facebook-twitter-google-social-media-censorship"/>
+        <updated>2021-07-07T16:56:38.000Z</updated>
+        <summary type="html"><![CDATA[Photo by James Devaney/ GC Images
+    
+
+  
+Former President Donald Trump has filed proposed class action lawsuits against Facebook, Twitter, and Google subsidiary YouTube as well as CEOs Mark Zuckerberg, Jack Dorsey, and Sundar Pichai. The lawsuits come six months after Trump was permanently or temporarily suspended from all three platforms.
+Trump announced the lawsuits at a press conference today, following an early report by Axios. He referred to the cases as “a very important game-changer for our country.”
+However, the claims are based on an amalgamation of mostly untested or disregarded legal arguments, and they come after numerous other failed attempts to sue social media companies over suspensions or other forms of moderation.
+The complaints allege that social media...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
         </author>
     </entry>
     <entry>
@@ -187,6 +276,25 @@ The red memory, the foam of sybil and indeed: I am a blue dove ... by Equestrian
 Plus 10 more...]]></summary>
         <author>
             <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook’s new AR feature for Portal lets you dress up as Harry Potter characters]]></title>
+        <id>https://www.theverge.com/2021/7/7/22566878/facebook-ar-harry-potter-cursed-child-characters</id>
+        <link href="https://www.theverge.com/2021/7/7/22566878/facebook-ar-harry-potter-cursed-child-characters"/>
+        <updated>2021-07-07T16:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Facebook’s Harry Potter-themed AR masks for Portal. | Image: Facebook
+    
+
+  
+Facebook’s Portal video calling device is getting a Harry Potter and the Cursed Child crossover that lets you and up to three friends dress up as characters from the play using augmented reality technology.
+Here’s how you can use it, according to a Facebook blog:
+Anyone can initiate the experience by tapping “Curtain Call” in the effects tray on Portal. You can then select one of three locations from the menu to visit: Hogwarts Great Hall, the Ministry of Magic or the Edge of the Forbidden Forest. When the lights come up, each person on the call will embody a character from the show with a unique spell, which is assigned randomly. Simply nod your head or tap the screen to cast it and watch as your friends marvel at the magic.
+
+The AR...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
         </author>
     </entry>
     <entry>
@@ -229,6 +337,36 @@ Points: 46
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Novartis braucht die Einnahmen aus seinem neuen Cholesterinsenker]]></title>
+        <id>https://www.nzz.ch/wirtschaft/cholesterinsenker-novartis-amgen-und-sanofi-buhlen-um-anteile-ld.1634452</id>
+        <link href="https://www.nzz.ch/wirtschaft/cholesterinsenker-novartis-amgen-und-sanofi-buhlen-um-anteile-ld.1634452"/>
+        <updated>2021-07-07T16:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Eineinhalb Jahre nach einem milliardenschweren Zukauf gilt beim Pharmakonzern Novartis noch immer «ausser Spesen fast nichts gewesen». Ein neuer Cholesterinsenker muss zum Erfolg gebracht werden. Viel Zeit bleibt nicht mehr übrig.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swatch wird im SMI von Logitech abgelöst – und weitere Wirtschaftsmeldungen]]></title>
+        <id>https://www.nzz.ch/wirtschaft/pentagon-zieht-milliardenschweren-auftrag-an-microsoft-zurueck-und-weitere-wirtschaftsmeldungen-ld.1634348</id>
+        <link href="https://www.nzz.ch/wirtschaft/pentagon-zieht-milliardenschweren-auftrag-an-microsoft-zurueck-und-weitere-wirtschaftsmeldungen-ld.1634348"/>
+        <updated>2021-07-07T16:10:26.000Z</updated>
+        <summary type="html"><![CDATA[NZZ Nachrichten, Hintergründe, Meinungen aus der Schweiz, International, Sport, Digital, Wirtschaft, Auto & mehr. Fundierte Berichterstattung rund um die Uhr.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Gates kann Melinda Gates aus der gemeinsamen Stiftung entfernen]]></title>
+        <id>https://www.nzz.ch/wirtschaft/gates-stiftung-abgang-von-melinda-gates-wird-vorbereitet-ld.1634517</id>
+        <link href="https://www.nzz.ch/wirtschaft/gates-stiftung-abgang-von-melinda-gates-wird-vorbereitet-ld.1634517"/>
+        <updated>2021-07-07T16:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Nach der privaten Trennung gehen Bill und Melinda Gates möglicherweise auch in ihrer philanthropischen Arbeit künftig getrennte Wege. In der Bill-und-Melinda-Gates-Stiftung wird jedenfalls ein Abgang von Melinda Gates vorbereitet.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ram 1500 G/T Pack: The New Mild-Hybrid Street Truck]]></title>
         <id>https://www.thedrive.com/news/41436/ram-1500-g-t-pack-the-new-mild-hybrid-street-truck</id>
         <link href="https://www.thedrive.com/news/41436/ram-1500-g-t-pack-the-new-mild-hybrid-street-truck"/>
@@ -236,6 +374,26 @@ Points: 46
         <summary type="html"><![CDATA[The late '90s and early '00s street truck fad was great; I miss it. There are still high-performance pickups, of course, though they're Baja blasters instead of pavement pounders. Cheesy alliteration aside, there are plenty of folks out there who want to see more muscle trucks on the road—and apparently, some of them work at […]]]></summary>
         <author>
             <name>Caleb Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ladies and gentlemen, a leather case for your MagSafe puck]]></title>
+        <id>https://www.theverge.com/tldr/2021/7/7/22563631/nomad-magsafe-leather-cover-charger-price</id>
+        <link href="https://www.theverge.com/tldr/2021/7/7/22563631/nomad-magsafe-leather-cover-charger-price"/>
+        <updated>2021-07-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if MagSafe, but covered in leather? | Image: Nomad
+    
+
+  
+I’m not going to pretend to understand how product development meetings work, but there must have been something pretty special in the water when Nomad’s crack team of accessory specialists put together its latest pitch. From the company that was brave enough to encase your AirPods Pro case in leather, comes an all-new leather MagSafe case. That’s right, it’s a leather case for the iPhone 12’s magnetic charging puck.
+Nomad’s argument is that the case, which is available in either black or brown, gives a MagSafe charger “a classic, yet bold new look,” and that it makes the charger slightly bigger and easier to grip to remove from a phone. But it also costs $25. 
+Image: Nomad
+      Nomad’s expanded leather universe.
+  
+As...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
         </author>
     </entry>
     <entry>
@@ -249,6 +407,16 @@ Points: 82
 # Comments: 65]]></summary>
         <author>
             <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autobahn: VW-Chef Diess ist gegen ein Tempolimit auf der Autobahn]]></title>
+        <id>https://www.golem.de/2107/157960-rss.html</id>
+        <link href="https://www.golem.de/news/autobahn-vw-chef-diess-ist-gegen-ein-tempolimit-auf-der-autobahn-2107-157960-rss.html"/>
+        <updated>2021-07-07T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Mit Elektroautos wird wegen der Reichweite in Zukunft langsamer gefahren. (Verkehr, Elektroauto)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -275,6 +443,16 @@ Points: 34
 # Comments: 14]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365: Neues Office-Design im Stil von Windows 11 kommt]]></title>
+        <id>https://www.golem.de/2107/157959-rss.html</id>
+        <link href="https://www.golem.de/news/microsoft-365-neues-office-design-im-stil-von-windows-11-kommt-2107-157959-rss.html"/>
+        <updated>2021-07-07T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Word, Excel, Powerpoint, Outlook: Microsoft 365 sieht bald aus wie Windows 11. Das Design-Update kann bereits ausprobiert werden. (Microsoft 365, Microsoft)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -339,6 +517,16 @@ Points: 104
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Social Media: Trump verklagt Facebook und Twitter]]></title>
+        <id>https://www.golem.de/2107/157957-rss.html</id>
+        <link href="https://www.golem.de/news/social-media-trump-verklagt-facebook-und-twitter-2107-157957-rss.html"/>
+        <updated>2021-07-07T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Im angeblichen Kampf gegen Zensur und f�r Meinungsfreiheit reicht Donald Trump eine Klage gegen Mark Zuckerberg und Jack Dorsey ein. (Donald Trump, Soziales Netz)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why the Hummer EV Doesn't Have Removable Doors]]></title>
         <id>https://www.thedrive.com/news/41432/why-the-hummer-ev-doesnt-have-removable-doors</id>
         <link href="https://www.thedrive.com/news/41432/why-the-hummer-ev-doesnt-have-removable-doors"/>
@@ -346,6 +534,28 @@ Points: 104
         <summary type="html"><![CDATA[Removable doors have become a staple on off-roaders like the Jeep Wrangler and Ford Bronco. GM doesn't have a direct competitor to these vehicles as such, but it did just release a brand new truck that should perform pretty well off the beaten path—the 2022 GMC Hummer EV. The new Hummer is technically a convertible […]]]></summary>
         <author>
             <name>Peter Holderith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audacity, Free Now, Playstation: The Last of Us bekommt eigene TV-Serie]]></title>
+        <id>https://www.golem.de/2107/157952-rss.html</id>
+        <link href="https://www.golem.de/news/audacity-free-now-playstation-the-last-of-us-bekommt-eigene-tv-serie-2107-157952-rss.html"/>
+        <updated>2021-07-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Was am 7. Juli 2021 neben den gro�en Meldungen sonst noch passiert ist, in aller K�rze. (Kurznews, Intel)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy VII Remake’s directors wanted to show ‘a new side’ of Midgar with Yuffie chapter]]></title>
+        <id>https://www.theverge.com/22565517/final-fantasy-7-remake-intermission-intergrade-yuffie-interview-ps5</id>
+        <link href="https://www.theverge.com/22565517/final-fantasy-7-remake-intermission-intergrade-yuffie-interview-ps5"/>
+        <updated>2021-07-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Final Fantasy VII Remake isn’t a complete story. Instead, the game explores the beginning of the classic RPG, with later chapters planned to finish the narrative at some point in the future. This means you’ll meet most of the main cast, but certain characters haven’t yet made an appearance — which turned out to be helpful when co-director Motomu Toriyama started thinking of the game’s first add-on.
+“We were going to depict a side of Midgar that took place during the same timeline as the Final Fantasy VII Remake base game, and so I thought Yuffie, who was an optional character [in the original game], was the logical choice,” he tells The Verge. “Even in the source material, she makes an appearance in the middle of the journey, but the...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
         </author>
     </entry>
     <entry>
@@ -362,6 +572,22 @@ Points: 71
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BMW’s actually making the futuristic CE 04 electric scooter]]></title>
+        <id>https://www.theverge.com/2021/7/7/22566683/bmw-ce-04-electric-city-scooter-futuristic-design-motorrad</id>
+        <link href="https://www.theverge.com/2021/7/7/22566683/bmw-ce-04-electric-city-scooter-futuristic-design-motorrad"/>
+        <updated>2021-07-07T14:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Image: BMW
+    
+
+  
+BMW has been warning us for years that it wants to make and sell a radical electric city scooter, and now it’s following through. On Wednesday, the German automaker announced that its Motorrad division will put the striking BMW CE 04 into production, with decent range and speed on offer as well as plenty of futuristic vibes.
+The CE 04 broke cover as a concept scooter in November 2020, though that itself was basically just a reimagining of another concept that BMW debuted in 2017. What’s really striking about the images BMW released Wednesday is how similar the production version looks. Instead of watering down the bold design in an attempt to please a wider range of buyers, the CE 04’s bright orange accents and sharp, angular lines make...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Neurons Unexpectedly Encode Information in the Timing of Their Firing]]></title>
         <id>https://news.ycombinator.com/item?id=27761706</id>
         <link href="https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/"/>
@@ -372,6 +598,20 @@ Points: 117
 # Comments: 47]]></summary>
         <author>
             <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grubhub will use Russian-made robots to deliver food on college campuses]]></title>
+        <id>https://www.theverge.com/2021/7/7/22566652/grubhub-delivery-robot-yandex-college-campus-autonomous</id>
+        <link href="https://www.theverge.com/2021/7/7/22566652/grubhub-delivery-robot-yandex-college-campus-autonomous"/>
+        <updated>2021-07-07T14:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Grubhub and Russian self-driving startup Yandex are teaming up to use robots to deliver food on US college campuses. It represents the latest deal that envisions hundreds of six-wheeled self-driving robots that essentially act as roving lunchboxes in cities across the country. 
+The robot-powered delivery service won’t kick off until this fall when college students return to campus. Yandex, which is often described as Russia’s Google, will operate the robots, as well as handle the entire food delivery process. Grubhub, which has partnerships with over 250 college campuses in the US, will serve as the platform for the delivery transactions. 
+Grubhub cited the cost savings it will get by eliminating delivery workers
+Grubhub cited the cost...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
         </author>
     </entry>
     <entry>
@@ -399,6 +639,22 @@ Points: 543
 # Comments: 135]]></summary>
         <author>
             <name>wongmjane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft is reportedly shaking up Assassin’s Creed with new live-service game]]></title>
+        <id>https://www.theverge.com/2021/7/7/22566676/assassins-creed-infinity-ubisoft-confirmed-online-service-based-game</id>
+        <link href="https://www.theverge.com/2021/7/7/22566676/assassins-creed-infinity-ubisoft-confirmed-online-service-based-game"/>
+        <updated>2021-07-07T14:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+Ubisoft has officially confirmed the existence of a new Assassin’s Creed game codenamed “Infinity,” after a report from Bloomberg detailed the new online service-based game. While Ubisoft’s announcement doesn’t shed much light on what form the new game will take, Bloomberg reports that it will be an evolving online game similar to the likes of Fortnite or GTA Online.
+Infinity marks what is likely to be the biggest change in the franchise’s history since its debut in 2007. Until now, Ubisoft has tended to release a new standalone Assassin’s Creed game once every one or two years, each focused on a single location and time period. But according to Bloomberg, Infinity will feature multiple connected settings that may look and play...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
         </author>
     </entry>
     <entry>
@@ -430,6 +686,26 @@ Points: 543
         <summary type="html"><![CDATA[A tie-up between two significant Ethereum infrastructure providers could be a boon for the world of dapps.]]></summary>
         <author>
             <name>Jeff John Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Bei Kryptowährungen scheiden sich die Geister: Das sollten Sie über Bitcoin, Ethereum und Co. wissen]]></title>
+        <id>https://www.nzz.ch/finanzen/der-druck-auf-den-bitcoin-nimmt-zu-dieser-faellt-auf-35-000-dollar-ld.1336477</id>
+        <link href="https://www.nzz.ch/finanzen/der-druck-auf-den-bitcoin-nimmt-zu-dieser-faellt-auf-35-000-dollar-ld.1336477"/>
+        <updated>2021-07-07T13:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Virtuelle Währungen wie Bitcoin und Co. haben einen schlechten Ruf. Sie gelten als unbeständig und als Energiefresser. Doch sie haben gegenüber herkömmlichen Zahlungsmitteln auch Vorteile – und ein breiteres Einsatzgebiet. Die wichtigsten Antworten zu Kryptowährungen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desktop auf Reisen: Bastler baut Koffer-PC mit integriertem Bildschirm und Griff]]></title>
+        <id>https://www.golem.de/2107/157954-rss.html</id>
+        <link href="https://www.golem.de/news/desktop-auf-reisen-bastler-baut-koffer-pc-mit-integriertem-bildschirm-und-griff-2107-157954-rss.html"/>
+        <updated>2021-07-07T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Spielen auf Reisen: Der selbstgebaute Koffer-PC verwendet handels�bliche Komponenten und integriert den Bildschirm direkt im Seitenteil. (DIY - Do it yourself, Computer)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -466,6 +742,16 @@ Points: 116
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Telekom: Einzelne Standorte haben nach 3G-Abschaltung nur 2G]]></title>
+        <id>https://www.golem.de/2107/157953-rss.html</id>
+        <link href="https://www.golem.de/news/telekom-einzelne-standorte-haben-nach-3g-abschaltung-nur-2g-2107-157953-rss.html"/>
+        <updated>2021-07-07T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[An einzelnen Vodafone- und Telekom-Standorten ist seit der 3G-Abschaltung nur noch das GSM-Netz und EDGE verf�gbar. (UMTS, Telekom)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Complex game worlds, simple text interfaces (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=27760863</id>
         <link href="https://egamebook.com/blog/complex-systems-simple-interface/"/>
@@ -476,6 +762,16 @@ Points: 86
 # Comments: 8]]></summary>
         <author>
             <name>davegauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wegen Abschalteinrichtung: Verbraucherschutzverband klagt gegen Daimler]]></title>
+        <id>https://www.golem.de/2107/157950-rss.html</id>
+        <link href="https://www.golem.de/news/wegen-abschalteinrichtung-verbraucherschutzverband-klagt-gegen-daimler-2107-157950-rss.html"/>
+        <updated>2021-07-07T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Damit Schadensersatzanspr�che wegen manipulierter Fahrzeug-Software nicht verj�hren, klagt der VZBV gegen Daimler. (VZBV, Technologie)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -490,6 +786,16 @@ Machine learning models can stop working as expected, often for non-obvious reas
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mario, Zelda und Co.: F�r wen sich die Nintendo Switch OLED lohnen k�nnte]]></title>
+        <id>https://www.golem.de/2107/157945-rss.html</id>
+        <link href="https://www.golem.de/news/mario-zelda-und-co-fuer-wen-sich-die-nintendo-switch-oled-lohnen-koennte-2107-157945-rss.html"/>
+        <updated>2021-07-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ob wir Neukunden sind oder bereits eine Nintendo Switch besitzen: Lohnt der Kauf des neuen OLED-Modells? Golem.de gibt einen �berblick. Eine Analyse von Oliver Nickel (Nintendo Switch, OLED)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anlagebetrüger inhaftiert: mittels Krypto-Investitionen 62 Bitcoins erbeutet]]></title>
         <id>https://tarnkappe.info/?p=157299</id>
         <link href="https://tarnkappe.info/anlagebetrueger-inhaftiert-mittels-krypto-investitionen-62-bitcoins-erbeutet/"/>
@@ -499,6 +805,16 @@ Zu dem Artikel: Anlagebetrüger inhaftiert: mittels Krypto-Investitionen 62 Bitc
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Antonia Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elektroroller: BMW rollt mit dem futuristischen CE 04 an]]></title>
+        <id>https://www.golem.de/2107/157949-rss.html</id>
+        <link href="https://www.golem.de/news/elektroroller-bmw-rollt-mit-dem-futuristischen-ce-04-an-2107-157949-rss.html"/>
+        <updated>2021-07-07T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Kein h�sslich-praktisches Dach, sondern ein Ausflug in die Welt von Tron: Der Elektroroller CE 04 von BMW erscheint 2022. (Elektroroller, GreenIT)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -525,6 +841,16 @@ Points: 112
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Infinity: Ubisoft entwickelt ewiges Assassin's Creed]]></title>
+        <id>https://www.golem.de/2107/157951-rss.html</id>
+        <link href="https://www.golem.de/news/infinity-ubisoft-entwickelt-ewiges-assassin-s-creed-2107-157951-rss.html"/>
+        <updated>2021-07-07T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Verbundene Onlinewelten, die sich immer wieder �ndern: Ubisoft arbeitet an Assassin's Creed Infinity. Konkurrenz zu GTA Online und Fortnite? (Assassin's Creed, Rollenspiel)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Binance CEO Calls For ‘Clear Regulations’ Amid Growing Pressure]]></title>
         <id>https://decrypt.co/?p=75377</id>
         <link href="https://decrypt.co/75377/binance-ceo-calls-for-clear-regulation-amid-growing-pressure"/>
@@ -532,6 +858,56 @@ Points: 112
         <summary type="html"><![CDATA[With Binance facing growing pressure from regulators, the crypto exchange's CEO Changpeng Zhao has said that "compliance is a journey".]]></summary>
         <author>
             <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux empfohlen: Microsoft stellt SQL Server f�r Windows Container ein]]></title>
+        <id>https://www.golem.de/2107/157948-rss.html</id>
+        <link href="https://www.golem.de/news/linux-empfohlen-microsoft-stellt-sql-server-fuer-windows-container-ein-2107-157948-rss.html"/>
+        <updated>2021-07-07T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Statt der eigenen Windows Server Container empfiehlt Microsoft nun die Nutzung von Linux f�r eines seiner wichtigsten Produkte: den SQL Server. (Microsoft, Server)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jedi-Milliardenprojekt: Das amerikanische Verteidigungsministerium entzieht Microsoft den Auftrag und schreibt ihn neu aus]]></title>
+        <id>https://www.nzz.ch/wirtschaft/jedi-milliardenprojekt-das-amerikanische-verteidigungsministerium-entzieht-microsoft-den-auftrag-und-schreibt-ihn-neu-aus-ld.1634430</id>
+        <link href="https://www.nzz.ch/wirtschaft/jedi-milliardenprojekt-das-amerikanische-verteidigungsministerium-entzieht-microsoft-den-auftrag-und-schreibt-ihn-neu-aus-ld.1634430"/>
+        <updated>2021-07-07T12:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft wollte für das amerikanische Militär eine Cloud für militärische Daten aufbauen. Doch daraus wird nun wohl nichts, denn das Pentagon will die Vereinbarung auflösen. Nun könnte der Konkurrent Amazon doch noch zum Zuge kommen, nachdem ihm zunächst die Aversionen Trumps gegen Bezos in die Quere gekommen waren.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gate All Around (GAA): Samsungs Nanowire-Transistoren versp�ten sich]]></title>
+        <id>https://www.golem.de/2107/157946-rss.html</id>
+        <link href="https://www.golem.de/news/gate-all-around-gaa-samsungs-nanowire-transistoren-verspaeten-sich-2107-157946-rss.html"/>
+        <updated>2021-07-07T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Urspr�nglich f�r dieses Jahr geplant, soll die Serienfertigung erst 2023 starten. Auch �berspringt Samsung Foundry die erste Version. (Halbleiterfertigung, Samsung)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darstellungen von Kindesmissbrauch: EU-Parlament stimmt Nachrichten-Scans zu]]></title>
+        <id>https://www.golem.de/2107/157944-rss.html</id>
+        <link href="https://www.golem.de/news/darstellungen-von-kindesmissbrauch-eu-parlament-stimmt-nachrichten-scans-zu-2107-157944-rss.html"/>
+        <updated>2021-07-07T11:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Das EU-Parlament hat einer umstrittenen Regelung zur Nachrichtenkontrolle zugestimmt. Online-Plattformen d�rfen nun wieder Chat-Inhalte scannen. (Europaparlament, Google)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jugendschutz: Tencent sperrt minderj�hrige Spieler per Gesichtserkennung]]></title>
+        <id>https://www.golem.de/2107/157943-rss.html</id>
+        <link href="https://www.golem.de/news/jugendschutz-tencent-sperrt-minderjaehrige-spieler-per-gesichtserkennung-2107-157943-rss.html"/>
+        <updated>2021-07-07T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[In China wird Gaming immer st�rker reguliert. Nun sperrt Tencent seine minderj�hrige Kundschaft nachts per Gesichtserkennung. (Mobile Games, Jugendschutz)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -576,6 +952,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lakefield: Intels erste Hybrid-CPU ist schon End of Life]]></title>
+        <id>https://www.golem.de/2107/157942-rss.html</id>
+        <link href="https://www.golem.de/news/lakefield-intels-erste-hybrid-cpu-ist-schon-end-of-life-2107-157942-rss.html"/>
+        <updated>2021-07-07T11:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Gerade mal ein Jahr war Lakefield am Markt, da schickt Intel seine erste Hybrid-CPU bereits in Rente. Die Nachfrage war einfach zu gering. (Prozessor, Intel)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesetipps: Binance vs. Euro, SpaceX und Starlink für Nerds, Glücksspiel]]></title>
         <id>https://tarnkappe.info/?p=156975</id>
         <link href="https://tarnkappe.info/lesetipps-binance-vs-euro-spacex-und-starlink-fuer-nerds-gluecksspiel/"/>
@@ -595,6 +981,36 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Aside from the folks who regularly read automotive enthusiasts and news websites like The Drive and Car Bibles (Ed. Note: Hello, we appreciate you.), most people hear about recalls strictly from the news or a viral story on social media. You might hear about the Mercedes-Benz cars that might lose power steering, Chevrolet Bolt EVs […]]]></summary>
         <author>
             <name>Tony Markovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getr�nkedienst: Flaschenpost will bundesweit frische Lebensmittel liefern]]></title>
+        <id>https://www.golem.de/2107/157941-rss.html</id>
+        <link href="https://www.golem.de/news/getraenkedienst-flaschenpost-will-bundesweit-frische-lebensmittel-liefern-2107-157941-rss.html"/>
+        <updated>2021-07-07T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Ausliefern frischer Lebensmittel scheint sich zu lohnen. Der zum Oetker-Konzern geh�rende Online-Lieferdienst Flaschenpost steigt hier ein. (Lieferdienst, Wirtschaft)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O3DE: Amazon macht eigene Gaming-Engine Open Source]]></title>
+        <id>https://www.golem.de/2107/157939-rss.html</id>
+        <link href="https://www.golem.de/news/o3de-amazon-macht-eigene-gaming-engine-open-source-2107-157939-rss.html"/>
+        <updated>2021-07-07T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Die freie Engine ist eine Abk�mmling von AWS' Lumberyard. Verwaltet wird das neue O3DE-Projekt von der Linux Foundation. (AWS, DirectX)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defekte Technik: US-Pr�sident k�mpft nun f�r das Recht auf Reparatur]]></title>
+        <id>https://www.golem.de/2107/157940-rss.html</id>
+        <link href="https://www.golem.de/news/defekte-technik-us-praesident-kaempft-nun-fuer-das-recht-auf-reparatur-2107-157940-rss.html"/>
+        <updated>2021-07-07T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Diskussion um das Recht auf Reparatur in den USA wird konkret. Pr�sident Biden hat die FTC angewiesen, eine Regelung zu finden. (Elektronikschrott, GreenIT)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -668,6 +1084,36 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[�berwachung: Was hilft gegen den Staatstrojaner?]]></title>
+        <id>https://www.golem.de/2107/157862-rss.html</id>
+        <link href="https://www.golem.de/news/ueberwachung-was-hilft-gegen-den-staatstrojaner-2107-157862-rss.html"/>
+        <updated>2021-07-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Staatstrojaner d�rfen immer h�ufiger eingesetzt werden. Wir erkl�ren, wie sie auf unsere Ger�te kommen und wie wir uns davor sch�tzen k�nnen. Von Moritz Tremmel (Trojaner, Datenschutz)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elektroauto: Ladestation pr�ft den Zustand des Akkus]]></title>
+        <id>https://www.golem.de/2107/157937-rss.html</id>
+        <link href="https://www.golem.de/news/elektroauto-ladestation-prueft-den-zustand-des-akkus-2107-157937-rss.html"/>
+        <updated>2021-07-07T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Wie gut ist der Akku des Elektroautos? Aiways will das beim Laden pr�fen. (Lades�ule, KI)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setonix: K�nguru-Supercomputer nutzt 128-GByte-AMD-Beschleuniger]]></title>
+        <id>https://www.golem.de/2107/157935-rss.html</id>
+        <link href="https://www.golem.de/news/setonix-kaenguru-supercomputer-nutzt-128-gbyte-amd-beschleuniger-2107-157935-rss.html"/>
+        <updated>2021-07-07T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Der nach dem Quokka benannte Supercomputer setzt auf Instinct-Karten, die mit sehr viel HBM-Stapelspeicher und Chiplet-Technik antreten. (Supercomputer, AMD)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Axie Infinity's 27% Rise Leads Crypto Gaming Token Rally]]></title>
         <id>https://decrypt.co/?p=75367</id>
         <link href="https://decrypt.co/75367/axie-infinitys-27-rise-leads-crypto-gaming-token-rally"/>
@@ -678,6 +1124,46 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hybridkonsole: 2022 k�nnte leistungsst�rkere Nintendo Switch Pro kommen]]></title>
+        <id>https://www.golem.de/2107/157938-rss.html</id>
+        <link href="https://www.golem.de/news/hybridkonsole-2022-koennte-leistungsstaerkere-nintendo-switch-pro-kommen-2107-157938-rss.html"/>
+        <updated>2021-07-07T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Die gerade angek�ndigte OLED-Version muss nicht die letzte Nintendo Switch sein: Es gibt Spekulationen �ber ein echtes Pro-Modell. (Nintendo Switch, OLED)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyboardio Model 100: Mechanische Tastatur hat tauschbare Switches im Holzgeh�use]]></title>
+        <id>https://www.golem.de/2107/157936-rss.html</id>
+        <link href="https://www.golem.de/news/keyboardio-model-100-mechanische-tastatur-hat-tauschbare-switches-im-holzgehaeuse-2107-157936-rss.html"/>
+        <updated>2021-07-07T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Keyboardio finanziert eine ergonomische Tastatur. Das Model 100 kann in Holz und mit Keycaps, die mit minoischer Schrift bedruckt sind, bestellt werden. (Tastatur, Eingabeger�t)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Ransomware-Angriff: Die USA wollen selbst gegen Erpresser vorgehen, wenn Russland nicht handelt]]></title>
+        <id>https://www.nzz.ch/technologie/ransomware-angriff-usa-wollen-selbst-gegen-erpresser-vorgehen-wenn-russland-nicht-handelt-ld.1628409</id>
+        <link href="https://www.nzz.ch/technologie/ransomware-angriff-usa-wollen-selbst-gegen-erpresser-vorgehen-wenn-russland-nicht-handelt-ld.1628409"/>
+        <updated>2021-07-07T08:55:18.000Z</updated>
+        <summary type="html"><![CDATA[In den vergangenen Wochen wurden mehrere bedeutende Firmen Opfer von Ransomware. Die USA räumen nun dem Kampf gegen die Kriminellen höchste Priorität ein. Doch wie funktioniert Ransomware überhaupt, und wer steckt dahinter?]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B�rse: China setzt auf Datenschutz bei Firmen im Ausland]]></title>
+        <id>https://www.golem.de/2107/157933-rss.html</id>
+        <link href="https://www.golem.de/news/boerse-china-setzt-auf-datenschutz-bei-firmen-im-ausland-2107-157933-rss.html"/>
+        <updated>2021-07-07T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Die B�rseng�nge chinesischer Unternehmen im Ausland missfallen der chinesischen F�hrung. Die setzt nun auf strikten Datenschutz. (B�rse, Datenschutz)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Binance Beefs Up Compliance Team With New Hire From eToro]]></title>
         <id>https://decrypt.co/?p=75330</id>
         <link href="https://decrypt.co/75330/binance-hires-etoro-compliance-director"/>
@@ -685,6 +1171,46 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Binance adds a new director of compliance following recent clashes with regulators in the UK, the Cayman Islands, and elsewhere.]]></summary>
         <author>
             <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millionenbetrug: Brasilien verhaftet selbsternannten Bitcoin-K�nig]]></title>
+        <id>https://www.golem.de/2107/157934-rss.html</id>
+        <link href="https://www.golem.de/news/millionenbetrug-brasilien-verhaftet-selbsternannten-bitcoin-koenig-2107-157934-rss.html"/>
+        <updated>2021-07-07T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Er nennt sich selbst Bitcoin-K�nig Brasiliens, jetzt sitzt er im Gef�ngnis. Cl�udio Oliveira soll Investoren um 244 Millionen Euro betrogen haben. (Bitcoin, Kryptomining)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Jedi: Pentagon schreibt milliardenschweren Cloud-Auftrag neu aus]]></title>
+        <id>https://www.golem.de/2107/157932-rss.html</id>
+        <link href="https://www.golem.de/news/project-jedi-pentagon-schreibt-milliardenschweren-cloud-auftrag-neu-aus-2107-157932-rss.html"/>
+        <updated>2021-07-07T07:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Lange sah AWS wie der sichere Gewinner des Jedi-Projekts aus. Unter Trump erhielt Microsoft den Zuschlag. Der Vertrag wird nun aufgel�st. (Politik/Recht, Web Service)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Printnightmare: Erste Patches f�r Windows-Sicherheitsl�cke]]></title>
+        <id>https://www.golem.de/2107/157931-rss.html</id>
+        <link href="https://www.golem.de/news/printnightmare-erste-patches-fuer-windows-sicherheitsluecke-2107-157931-rss.html"/>
+        <updated>2021-07-07T07:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Durch ein Problem mit dem Windows-Druck-Spooler k�nnen Angreifer Code aus der Ferne ausf�hren. Erste Patches stehen bereit, aber noch nicht f�r alles. (Windows, Drucker)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loupedeck CT im Test: Fotos entwickeln mit guter Haptik]]></title>
+        <id>https://www.golem.de/2107/157775-rss.html</id>
+        <link href="https://www.golem.de/news/loupedeck-ct-im-test-fotos-entwickeln-mit-guter-haptik-2107-157775-rss.html"/>
+        <updated>2021-07-07T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Kn�pfe, Regler, Minidisplays - das Loupedeck CT �berraschte uns im Test in Lightroom mit n�tzlichen Funktionen und einer sehr kurzen Einarbeitungszeit. Ein Test von Martin Wolf (Lightroom, Eingabeger�t)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -699,6 +1225,46 @@ Endlich ist sie da: eine detaillierte Beschreibung der Frauenrevolution Rojavas.
  Seine Stärke liegt vor allem in den Stimmen der Akteurinnen vor Ort, die der Motor der Revolution sind. Mehr als 150 Interviews führte eine Delegation der feministischen Kampagne „Gemeinsam kämpfen“, die sich über mehrere Monate in Rojava aufhielt. In Zusammenarbeit mit dem Andrea Wolf Institut und zahlreichen freiwilligen Übe…]]></summary>
         <author>
             <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kein Fahrer und kein Verk�ufer: Autonomer Kiosk rollt in K�ln]]></title>
+        <id>https://www.golem.de/2107/157930-rss.html</id>
+        <link href="https://www.golem.de/news/kein-fahrer-und-kein-verkaeufer-autonomer-kiosk-rollt-in-koeln-2107-157930-rss.html"/>
+        <updated>2021-07-07T05:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Durch ein Winken h�lt der autonome Kiosk namens Snackmobil an, und es kann eingekauft werden. Realisiert wird das von Rewe und Vodafone. (Autonomes Fahren, Vodafone)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU-Klimaschutzpaket: CDU und CSU in der EU f�r Verbrennermotoren-Schutz]]></title>
+        <id>https://www.golem.de/2107/157928-rss.html</id>
+        <link href="https://www.golem.de/news/eu-klimaschutzpaket-cdu-und-csu-in-der-eu-fuer-verbrennermotoren-schutz-2107-157928-rss.html"/>
+        <updated>2021-07-07T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Unions-Abgeordnete im EU-Parlament lehnen Klimavorgaben ab, die zu einem Ende von Verbrennungsmotoren f�hren. (Auto, GreenIT)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paketdienst: DHL Express will in Berlin elektrisch zustellen]]></title>
+        <id>https://www.golem.de/2107/157927-rss.html</id>
+        <link href="https://www.golem.de/news/paketdienst-dhl-express-will-in-berlin-elektrisch-zustellen-2107-157927-rss.html"/>
+        <updated>2021-07-07T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[DHL will seine CO2-Bilanz verbessern und plant, in der Bundeshauptstadt die Zustellung mit 61 vollelektrisch betriebenen Fahrzeugen zu realisieren. (Lkw, Elektroauto)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Au�erhalb von Hauptstra�en: Sieben Gro�st�dte wollen Tempo 50 als Ausnahme]]></title>
+        <id>https://www.golem.de/2107/157929-rss.html</id>
+        <link href="https://www.golem.de/news/ausserhalb-von-hauptstrassen-sieben-grossstaedte-wollen-tempo-50-als-ausnahme-2107-157929-rss.html"/>
+        <updated>2021-07-07T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In Modellversuchen wollen mehrere deutsche St�dte Tempo 30 zur Regel machen. Dazu w�re eine Gesetzes�nderung erforderlich. (Verkehr, Politik/Recht)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -738,6 +1304,66 @@ Let’s all have a revisionist Fourth of July]]></summary>
         <summary type="html"><![CDATA[Decentralized apps, or dapps, run on blockchains and do away with centralized middlemen. They're shaking up everything from finance to gaming.]]></summary>
         <author>
             <name>Esat Dedezade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die Schweizer kehren nur zögerlich ins Büro zurück – die Wirtschaftsentwicklung in Echtzeit]]></title>
+        <id>https://www.nzz.ch/wirtschaft/coronavirus-und-die-wirtschaft-daten-in-echtzeit-zeigen-erholung-ld.1561501</id>
+        <link href="https://www.nzz.ch/wirtschaft/coronavirus-und-die-wirtschaft-daten-in-echtzeit-zeigen-erholung-ld.1561501"/>
+        <updated>2021-07-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nach dem Ende der Home-Office-Pflicht pendeln wieder etwas mehr Menschen ins Büro. Aber es sind deutlich weniger als vor der Pandemie. Wir zeigen mit Echtzeitdaten in Grafiken den Verlauf der Corona-Krise – und wo wir gegenwärtig stehen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Das Dilemma mit der Cyberversicherung: Alle wollen sie, niemand weiss, wie viel sie kosten muss]]></title>
+        <id>https://www.nzz.ch/wirtschaft/cyber-versicherung-niemand-weiss-was-sie-kosten-muss-ld.1634197</id>
+        <link href="https://www.nzz.ch/wirtschaft/cyber-versicherung-niemand-weiss-was-sie-kosten-muss-ld.1634197"/>
+        <updated>2021-07-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Die jüngsten Ransomware-Angriffe zeigten einmal mehr, wie verwundbar Unternehmen gegenüber neuartigen digitalen Bedrohungen sind. Der Versicherungsschutz dagegen ist entsprechend gefragt. Er trägt aber noch nicht immer.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Importierte Autos: Der Bund will gegen angebliche Schein-Occasionen vorgehen – die Branche wehrt sich]]></title>
+        <id>https://www.nzz.ch/wirtschaft/bund-kaempft-gegen-schein-occasionen-autohaendler-wehren-sich-ld.1633626</id>
+        <link href="https://www.nzz.ch/wirtschaft/bund-kaempft-gegen-schein-occasionen-autohaendler-wehren-sich-ld.1633626"/>
+        <updated>2021-07-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Bei Autos aus dem Ausland, die seit mindestens sechs Monaten zugelassen sind, entfällt bei der Einfuhr die CO2-Abgabe. Der Bund spricht von als Occasionen getarnten Neuwagen und will dies unterbinden. Die freien Autohändler halten dagegen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Die Freiheit im Billigflieger ist noch nicht grenzenlos]]></title>
+        <id>https://www.nzz.ch/wirtschaft/die-freiheit-im-billigflieger-ist-noch-nicht-grenzenlos-ld.1634295</id>
+        <link href="https://www.nzz.ch/wirtschaft/die-freiheit-im-billigflieger-ist-noch-nicht-grenzenlos-ld.1634295"/>
+        <updated>2021-07-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Der britische Staat will sich weitgehend aus der Regulierung des Alltags zurückziehen. Nun müssen private Firmen – und auch die Fluggesellschaften – in Eigenregie dafür sorgen, dass sich die Kunden wohl fühlen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden will drei National Monuments wieder vollen Schutz gewähren]]></title>
+        <id>https://www.nzz.ch/pro-global/biden-wieder-vollen-schutz-fuer-drei-national-monuments-ld.1631684</id>
+        <link href="https://www.nzz.ch/pro-global/biden-wieder-vollen-schutz-fuer-drei-national-monuments-ld.1631684"/>
+        <updated>2021-07-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Die amerikanische Innenministerin Haaland empfiehlt Biden, Trumps Verkleinerung dreier wichtiger Schutzgebiete rückgängig zu machen. Es ist der letzte Schritt in einem anhaltenden Konflikt zwischen dem Naturschutz und den Rechten der Natives einerseits und den wirtschaftlichen Interessen andererseits.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wird es unter Präsident Biden eine neue Öffnung gegenüber Kuba geben?]]></title>
+        <id>https://www.nzz.ch/pro-global/usa/vorerst-keine-oeffnung-gegenueber-kuba-unter-biden-ld.1633188</id>
+        <link href="https://www.nzz.ch/pro-global/usa/vorerst-keine-oeffnung-gegenueber-kuba-unter-biden-ld.1633188"/>
+        <updated>2021-07-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump hat die amerikanische Annäherung an Kuba gestoppt. Joe Biden wollte Barack Obamas Öffnung wieder aufnehmen. Doch bis jetzt ist keine Bewegung in Sicht.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -1029,6 +1655,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Staatsanwaltschaft Berlin ermittelt gegen Investor Windhorst]]></title>
+        <id>https://www.nzz.ch/wirtschaft/windhorst-hertha-investor-im-visier-von-bafin-und-staatsanwalt-ld.1634308</id>
+        <link href="https://www.nzz.ch/wirtschaft/windhorst-hertha-investor-im-visier-von-bafin-und-staatsanwalt-ld.1634308"/>
+        <updated>2021-07-06T18:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Der schillernde deutsche Finanzinvestor Lars Windhorst sieht sich mit Ermittlungen der Staatsanwaltschaft konfrontiert. Er ist jedoch zuversichtlich, dass die Vorwürfe ohne Grundlage sind.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coinbase Extends Esports Push With ESL Sponsorship]]></title>
         <id>https://decrypt.co/?p=75337</id>
         <link href="https://decrypt.co/75337/coinbase-extends-esports-push-with-esl-sponsorship"/>
@@ -1039,6 +1675,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Klassenkampf gegen die «Superreichen» soll das Volk zu einem Ja für die «99%-Initiative» bewegen]]></title>
+        <id>https://www.nzz.ch/wirtschaft/99-initiative-klassenkampf-soll-das-volk-zu-einem-ja-bewegen-ld.1634225</id>
+        <link href="https://www.nzz.ch/wirtschaft/99-initiative-klassenkampf-soll-das-volk-zu-einem-ja-bewegen-ld.1634225"/>
+        <updated>2021-07-06T17:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Das Schweizervolk entscheidet im September, ob hohe Kapitaleinkommen künftig um 50% stärker besteuert werden als Arbeitseinkommen. Aus Sicht der wirtschaftlichen Effizienz und der Steuerlogik gäbe es aber eher Argumente für eine tiefere Besteuerung von Kapitaleinkommen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chevy Camaro Sales Are in a Death Spiral]]></title>
         <id>https://www.thedrive.com/news/41422/chevy-camaro-sales-are-in-a-death-spiral</id>
         <link href="https://www.thedrive.com/news/41422/chevy-camaro-sales-are-in-a-death-spiral"/>
@@ -1046,6 +1692,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[There hasn't been much good news for the Chevy Camaro in what seems like a few years. In fact, we just had some more bad news today and it looks like that trend is set to continue as second-quarter sales numbers are in for Chevy's pony car.  Remember when, exactly a year ago today, we […]]]></summary>
         <author>
             <name>Peter Holderith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glasfaser: BBV und Deutsche Giganetz k�mpfen um Ausbaugebiete]]></title>
+        <id>https://www.golem.de/2107/157926-rss.html</id>
+        <link href="https://www.golem.de/news/glasfaser-bbv-und-deutsche-giganetz-kaempfen-um-ausbaugebiete-2107-157926-rss.html"/>
+        <updated>2021-07-06T16:43:00.000Z</updated>
+        <summary type="html"><![CDATA[BBV Deutschland und Deutsche Giganetz k�mpfen um die Region Heilbronn-Franken. Deutsche Glasfaser ist in einem Kreis gar nicht mehr erschienen. (Glasfaser, Internet)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -1139,6 +1795,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Pierer Mobility: Auf zwei Rädern aus der Pandemie]]></title>
+        <id>https://www.nzz.ch/finanzen/pierer-mobility-auf-zwei-raedern-aus-der-pandemie-ld.1634236</id>
+        <link href="https://www.nzz.ch/finanzen/pierer-mobility-auf-zwei-raedern-aus-der-pandemie-ld.1634236"/>
+        <updated>2021-07-06T15:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Europas grösster Motorradhersteller Pierer Mobility hat im ersten Halbjahr fast doppelt so viele Fahrzeuge abgesetzt wie im Vorjahr. Das österreichische Unternehmen mit Kotierung in der Schweiz ist für Publikumsaktionäre nur bedingt attraktiv.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rimac Just Bought Bugatti. Here's Why It's a Huge EV Bet for VW]]></title>
         <id>https://www.thedrive.com/tech/41414/rimac-just-bought-bugatti-heres-why-its-a-huge-ev-bet-for-vw</id>
         <link href="https://www.thedrive.com/tech/41414/rimac-just-bought-bugatti-heres-why-its-a-huge-ev-bet-for-vw"/>
@@ -1169,6 +1835,36 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[E-Auto, Nintendo, Mozilla: Kein Geld mehr f�r Wallboxen in der heimischen Garage]]></title>
+        <id>https://www.golem.de/2107/157916-rss.html</id>
+        <link href="https://www.golem.de/news/e-auto-nintendo-mozilla-kein-geld-mehr-fuer-wallboxen-in-der-heimischen-garage-2107-157916-rss.html"/>
+        <updated>2021-07-06T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Was am 6. Juli 2021 neben den gro�en Meldungen sonst noch passiert ist, in aller K�rze. (Kurznews, Firefox)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Windows 11 bringt einige neue Tastenkombinationen]]></title>
+        <id>https://www.golem.de/2107/157921-rss.html</id>
+        <link href="https://www.golem.de/news/microsoft-windows-11-bringt-einige-neue-tastenkombinationen-2107-157921-rss.html"/>
+        <updated>2021-07-06T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Windowstaste k�nnte in Windows 11 wichtiger werden. Verschiedene Funktionen sind �ber K�rzel bereits nutzbar. Wir haben sie ausprobiert. (Windows 11, Microsoft)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Das Home-Office schafft auch Verlierer]]></title>
+        <id>https://www.nzz.ch/meinung/homeoffice-der-nachwuch-leidet-bei-roche-syngenta-co-ld.1634064</id>
+        <link href="https://www.nzz.ch/meinung/homeoffice-der-nachwuch-leidet-bei-roche-syngenta-co-ld.1634064"/>
+        <updated>2021-07-06T14:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Nicht mehr zur Arbeit pendeln zu müssen, ist praktisch. Doch spontane Kontakte kommen zu kurz, wenn man sich nicht oder kaum mehr im Büro trifft. Darunter leiden besonders Berufseinsteiger.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[$55 Billion UK Hedge Fund Marshall Wace Plans Move Into Crypto]]></title>
         <id>https://decrypt.co/?p=75302</id>
         <link href="https://decrypt.co/75302/55-billion-hedge-fund-firm-marshall-wace-plans-move-into-crypto"/>
@@ -1176,6 +1872,26 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[The London-based hedge fund holds over $55 billion in assets under management.]]></summary>
         <author>
             <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yahoo: Softbank investiert 1,6 Milliarden US-Dollar in Namensrechte]]></title>
+        <id>https://www.golem.de/2107/157924-rss.html</id>
+        <link href="https://www.golem.de/news/yahoo-softbank-investiert-1-6-milliarden-us-dollar-in-namensrechte-2107-157924-rss.html"/>
+        <updated>2021-07-06T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Mit der Zahlung einer hohen Summe sichert sich Softbank die dauerhaften Rechte an Yahoo Japan. (Softbank, Yahoo)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onlinehandel: Berlin-Brandenburg bekommt DHL-Pakete bald schneller]]></title>
+        <id>https://www.golem.de/2107/157922-rss.html</id>
+        <link href="https://www.golem.de/news/onlinehandel-dhl-bringt-eines-der-groessten-paketzentren-europas-an-netz-2107-157922-rss.html"/>
+        <updated>2021-07-06T14:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Paketzentrum Ludwigsfelde der DHL kann 50.000 Pakete pro Stunde verarbeiten. Sendungen k�nnen zu noch sp�teren Tageszeiten abgeholt und am Folgetag zugestellt werden. (E-Commerce, Onlineshop)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -1188,6 +1904,16 @@ Zu dem Artikel: EncroChat-Entschlüsselung: weitere 24 Haftbefehle in Brandenbur
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Antonia Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hybridkonsole: Nintendo k�ndigt Switch OLED ohne 4K-Turbo an]]></title>
+        <id>https://www.golem.de/2107/157925-rss.html</id>
+        <link href="https://www.golem.de/news/hybridkonsole-nintendo-kuendigt-switch-oled-ohne-4k-turbo-an-2107-157925-rss.html"/>
+        <updated>2021-07-06T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Keine schnellere Switch Pro, sondern eine Konsole mit besserem Bildschirm und Optimierungen: Die Nintendo Switch OLED erscheint im Oktober 2021. (Nintendo Switch, OLED)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -1218,6 +1944,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[CDs are going the way of the cassette and eight-track before them, and that's been true for a while already. Best Buy stopped selling 'em in 2018 and few cars these days can even play them, probably because Apple CarPlay and Android Auto exist. As further proof, General Motors no longer sells any normal passenger […]]]></summary>
         <author>
             <name>Caleb Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anzeige: Lenovo Tablets und Notebooks bei Amazon zum Schn�ppchenpreis]]></title>
+        <id>https://www.golem.de/2107/157923-rss.html</id>
+        <link href="https://www.golem.de/news/anzeige-lenovo-tablets-und-notebooks-bei-amazon-zum-schnaeppchenpreis-2107-157923-rss.html"/>
+        <updated>2021-07-06T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Mit seinen Rabatten auf die Produkte von Lenovo bietet Amazon heute und morgen Top-Hardware zum g�nstigen Preis. (Lenovo, Notebook)]]></summary>
+        <author>
+            <name>Golem.de</name>
         </author>
     </entry>
     <entry>
@@ -1411,6 +2147,46 @@ Zu dem Artikel: Zugang zu crime.to soll einen Monat lang blockiert werden
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Lars Sobiraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Investieren oder gehen? Der Brexit setzt Autobauern in Grossbritannien die Pistole auf die Brust]]></title>
+        <id>https://www.nzz.ch/wirtschaft/brexit-autohersteller-wie-nissan-in-grossbritannien-unter-druck-ld.1633487</id>
+        <link href="https://www.nzz.ch/wirtschaft/brexit-autohersteller-wie-nissan-in-grossbritannien-unter-druck-ld.1633487"/>
+        <updated>2021-07-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Brexit-Handelsabkommen mit der EU zwingt Firmen, sich für oder gegen die Insel zu entscheiden. Nissan lässt jetzt die grösste Batteriefabrik des Landes bauen. Aber für die Branche ist es ein Wettlauf gegen die Zeit.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOLUMNE - Hurra, wir sind diskriminiert!]]></title>
+        <id>https://www.nzz.ch/wirtschaft/alt-jung-frau-mann-autofahrer-velofahrer-alle-diskriminiert-ld.1633981</id>
+        <link href="https://www.nzz.ch/wirtschaft/alt-jung-frau-mann-autofahrer-velofahrer-alle-diskriminiert-ld.1633981"/>
+        <updated>2021-07-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dank reichlich Sensibilisierung darf sich heute jede und jeder diskriminiert fühlen und von Staat und Gesellschaft Genugtuung einfordern. Doch ist in einer Gesellschaft, in der sich alle diskriminiert fühlen, überhaupt noch jemand diskriminiert?]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So hat sich die Kommunistische Partei Chinas in den vergangenen Jahren verändert]]></title>
+        <id>https://www.nzz.ch/pro-global/asien/nzz-immer-mehr-akademiker-in-der-kommunistischen-partei-chinas-ld.1634046</id>
+        <link href="https://www.nzz.ch/pro-global/asien/nzz-immer-mehr-akademiker-in-der-kommunistischen-partei-chinas-ld.1634046"/>
+        <updated>2021-07-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Von wegen Arbeiter- und Bauernpartei: Die KPCh hat sich in den vergangenen Jahren zu einer elitären Organisation mit immer mehr Akademikern gewandelt.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neue Studie: Chinas globaler Einfluss wächst, der Einfluss der USA schrumpft]]></title>
+        <id>https://www.nzz.ch/pro-global/asien/studie-chinas-globaler-einfluss-waechst-nzz-ld.1633608</id>
+        <link href="https://www.nzz.ch/pro-global/asien/studie-chinas-globaler-einfluss-waechst-nzz-ld.1633608"/>
+        <updated>2021-07-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[China hat durch vertiefte Handelsbeziehungen seinen Einflussbereich ausgedehnt, insbesondere in Afrika und Südamerika. Was heisst das für den Westen?]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -1699,6 +2475,26 @@ Plus 10 more...]]></summary>
         <summary type="html"><![CDATA[Swiss banking giant UBS has warned its clients about the risks that regulatory crackdowns pose to the crypto market.]]></summary>
         <author>
             <name>Liam Frost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Mit dem Abgang von Jim Whitehurst ist der Kulturwandel bei IBM gescheitert]]></title>
+        <id>https://www.nzz.ch/wirtschaft/mit-dem-abgang-von-jim-whitehurst-ist-der-kulturwandel-bei-ibm-gescheitert-ld.1633990</id>
+        <link href="https://www.nzz.ch/wirtschaft/mit-dem-abgang-von-jim-whitehurst-ist-der-kulturwandel-bei-ibm-gescheitert-ld.1633990"/>
+        <updated>2021-07-05T14:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Mit Jim Whitehurst verlässt eine Schlüsselfigur IBM. Mit dem ehemaligen Chef der Softwarefirma Red Hat schien eine neue Firmenkultur bei «Big Blue» einzuziehen. Der Kulturschock war offensichtlich zu gross.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insider Hans Ziegler droht doch noch das Gefängnis: Die Bundesanwaltschaft meldet Berufung an – werden in der Schweiz Insiderdelikt zu milde bewertet?]]></title>
+        <id>https://www.nzz.ch/wirtschaft/insiderfall-hans-ziegler-die-bundesanwaltschaft-hat-berufung-angemeldet-ld.1633975</id>
+        <link href="https://www.nzz.ch/wirtschaft/insiderfall-hans-ziegler-die-bundesanwaltschaft-hat-berufung-angemeldet-ld.1633975"/>
+        <updated>2021-07-05T14:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Der in erster Instanz verurteilte Ex-Manager Hans Ziegler ist trotz mehreren Schuldsprüchen um eine unbedingte Freiheitsstrafe herumgekommen. Doch wenn es nach den Klägern geht, könnte sich dies noch ändern.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -2119,6 +2915,16 @@ Denn nicht ich stehe dort, sondern der Wagen, den ich fahre. Mit diesem „Ich�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Schlag auf Schlag bei Glencore: Kalidas Madhavpeddi wird neuer Verwaltungsratspräsident des Rohstoffkonzerns]]></title>
+        <id>https://www.nzz.ch/wirtschaft/schlag-auf-schlag-bei-glencore-kalidas-madhavpeddi-wird-neuer-verwaltungsratspraesident-des-rohstoffkonzerns-ld.1633958</id>
+        <link href="https://www.nzz.ch/wirtschaft/schlag-auf-schlag-bei-glencore-kalidas-madhavpeddi-wird-neuer-verwaltungsratspraesident-des-rohstoffkonzerns-ld.1633958"/>
+        <updated>2021-07-05T08:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Beim Schweizer Rohstoffkonzern sind die Toppositionen neu besetzt: Seit Juli ist Gary Nagle neuer Konzernchef. Und ab August löst ein Branchenveteran Tony Hayward im Verwaltungsrat ab.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jan-Hendrik Schulz: Unbeugsam hinter Gittern. Die Hungerstreiks der RAF nach dem Deutschen Herbst.]]></title>
         <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/jan-hendrik-schulz-unbeugsam-hinter-gittern-die-hungerstreiks-der-raf-nach-dem-deutschen-herbst-6510.html</id>
         <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/jan-hendrik-schulz-unbeugsam-hinter-gittern-die-hungerstreiks-der-raf-nach-dem-deutschen-herbst-6510.html"/>
@@ -2169,6 +2975,46 @@ Some major cities ranked by surveillance cameras per km]]></summary>
         <summary type="html"><![CDATA[Submit your caption.]]></summary>
         <author>
             <name>Everything</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Britische Musiker klagen über Brexit-Bürokratie: Elton John sagt, so hätte er es nicht zum Star geschafft]]></title>
+        <id>https://www.nzz.ch/wirtschaft/brexit-musiker-und-kuenstler-aus-grossbritannien-brauchen-visa-ld.1633279</id>
+        <link href="https://www.nzz.ch/wirtschaft/brexit-musiker-und-kuenstler-aus-grossbritannien-brauchen-visa-ld.1633279"/>
+        <updated>2021-07-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Ende der EU-Mitgliedschaft ist für Künstler aus Grossbritannien ein besonderes Problem. Auftritte, Tourneen und Transporte auf dem Kontinent werden zum Spiessrutenlauf. Die Musiker fürchten, sie werden abgeschnitten.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macrons fotografierende Ex-Ministerin könnte nun die erste Frau an der ILO-Spitze werden]]></title>
+        <id>https://www.nzz.ch/wirtschaft/muriel-penicaud-frankreichs-ex-ministerin-als-ilo-direktorin-ld.1633599</id>
+        <link href="https://www.nzz.ch/wirtschaft/muriel-penicaud-frankreichs-ex-ministerin-als-ilo-direktorin-ld.1633599"/>
+        <updated>2021-07-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Muriel Pénicaud bekleidete verschiedene Kaderfunktionen in Wirtschaft und Verwaltung – nicht ohne Polemiken. Jetzt sondiert sie ihre Chancen für einen Chefposten in der Schweiz.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was Führungskräfte vom Fussball lernen können]]></title>
+        <id>https://www.nzz.ch/wirtschaft/teamgeist-was-fuehrungskraefte-vom-fussball-lernen-koennen-ld.1631732</id>
+        <link href="https://www.nzz.ch/wirtschaft/teamgeist-was-fuehrungskraefte-vom-fussball-lernen-koennen-ld.1631732"/>
+        <updated>2021-07-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Bernhard Heusler hat in seiner Zeit als Präsident den Fussballclub Basel von Erfolg zu Erfolg geführt. Heute berät er auch Führungskräfte. Lässt sich ein Unternehmen ähnlich steuern wie eine Fussballmannschaft? Ein Gespräch über Starallüren, Siege, Niederlagen und die Schweizerische Nationalmannschaft.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keine böse Überraschung nach den Ferien: Was sich mit den neuen Roaming-Tarifen geändert hat]]></title>
+        <id>https://www.nzz.ch/wirtschaft/telekom-was-sich-mit-den-neuen-roaming-tarifen-geaendert-hat-ld.1632829</id>
+        <link href="https://www.nzz.ch/wirtschaft/telekom-was-sich-mit-den-neuen-roaming-tarifen-geaendert-hat-ld.1632829"/>
+        <updated>2021-07-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Seit dem 1. Juli müssen sich die Telekomfirmen an neue gesetzliche Vorgaben halten. Wer nur selten im Ausland ist, profitiert kaum vom neuen Tarifmodell.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -2367,6 +3213,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Enteignungs-Volksentscheid: Berlin setzt zum nächsten Experiment in der Wohnungspolitik an]]></title>
+        <id>https://www.nzz.ch/wirtschaft/enteignungs-volksentscheid-naechstes-wohnungsexperiment-in-berlin-ld.1633609</id>
+        <link href="https://www.nzz.ch/wirtschaft/enteignungs-volksentscheid-naechstes-wohnungsexperiment-in-berlin-ld.1633609"/>
+        <updated>2021-07-04T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Berliner Volksbegehren zur Enteignung grosser Wohnungsunternehmen ist zustande gekommen, im Herbst wird abgestimmt. Kritiker befürchten ein «neues sozialistisches Prestigeprojekt», das viel koste, aber keine einzige neue Wohnung schaffe.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Central banks face a daunting task: tapering without the tantrum]]></title>
         <id>/content/qbjklasg55pb64tacba6a03o1jkkh8t8</id>
         <link href="https://www.economist.com/finance-and-economics/2021/07/04/central-banks-face-up-to-the-daunting-task-of-quitting-qe"/>
@@ -2450,6 +3306,16 @@ Weeknote 26/2021 first appeared on Open Thinkering.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Steigender Erdölpreis: Die Opec findet und findet keine Einigung]]></title>
+        <id>https://www.nzz.ch/wirtschaft/steigender-erdoelpreis-die-opec-findet-und-findet-keine-einigung-ld.1633686</id>
+        <link href="https://www.nzz.ch/wirtschaft/steigender-erdoelpreis-die-opec-findet-und-findet-keine-einigung-ld.1633686"/>
+        <updated>2021-07-03T09:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Die Vereinigten Arabischen Emirate widersetzen sich vorläufig einer Erhöhung der Erdölförderung. Wenn es zu keinem Deal kommt, könnte der Ölpreis verstärkt ansteigen – was nicht einmal im Interesse der Erdölländer ist.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesetipps: DSGVO-Bußgelder & andere Zwischenfälle, ein Geburtstag]]></title>
         <id>https://tarnkappe.info/?p=155215</id>
         <link href="https://tarnkappe.info/lesetipps-dsgvo-bussgelder-andere-zwischenfaelle-ein-geburtstag/"/>
@@ -2481,6 +3347,46 @@ Zu dem Artikel: Windows 11: Mindestanforderungen für TPM, RAM und SecureBoot um
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>honeybee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Im Ausverkauf zu haben: Outdoor-Marke Mammut]]></title>
+        <id>https://www.nzz.ch/wirtschaft/im-ausverkauf-zu-haben-outdoor-marke-mammut-ld.1633633</id>
+        <link href="https://www.nzz.ch/wirtschaft/im-ausverkauf-zu-haben-outdoor-marke-mammut-ld.1633633"/>
+        <updated>2021-07-03T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Conzzeta-Gruppe hat ihre Outdoor-Firma Mammut billig abgegeben. Grund waren der schlechte Zeitpunkt für einen Verkauf und die Tatsache, dass es sich Conzzeta leisten konnte.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Die neuen Eigentümer des Spezialitätenchemiegeschäfts von Lonza erwartet eine schwierige Aufgabe]]></title>
+        <id>https://www.nzz.ch/wirtschaft/lsi-schwierige-aufgabe-fuer-die-neuen-besitzer-der-chemiefirma-ld.1633667</id>
+        <link href="https://www.nzz.ch/wirtschaft/lsi-schwierige-aufgabe-fuer-die-neuen-besitzer-der-chemiefirma-ld.1633667"/>
+        <updated>2021-07-03T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Knapp 3000 ehemalige Angestellte der Basler Lonza-Gruppe haben einen neuen Arbeitgeber. Doch noch ist nicht einmal bekannt, wie er heissen wird. Das frisch eingesetzte Management wird auch für eine neue Kultur sorgen müssen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steuergelder von Novartis, Nestlé, Google, Amazon und Co. sollen von den Sitzstaaten zu den Absatzmärkten fliessen]]></title>
+        <id>https://www.nzz.ch/wirtschaft/steuergelder-von-grossunternehmen-soll-zu-absatzmaerkten-fliessen-ld.1633647</id>
+        <link href="https://www.nzz.ch/wirtschaft/steuergelder-von-grossunternehmen-soll-zu-absatzmaerkten-fliessen-ld.1633647"/>
+        <updated>2021-07-03T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[130 Länder haben sich auf Prinzipien für eine Umverteilung von Steuergeldern der umsatzstärksten Firmen von den Sitzstaaten zu den Absatzmärkten geeinigt. In der Schweiz dürften nur drei bis sieben Firmen betroffen sein – obwohl deutlich mehr Unternehmen die genannte Umsatzschwelle überschreiten.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audi-Konzernchef Markus Duesmann: «Politisch würde ich mich als Grün-Schwarzen bezeichnen»]]></title>
+        <id>https://www.nzz.ch/wirtschaft/audi-chef-autoproduktion-und-umweltschutz-sind-kein-gegensatz-ld.1631817</id>
+        <link href="https://www.nzz.ch/wirtschaft/audi-chef-autoproduktion-und-umweltschutz-sind-kein-gegensatz-ld.1631817"/>
+        <updated>2021-07-03T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Autoproduktion und Umweltschutz sind für Duesmann kein Gegensatz. Der seit 2020 amtierende Konzernchef will bei Audi im Jahr 2025 das letzte Produkt mit Verbrennungsmotor lancieren, kritisiert aber den langsamen Ausbau der Ladeinfrastruktur. Im Interview mit der NZZ erläutert der 52-Jährige seine Strategie für die kommenden Jahre.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -2644,6 +3550,16 @@ Der Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit ei
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Gebt dem Apotheken-Kunden, was der Kunde wünscht – auch Globuli]]></title>
+        <id>https://www.nzz.ch/wirtschaft/galenica-erwirbt-hersteller-von-alternativen-arzneimitteln-ld.1633533</id>
+        <link href="https://www.nzz.ch/wirtschaft/galenica-erwirbt-hersteller-von-alternativen-arzneimitteln-ld.1633533"/>
+        <updated>2021-07-02T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Galenica erwirbt einen Hersteller von alternativen Arzneimitteln. Das ist einerseits Dienst am Kunden, andererseits aber auch Hoffnung auf neues Wachstum.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A global corporate-tax deal takes shape]]></title>
         <id>/content/9va9ic3or7go8sonjutmvafumpfeho7p</id>
         <link href="https://www.economist.com/finance-and-economics/2021/07/02/a-global-corporate-tax-deal-takes-shape"/>
@@ -2701,6 +3617,16 @@ Der Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit ei
         <summary type="html"><![CDATA[Artikel ini ditulis oleh Sheldon Richman dan diterbitkan oleh The American Conservative, pada 3 Februari 2011. Teks ini diterbitkan ulang di C4SS lalu diterjemahkan ke dalam Bahasa Indonesia oleh Ameyuri Ringo dan disunting oleh Alvin Born to Burn. Kampanye kepresidenan Ron Paul pada tahun 2008 lalu telah memperkenalkan banyak orang pada kata “libertarian.” Karena Paul adalah...]]></summary>
         <author>
             <name>Sheldon Richman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Ein Börsengang wäre für Salt eine Befreiung]]></title>
+        <id>https://www.nzz.ch/wirtschaft/ein-boersengang-waere-fuer-salt-eine-befreiung-ld.1633380</id>
+        <link href="https://www.nzz.ch/wirtschaft/ein-boersengang-waere-fuer-salt-eine-befreiung-ld.1633380"/>
+        <updated>2021-07-01T16:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Der Mobilfunkanbieter Salt soll konkrete Pläne für einen Börsengang wälzen. Es wäre ein willkommener Schritt, um die Abhängigkeit vom derzeitigen Eigentümer Xavier Niel zu reduzieren.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -2811,6 +3737,17 @@ Sie sind es, die das Feuer der Revolte in Kolumbien am Brennen halten. Wir haben
         <summary type="html"><![CDATA[In this episode Cas and I discuss the new tendency for cryptocurrency businesses to hire regulators and the old tendency to try to avoid regulation at any cost. Anchor Spotify Apple Google Overcast RSS Feed]]></summary>
         <author>
             <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast grants and the economics of subsidizing science]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/fast-grants-and-economics-of.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/fast-grants-and-economics-of.html"/>
+        <updated>2021-06-30T16:12:00.001Z</updated>
+        <summary type="html"><![CDATA[One of the great insights of modern growth theory -- Paul Romer's Nobel Prize -- is that ideas are the foundation of economic growth. Ideas are also "nonrivial." If you use my car, I can't use it, but if you use our family recipe for road-oil chocolate cake (yum), we can still enjoy it as much as ever. Once an idea has been had, economics says it should be used as widely as possible as soon as possible  
+But coming up with ideas is expensive. And aside patent protections, I can't charge for the benefit to you of my new ideas.  So, economists naturally notice the mother of all public goods. Research -- finding new ideas --  has enormous benefits, and people will not naturally devote enough resources to finding, refining, implementing new ideas. So, economists conclude,  the government shoul…]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
         </author>
     </entry>
     <entry>
@@ -3287,6 +4224,16 @@ Walkways lined by abandoned gestures first appeared on Open Thinkering.]]></summ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Wirecard-Skandal: Finanzminister Olaf Scholz erntet in der Abschlussdebatte des Bundestags viel Kritik]]></title>
+        <id>https://www.nzz.ch/wirtschaft/wirecard-skandal-alle-sehen-sich-als-opfer-nzz-ld.1564559</id>
+        <link href="https://www.nzz.ch/wirtschaft/wirecard-skandal-alle-sehen-sich-als-opfer-nzz-ld.1564559"/>
+        <updated>2021-06-25T20:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Der Fall des insolventen deutschen Zahlungsdienstleisters Wirecard hat weitreichende Folgen. Bisher mussten die Chefs der Finanzaufsicht Bafin, der «Bilanzpolizei» DPR und von EY Deutschland ihre Posten räumen. Der Untersuchungsausschuss des Bundestags hat seine Arbeit mit einem Abschlussbericht beendet.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Élections sans électeurs]]></title>
         <id>https://www.monde-diplomatique.fr/2009/07/GARRIGOU/17593</id>
         <link href="https://www.monde-diplomatique.fr/2009/07/GARRIGOU/17593"/>
@@ -3357,6 +4304,37 @@ So schrieb „Cinema“, „[...] gerade aus der blossen Beschränkung auf die O
         <summary type="html"><![CDATA[Texas Central is a planned high-speed rail system connecting Dallas with Houston, using turnkey Shinkansen technology and private funding. The trains to be used are lightweight Japanese-made N700s, with extremely good performance, and the operating paradigm is to be based on the Shinkansen, without any interface with legacy rail, even in city centers. However, there […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Finance Professors Lean Left]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/even-finance-professors-lean-left.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/even-finance-professors-lean-left.html"/>
+        <updated>2021-06-25T04:10:00.001Z</updated>
+        <summary type="html"><![CDATA[You may have thought of finance professors at business schools as likely to be a fairly conservative lot, or at least to include a good number of them. You might think finance would be an exception to the growing political monoculture in US academia. You would be mostly wrong.  
+Emre Kuvvet tracked down the party affiliation of finance professors in the top 20 US departments, and wrote up the results in "Even Finance Professors Lean Left. 
+
+
+Berkeley has more Republicans than Chicago? I think numbers are low because so many faculty are not US citizens. It's initially striking  how many finance faculty are not even registered to vote, but I suspect that this reflects the large number of non-US citizens in finance departments. 
+
+
+Here come the millennials... Or, maybe Churchill was right about hearts and brains. 
+Journal editors: 
+
+Not even the JFE can manifest many Republicans! 
+Of course this is a striking amount of political diversity by the standards of the rest of most universities.]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Die USA und die EU entschärfen den Handelsstreit: Altmaier hält Einigung über Strafzölle auf Stahlprodukte für möglich]]></title>
+        <id>https://www.nzz.ch/wirtschaft/die-usa-und-europa-wollen-die-handelskonflikte-schrittweise-beseitigen-ld.1392086</id>
+        <link href="https://www.nzz.ch/wirtschaft/die-usa-und-europa-wollen-die-handelskonflikte-schrittweise-beseitigen-ld.1392086"/>
+        <updated>2021-06-24T23:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Die USA und die EU haben einen Zollfrieden für fünf Jahre vereinbart. In dieser Frist solle keine Strafzölle erhoben werden. Der Streit um die Subventionen für Airbus und Boeing ist damit vorläufig vom Tisch.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -3520,6 +4498,16 @@ Die Staatsanwaltschaft forderte noch drei Monate mehr Haft, für den Vorwurf des
  / Algérie, Violence, Fiction - 1994/05]]></summary>
         <author>
             <name>Abdelkader Djemai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Pipeline-Projekt Nord Stream 2: Deutschland und die USA wollen Streit beilegen]]></title>
+        <id>https://www.nzz.ch/wirtschaft/pipeline-projekt-nord-stream-2-die-neusten-entwicklungen-ld.1483495</id>
+        <link href="https://www.nzz.ch/wirtschaft/pipeline-projekt-nord-stream-2-die-neusten-entwicklungen-ld.1483495"/>
+        <updated>2021-06-23T16:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Die Ostsee-Pipeline Nord Stream 2 ist fast fertig verlegt. Doch die USA belegen Verlegeschiffe mit Sanktionen. Können und wollen sie die Fertigstellung noch verhindern? Die wichtigsten Antworten im Überblick.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -3976,6 +4964,19 @@ In den nächsten Tagen bietet das KlimaCamp Lüneburg im Kurpark, im Kontext der
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Garicano's conversations with economists]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/garicanos-conversations-with-economists.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/garicanos-conversations-with-economists.html"/>
+        <updated>2021-06-17T17:21:00.004Z</updated>
+        <summary type="html"><![CDATA[Luis Garicano has just posted a very interesting free e-book, "Capitalism after covid: Conversations with 21 economists." I was honored to be one of his interviewees, video here. Luis has a VoxEU column summarizing conversations, and twitter thread if you like reading such things. Luis is a great interviewer. 
+
+This is not an endorsement of all the ideas! Luis found a wide spectrum of ideas, and I think that is the strong thing about the project. You can see how really smart people, on top of the latest academic research, come to still widely different conclusions about the current state of affairs and directions we should go. Though Luis is a pretty free-market Chicago guy, he did not impose that view which I find admirable. 
+In particular, referring to the VoxEU column, I would take issu…]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Will America’s housing boom lead to another financial crisis?]]></title>
         <id>/content/okc3jr6skqg22nmdf7cs8hjamqq64udm</id>
         <link href="https://www.economist.com/finance-and-economics/2021/06/17/will-americas-housing-boom-lead-to-another-financial-crisis"/>
@@ -4388,6 +5389,20 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meritocracy]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/meritocracy.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/meritocracy.html"/>
+        <updated>2021-06-14T04:22:00.009Z</updated>
+        <summary type="html"><![CDATA[Adrian Woolridge wrote a thought-provoking essay titled "Meritocracy, Not Democracy, Is the Golden Ticket to Growth," advertising a forthcoming book. 
+Meritocracy, the secret sauce of growth?  
+To Woolridge, meritocracy is the secret sauce of prosperity: 
+
+The surest sign that a country will be economically successful is not the health of its democracy, as some liberals like to think, or the leanness of its government, as some free-marketers imagine, but its commitment to meritocracy. Singapore is a soft authoritarian power. But it has transformed itself in a few decades from a poverty-stricken swamp into one of the world’s most prosperous countries, with a higher standard of living and a longer life expectancy than its old colonial master, because it is perhaps the world’s leading practit…]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flock Stamps - Update]]></title>
         <id>tag:blogger.com,1999:blog-3218389485258956159.post-7060321873869621001</id>
         <link href="https://philaquelymoi.blogspot.com/2021/06/flock-stamps-update_13.html"/>
@@ -4431,6 +5446,24 @@ To work with this data, I attempted to learn more about Reed-Solomon and I found
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vaccine slowdown?]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/vaccine-slowdown.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/vaccine-slowdown.html"/>
+        <updated>2021-06-12T21:58:00.003Z</updated>
+        <summary type="html"><![CDATA[Source. Everyone seems tired of covid. And sure, inflation, debts, "infrastructure," competing voting narratives and so on are more fun. But covid is still with us. 
+
+The graph summarizes what I've read in lots of news stories: vaccination is slowing down. There is plenty of supply, but we are running in to people who do not go get the vaccine. 
+
+
+This strikes me as a tragedy. (Disclaimer: this is an exploratory post, and I'm anxious to hear about it from more knowledgeable people). It means covid will remain with us as an endemic disease, occasionally breaking out as immunity fades and covid evolves. We're on the 20 yard line, folks, it's not time to punt.
+
+
+I'm pretty darn libertarian, but not about vaccinations. The US should be pushing for near universal vaccination. This is like finis…]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why I Have Zero Faith in Crypto Venture Capitalists]]></title>
         <id>http://bennettftomlin.com/?p=2517</id>
         <link href="https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/"/>
@@ -4438,6 +5471,27 @@ To work with this data, I attempted to learn more about Reed-Solomon and I found
         <summary type="html"><![CDATA[Mostly the reason I have zero faith in crypto venture capitalists as an institution is that their primary value add is marketing, their due diligence is a joke, and they are functionally equivalent to the shills we all mock. One of the very first whitepapers I ever analyzed was for the Basis protocol. This protocol … Continue reading Why I Have Zero Faith in Crypto Venture Capitalists]]></summary>
         <author>
             <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eurosclerosis update]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/eurosclerosis-update.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/eurosclerosis-update.html"/>
+        <updated>2021-06-12T16:27:00.007Z</updated>
+        <summary type="html"><![CDATA[All pre-covid. European GDP per capita fell in the decade following the financial crisis. US growth was nothing to write home about, but things could be worse. The we-should-be-more-like-Europe crowd has some explaining to do. (The Word Bank's software misplaced the UK label; it is the red line on the top of the European group.) From the World Bank, HT Marginal Revolution.
+The graph is in dollars, so part of the effect is that the dollar got more valuable relative to the euro. (Thanks to the commenters who noticed that I misread the graph caption. Blog post now fixed to reflect that.) 
+
+Update
+A correspondent sends along the following graph from IMF data. IMF data uses PPP adjustments, not straight conversion to dollars. So the exchange rate really is an issue in comparing US to EU growth.  
+
+
+Relative inflation has not been that different between the two countries. 
+
+
+At least by these measures, EU inflation has been only very slightly less than US inflation 
+So indeed, the exchange rate is the major part of the difference between the two graphs. Whether PPP or actual exchange rates are "right" for this purpose I leave for another day. Certainly the average American's ability to buy European goods has risen relative to the average European's ability to buy American goods. Why exchange rates diverge so long from PPP measures remains, I think, a central puzzle. But thanks to blog readers for quickly pointing out that the Marginal Revolution graph isn't as immediately relevant as it seemed.]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
         </author>
     </entry>
     <entry>
@@ -4459,6 +5513,22 @@ To work with this data, I attempted to learn more about Reed-Solomon and I found
 Weeknote 23/2021 first appeared on Open Thinkering.]]></summary>
         <author>
             <name>Doug Belshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whither the Fed]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/whither-fed.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/whither-fed.html"/>
+        <updated>2021-06-11T18:03:00.001Z</updated>
+        <summary type="html"><![CDATA[I gave the UCSD economic roundtable lecture Friday June 11 on inflation and the future of the Fed. It summarizes quickly a number of themes from previous Grumpy writings, and if you enjoy videos you might find it fun. Youtube link in case the above embed does not work. 
+I happened on the New York Fed website, proclaiming on its landing page that it is now
+
+"...dedicated to understanding and finding solutions to the numerous forms of inequality that communities of color experience and working with communities in our District to address deep-seated inequities," 
+
+in case you want documentation that the Federal Reserve is taking on inequality and racial issues. 
+Slides available here.]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
         </author>
     </entry>
     <entry>
@@ -4504,6 +5574,33 @@ Eine gelungene Annäherung für jene, die anfangen wollen, sich mit seinen Über
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The end of "the end of inflation"]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/the-end-of-end-of-inflation.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/the-end-of-end-of-inflation.html"/>
+        <updated>2021-06-10T21:44:00.005Z</updated>
+        <summary type="html"><![CDATA[This spring's spurt of inflation clearly already means one thing: The end of "the end of inflation." 
+For 25 years inflation has seemed stuck on a downward trend. Those of us who worry about it seemed like end-of-the-world sign-holders that couldn't leave the 1970s behind. It's hard to buck the trend. A famous economist advised me to give up studying inflation -- inflation is 2%, he said, that's all you need to know. Apparently a new constant of nature. 
+Well, apparently not. Inflation can happen, and there is an economics of inflation. Right now it's pretty obvious -- supply constraints both natural and artificial, coupled with rampant demand. 
+Nobody is really sure where it will go. See the IGM survey for a good indication of how wide sensible consensus is on the issue. Maybe these are j…]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why won't banks take your money?]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/why-wont-banks-take-your-money.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/why-wont-banks-take-your-money.html"/>
+        <updated>2021-06-10T17:46:00.005Z</updated>
+        <summary type="html"><![CDATA[Banks to Companies: No More Deposits, Please, says the puzzling headline at WSJ. 
+Why would bankers not want to take any amount of deposits, park them in reserves at the Fed or short term Treasury bills, charge fees and a slight interest spread, and sign up for an early tee-time at the local golf club? Sure "net interest margin" or other metrics might not look good, but money is money and more money is more money. 
+The answer: 
+
+Top of mind for many big banks is a rule requiring them to hold [sic] capital equivalent to at least 3% of all assets. Worried about the rule’s impact during the pandemic, the Fed changed the calculation in 2020 to ignore deposits the banks held at the central bank, but ended that break this March. Since then, some banks have warned the growing deposits could force…]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flock Stamps - Update]]></title>
         <id>tag:blogger.com,1999:blog-3218389485258956159.post-5429758672253475628</id>
         <link href="https://philaquelymoi.blogspot.com/2021/06/flock-stamps-update.html"/>
@@ -4533,6 +5630,23 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[I have been following Tether for about three and a half years and still I struggle to really grasp how large it is. It is so absurdly large that it has started warping my perception of other huge amounts of money. I hear a million dollar fraud now and my first thought is “that’s it”, … Continue reading How Big is Tether?]]></summary>
         <author>
             <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three inflations]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/three-inflations.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/three-inflations.html"/>
+        <updated>2021-06-10T15:31:00.001Z</updated>
+        <summary type="html"><![CDATA[The latest inflation numbers are out, up 0.64% from April to May (7.7% annualized), on top of 0.77% (9.2% annualized) from March to April. . To get around the base controversy, I like to plot the level of the CPI: 
+
+
+The graph suggests that  "reflation" from the pandemic recession was over last year, we had been back to the usual growth, and now we're embarked on something new. 
+Inflation is not the same everywhere. For another purpose I broke inflation down to durable goods and services. 
+
+
+Until about 1985, the three categories moved together. After that we saw a sharp divergence. Inflation depends on what you buy. Services got much more expensive, while durable goods actually saw deflation. The forces are familiar. The rise in skill premium has meant that people got more expensive, and …]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
         </author>
     </entry>
     <entry>
@@ -4589,6 +5703,16 @@ Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarz
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Handelsstreit USA-China: USA blockieren Einfuhr von Solarkomponenten aus China, China und die USA wollen ihren Handel und Investitionen vorantreiben]]></title>
+        <id>https://www.nzz.ch/wirtschaft/usa-gegen-china-die-wichtigsten-antworten-zum-handelsstreit-ld.1528336</id>
+        <link href="https://www.nzz.ch/wirtschaft/usa-gegen-china-die-wichtigsten-antworten-zum-handelsstreit-ld.1528336"/>
+        <updated>2021-06-10T03:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Mit dem neuen US-Präsidenten Joe Biden wird einiges anders – aber nicht alles. Gegenüber China will auch Biden Stärke zeigen. Anders als sein Vorgänger Trump will er aber die Partnerstaaten mit ins Boot holen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Foreign asset managers are eyeing China’s vast pool of savings]]></title>
         <id>/content/kpn50q93qk65vge5v97mb2cns2m5ajg7</id>
         <link href="https://www.economist.com/finance-and-economics/2021/06/10/foreign-asset-managers-are-eyeing-chinas-vast-pool-of-savings"/>
@@ -4629,6 +5753,16 @@ Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarz
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inflation options]]></title>
+        <id>https://johnhcochrane.blogspot.com/2021/06/inflation-options.html</id>
+        <link href="https://johnhcochrane.blogspot.com/2021/06/inflation-options.html"/>
+        <updated>2021-06-09T19:42:00.004Z</updated>
+        <summary type="html"><![CDATA[From the lovely Minneapolis Fed website that computes probabilities from option prices.]]></summary>
+        <author>
+            <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Market as a Social Space, and What Happens When The Firms that Occupy That Space Disappear Due to Economic Disruption]]></title>
         <id>https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html</id>
         <link href="https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html"/>
@@ -4646,6 +5780,16 @@ Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarz
         <summary type="html"><![CDATA[Capabilities are not interchangeable, nor are they all equal. This seems obvious, and yet not everyone agrees (apparently). In this article about the six 0day exploits patched on June 7 2021, we have the following line: Kevin Breen, director of cyber threat research at Immersive Labs, said elevation of privilege flaws are just as valuable […]]]></summary>
         <author>
             <name>grugq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - VW-Dieselskandal: Winterkorn, weitere Ex-Manager und deren Versicherungen sollen 288 Millionen Euro Schadenersatz zahlen]]></title>
+        <id>https://www.nzz.ch/wirtschaft/vw-dieselskandal-staatsanwaltschaft-klagt-weitere-fuehrungskraefte-an-ld.1512256</id>
+        <link href="https://www.nzz.ch/wirtschaft/vw-dieselskandal-staatsanwaltschaft-klagt-weitere-fuehrungskraefte-an-ld.1512256"/>
+        <updated>2021-06-09T11:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Gut fünf Jahre nach der Aufdeckung des Dieselskandals läuft die strafrechtliche Aufarbeitung vor Gericht. VW verlangt riesigen Schadenersatz von den Managern.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>
@@ -4706,6 +5850,36 @@ Bild: Gedenkveranstaltung von Incels-Anhänger zu Ehren von Elliot Rodger (einem
 Frustrierte, vorwiegend weisse, heterosexuelle Männer, die sich als Verlierer der Gesellschaft sehen: Auf diese groben Kategorien vereinfacht lässt sich die Incel-Community beschreiben, deren Name im Englischen als Abkürzung für „involuntary celibates“ steht, also unfreiwillige Zölibatäre. Sie glauben, dass Frauen ihnen Sex verwehren, weil sie unattraktiv zur Welt gekommen sind. Deshalb ziehen sie sich gegenseitig in Online-Foren runter und verlieren sich…]]></summary>
         <author>
             <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INTERVIEW - Die Saftherstellerin Sofia de Meyer sagt: «Wir verkaufen lieber weniger – und bleiben dafür unseren Werten treu»]]></title>
+        <id>https://www.nzz.ch/wirtschaft/opaline-gruenderin-sofia-de-meyer-weniger-ist-mehr-ld.1624574</id>
+        <link href="https://www.nzz.ch/wirtschaft/opaline-gruenderin-sofia-de-meyer-weniger-ist-mehr-ld.1624574"/>
+        <updated>2021-06-09T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Westschweizer Kleinstunternehmen Opaline setzt auf Schweizer Früchte und Natur. Kann das funktionieren? Ein Gespräch mit der Geschäftsführerin im Grünen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einfach mal machen – aber bitte nicht overdressed! – Zwei Manager aus der Schweiz erzählen von ihren Erfahrungen im Silicon Valley]]></title>
+        <id>https://www.nzz.ch/wirtschaft/arbeiten-im-silicon-valley-zwei-manager-erzaehlen-ld.1628256</id>
+        <link href="https://www.nzz.ch/wirtschaft/arbeiten-im-silicon-valley-zwei-manager-erzaehlen-ld.1628256"/>
+        <updated>2021-06-09T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sie wollen Ihren Horizont erweitern? Ein mehrjähriger Auslandaufenthalt dürfte dazu die beste Weiterbildung sein, wie diese beiden Beispiele aus der San Francisco Bay Area zeigen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was passiert eigentlich in einem Executive MBA?]]></title>
+        <id>https://www.nzz.ch/wirtschaft/executive-mba-an-der-hsg-mas-an-der-eth-was-passiert-da-ld.1628891</id>
+        <link href="https://www.nzz.ch/wirtschaft/executive-mba-an-der-hsg-mas-an-der-eth-was-passiert-da-ld.1628891"/>
+        <updated>2021-06-09T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Manager, die in einer komplexen Welt bestehen wollen, müssen sich weiterbilden. Aber sie müssen nicht alles verstehen. Zwei Beispiele.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
         </author>
     </entry>
     <entry>

@@ -3991,6 +3991,52 @@
       "feedUrl": "https://www.artstation.com/mitcharts.rss",
       "siteUrl": "https://www.artstation.com/mitcharts",
       "articles": []
+    },
+    {
+      "title": "Dr. Hans-Peter Bartels",
+      "feedUrl": "http://www.hans-peter-bartels.de/feed/",
+      "siteUrl": "http://www.hans-peter-bartels.de",
+      "articles": []
+    },
+    {
+      "title": "Arbeitskreis Darmstädter Signal",
+      "feedUrl": "https://www.darmstaedter-signal.de/feed/",
+      "siteUrl": "https://www.darmstaedter-signal.de",
+      "articles": [
+        {
+          "id": "https://www.darmstaedter-signal.de/?p=2875",
+          "author": "mwengelke",
+          "description": "Am 22. Juni 1941 überfiel Deutschland die Sowjetunion. Auch nach achtzig Jahren gehört dieses Verbrechen nicht zur Gedenkkultur Deutschlands. Der Militärhistoriker Prof. Dr. Wolfram Wette, Mitglied im Beirat des Fördervereins Darmstädter Signal, hielt am 21. Juni 2021 in Freiburg einen Vortrag zu diesem Thema. Aus dieser historischen Perspektive erscheint der...",
+          "link": "https://www.darmstaedter-signal.de/meldungen/80-jahrestag-des-deutschen-ueberfalls-auf-die-sowjetunion-am-22-juni-1941-vortrag-von-wolfram-wette-kreuzzug-gegen-den-bolschewismus-ns-propaganda-zur-rechtfertigung-des-ueberfalls-und-deren-fort/",
+          "publishedOn": "2021-06-21T21:23:17.000Z",
+          "wordCount": 5166,
+          "title": "80. Jahrestag des deutschen Überfalls auf die Sowjetunion am 22. Juni 1941. Vortrag von Wolfram Wette: Kreuzzug gegen den Bolschewismus. NS-Propaganda zur Rechtfertigung des Überfalls und deren Fortwirkung im Kalten Krieg"
+        },
+        {
+          "id": "https://www.darmstaedter-signal.de/?p=2873",
+          "author": "Florian Pfaff",
+          "description": "Für eine geschichtswissenschaftliche Dissertation zu radikalen Rechten in Bundeswehr und NVA (1955-2000) sucht der Historiker Jakob Saß vom Leibniz-Zentrum für Zeithistorische Forschung Potsdam nach Zeitzeugen. –> https://www.darmstaedter-signal.de/wp-content/uploads/2021/06/2021_06_Zeitzeugen_gesucht.rtf",
+          "link": "https://www.darmstaedter-signal.de/meldungen/zeitzeugen-gesucht/",
+          "publishedOn": "2021-06-19T11:46:47.000Z",
+          "wordCount": 161,
+          "title": "Zeitzeugen gesucht"
+        },
+        {
+          "id": "https://www.darmstaedter-signal.de/?p=2860",
+          "author": "mwengelke",
+          "description": "Mehrere Träger der Friedensarbeit verabschiedeten Wahlprüfsteine für die kommende Bundestagswahl. Eine Neuorientierung der bundesdeutschen Außenpolitik steht an. Es lohnt sich Kandidtinnen und Kandidaten daraufhin anzusprechen: „Frieden braucht Ihr Engagement – was werden Sie dafür tun?“ Hier die Prüfsteine:",
+          "link": "https://www.darmstaedter-signal.de/meldungen/friedenspolitische-wahlpruefsteine-2021/",
+          "publishedOn": "2021-06-18T11:06:43.000Z",
+          "wordCount": 197,
+          "title": "Friedenspolitische Wahlprüfsteine 2021"
+        }
+      ]
+    },
+    {
+      "title": "Karola Brede",
+      "feedUrl": "https://www.karolabrede.de/feed/",
+      "siteUrl": "https://www.karolabrede.de",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

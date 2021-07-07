@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:15:40.472Z</updated>
+    <updated>2021-07-07T19:16:23.357Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -3640,6 +3640,16 @@ Bild: Deutsche Soldaten marschieren neben einem Panzerspähwagen durch eine Orts
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[80. Jahrestag des deutschen Überfalls auf die Sowjetunion am 22. Juni 1941. Vortrag von Wolfram Wette: Kreuzzug gegen den Bolschewismus. NS-Propaganda zur Rechtfertigung des Überfalls und deren Fortwirkung im Kalten Krieg]]></title>
+        <id>https://www.darmstaedter-signal.de/?p=2875</id>
+        <link href="https://www.darmstaedter-signal.de/meldungen/80-jahrestag-des-deutschen-ueberfalls-auf-die-sowjetunion-am-22-juni-1941-vortrag-von-wolfram-wette-kreuzzug-gegen-den-bolschewismus-ns-propaganda-zur-rechtfertigung-des-ueberfalls-und-deren-fort/"/>
+        <updated>2021-06-21T21:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Am 22. Juni 1941 überfiel Deutschland die Sowjetunion. Auch nach achtzig Jahren gehört dieses Verbrechen nicht zur Gedenkkultur Deutschlands. Der Militärhistoriker Prof. Dr. Wolfram Wette, Mitglied im Beirat des Fördervereins Darmstädter Signal, hielt am 21. Juni 2021 in Freiburg einen Vortrag zu diesem Thema. Aus dieser historischen Perspektive erscheint der...]]></summary>
+        <author>
+            <name>mwengelke</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Specialization is for insects]]></title>
         <id>https://dougbelshaw.com/blog/?p=45606</id>
         <link href="https://dougbelshaw.com/blog/2021/06/21/specialization-is-for-insects/"/>
@@ -3848,6 +3858,16 @@ The 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zeitzeugen gesucht]]></title>
+        <id>https://www.darmstaedter-signal.de/?p=2873</id>
+        <link href="https://www.darmstaedter-signal.de/meldungen/zeitzeugen-gesucht/"/>
+        <updated>2021-06-19T11:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Für eine geschichtswissenschaftliche Dissertation zu radikalen Rechten in Bundeswehr und NVA (1955-2000) sucht der Historiker Jakob Saß vom Leibniz-Zentrum für Zeithistorische Forschung Potsdam nach Zeitzeugen. –> https://www.darmstaedter-signal.de/wp-content/uploads/2021/06/2021_06_Zeitzeugen_gesucht.rtf]]></summary>
+        <author>
+            <name>Florian Pfaff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Weeknote 24/2021]]></title>
         <id>https://dougbelshaw.com/blog/?p=45599</id>
         <link href="https://dougbelshaw.com/blog/2021/06/19/weeknote-24-2021/"/>
@@ -3876,6 +3896,16 @@ Weeknote 24/2021 first appeared on Open Thinkering.]]></summary>
         <summary type="html"><![CDATA[Ten years ago I blogged that smartphones would not have a revolutionary effect on public transportation. I think the trend since then has vindicated me – routing apps have not had visible impact on ridership, whereas traditional investments in better service have. I bring this up because a brief conversation with an Israeli public transportation […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friedenspolitische Wahlprüfsteine 2021]]></title>
+        <id>https://www.darmstaedter-signal.de/?p=2860</id>
+        <link href="https://www.darmstaedter-signal.de/meldungen/friedenspolitische-wahlpruefsteine-2021/"/>
+        <updated>2021-06-18T11:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Mehrere Träger der Friedensarbeit verabschiedeten Wahlprüfsteine für die kommende Bundestagswahl. Eine Neuorientierung der bundesdeutschen Außenpolitik steht an. Es lohnt sich Kandidtinnen und Kandidaten daraufhin anzusprechen: „Frieden braucht Ihr Engagement – was werden Sie dafür tun?“ Hier die Prüfsteine:]]></summary>
+        <author>
+            <name>mwengelke</name>
         </author>
     </entry>
     <entry>

@@ -5544,6 +5544,135 @@
           "title": "c't Fotografie - Spezial Nr. 2 2019"
         }
       ]
+    },
+    {
+      "title": "Cipherbrain",
+      "feedUrl": "https://scienceblogs.de/klausis-krypto-kolumne/feed/",
+      "siteUrl": "https://scienceblogs.de/klausis-krypto-kolumne",
+      "articles": [
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24608",
+          "author": "Klaus Schmeh",
+          "description": "Aus dem Jahr 1910 ist die Beschreibung einer Verschlüsselungsmaschine überliefert, die der Schweizer Flugpionier Alexander Liwentaal gebaut hat. Können meine Leser dabei helfen, mehr zu diesem Gerät herauszufinden? English version (translated with DeepL) Bevor es um das eigentliche Thema geht, möchte ich erwähnen, dass es Blog-Leser Thomas Bosbach gelungen ist, die Bedeutung des Begriffs “San…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/07/06/die-verschluesselungsmaschine-eines-schweizer-flugpioniers/?utm_source=rss&utm_medium=rss&utm_campaign=die-verschluesselungsmaschine-eines-schweizer-flugpioniers",
+          "publishedOn": "2021-07-06T16:16:03.000Z",
+          "wordCount": 2144,
+          "title": "Die Verschlüsselungsmaschine eines Schweizer Flugpioniers"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24629",
+          "author": "Klaus Schmeh",
+          "description": "Die verschlüsselten Nachrichten eines Spions aus dem Zweiten Weltkrieg geben seit Jahrzehnten Rätsel auf. Können meine Leser Licht ins Dunkel bringen? English version (translated with DeepL) Zu den angenehmen Nebeneffekten meines aktuellen Buchs “Codebreaking: A Practical Guide”, das ich auf Englisch zusammen mit Elonka Dunin veröffentlicht habe, gehört, dass ich momentan öfters zu Vorträgen oder…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/07/04/noch-immer-ungeloest-fuenf-verschluesselte-funksprueche-eines-new-yorker-nazi-spions/?utm_source=rss&utm_medium=rss&utm_campaign=noch-immer-ungeloest-fuenf-verschluesselte-funksprueche-eines-new-yorker-nazi-spions",
+          "publishedOn": "2021-07-04T18:05:43.000Z",
+          "wordCount": 2648,
+          "title": "Noch immer ungelöst: Fünf verschlüsselte Funksprüche eines New Yorker Nazi-Spions"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24599",
+          "author": "Klaus Schmeh",
+          "description": "Der Schriftsteller Rudyard Kipling hat nach eigenen Angaben in einem seiner Romane eine kodierte Nachricht versteckt. Leider weiß man bisher noch nicht einmal genau, wonach man suchen muss. English version (translated with DeepL) Schriftsteller mit einem Interesse an Kryptologie gab und gibt es viele. Am bekanntesten in dieser Hinsicht ist zweifellos Edgar Allan Poe, dessen…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/07/02/ungeloest-die-kodierte-nachricht-des-nobelpreistraegers-rudyard-kipling/?utm_source=rss&utm_medium=rss&utm_campaign=ungeloest-die-kodierte-nachricht-des-nobelpreistraegers-rudyard-kipling",
+          "publishedOn": "2021-07-02T17:32:22.000Z",
+          "wordCount": 2032,
+          "title": "Ungelöst: Die kodierte Nachricht des Nobelpreisträgers Rudyard Kipling"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24556",
+          "author": "Klaus Schmeh",
+          "description": "Der erste kanadische Premierminister hinterließ zahlreiche verschlüsselte Telegramme und andere verschlüsselte Mitteilungen. Blog-Leser Matthew Brown konnte die meisten davon entschlüsseln – aber nicht alle. English version (translated with DeepL) John A. Macdonald (1815-1891) war der erste kanadische Premierminister. Blog-Leser Matthew Brown aus England hat mich auf eine Sammlung verschlüsselter Botschaften (hauptsächlich Telegramme) aufmerksam gemacht, die…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/30/wie-matthew-brown-die-verschluesselten-telegramme-des-ersten-kanadischen-premierministers-loeste/?utm_source=rss&utm_medium=rss&utm_campaign=wie-matthew-brown-die-verschluesselten-telegramme-des-ersten-kanadischen-premierministers-loeste",
+          "publishedOn": "2021-06-30T19:49:02.000Z",
+          "wordCount": 2286,
+          "title": "Wie Matthew Brown die verschlüsselten Telegramme des ersten kanadischen Premierministers löste"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24533",
+          "author": "Klaus Schmeh",
+          "description": "Gibt es ein Leben nach dem Tod? Es gab bereits mehrere Versuche, diese Frage mithilfe der Kryptologie zu beantworten. Eine kürzlich erschienene Forschungsarbeit liefert neue Informationen zu diesem Thema. English version (translated with DeepL) Zunächst einmal möchte ich erwähnen, dass mein gestriger Online-Vortrag “Ciphers and Crime” (ich habe ihn zusammen mit Elonka Dunin gehalten) im…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/27/neues-aus-dem-jenseits/?utm_source=rss&utm_medium=rss&utm_campaign=neues-aus-dem-jenseits",
+          "publishedOn": "2021-06-27T10:35:22.000Z",
+          "wordCount": 3802,
+          "title": "Neues aus dem Jenseits"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24515",
+          "author": "Klaus Schmeh",
+          "description": "2013 spielte in einem Kriminalfall die Zahlenfolge 5785/43293091 eine Rolle. Meines Wissens ist der Fall immer noch ungeklärt und die Bedeutung der Zahlen unbekannt. English version (translated with Deepl) Wer sich für Verschlüsselung und Kriminalität interessiert, sollte unbedingt am morgigen 26. Juni 2021 meinen ICCH-Vortrag “Crime-related Codes and Ciphers” anhören. Ich werde ihn wieder zusammen…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/25/vor-sechs-jahren-fragte-aktenzeichen-xy-ungeloest-was-bedeutet-die-zahlenfolge-5785-43293091/?utm_source=rss&utm_medium=rss&utm_campaign=vor-sechs-jahren-fragte-aktenzeichen-xy-ungeloest-was-bedeutet-die-zahlenfolge-5785-43293091",
+          "publishedOn": "2021-06-25T19:51:11.000Z",
+          "wordCount": 2633,
+          "title": "Vor sechs Jahren fragte “Aktenzeichen XY ungelöst”: Was bedeutet die Zahlenfolge 5785/43293091?"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24485",
+          "author": "Klaus Schmeh",
+          "description": "Blog-Leser Karsten Hansky hat mir ein interessantes verschlüsseltes Dokument aus Frankreich zukommen lassen. Die Entschlüsselung und ausführliche Informationen zum geschichtlichen Hintergrund hat er gleich mitgeliefert. English version (translated with DeepL) Karsten Hansky hat mir für Cipherbrain schon so manches interessante verschlüsselte Dokument aus seiner Sammlung zur Verfügung gestellt – darunter ein Buch und mehrere Postkarten,…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/22/eine-verschluesselte-depesche-aus-dem-jahr-1812-und-ihre-spannende-geschichte/?utm_source=rss&utm_medium=rss&utm_campaign=eine-verschluesselte-depesche-aus-dem-jahr-1812-und-ihre-spannende-geschichte",
+          "publishedOn": "2021-06-22T17:52:34.000Z",
+          "wordCount": 3888,
+          "title": "Eine verschlüsselte Depesche aus dem Jahr 1812 und ihre spannende Geschichte"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24448",
+          "author": "Klaus Schmeh",
+          "description": "AN0M, die manipulierte Verschlüsselungs-App des FBI, hat letzte Woche für Schlagzeilen gesorgt. Heute kann ich ein paar weitere Informationen dazu präsentieren – inklusive einem Podcast-Interview, das ich zu diesem Thema gegeben habe. English version (translated with DeepL) Letzte Woche setzte das FBI zusammen mit einigen anderen Polizei-Behörden gleichermaßen einen Meilenstein in der Geschichte der Verbrechensbekämpfung…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/19/mehr-ueber-an0m-und-die-operation-trojan-horse/?utm_source=rss&utm_medium=rss&utm_campaign=mehr-ueber-an0m-und-die-operation-trojan-horse",
+          "publishedOn": "2021-06-19T11:28:59.000Z",
+          "wordCount": 3063,
+          "title": "Mehr über AN0M und die Operation “Trojan Shield”"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24379",
+          "author": "Klaus Schmeh",
+          "description": "Die Software-Entwicklerin Therese Clare Terry verschwand 1990 spurlos und wurde später für tot erklärt. Der Hauptverdächtige fertigte eine Notiz an, auf der unter anderem Schachzüge zu erkennen sind. Lässt sich diese Botschaft entschlüsseln, und kann man auf diese Weise die Leiche finden? English version (translated with DeepL) Zu den schönen Dingen im Leben eines Krypto-Bloggers…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/17/der-fall-terry-ein-ungeklaerter-mord-und-eine-verschluesselte-botschaft/?utm_source=rss&utm_medium=rss&utm_campaign=der-fall-terry-ein-ungeklaerter-mord-und-eine-verschluesselte-botschaft",
+          "publishedOn": "2021-06-17T18:55:36.000Z",
+          "wordCount": 1971,
+          "title": "Der Fall Terry: Ein ungeklärter Mord und eine verschlüsselte Botschaft"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24407",
+          "author": "Klaus Schmeh",
+          "description": "Verschlüsselte Postkarten sind für einen geübten Codeknacker oftmals recht einfach zu lösen. Die drei Exemplare, die ich heute vorstelle, wirken jedoch äußerst knifflig. Schafft es ein Leser trotzdem, sie zu knacken? English version (translated with DeepL) Meist wurden verschlüsselte Postkarten mit einer einfachen Substitutionschiffre (MASC) erstellt. Eine solche kann man mit geratenen Wörtern oder über…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/15/drei-ungewoehnliche-verschluesselte-postkarten/?utm_source=rss&utm_medium=rss&utm_campaign=drei-ungewoehnliche-verschluesselte-postkarten",
+          "publishedOn": "2021-06-15T20:01:03.000Z",
+          "wordCount": 2164,
+          "title": "Drei ungewöhnliche verschlüsselte Postkarten"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24373",
+          "author": "Klaus Schmeh",
+          "description": "Aus dem Gefängnis heraus versuchte die des Mordes Angeklagte US-Amerikanerin Jodi Arias, eine verschlüsselte Nachricht zu verschicken. Mit Hilfe meiner Leser würde ich gerne erfahren, wie das von ihr verwendete Verfahren funktionierte. English version (translated with DeepL) “True Crime” boomt – im Fernsehen, im Internet und auf dem Buchmarkt. Auch auf Cipherbrain kommen wahre Kriminalgeschichten…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/13/die-buch-chiffre-der-moerderin-jodi-arias/?utm_source=rss&utm_medium=rss&utm_campaign=die-buch-chiffre-der-moerderin-jodi-arias",
+          "publishedOn": "2021-06-13T21:26:22.000Z",
+          "wordCount": 2309,
+          "title": "Die Buch-Chiffre der Mörderin Jodi Arias",
+          "enclosure": {
+            "url": "https://videos.dailymail.co.uk/video/bc/rtmp_uds/1418450360/2013/02/25/1418450360_2189013039001_Jodi-Arias.mp4",
+            "length": "9237546",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24338",
+          "author": "Klaus Schmeh",
+          "description": "Im Jahr 1879 schickte der US-Vize-Finanzminister ein verschlüsseltes Telegramm an die Rothschild-Bank in London. Kann ein Leser dieses dechiffrieren? English version (translated with DeepL) Bei meinen Streifzügen durch das Internet bin ich mal wieder auf ein interessantes Dokument gestoßen. Über den Suchbegriff “Coded Message” bei Google landete ich auf eBay, wo ein verschlüsseltes Telegramm zum…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/11/ungeloest-das-verschluesselte-telegramm-eines-us-politikers-an-die-rothschild-bank/?utm_source=rss&utm_medium=rss&utm_campaign=ungeloest-das-verschluesselte-telegramm-eines-us-politikers-an-die-rothschild-bank",
+          "publishedOn": "2021-06-11T14:27:56.000Z",
+          "wordCount": 2083,
+          "title": "Ungelöst: Das verschlüsselte Telegramm eines US-Politikers an die Rothschild-Bank"
+        },
+        {
+          "id": "https://scienceblogs.de/klausis-krypto-kolumne/?p=24346",
+          "author": "Klaus Schmeh",
+          "description": "Das FBI hat eine manipulierte Verschlüsselungs-App unter Kriminellen populär gemacht. Nun wurden in einer spektakulären Aktion über 800 Personen festgenommen, die sich in verschlüsselten Chats verraten haben. English version (translated with DeepL) Auf Cipherbrain habe ich schon öfters über Kriminalfälle berichtet, in denen die Polizei auf verschlüsselte Computerdaten gestoßen ist. Ich habe sogar eine Liste…",
+          "link": "https://scienceblogs.de/klausis-krypto-kolumne/2021/06/09/an0m-fbi-ermittelt-dank-manipulierter-verschluesselungs-app-hunderte-von-mutmasslichen-verbrechern/?utm_source=rss&utm_medium=rss&utm_campaign=an0m-fbi-ermittelt-dank-manipulierter-verschluesselungs-app-hunderte-von-mutmasslichen-verbrechern",
+          "publishedOn": "2021-06-09T21:06:23.000Z",
+          "wordCount": 2719,
+          "title": "AN0M: FBI ermittelt dank manipulierter Verschlüsselungs-App Hunderte von mutmaßlichen Verbrechern"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

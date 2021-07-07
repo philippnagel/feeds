@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:24:58.400Z</updated>
+    <updated>2021-07-07T19:27:37.379Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -1987,6 +1987,16 @@ Die Adaption bewegt sich stärker in eine Krimirichtung, anstatt sich allein auf
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Die Verschlüsselungsmaschine eines Schweizer Flugpioniers]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24608</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/07/06/die-verschluesselungsmaschine-eines-schweizer-flugpioniers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=die-verschluesselungsmaschine-eines-schweizer-flugpioniers"/>
+        <updated>2021-07-06T16:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Aus dem Jahr 1910 ist die Beschreibung einer Verschlüsselungsmaschine überliefert, die der Schweizer Flugpionier Alexander Liwentaal gebaut hat. Können meine Leser dabei helfen, mehr zu diesem Gerät herauszufinden? English version (translated with DeepL) Bevor es um das eigentliche Thema geht, möchte ich erwähnen, dass es Blog-Leser Thomas Bosbach gelungen ist, die Bedeutung des Begriffs “San…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesetipps: Ein erschreckendes Ausmaß an Unkenntnis, Operation Lyrebird]]></title>
         <id>https://tarnkappe.info/?p=156699</id>
         <link href="https://tarnkappe.info/lesetipps-ein-erschreckendes-ausmass-an-unkenntnis-operation-lyrebird/"/>
@@ -3384,6 +3394,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Noch immer ungelöst: Fünf verschlüsselte Funksprüche eines New Yorker Nazi-Spions]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24629</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/07/04/noch-immer-ungeloest-fuenf-verschluesselte-funksprueche-eines-new-yorker-nazi-spions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=noch-immer-ungeloest-fuenf-verschluesselte-funksprueche-eines-new-yorker-nazi-spions"/>
+        <updated>2021-07-04T18:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Die verschlüsselten Nachrichten eines Spions aus dem Zweiten Weltkrieg geben seit Jahrzehnten Rätsel auf. Können meine Leser Licht ins Dunkel bringen? English version (translated with DeepL) Zu den angenehmen Nebeneffekten meines aktuellen Buchs “Codebreaking: A Practical Guide”, das ich auf Englisch zusammen mit Elonka Dunin veröffentlicht habe, gehört, dass ich momentan öfters zu Vorträgen oder…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Und jetzt mal Urlaub.]]></title>
         <id>https://augengeradeaus.net/?p=57452</id>
         <link href="https://augengeradeaus.net/2021/07/und-jetzt-mal-urlaub/"/>
@@ -3814,6 +3834,16 @@ Wel is het dan zo dat de Eneco App minder inzicht kan verschaffen zonder ieder k
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ungelöst: Die kodierte Nachricht des Nobelpreisträgers Rudyard Kipling]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24599</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/07/02/ungeloest-die-kodierte-nachricht-des-nobelpreistraegers-rudyard-kipling/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ungeloest-die-kodierte-nachricht-des-nobelpreistraegers-rudyard-kipling"/>
+        <updated>2021-07-02T17:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Der Schriftsteller Rudyard Kipling hat nach eigenen Angaben in einem seiner Romane eine kodierte Nachricht versteckt. Leider weiß man bisher noch nicht einmal genau, wonach man suchen muss. English version (translated with DeepL) Schriftsteller mit einem Interesse an Kryptologie gab und gibt es viele. Am bekanntesten in dieser Hinsicht ist zweifellos Edgar Allan Poe, dessen…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iodéOS – does the data saving Android operating system fulfill its promise?]]></title>
         <id>https://tarnkappe.info/?p=155022</id>
         <link href="https://tarnkappe.info/iodeos-does-the-data-saving-android-operating-system-fulfill-its-promise/"/>
@@ -4090,6 +4120,16 @@ Sie sind es, die das Feuer der Revolte in Kolumbien am Brennen halten. Wir haben
         <summary type="html"><![CDATA[Fed officials debate whether and when to taper support]]></summary>
         <author>
             <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wie Matthew Brown die verschlüsselten Telegramme des ersten kanadischen Premierministers löste]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24556</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/30/wie-matthew-brown-die-verschluesselten-telegramme-des-ersten-kanadischen-premierministers-loeste/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wie-matthew-brown-die-verschluesselten-telegramme-des-ersten-kanadischen-premierministers-loeste"/>
+        <updated>2021-06-30T19:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Der erste kanadische Premierminister hinterließ zahlreiche verschlüsselte Telegramme und andere verschlüsselte Mitteilungen. Blog-Leser Matthew Brown konnte die meisten davon entschlüsseln – aber nicht alle. English version (translated with DeepL) John A. Macdonald (1815-1891) war der erste kanadische Premierminister. Blog-Leser Matthew Brown aus England hat mich auf eine Sammlung verschlüsselter Botschaften (hauptsächlich Telegramme) aufmerksam gemacht, die…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
         </author>
     </entry>
     <entry>
@@ -4542,6 +4582,16 @@ Even though I try very hard not to fall for this, periodically I discover that m
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Neues aus dem Jenseits]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24533</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/27/neues-aus-dem-jenseits/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=neues-aus-dem-jenseits"/>
+        <updated>2021-06-27T10:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Gibt es ein Leben nach dem Tod? Es gab bereits mehrere Versuche, diese Frage mithilfe der Kryptologie zu beantworten. Eine kürzlich erschienene Forschungsarbeit liefert neue Informationen zu diesem Thema. English version (translated with DeepL) Zunächst einmal möchte ich erwähnen, dass mein gestriger Online-Vortrag “Ciphers and Crime” (ich habe ihn zusammen mit Elonka Dunin gehalten) im…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meme Weeding: Polycentricity and High-Speed Rail]]></title>
         <id>http://pedestrianobservations.com/?p=6354</id>
         <link href="https://pedestrianobservations.com/2021/06/26/meme-weeding-polycentricity-and-high-speed-rail/"/>
@@ -4594,6 +4644,16 @@ Walkways lined by abandoned gestures first appeared on Open Thinkering.]]></summ
         <summary type="html"><![CDATA[Der Fall des insolventen deutschen Zahlungsdienstleisters Wirecard hat weitreichende Folgen. Bisher mussten die Chefs der Finanzaufsicht Bafin, der «Bilanzpolizei» DPR und von EY Deutschland ihre Posten räumen. Der Untersuchungsausschuss des Bundestags hat seine Arbeit mit einem Abschlussbericht beendet.]]></summary>
         <author>
             <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vor sechs Jahren fragte “Aktenzeichen XY ungelöst”: Was bedeutet die Zahlenfolge 5785/43293091?]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24515</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/25/vor-sechs-jahren-fragte-aktenzeichen-xy-ungeloest-was-bedeutet-die-zahlenfolge-5785-43293091/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vor-sechs-jahren-fragte-aktenzeichen-xy-ungeloest-was-bedeutet-die-zahlenfolge-5785-43293091"/>
+        <updated>2021-06-25T19:51:11.000Z</updated>
+        <summary type="html"><![CDATA[2013 spielte in einem Kriminalfall die Zahlenfolge 5785/43293091 eine Rolle. Meines Wissens ist der Fall immer noch ungeklärt und die Bedeutung der Zahlen unbekannt. English version (translated with Deepl) Wer sich für Verschlüsselung und Kriminalität interessiert, sollte unbedingt am morgigen 26. Juni 2021 meinen ICCH-Vortrag “Crime-related Codes and Ciphers” anhören. Ich werde ihn wieder zusammen…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
         </author>
     </entry>
     <entry>
@@ -4961,6 +5021,16 @@ Thank you @PiyushLosalka]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eine verschlüsselte Depesche aus dem Jahr 1812 und ihre spannende Geschichte]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24485</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/22/eine-verschluesselte-depesche-aus-dem-jahr-1812-und-ihre-spannende-geschichte/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eine-verschluesselte-depesche-aus-dem-jahr-1812-und-ihre-spannende-geschichte"/>
+        <updated>2021-06-22T17:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Blog-Leser Karsten Hansky hat mir ein interessantes verschlüsseltes Dokument aus Frankreich zukommen lassen. Die Entschlüsselung und ausführliche Informationen zum geschichtlichen Hintergrund hat er gleich mitgeliefert. English version (translated with DeepL) Karsten Hansky hat mir für Cipherbrain schon so manches interessante verschlüsselte Dokument aus seiner Sammlung zur Verfügung gestellt – darunter ein Buch und mehrere Postkarten,…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Richard II, by William Shakespeare]]></title>
         <id>https://standardebooks.org/ebooks/william-shakespeare/richard-ii</id>
         <link href="https://standardebooks.org/ebooks/william-shakespeare/richard-ii"/>
@@ -5299,6 +5369,16 @@ The 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mehr über AN0M und die Operation “Trojan Shield”]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24448</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/19/mehr-ueber-an0m-und-die-operation-trojan-horse/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mehr-ueber-an0m-und-die-operation-trojan-horse"/>
+        <updated>2021-06-19T11:28:59.000Z</updated>
+        <summary type="html"><![CDATA[AN0M, die manipulierte Verschlüsselungs-App des FBI, hat letzte Woche für Schlagzeilen gesorgt. Heute kann ich ein paar weitere Informationen dazu präsentieren – inklusive einem Podcast-Interview, das ich zu diesem Thema gegeben habe. English version (translated with DeepL) Letzte Woche setzte das FBI zusammen mit einigen anderen Polizei-Behörden gleichermaßen einen Meilenstein in der Geschichte der Verbrechensbekämpfung…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Weeknote 24/2021]]></title>
         <id>https://dougbelshaw.com/blog/?p=45599</id>
         <link href="https://dougbelshaw.com/blog/2021/06/19/weeknote-24-2021/"/>
@@ -5384,6 +5464,16 @@ In den nächsten Tagen bietet das KlimaCamp Lüneburg im Kurpark, im Kontext der
         <summary type="html"><![CDATA[One of the big questions to which I have yet to find a satisfying answer is what stories are, in the set of things that includes various other kinds of speech. David Mamet has what I think is a partial answer in Three Uses of a Knife, a short, stream-of-consciousness meditation on storytelling which I […]]]></summary>
         <author>
             <name>Venkatesh Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der Fall Terry: Ein ungeklärter Mord und eine verschlüsselte Botschaft]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24379</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/17/der-fall-terry-ein-ungeklaerter-mord-und-eine-verschluesselte-botschaft/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=der-fall-terry-ein-ungeklaerter-mord-und-eine-verschluesselte-botschaft"/>
+        <updated>2021-06-17T18:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Die Software-Entwicklerin Therese Clare Terry verschwand 1990 spurlos und wurde später für tot erklärt. Der Hauptverdächtige fertigte eine Notiz an, auf der unter anderem Schachzüge zu erkennen sind. Lässt sich diese Botschaft entschlüsseln, und kann man auf diese Weise die Leiche finden? English version (translated with DeepL) Zu den schönen Dingen im Leben eines Krypto-Bloggers…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
         </author>
     </entry>
     <entry>
@@ -5627,6 +5717,16 @@ Dank des intensiven Spiels Frank Sinatras sowie einer gekonnten Inszenierung erh
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Drei ungewöhnliche verschlüsselte Postkarten]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24407</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/15/drei-ungewoehnliche-verschluesselte-postkarten/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=drei-ungewoehnliche-verschluesselte-postkarten"/>
+        <updated>2021-06-15T20:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Verschlüsselte Postkarten sind für einen geübten Codeknacker oftmals recht einfach zu lösen. Die drei Exemplare, die ich heute vorstelle, wirken jedoch äußerst knifflig. Schafft es ein Leser trotzdem, sie zu knacken? English version (translated with DeepL) Meist wurden verschlüsselte Postkarten mit einer einfachen Substitutionschiffre (MASC) erstellt. Eine solche kann man mit geratenen Wörtern oder über…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The new “election fraud”]]></title>
         <id>https://www.themoneyillusion.com/?p=34607</id>
         <link href="http://feedproxy.google.com/~r/Themoneyillusion/~3/9Gzw9xoViIk/"/>
@@ -5846,6 +5946,16 @@ The surest sign that a country will be economically successful is not the health
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Die Buch-Chiffre der Mörderin Jodi Arias]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24373</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/13/die-buch-chiffre-der-moerderin-jodi-arias/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=die-buch-chiffre-der-moerderin-jodi-arias"/>
+        <updated>2021-06-13T21:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Aus dem Gefängnis heraus versuchte die des Mordes Angeklagte US-Amerikanerin Jodi Arias, eine verschlüsselte Nachricht zu verschicken. Mit Hilfe meiner Leser würde ich gerne erfahren, wie das von ihr verwendete Verfahren funktionierte. English version (translated with DeepL) “True Crime” boomt – im Fernsehen, im Internet und auf dem Buchmarkt. Auch auf Cipherbrain kommen wahre Kriminalgeschichten…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flock Stamps - Update]]></title>
         <id>tag:blogger.com,1999:blog-3218389485258956159.post-7060321873869621001</id>
         <link href="https://philaquelymoi.blogspot.com/2021/06/flock-stamps-update_13.html"/>
@@ -5972,6 +6082,16 @@ in case you want documentation that the Federal Reserve is taking on inequality 
 Slides available here.]]></summary>
         <author>
             <name>The Grumpy Economist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ungelöst: Das verschlüsselte Telegramm eines US-Politikers an die Rothschild-Bank]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24338</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/11/ungeloest-das-verschluesselte-telegramm-eines-us-politikers-an-die-rothschild-bank/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ungeloest-das-verschluesselte-telegramm-eines-us-politikers-an-die-rothschild-bank"/>
+        <updated>2021-06-11T14:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Im Jahr 1879 schickte der US-Vize-Finanzminister ein verschlüsseltes Telegramm an die Rothschild-Bank in London. Kann ein Leser dieses dechiffrieren? English version (translated with DeepL) Bei meinen Streifzügen durch das Internet bin ich mal wieder auf ein interessantes Dokument gestoßen. Über den Suchbegriff “Coded Message” bei Google landete ich auf eBay, wo ein verschlüsseltes Telegramm zum…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
         </author>
     </entry>
     <entry>
@@ -6193,6 +6313,16 @@ Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarz
         <summary type="html"><![CDATA[Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.]]></summary>
         <author>
             <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AN0M: FBI ermittelt dank manipulierter Verschlüsselungs-App Hunderte von mutmaßlichen Verbrechern]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24346</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/09/an0m-fbi-ermittelt-dank-manipulierter-verschluesselungs-app-hunderte-von-mutmasslichen-verbrechern/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=an0m-fbi-ermittelt-dank-manipulierter-verschluesselungs-app-hunderte-von-mutmasslichen-verbrechern"/>
+        <updated>2021-06-09T21:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Das FBI hat eine manipulierte Verschlüsselungs-App unter Kriminellen populär gemacht. Nun wurden in einer spektakulären Aktion über 800 Personen festgenommen, die sich in verschlüsselten Chats verraten haben. English version (translated with DeepL) Auf Cipherbrain habe ich schon öfters über Kriminalfälle berichtet, in denen die Polizei auf verschlüsselte Computerdaten gestoßen ist. Ich habe sogar eine Liste…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
         </author>
     </entry>
     <entry>

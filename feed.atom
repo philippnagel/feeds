@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:00:24.114Z</updated>
+    <updated>2021-07-07T19:02:24.080Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -68,6 +68,17 @@ The red memory, the foam of sybil and indeed: I am a blue dove ... by Equestrian
 Plus 10 more...]]></summary>
         <author>
             <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intouchables parrains du football mondial. Enquête sur la FIFA]]></title>
+        <id>https://www.monde-diplomatique.fr/2010/06/GARCIA/19214</id>
+        <link href="https://www.monde-diplomatique.fr/2010/06/GARCIA/19214"/>
+        <updated>2021-07-07T14:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Le 11 juin débute, à Johannesburg, la Coupe du monde 2010 de football. Organisatrice de l'événement, la FIFA affiche une prospérité insolente. Cependant les critiques abondent.. / Afrique du Sud, Criminalité financière, Économie, Élections, Loisirs, Société, Sport, Corruption - (...)
+ / Afrique du Sud, Criminalité financière, Économie, Élections, Loisirs, Société, Sport, Corruption - 2010/06]]></summary>
+        <author>
+            <name>David Garcia</name>
         </author>
     </entry>
     <entry>
@@ -376,6 +387,17 @@ Plus 10 more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Curieux «<small class="fine"> </small>printemps de la démocratie<small class="fine"> </small>»...]]></title>
+        <id>https://www.monde-diplomatique.fr/2007/05/COLLOVALD/14692</id>
+        <link href="https://www.monde-diplomatique.fr/2007/05/COLLOVALD/14692"/>
+        <updated>2021-07-06T16:23:45.000Z</updated>
+        <summary type="html"><![CDATA[L'exceptionnel taux de participation au scrutin présidentiel français (près de 85 % au premier tour) et le déclin du Front national ont suscité une avalanche de commentaires euphoriques sur un « printemps de la démocratie ». Pourtant, des millions d'électeurs, loin de se déterminer à partir des (...)
+ / France, Communication, Élections, Politique, Sondage d'opinion - 2007/05]]></summary>
+        <author>
+            <name>Annie Collovald</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesetipps: Ein erschreckendes Ausmaß an Unkenntnis, Operation Lyrebird]]></title>
         <id>https://tarnkappe.info/?p=156699</id>
         <link href="https://tarnkappe.info/lesetipps-ein-erschreckendes-ausmass-an-unkenntnis-operation-lyrebird/"/>
@@ -679,6 +701,17 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Un ethnologue au Mondial]]></title>
+        <id>https://www.monde-diplomatique.fr/1998/08/AUGE/3958</id>
+        <link href="https://www.monde-diplomatique.fr/1998/08/AUGE/3958"/>
+        <updated>2021-07-05T17:15:13.000Z</updated>
+        <summary type="html"><![CDATA[La victoire, en Coupe du monde de football, de l'équipe de France a provoqué une sorte de mini-séisme sociologique. Jusqu'alors relativement distante à l'égard du phénomène football, la société française, toutes catégories sociales confondues, s'est soudain passionnée pour les victoires de son équipe (...)
+ / Audiovisuel, Sport - 1998/08]]></summary>
+        <author>
+            <name>Marc Augé</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesetipps: Ein weltweiter Cyberangriff, digitale Gewalt, Drucker-Albträume]]></title>
         <id>https://tarnkappe.info/?p=156245</id>
         <link href="https://tarnkappe.info/lesetipps-ein-weltweiter-cyberangriff-digitale-gewalt-drucker-albtraeume/"/>
@@ -711,6 +744,17 @@ In reply to JonFraz.   So you admit that violent crime has ... by Matt
 Plus 10 more...]]></summary>
         <author>
             <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un ethnologue au Tour de France]]></title>
+        <id>https://www.monde-diplomatique.fr/1997/08/AUGE/4890</id>
+        <link href="https://www.monde-diplomatique.fr/1997/08/AUGE/4890"/>
+        <updated>2021-07-05T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Cyclisme et football, sports éminemment populaires, passionnent de plus en plus le public dit « cultivé » : étudiants, enseignants, cadres, artistes, créateurs... Pourquoi un tel engouement ? / Société, Sport - 1997/08
+ / Société, Sport - 1997/08]]></summary>
+        <author>
+            <name>Marc Augé</name>
         </author>
     </entry>
     <entry>
@@ -1231,6 +1275,28 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pourquoi le régime syrien a survécu]]></title>
+        <id>https://www.monde-diplomatique.fr/2021/07/CLUZET/63296</id>
+        <link href="https://www.monde-diplomatique.fr/2021/07/CLUZET/63296"/>
+        <updated>2021-07-03T17:34:31.000Z</updated>
+        <summary type="html"><![CDATA[En dix ans, le conflit qui a ravagé la Syrie a fait 500 000 morts et 12 millions de déplacés. Donné pour perdu au printemps 2011, le président Bachar Al-Assad a été sauvé par les interventions militaires de la Russie, de l'Iran et du Hezbollah libanais. Sa survie doit aussi beaucoup à la solidarité (...)
+ / Syrie, Proche-Orient, Parti politique, Guerre civile, Minorité nationale, Mouvement de contestation, Islam, Fondamentalisme, Religion, Dictature, Élections, Russie, Iran - 2021/07]]></summary>
+        <author>
+            <name>Adrien Cluzet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Mao Zedong à Xi Jinping, un parti pour le renouveau national]]></title>
+        <id>https://www.monde-diplomatique.fr/2021/07/ROCCA/63290</id>
+        <link href="https://www.monde-diplomatique.fr/2021/07/ROCCA/63290"/>
+        <updated>2021-07-03T15:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Un monde sépare le Parti communiste chinois créé par une poignée de militants le 23 juillet 1921 et celui de M. Xi Jinping, dont le nombre de membres dépasse la population de l'Allemagne. Dès ses débuts, le Parti a fait preuve d'une extraordinaire souplesse, tout en maintenant un objectif constant : (...)
+ / Chine, Communisme, Capitalisme, Maoïsme, Nationalisme, Stratégie, Histoire, Inégalités, Parti politique, Mutation, Idéologie, Société - 2021/07]]></summary>
+        <author>
+            <name>Jean-Louis Rocca</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recaudación de fondos: Fondo de rescate de Anna]]></title>
         <id>https://c4ss.org/?p=55034</id>
         <link href="https://c4ss.org/content/55034"/>
@@ -1407,6 +1473,17 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Un trafic d'experts]]></title>
+        <id>https://www.monde-diplomatique.fr/2021/07/CORAZZA/63300</id>
+        <link href="https://www.monde-diplomatique.fr/2021/07/CORAZZA/63300"/>
+        <updated>2021-07-01T15:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Au palmarès des trafics internationaux, le commerce illégal d'œuvres d'art arrive troisième, après celui de la drogue et celui des armes. Il reste prospère malgré la création d'unités d'enquêteurs spécialisés et la prise de conscience de ce qu'il représente pour les pays dépouillés. En Italie, il conjugue (...)
+ / Italie, États-Unis, Mafia, Criminalité financière, Commerce, Culture, Corruption, Histoire, Art - 2021/07]]></summary>
+        <author>
+            <name>Pascal Corazza</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Big Idea: E. J. Mellow]]></title>
         <id>https://whatever.scalzi.com/?p=39794</id>
         <link href="https://whatever.scalzi.com/2021/07/01/the-big-idea-e-j-mellow/"/>
@@ -1527,6 +1604,28 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Robin des boîtes]]></title>
+        <id>https://www.monde-diplomatique.fr/2016/03/NAMIAS/54955</id>
+        <link href="https://www.monde-diplomatique.fr/2016/03/NAMIAS/54955"/>
+        <updated>2021-06-29T16:37:12.000Z</updated>
+        <summary type="html"><![CDATA[C'est l'aménagement en 2004 du quartier de la Quinta Monroy à Iquique, dans le nord du Chili, qui vaut à Alejandro Aravena une audience internationale dans les milieux de l'architecture. Mandatée pour résorber un bidonville, son agence développe un concept qui permettra la construction de 93 (...)
+ / Chili, Culture, Inégalités, Logement, Pauvreté, Urbanisme, Amérique du Sud, Architecture - 2016/03]]></summary>
+        <author>
+            <name>Olivier Namias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recul de la foi, mais pas de l'intolérance]]></title>
+        <id>https://www.monde-diplomatique.fr/cartes/religions-societe</id>
+        <link href="https://www.monde-diplomatique.fr/cartes/religions-societe"/>
+        <updated>2021-06-29T14:34:28.000Z</updated>
+        <summary type="html"><![CDATA[En Europe occidentale, la religion n'apparaît plus comme une valeur primordiale, et l'athéisme est très répandu. A l'opposé, le niveau élevé qu'il atteint en Chine peut susciter le débat en raison de son caractère imposé par les autorités sous Mao Zedong. En Europe, zone à dominante chrétienne, le niveau (...)
+ / Europe, Christianisme, Exclusion sociale, Identité culturelle, Intégration sociale, Islam, Judaïsme, Religion, Société, Société civile, Monde - Social]]></summary>
+        <author>
+            <name>Cécile Marin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[June Eris of the Month 2021: Eris Trojan Horse]]></title>
         <id>http://historiadiscordia.com/?p=9730</id>
         <link href="http://historiadiscordia.com/june-eris-of-the-month-2021-eris-trojan-horse/"/>
@@ -1534,6 +1633,28 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Anonymously submitted entry for June Eris of the Month 2021. A burning Troy, the Trojan Horse, and a bad-ass nipple revealing Eris. Ah, when times were simpler. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.]]></summary>
         <author>
             <name>themgt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Que regardent les téléspectateurs chinois<small class="fine"> </small>?]]></title>
+        <id>https://www.monde-diplomatique.fr/2013/10/POUILLE/49702</id>
+        <link href="https://www.monde-diplomatique.fr/2013/10/POUILLE/49702"/>
+        <updated>2021-06-28T16:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Dans les transports en commun comme à la maison, nombre de Chinois sont penchés sur leur écran : en différé ou en direct, ils regardent leurs programmes préférés… sous l'œil vigilant du Parti communiste. / Chine, Armée, Audiovisuel, Identité culturelle, Musique, Société - (...)
+ / Chine, Armée, Audiovisuel, Identité culturelle, Musique, Société - 2013/10]]></summary>
+        <author>
+            <name>Jordan Pouille</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le Philharmonique de New York en goguette à Pyongyang]]></title>
+        <id>https://www.monde-diplomatique.fr/2009/07/SUKI/17464</id>
+        <link href="https://www.monde-diplomatique.fr/2009/07/SUKI/17464"/>
+        <updated>2021-06-28T14:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Invité en marge de la fête donnée pour l'anniversaire de Kim Jong-il, l'an dernier, l'Orchestre philharmonique de New York foulait le sol de la République populaire démocratique de Corée pour la première fois. L'écrivaine Suki Kim suivait son périple. / Corée du Nord, Culture, Géopolitique, Musique, (...)
+ / Corée du Nord, Culture, Géopolitique, Musique, Diplomatie, Université - 2009/07]]></summary>
+        <author>
+            <name>Suki Kim</name>
         </author>
     </entry>
     <entry>
@@ -1591,6 +1712,28 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Élections sans électeurs]]></title>
+        <id>https://www.monde-diplomatique.fr/2009/07/GARRIGOU/17593</id>
+        <link href="https://www.monde-diplomatique.fr/2009/07/GARRIGOU/17593"/>
+        <updated>2021-06-25T17:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Minimisée, l'abstention apparaît pourtant comme une donnée majeure des élections dans les pays démocratiques. Chaque jour plus répandue, elle affecte particulièrement les milieux populaires, ce qui remet largement en question les fondements mêmes du suffrage universel. / France, Démocratie, (...)
+ / France, Démocratie, Démographie, Élections, Politique, Sondage d'opinion - 2009/07]]></summary>
+        <author>
+            <name>Alain Garrigou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vive la crise politique<small class="fine"> </small>!]]></title>
+        <id>https://www.monde-diplomatique.fr/2002/06/ROBERT/8952</id>
+        <link href="https://www.monde-diplomatique.fr/2002/06/ROBERT/8952"/>
+        <updated>2021-06-25T15:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Face aux scores électoraux de l'extrême droite en France, certains souhaitent réformer le mode de scrutin ou limiter les candidatures. Ce serait sous-estimer la profondeur de la crise. La réalité du corps social n'est plus représentée, l'invocation des « contraintes » ayant uniformisé les programmes (...)
+ / France, Démocratie, Extrême droite, Politique - 2002/06]]></summary>
+        <author>
+            <name>Anne-Cécile Robert</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Are the FRA and European Operators Sabotaging Texas Central?]]></title>
         <id>http://pedestrianobservations.com/?p=6342</id>
         <link href="https://pedestrianobservations.com/2021/06/24/are-the-fra-and-european-operators-sabotaging-texas-central/"/>
@@ -1634,6 +1777,17 @@ Stamps with Seeds
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned information/pictures.  The pictures have been scanned from my collection.]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'architecte, l'urbaniste et le citoyen]]></title>
+        <id>https://www.monde-diplomatique.fr/1999/11/PAQUOT/3373</id>
+        <link href="https://www.monde-diplomatique.fr/1999/11/PAQUOT/3373"/>
+        <updated>2021-06-24T14:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Sans respect aucun pour les gens, les lieux et les choses, le monde s'urbanise très vite. Cela se fait le plus souvent de manière spontanée, plus ou moins légalement. Et, quand un semblant d'organisation se manifeste, il n'a d'autre ambition qu'une juteuse spéculation ou l'application de règles (...)
+ / Urbanisme, Ville, Banlieue, Architecture - 1999/11]]></summary>
+        <author>
+            <name>Thierry Paquot</name>
         </author>
     </entry>
     <entry>
@@ -1707,6 +1861,28 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Un été pourri]]></title>
+        <id>https://www.monde-diplomatique.fr/1994/05/DJEMAI/45979</id>
+        <link href="https://www.monde-diplomatique.fr/1994/05/DJEMAI/45979"/>
+        <updated>2021-06-23T16:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Abdelkader Djemaï est né en 1948 à Oran. Il a écrit notamment deux romans, « Saisons de pierres » et « Mémoires de nègre », publiés tous deux aux éditions ENAL (Alger), ainsi que des nouvelles parues dans la presse nationale ou étrangère. Journaliste depuis une vingtaine d'années, il a successivement (...)
+ / Algérie, Violence, Fiction - 1994/05]]></summary>
+        <author>
+            <name>Abdelkader Djemai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le taux d'abstention témoigne d'un profond scepticisme à l'égard du système politique]]></title>
+        <id>https://www.monde-diplomatique.fr/1976/11/TOINET/33974</id>
+        <link href="https://www.monde-diplomatique.fr/1976/11/TOINET/33974"/>
+        <updated>2021-06-23T13:39:39.000Z</updated>
+        <summary type="html"><![CDATA[« Choisis si tu l'oses… » Corneille, Heraclius, acte IV, scène IV. Aux dernières élections législatives américaines, en 1972, 36 % seulement des électeurs potentiels ont pris la peine de voter : record d'abstention depuis les élections législatives de 1946, alors que des millions d'Américains, encore (...)
+ / États-Unis (affaires intérieures), Élections, Politique, Société - 1976/11]]></summary>
+        <author>
+            <name>Marie-France Toinet</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.11.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
@@ -1736,6 +1912,39 @@ Thank you @PiyushLosalka]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[«<small class="fine"> </small>Adalen 31<small class="fine"> </small>» : un film moral]]></title>
+        <id>https://www.monde-diplomatique.fr/1974/02/RAMONET/32135</id>
+        <link href="https://www.monde-diplomatique.fr/1974/02/RAMONET/32135"/>
+        <updated>2021-06-22T16:44:39.000Z</updated>
+        <summary type="html"><![CDATA[« La guerre, dit un personnage de Brecht, n'exclut pas la paix... La guerre a ses moments paisibles... » La grève aussi. Bo Widerberg n'a retenu dans son film que ces instants de calme, ponctués cependant par quelques balles perdues. On n'ignore plus aujourd'hui qu'en 1931 l'affrontement sanglant (...)
+ / Cinéma, Mouvement de contestation, Politique, Travail, Suède, Socialisme - 1974/02]]></summary>
+        <author>
+            <name>Ignacio Ramonet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La non-violence offre des armes efficaces]]></title>
+        <id>https://www.monde-diplomatique.fr/1973/01/MULLER/31291</id>
+        <link href="https://www.monde-diplomatique.fr/1973/01/MULLER/31291"/>
+        <updated>2021-06-21T15:07:32.000Z</updated>
+        <summary type="html"><![CDATA[La guerre aujourd'hui n'est plus justifiée pour elle-même, elle ne l'est plus que pour la paix qu'elle prétend établir. Mais cela suffit à réhabiliter la guerre tout entière, avec ses destructions, ses souffrances et ses morts. Ainsi la guerre est-elle encore tenue comme le seul moyen de sauvegarder (...)
+ / Inde, Royaume-Uni, Colonialisme, Idées, Personnalités, Violence - 1973/01]]></summary>
+        <author>
+            <name>Jean-Marie Muller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Des riches plus riches, des pauvres plus pauvres]]></title>
+        <id>https://www.monde-diplomatique.fr/1973/01/SPITZ/31288</id>
+        <link href="https://www.monde-diplomatique.fr/1973/01/SPITZ/31288"/>
+        <updated>2021-06-21T13:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Les économistes apparaissent comme des gens sérieux, parfois ennuyeux, parce que très raisonnables : ils sont la raison incarnée, loin de la passion politique. Ils parlent en termes scientifiques du monde réel. Celui-ci est souvent cruel et violent, mais qu'y faire ? Continuer un travail qui montre, (...)
+ / Aide au développement, Économie, Inégalités, Pauvreté, Société, Travail - 1973/01]]></summary>
+        <author>
+            <name>Pierre Spitz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quick Note: Deterioration of Speed]]></title>
         <id>http://pedestrianobservations.com/?p=6306</id>
         <link href="https://pedestrianobservations.com/2021/06/20/quick-note-deterioration-of-speed/"/>
@@ -1743,6 +1952,17 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[A regrettable feature of rail transport is that often, the speed of a line deteriorates over time after it opens or finishes a major upgrade. This can come from deferred maintenance or from proper maintenance that includes stricter speed limits or more timetable padding; in either case, it’s because maintaining the original schedule is not […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Une ambiguïté fondamentale]]></title>
+        <id>https://www.monde-diplomatique.fr/1973/01/JULIEN/31287</id>
+        <link href="https://www.monde-diplomatique.fr/1973/01/JULIEN/31287"/>
+        <updated>2021-06-20T15:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Partout présente, la violence reste un phénomène fort mal connu. Atteint-elle aujourd'hui une intensité jamais vue dans le passé ? Les moyens dont elle dispose permettent de le penser : le seul Vietnam a reçu plus de bombes que l'ensemble de la planète tout au long de la seconde guerre mondiale, et le (...)
+ / Conflit, Idéologie, Terrorisme, Violence - 1973/01]]></summary>
+        <author>
+            <name>Claude Julien</name>
         </author>
     </entry>
     <entry>

@@ -182,6 +182,12 @@
           "title": "The Origins of the Thornley/Oswald Manuscript"
         }
       ]
+    },
+    {
+      "title": "samczsun",
+      "feedUrl": "https://samczsun.com/rss/",
+      "siteUrl": "https://samczsun.com/",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

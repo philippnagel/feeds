@@ -194,6 +194,12 @@
       "feedUrl": "https://speculativeheresy.wordpress.com/feed/",
       "siteUrl": "https://speculativeheresy.wordpress.com",
       "articles": []
+    },
+    {
+      "title": "Charles Upton",
+      "feedUrl": "https://charles-upton.com/feed/",
+      "siteUrl": "https://charles-upton.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

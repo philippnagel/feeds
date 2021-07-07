@@ -8146,6 +8146,1238 @@
           "title": "The Chinese content farms behind Factory TikTok"
         }
       ]
+    },
+    {
+      "title": "Commonplace - The Commoncog Blog",
+      "feedUrl": "https://commoncog.com/blog/rss/",
+      "siteUrl": "https://commoncog.com/blog/",
+      "articles": [
+        {
+          "id": "60e47e302b74e3048e47d432",
+          "author": "Cedric Chin",
+          "description": "Why good product people talk about iteration, taste, and Christopher Alexander, while novices obsess over the trappings of frameworks.",
+          "link": "https://commoncog.com/blog/what-product-taste-looks-like/",
+          "publishedOn": "2021-07-06T16:58:01.000Z",
+          "wordCount": 300,
+          "title": "This is What Product Taste Looks Like"
+        },
+        {
+          "id": "60db2f532b74e3048e47d39e",
+          "author": "Cedric Chin",
+          "description": "Product validation frameworks often describe processes without talking about taste. Here's why this is almost always a bad idea.",
+          "link": "https://commoncog.com/blog/product-validation-taste/",
+          "publishedOn": "2021-06-29T15:42:25.000Z",
+          "wordCount": 2294,
+          "title": "Product Validation Frameworks are Mostly Useless Without Taste"
+        },
+        {
+          "id": "60d1fa7e2b74e3048e47d2d2",
+          "author": "Cedric Chin",
+          "description": "A look at two syllabuses for learning the art of business, why they're rare, and why to take notice when a practitioner mentions one.",
+          "link": "https://commoncog.com/blog/an-mba-for-business-operators/",
+          "publishedOn": "2021-06-22T15:16:55.000Z",
+          "wordCount": 316,
+          "title": "An MBA for Business Operators"
+        },
+        {
+          "id": "60c8d5de2b74e3048e47d1cf",
+          "author": "Cedric Chin",
+          "description": "What the best book on business strategy actually looks like in practice. Also: why it's important to read business narratives to learn more.",
+          "link": "https://commoncog.com/blog/7-powers-in-practice/",
+          "publishedOn": "2021-06-15T17:02:11.000Z",
+          "wordCount": 3660,
+          "title": "7 Powers in Practice"
+        },
+        {
+          "id": "60bfbf9105bf5506c962ffeb",
+          "author": "Cedric Chin",
+          "description": "7 Powers is arguably the best book on business strategy currently available today.",
+          "link": "https://commoncog.com/blog/7-powers-summary/",
+          "publishedOn": "2021-06-08T19:22:59.000Z",
+          "wordCount": 278,
+          "title": "7 Powers"
+        }
+      ]
+    },
+    {
+      "title": "PAXsims",
+      "feedUrl": "https://paxsims.wordpress.com/feed/",
+      "siteUrl": "https://paxsims.wordpress.com",
+      "articles": [
+        {
+          "id": "http://paxsims.wordpress.com/?p=31953",
+          "author": "Rex Brynen",
+          "description": "We don’t thank our Patreon supporters often enough, so I thought I would post one. Thanks! Your donations cover the costs of our WordPress account and other basic expenses. PAXsims is a volunteer operation that runs on a shoestring, but you certainly provide our string. If you want to consider a monthly donation, you’ll find […]",
+          "link": "https://paxsims.wordpress.com/2021/07/05/thank-you-to-our-supporters/",
+          "publishedOn": "2021-07-05T21:59:34.000Z",
+          "wordCount": 1659,
+          "title": "Thank you to our supporters"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31940",
+          "author": "Sally Davis",
+          "description": "Nick Pett, a senior civil servant in the UK Ministry of Defence, gave an outstanding talk recently on how to be an ally to the LGBT community. I want you to watch it. And I want you to apply his sentiments to women and BAME/BIPOC and disabled wargamers as well. To paraphrase his excellent example […]",
+          "link": "https://paxsims.wordpress.com/2021/07/05/how-to-be-a-derby-house-princples-ally/",
+          "publishedOn": "2021-07-05T20:00:55.000Z",
+          "wordCount": 2286,
+          "title": "How to be a Derby House Principles ally"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31920",
+          "author": "Stephen Downes-Martin",
+          "description": "Connections US has a YouTube Channel which is populated with this year’s conference events.",
+          "link": "https://paxsims.wordpress.com/2021/06/30/connections-us-2021-youtube-channel/",
+          "publishedOn": "2021-06-30T17:34:04.000Z",
+          "wordCount": 1595,
+          "title": "Connections US 2021 YouTube Channel"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31913",
+          "author": "Stephen Downes-Martin",
+          "description": "Join Peter Perla and Ed McGrady as they discuss AI and cyber games, and how the USAF game showed they almost had enough stuff, but not quite enough, to take on the Chinese.  Right before they released their budget.  Tune in to hear their take on the wargaming news of the day. https://zoom.us/webinar/register/WN_JIldrBu5RwaSJl_srXAyTg",
+          "link": "https://paxsims.wordpress.com/2021/06/28/peter-perla-and-ed-mcgrady-gamenation-part-ii-friday-2-july/",
+          "publishedOn": "2021-06-28T23:58:47.000Z",
+          "wordCount": 1623,
+          "title": "Peter Perla and Ed McGrady GameNation Part II Friday, 2 July"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31824",
+          "author": "Rex Brynen",
+          "description": "I am pleased to report that two PAXsims editors were recently recognized for their contributions to professional wargaming. Sally Davis (Dstl) has received a A* Analyisis Function Award from the UK Ministry of Defence for her work on diversity and inclusion. The nomination noted Dstl’s endorsement of the Derby House Principles, her work on the […]",
+          "link": "https://paxsims.wordpress.com/2021/06/28/award-winning-paxsims-editors/",
+          "publishedOn": "2021-06-28T21:20:50.000Z",
+          "wordCount": 1881,
+          "title": "Award-winning PAXsims editors"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31899",
+          "author": "Rex Brynen",
+          "description": "Several issues (2019-2020) of the Iranian Journal of Wargaming can be found online here, containing a mix of wargaming, game theoretic, operations research, and simulation articles (all in Farsi). Abstracts in English are also provided. The journal is edited by Dr. Mohammad Reza Mehreghan (operations research, University of Tehran). The Director-in-Charge is Dr Valivand Zamani […]",
+          "link": "https://paxsims.wordpress.com/2021/06/28/iranian-journal-of-wargaming/",
+          "publishedOn": "2021-06-28T12:14:56.000Z",
+          "wordCount": 1665,
+          "title": "Iranian Journal of Wargaming"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31890",
+          "author": "Rex Brynen",
+          "description": "The following item has been written for PAXsims by Ivanka Barzashka (Managing Director of the Wargaming Network at the School of Security Studies at King’s College London), based on her recent presentation at the Connections US 2021 professional wargaming conference. This article expresses her personal views and does not necessarily reflect an institutional position.  Wargaming […]",
+          "link": "https://paxsims.wordpress.com/2021/06/25/barzashka-do-academic-standards-for-research-excellence-apply-to-professional-wargaming/",
+          "publishedOn": "2021-06-25T21:04:56.000Z",
+          "wordCount": 4566,
+          "title": "Barzashka: Do academic standards for research excellence apply to professional wargaming?"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31883",
+          "author": "Rex Brynen",
+          "description": "PAXsims is pleased to share John Hanley’s 1991 PhD thesis, On Wargaming: A Critique of Strategic Operational Gaming (Yale University, 1991). This paper is a critique of strategic operational gaming. Operational gaming refers to the use of gaming to explore plans and investigate courses of action. Strategic refers to the subject explored. Therefore, this inquiry deals with two topics. One is the limits and […]",
+          "link": "https://paxsims.wordpress.com/2021/06/24/hanley-a-critique-of-strategic-operational-gaming/",
+          "publishedOn": "2021-06-24T22:16:20.000Z",
+          "wordCount": 1868,
+          "title": "Hanley: A critique of strategic operational gaming"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31864",
+          "author": "Stephen Downes-Martin",
+          "description": "Short discussions on the following topics to be held online at Connections US (must be registered for Connections US) Wednesday and Thursday. Discussions run in parallel for one hour. Wednesday 23 June 1300–1400 US EDT Host Question Description Chuck Turnitsa 1. How can Simulation Systems assist with traditional (or not) Wargaming? Many organizations that are […]",
+          "link": "https://paxsims.wordpress.com/2021/06/22/game-lab-discussion-topics-at-connections-us/",
+          "publishedOn": "2021-06-22T15:50:08.000Z",
+          "wordCount": 2814,
+          "title": "Game Lab discussion topics at Connections US"
+        },
+        {
+          "id": "http://paxsims.wordpress.com/?p=31858",
+          "author": "Rex Brynen",
+          "description": "The latest issue of Simulation & Gaming 52, 3 (June 2021) is now available. The issue is devoted to the topic of facilitation in gaming. Editorial Why Facilitation?  Elyssebeth Leigh, Elena Likhacheva, Elizabeth Tipton, Marieke de Wijse-van Heeswijk, and Birgit Zürn Articles Becoming the Unseen Helmsman – Game facilitator competencies for novice, experienced, and non-game facilitators  Rens Kortmann and Vincent Peters The […]",
+          "link": "https://paxsims.wordpress.com/2021/06/18/simulation-gaming-june-2021/",
+          "publishedOn": "2021-06-18T14:55:53.000Z",
+          "wordCount": 1756,
+          "title": "Simulation & Gaming, June 2021"
+        }
+      ]
+    },
+    {
+      "title": "Lion's Roar",
+      "feedUrl": "https://www.lionsroar.com/feed/",
+      "siteUrl": "https://www.lionsroar.com",
+      "articles": [
+        {
+          "id": "https://www.lionsroar.com/?p=247211",
+          "author": "Emily McRae",
+          "description": "\"I myself am committed to non-violence and compassion until my death,\" says His Holiness the Dalai Lama in his 86th birthday message. \"This is my offering to my friends.\"\nThe post Watch: The Dalai Lama shares 86th birthday message appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/watch-the-dalai-lama-shares-86th-birthday-message/",
+          "publishedOn": "2021-07-06T14:04:25.000Z",
+          "wordCount": 778,
+          "title": "Watch: The Dalai Lama shares 86th birthday message"
+        },
+        {
+          "id": "http://www.lionsroar.com/only-genuine-compassion-will-do/",
+          "author": "The Dalai Lama",
+          "description": "It's not enough to simply to believe compassion is important. We must transform our thoughts and behaviour on a daily basis to cultivate compassion.\nThe post Only Genuine Compassion Will Do appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/only-genuine-compassion-will-do/",
+          "publishedOn": "2021-07-06T12:00:00.000Z",
+          "wordCount": 1144,
+          "title": "Only Genuine Compassion Will Do"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=222690",
+          "author": "Lilly Greenblatt",
+          "description": "Today, we celebrate His Holiness the Dalai Lama's 86th birthday! \nThe post Celebrating the Dalai Lama appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/happy-birthday-dalai-lama-2/",
+          "publishedOn": "2021-07-06T11:00:31.000Z",
+          "wordCount": 1099,
+          "title": "Celebrating the Dalai Lama"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=227074",
+          "author": "Rick Bass",
+          "description": "In this Lion’s Roar archive article, Rick Bass looks at Oliver’s poem “The Summer Day,” which asks, “What is it you plan to do with your one wild and precious life?”\nThe post The Life-Changing Words of Mary Oliver appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/mary-olivers-the-summer-day/",
+          "publishedOn": "2021-07-05T16:00:07.000Z",
+          "wordCount": 1033,
+          "title": "The Life-Changing Words of Mary Oliver"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=245196",
+          "author": "Roshi Pat Enkyo O'Hara",
+          "description": "Zen teacher Pat Enkyo O’Hara teaches us the practice of Shikantaza. \nThe post Discover the Joy of Doing Nothing appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/discover-the-joy-of-doing-nothing/",
+          "publishedOn": "2021-07-02T09:47:34.000Z",
+          "wordCount": 1059,
+          "title": "Discover the Joy of Doing Nothing"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=240863",
+          "author": "Vanessa Zuisei Goddard",
+          "description": "If you don’t want your happiness to impede that of someone else, says Vanessa Zuisei Goddard, practice the four immeasurables. \nThe post The Four Immeasurables Leave Nothing Untouched appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/the-four-immeasurables-leave-nothing-untouched/",
+          "publishedOn": "2021-07-01T14:08:52.000Z",
+          "wordCount": 3168,
+          "title": "The Four Immeasurables Leave Nothing Untouched"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=247088",
+          "author": "Sandra Hannebohm",
+          "description": "This episode of The Lion’s Roar Podcast features dream yoga specialist Andrew Holecek and \"Feeding Your Demons\" author Lama Tsultrim Allione.\nThe post The Lion’s Roar Podcast: Life is But a Dream with Andrew Holecek and Feeding Your Demons with Lama Tsultrim Allione appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/the-lions-roar-podcast-life-is-but-a-dream-with-andrew-holecek-and-feeding-your-demons-with-lama-tsultrim-allione/",
+          "publishedOn": "2021-06-29T16:21:13.000Z",
+          "wordCount": 581,
+          "title": "The Lion’s Roar Podcast: Life is But a Dream with Andrew Holecek and Feeding Your Demons with Lama Tsultrim Allione"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=247046",
+          "author": "Melvin McLeod",
+          "description": "Lion's Roar editor-in-chief Melvin McLeod discusses our new online learning series.\nThe post Experience profound Tibetan Buddhist practices for yourself with “Open Heart, Vajra Mind” appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/experience-profound-tibetan-buddhist-practices-for-yourself-with-open-heart-vajra-mind/",
+          "publishedOn": "2021-06-29T13:44:27.000Z",
+          "wordCount": 1838,
+          "title": "Experience profound Tibetan Buddhist practices for yourself with “Open Heart, Vajra Mind”"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=247072",
+          "author": "Rod Meade Sperry",
+          "description": "Listen to Born I's third single from his upcoming album, \"Unenlightened.\"\nThe post Listen to “Unenlightened” — Born I’s newest example of “trap music for meditators” appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/watch-unenlightened-born-is-newest-example-of-trap-music-for-meditators/",
+          "publishedOn": "2021-06-28T18:44:16.000Z",
+          "wordCount": 706,
+          "title": "Listen to “Unenlightened” — Born I’s newest example of “trap music for meditators”"
+        },
+        {
+          "id": "https://www.lionsroar.com/?p=247054",
+          "author": "Lilly Greenblatt",
+          "description": "Thomas Cleary, a prolific translator of Asian Classics, passed away on June 20, 2021.\nThe post Buddhist translator Thomas Cleary dies appeared first on Lion's Roar.",
+          "link": "https://www.lionsroar.com/buddhist-translator-thomas-cleary-dies/",
+          "publishedOn": "2021-06-28T16:45:56.000Z",
+          "wordCount": 720,
+          "title": "Buddhist translator Thomas Cleary dies"
+        }
+      ]
+    },
+    {
+      "title": "Salvage",
+      "feedUrl": "https://salvage.zone/feed/",
+      "siteUrl": "https://salvage.zone",
+      "articles": []
+    },
+    {
+      "title": "CovertAction Magazine",
+      "feedUrl": "https://covertactionmagazine.com/feed/",
+      "siteUrl": "https://covertactionmagazine.com",
+      "articles": [
+        {
+          "id": "https://covertactionmagazine.com/?p=21725",
+          "author": "Nick Mottern",
+          "description": "After 20 Years, America’s “Longest War” Is Not Really Ending On July 2nd, fleeing questions from reporters about U.S. plans in Afghanistan, President Joe Biden sought refuge behind the July 4th Independence Day holiday. Yet he obliquely acknowledged that the U.S. will use some level of “over-the-horizon” air attacks to prevent the Taliban from taking […]\nThe post Biden Betrays Another Campaign Pledge—Admits that U.S. Will Continue to Bomb Afghanistan appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/07/06/biden-betrays-another-campaign-pledge-admits-that-u-s-will-continue-to-bomb-afghanistan/",
+          "publishedOn": "2021-07-06T05:00:53.000Z",
+          "wordCount": 3511,
+          "title": "Biden Betrays Another Campaign Pledge—Admits that U.S. Will Continue to Bomb Afghanistan"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=21186",
+          "author": "Pat Elder",
+          "description": "Why is Top Army Brass Stonewalling Information Requests From Fearful Residents? On June 10, 2021, 2,400 liters of “firefighting water” containing PFAS (per- and polyfluoroalkyl substances) were accidentally released from the U.S. Army Oil Storage Facility into Uruma City and other nearby locations, according to Ryukyu Shimpo, an Okinawan news agency. The Okinawa Defense Bureau […]\nThe post Deadly June 10th Spill of Toxins from U.S. Military Base in Okinawa Could Sicken and Kill Thousands appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/07/05/deadly-june-10th-spill-of-toxins-from-u-s-military-base-in-okinawa-could-sicken-and-kill-thousands/",
+          "publishedOn": "2021-07-05T05:00:00.000Z",
+          "wordCount": 4118,
+          "title": "Deadly June 10th Spill of Toxins from U.S. Military Base in Okinawa Could Sicken and Kill Thousands"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=21621",
+          "author": "Matt McKenna",
+          "description": "On his newborn daughter’s first July 4th holiday, an anti-imperialist writer ponders what he hopes for her to come to understand about her nation of birth. Gabriela, you are part of the four percent of the world’s population that celebrates today, July 4th, as Independence Day. We are in the extreme minority of the earth’s […]\nThe post An Anti Imperialist Ponders the 4th of July and its Meaning for his Newborn Child appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/07/04/an-anti-imperialist-ponders-the-4th-of-july-and-its-meaning-for-his-newborn-child/",
+          "publishedOn": "2021-07-04T06:00:00.000Z",
+          "wordCount": 6520,
+          "title": "An Anti Imperialist Ponders the 4th of July and its Meaning for his Newborn Child"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=20492",
+          "author": "Jeremy Kuzmarov",
+          "description": "New Evidence May Implicate the New York Police Dept., the District Attorney, the FBI, and Even (Unthinkably) … On Sunday February 21, 1965, at 3:00 p.m., Malcolm X was gunned down at the Audubon Ballroom on Broadway and 166th Street in Manhattan while delivering a speech to an audience of about 400...\nThe post Who Ordered the Killing of Malcolm X? appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/07/02/who-ordered-the-killing-of-malcolm-x/",
+          "publishedOn": "2021-07-02T05:00:00.000Z",
+          "wordCount": 10655,
+          "title": "Who Ordered the Killing of Malcolm X?"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=21370",
+          "author": "Barbara Koeppel",
+          "description": "This past June 13th, The New York Times celebrated the 50th anniversary of its publishing the Pentagon Papers. In a special section, “Uncovering the Secret History of the Vietnam War,” it told how a team of 50 reporters, researchers and editors worked on the story for nearly four months, holed up in a “whole group […]\nThe post NYTimes Op-Ed Denounces Daniel Ellsberg and Edward Snowden on 50th Anniversary of Publishing the Pentagon Papers appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/07/01/nytimes-op-ed-denounces-daniel-ellsberg-and-edward-snowden-on-50th-anniversary-of-publishing-the-pentagon-papers/",
+          "publishedOn": "2021-07-01T15:00:00.000Z",
+          "wordCount": 3893,
+          "title": "NYTimes Op-Ed Denounces Daniel Ellsberg and Edward Snowden on 50th Anniversary of Publishing the Pentagon Papers"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=19176",
+          "author": "Kathy Kelly",
+          "description": "At the High Line, a popular tourist attraction in New York City, visitors to the West side of Lower Manhattan ascend above street level to what was once an elevated freight train line and is now a tranquil and architecturally intriguing promenade. Here walkers enjoy...\nThe post Art Against Drones appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/06/29/art-against-drones/",
+          "publishedOn": "2021-06-29T05:00:24.000Z",
+          "wordCount": 3505,
+          "title": "Art Against Drones"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=21202",
+          "author": "Brian Garvey",
+          "description": "UN World Food Program says that “400,000 children may die in Yemen this year without urgent intervention” The struggle to end U.S. support for the war in Yemen has run into another obstacle. This time it’s partisanship. But it isn’t Republican opposition blocking Joe Biden’s promise to end U.S. participation in the world’s worst humanitarian catastrophe. […]\nThe post Ending the War in Yemen Means Overcoming Political Cowardice appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/06/28/ending-the-war-in-yemen-means-overcoming-political-cowardice/",
+          "publishedOn": "2021-06-28T17:00:00.000Z",
+          "wordCount": 2738,
+          "title": "Ending the War in Yemen Means Overcoming Political Cowardice"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=20912",
+          "author": "Pat Elder",
+          "description": "Materials are being temporarily held in a MetCom holding tank; ultimate fate is unknown The Patuxent River Naval Air Station, on the Chesapeake Bay in St. Mary’s County, Maryland, announced in the last week of May that toxic aqueous film-forming foam (AFFF), was released on base after an accidental discharge from a hangar’s fire suppression […]\nThe post Accident at Naval Air Station on the Chesapeake Bay Sends 2,500 Gallons of Toxic Foam into Local Sewer System appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/06/27/accident-at-naval-air-station-on-the-chesapeake-bay-sends-2500-gallons-of-toxic-foam-into-local-sewer-system/",
+          "publishedOn": "2021-06-27T17:00:00.000Z",
+          "wordCount": 3212,
+          "title": "Accident at Naval Air Station on the Chesapeake Bay Sends 2,500 Gallons of Toxic Foam into Local Sewer System"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=20967",
+          "author": "Chris Agee",
+          "description": "184 Countries Vote in the United Nations to Condemn U.S. Blockade of Cuba—But As Usual, Only Two Countries Vote Against the Resolution: the U.S. and Israel While Conditions in Cuba Under the Blockade are Worsening—Potentially Worse than the Special Period—Cuba’s Biotechnological and Pharmaceutical Industry May Help Them Out of the Pandemic On June 23rd, 184 […]\nThe post Under Pandemic, United Nations Votes to Condemn Cruel and Illegal U.S. Blockade of Cuba—But There Is A Twist appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/06/24/under-pandemic-united-nations-votes-to-condemn-cruel-and-illegal-u-s-blockade-of-cuba-but-there-is-a-twist/",
+          "publishedOn": "2021-06-24T18:36:00.000Z",
+          "wordCount": 4392,
+          "title": "Under Pandemic, United Nations Votes to Condemn Cruel and Illegal U.S. Blockade of Cuba—But There Is A Twist"
+        },
+        {
+          "id": "https://covertactionmagazine.com/?p=20134",
+          "author": "James Bradley",
+          "description": "Unknown for decades, declassified documents show that FDR’s mail was deliberately diverted and falsified to prevent a historic meeting with Mao Zedong that might have shortened the war, changed history, and reshaped the modern world. Historians cite the 1972 meeting between Mao Zedong and Richard Nixon as the original spark for U.S.-China Globalization in which […]\nThe post How FDR Was Manipulated and Betrayed by His Own Naval Intelligence Chief in the Fateful Last Months of WWII appeared first on CovertAction Magazine.",
+          "link": "https://covertactionmagazine.com/2021/06/23/how-fdr-was-manipulated-and-betrayed-by-his-own-naval-intelligence-chief-in-the-fateful-last-months-of-wwii/",
+          "publishedOn": "2021-06-23T05:00:00.000Z",
+          "wordCount": 5647,
+          "title": "How FDR Was Manipulated and Betrayed by His Own Naval Intelligence Chief in the Fateful Last Months of WWII"
+        }
+      ]
+    },
+    {
+      "title": "Protocol — The people, power and politics of tech",
+      "feedUrl": "https://www.protocol.com/feeds/feed.rss",
+      "siteUrl": "https://www.protocol.com/",
+      "articles": [
+        {
+          "id": "https://www.protocol.com/policy/trump-lawsuit-zuckerberg-dorsey",
+          "author": "Issie Lapowsky",
+          "description": "Donald Trump announced Wednesday he'll sue Facebook, Twitter and Google for allegedly silencing him, even though the former president's previous attempts to punish social media have largely failed.\nThe lawsuits against the companies and CEOs Mark Zuckerberg, Jack Dorsey and Sundar Pichai come as Trump remains suspended from Facebook, Twitter and YouTube over his praise of supporters who perpetrated the deadly Jan. 6 riot at the Capitol.\n\"I stand before you this morning to announce a very important and very beautiful, I think, development for our freedom,\" said Trump, speaking on Wednesday alongside the leaders of the pro-Trump America First Policy Institute. Trump said he would be the lead plaintiff in a class action seeking an injunction, punitive damages and \"prompt restitution\" in feder…",
+          "link": "https://www.protocol.com/policy/trump-lawsuit-zuckerberg-dorsey",
+          "publishedOn": "2021-07-07T15:40:34.000Z",
+          "wordCount": 9078,
+          "title": "Trump is suing Google, Twitter and Facebook. The cases are \"DOA.\""
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/protocol-china/didi-china-tech-ipos",
+          "author": "David Wertime",
+          "description": "Greetings from David Wertime and Shen Lu. Last weekend, the United States turned 245 years old; days before, the Chinese Communist Party turned 100. General Secretary Xi Jinping gave an hour-long speech before a huge crowd in Beijing on July 1, announcing that China \"has caught up to the world\" and promising that foreigners wishing to \"bully, oppress or subjugate\" the country would get \"cracked heads and spilt blood.\" Some have noted it's a prepackaged phrase, a metaphor that's not as brutish as its direct translation. But they were still Xi's words, and just as importantly, they stirred the audience far more than anything else he said that day. \nThis week's Protocol | China is a special edition, focused on breaking down the increasingly messy aftermath of DiDi's IPO.\n(Was this email forwa…",
+          "link": "https://www.protocol.com/newsletters/protocol-china/didi-china-tech-ipos",
+          "publishedOn": "2021-07-07T14:52:48.000Z",
+          "wordCount": 2367,
+          "title": "DiDi’s humbling is the end of an era for Chinese cross-border IPOs"
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/sourcecode/didi-china-ban",
+          "author": "Source Code Staff",
+          "description": "Good morning! This Wednesday, DiDi is in hot water with the Chinese government, Nextdoor gets SPAC'd, the Pentagon drops its JEDI contract, and Aaron Levie's in a fight for his life at Box.\n(Was this email forwarded to you? Sign up here to get Source Code every day.)\n\nThe Big Story\n\nDiDi's paradox\n\n\tSince Alibaba's smashing 2014 debut on the New York Stock Exchange netted $25 billion, investors have salivated at the chance to buy into China's growth story, with dozens of Chinese companies raising $12.4 billion in the first half of this year alone. Now investors are learning the hard way that purchasing shares in a Chinese company also means being subject to its ever-growing regulatory risks.\n\nIt's now ride-hailing giant DiDi's turn in the spotlight ... for better and for worse. Just two da…",
+          "link": "https://www.protocol.com/newsletters/sourcecode/didi-china-ban",
+          "publishedOn": "2021-07-07T11:38:06.000Z",
+          "wordCount": 2147,
+          "title": "What happens to DiDi now?"
+        },
+        {
+          "id": "https://www.protocol.com/enterprise/att-microsoft-5g-edge",
+          "author": "Tom Krazit",
+          "description": "Telecommunications companies, traditionally concerned with stability and control, have been slower than companies in other industries to embrace cloud computing. Those days are long gone.\nLast week AT&T announced plans to move its 5G network technology to Microsoft Azure. It not only signed a deal with the cloud provider to host its mobile workloads, but also transferred its core Network Cloud technology to Microsoft's budding Azure for Operators division. The two companies have been working together since 2019, but this announcement was the telco equivalent of landing in America and burning your ships: There's no going back once the core intellectual property has left the building.\nFor AT&T, it was simply time to acknowledge that big cloud providers like Microsoft finally offer the hardwa…",
+          "link": "https://www.protocol.com/enterprise/att-microsoft-5g-edge",
+          "publishedOn": "2021-07-07T09:30:00.000Z",
+          "wordCount": 9115,
+          "title": "Why AT&T moved its core tech — but not everything — to Microsoft Azure"
+        },
+        {
+          "id": "https://www.protocol.com/y-combinator-founder-matching-help",
+          "author": "Biz  Carson",
+          "description": "It's a question Y Combinator's Kyle Corbitt has heard over and over again: How do I find a co-founder? As leader of YC's Startup School, its free entrepreneurship curriculum, Corbitt found many aspiring founders wanted to work on a problem, but faced a roadblock when it came to finding a partner who they could build a company with.\nThat's why YC is unveiling a new way to help co-founders find each other. Its new co-founder matching service will allow founders to fill out profiles about what their interests are and what attributes they're looking for in a co-founder. \n\"We realized this is a problem a lot of founders face, particularly internationally,\" Corbitt said. \"I think it's less of a problem if you've gone to Stanford or live in San Francisco where there's a stronger established netwo…",
+          "link": "https://www.protocol.com/y-combinator-founder-matching-help",
+          "publishedOn": "2021-07-06T16:00:00.000Z",
+          "wordCount": 9102,
+          "title": "Y Combinator launches a new way for co-founders to find each other"
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/gaming/sony-playstation-indie-bad-reputation",
+          "author": "Nick Statt",
+          "description": "This week in Protocol Gaming, your weekly guide to the business of video games: Sony faces a barrage of criticism over treatment of indies and cross-generation pricing; a slew of high-profile game development figures are founding new studios; and EA saves its E3 announcements for later this month.\n(Was this email forwarded to you? Subscribe here.)\n\n\nThe Big Story\n\nSony's hit-driven PlayStation platform is failing indie developers\n\nSony's console business is by most accounts firing all on cylinders, with record revenue and strong sales of the PlayStation 5 helping it maintain its industry lead. But the company's reputation among small developers isn't as strong as its platform success, and missteps with its approach to cross-generation software is starting to take a toll on player goodwill.…",
+          "link": "https://www.protocol.com/newsletters/gaming/sony-playstation-indie-bad-reputation",
+          "publishedOn": "2021-07-06T15:56:38.000Z",
+          "wordCount": 2243,
+          "title": "Sony’s hit-driven PlayStation platform is failing indie developers"
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/protocol-fintech/mortgage-lenders-better-blend",
+          "author": "Benjamin Pimentel",
+          "description": "Hello and welcome to Protocol | Fintech! This Tuesday: mortgage fintech rising, a \"true lender\" roll-back, and credit-card gripes.\n(Was this email forwarded to you? Sign up here to get it in your inbox every week.)\nThe Big Story\n\nRising interest\nThe fintech pressure on the established mortgage business is only intensifying.\nStartups and investors have been moving into this space for the past few years, but two pending IPOs and two impressive private rounds point to heightened interest in startups disrupting a space historically dominated by banks.\nThe market is growing — but also getting crowded. The mortgage market is growing rapidly, with purchase originations expected to reach a record $1.54 trillion this year. \n\nYoung people are expected to propel that growth. A new Opendoor survey fou…",
+          "link": "https://www.protocol.com/newsletters/protocol-fintech/mortgage-lenders-better-blend",
+          "publishedOn": "2021-07-06T13:44:45.000Z",
+          "wordCount": 1831,
+          "title": "Fintech goes on the mortgage offensive"
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/sourcecode/amazon-andy-jassy-first-week",
+          "author": "David Pierce",
+          "description": "Good morning! This Tuesday, Andy Jassy has a lot to do as Amazon's new CEO, full self-driving is hard, the billionaires are heading to Sun Valley (and to space), and vaccine mandates are so hot right now.\n(Was this email forwarded to you? Sign up here to get Source Code every day.)\n\nThe Big Story\n\nStill Day One at Amazon?\nAndy Jassy is now CEO of Amazon. And he has a lot to do. Amazon is this big, interlocking puzzle of a company with an unusually wide purview and an even wider effect on the modern world. Jassy's vision and plan will have to be similarly widespread. \nHe'll have to answer the same question in so many places around the company: Where does Amazon need to slow down and focus, and where does it need to push and experiment? Because while it's obviously still good to be Amazon, n…",
+          "link": "https://www.protocol.com/newsletters/sourcecode/amazon-andy-jassy-first-week",
+          "publishedOn": "2021-07-06T11:18:25.000Z",
+          "wordCount": 2180,
+          "title": "It’s a big week for Andy Jassy — and for Amazon"
+        },
+        {
+          "id": "https://www.protocol.com/workplace/tesla-fremont-racism-discrimination",
+          "author": "Anna Kramer",
+          "description": "\"I was directly called n----- and n---- approximately 100 times at the Fremont factory,\" Craven said in a sworn statement. \"I heard the terms n----- and n---- used over 100 times by co-workers, and by my lead Auggie, in the Tesla factory.\"\n\n\n\tThese sworn statements and 103 other declarations sworn under penalty of perjury comprise a 500-page exhibit filed in March 2021 as part of a 2017 lawsuit that alleges Tesla discriminates against Black people and has allowed a racially hostile work environment to fester in its factories. The lawsuit's allegations against the company are not unique: While Tesla has for years denied that it tolerates and enables racist and discriminatory behavior, Protocol found that since 2018, just under 120 people have requested the right to sue Tesla in California f…",
+          "link": "https://www.protocol.com/workplace/tesla-fremont-racism-discrimination",
+          "publishedOn": "2021-07-06T09:30:00.000Z",
+          "wordCount": 9714,
+          "title": "Racist graffiti, 'plantation' jokes and 100 potential lawsuits: Ex-workers say Tesla is still racist"
+        },
+        {
+          "id": "https://www.protocol.com/cookieless-future-adobe",
+          "author": "David Pierce",
+          "description": "Anil Chakravarthy joined Adobe at a unique moment. And that's putting it lightly. Chakravarthy, the executive vice president and general manager of Adobe's Digital Experience business, started at the company in January 2020 and two months later found himself leading a team at the center of a massive pandemic-necessitated digital transformation. \nFor the next year, Chakravarthy said, his job and Adobe's was just to help wherever they could. He said he saw two kinds of companies: the ones that had relatively stable businesses but had to do a decade's worth of digital change in no time flat, and the ones that saw their business more or less flatline. Now, as businesses and people begin to emerge from the pandemic, Chakravarthy said he has a new job: to help companies grow in a market that loo…",
+          "link": "https://www.protocol.com/cookieless-future-adobe",
+          "publishedOn": "2021-07-06T09:30:00.000Z",
+          "wordCount": 10141,
+          "title": "Adobe’s Digital Experience chief on how to navigate a cookieless future"
+        },
+        {
+          "id": "https://www.protocol.com/workplace/interest-in-vaccine-mandates-rising",
+          "author": "Allison Levitsky",
+          "description": "Most tech giants say they'll \"encourage, but not require\" employees to get vaccinated before returning to the office. But as more companies reopen their doors, four software makers now say they'll turn away unvaccinated workers.\nAdobe, VMware, Twilio and Asana are all mandating vaccines for those who come in this summer, the four companies said in June. That's a departure from a norm that industry leaders like Google and Facebook set earlier this year.\n\"A few months ago, it was very much like, 'We don't want to do that. We don't want to require vaccinations,'\" said Sheeva Ghassemi-Vanni, a partner in the employment practices and litigation groups of the Silicon Valley law firm Fenwick & West.\nThat's still the norm: Facebook, Google, Amazon and Microsoft are among the big names that are not…",
+          "link": "https://www.protocol.com/workplace/interest-in-vaccine-mandates-rising",
+          "publishedOn": "2021-07-06T09:30:00.000Z",
+          "wordCount": 9119,
+          "title": "Tech CEOs were wary of vaccine mandates. That's changing."
+        },
+        {
+          "id": "https://www.protocol.com/fintech/ransomware-cyber-insurance-premiums",
+          "author": "Hirsh Chitkara",
+          "description": "Idealists don't last long in the insurance industry. The sector has learned time and again that misaligned incentives lead to bad behavior: If you sell fire insurance, someone will eventually commit arson. If you price life insurance based on a medical checkup, arthritic grandpas will cut weight like they're about to go 12 rounds against Floyd \"Money\" Mayweather. \nBut insurers don't bemoan the human condition: They adapt to it. To remain profitable while discouraging unwanted behavior, insurance companies can raise premiums, set higher deductibles or allocate more funding to fraud detection. \nRansomware is rewriting the insurance rulebook. The rampant growth in digital extortion is confounding insurers, with losses from claims widening. An organized attack hit 200 businesses on Friday alon…",
+          "link": "https://www.protocol.com/fintech/ransomware-cyber-insurance-premiums",
+          "publishedOn": "2021-07-06T09:30:00.000Z",
+          "wordCount": 9112,
+          "title": "Ransomware fueled insurers’ profits. It’s coming back to haunt them."
+        },
+        {
+          "id": "https://www.protocol.com/andy-jassy-ceo",
+          "author": "David Pierce",
+          "description": "Twenty-seven years to the day since Amazon.com was incorporated (though it was called Cadabra Inc. at the time), the company has its second leader. Andy Jassy is now running the show. And while on some level, this is as low-key a CEO transition as Amazon could have — Jassy's been at the company since 1997, and as CEO of AWS, he ran the company's biggest moneymaker, plus Jeff Bezos is still going to be involved at the company — it's still a big change. \nFew companies have as wide a purview as Amazon does, and even fewer have as large an effect on the modern world. Jassy's vision and plan will have to be similarly widespread. And in so many cases around the company, he'll have to answer the same question: Where does Amazon need to slow down and focus, and where does it need to push and exper…",
+          "link": "https://www.protocol.com/andy-jassy-ceo",
+          "publishedOn": "2021-07-05T09:30:00.000Z",
+          "wordCount": 9461,
+          "title": "Andy Jassy is now CEO of Amazon. Here’s what’s on his to-do list."
+        },
+        {
+          "id": "https://www.protocol.com/apple-iphone-touchscreen-interface-patent",
+          "author": "Karyne Levy",
+          "description": "Happy Fourth of July to all who celebrate. I'm celebrating by eating some hot dogs, going swimming and rounding up some of the funnest (and funniest) patent applications of the week.\nGoogle wants to help make credit card fraud a bit easier to spot, Amazon is worried about people spilling drinks on the Echo, Apple wants to help me not make so many typos, Facebook is looking out for my Beat Saber sessions and Microsoft wants to make parental controls a little more intuitive.\nAnd remember: The big tech companies file all kinds of crazy patents for things, and though most never amount to anything, some end up defining the future.\nAlphabet\nEasier financial transactions\nFraudulent transactions on a credit card are a pain. It often takes the credit card provider time to gather all the information…",
+          "link": "https://www.protocol.com/apple-iphone-touchscreen-interface-patent",
+          "publishedOn": "2021-07-04T09:30:00.000Z",
+          "wordCount": 8949,
+          "title": "Apple wants to help me and my fat fingers"
+        },
+        {
+          "id": "https://www.protocol.com/bulletins/gorsuch-misinfo-libel",
+          "author": "Ben Brody",
+          "description": "Justice Neil Gorsuch wrote Friday that the Supreme Court should consider revising its standards on libel to counteract misinformation in the digital age.\n\nSaying that he would have taken up a case that the court declined to hear, the conservative appointed by President Trump criticized the actual malice standard in libel law cases, which says that media organizations can be held liable for putting out false information about \"public figures\" only if they knew it was false or recklessly disregarded whether it was.\nGorsuch wrote that that standard, which originated in a 1964 decision that the media now relies upon to hold government officials and corporate executives to account without serious threat of lawsuits, may not make as much sense when \"virtually anyone in this country can publish virtually anything for immediate consumption virtually anywhere in the world.\" \nHe said the standard incentivized ignorance over traditional journalistic practices and favored \"those who can disseminate the most sensational information as efficiently as possible without any particular concern for truth.\"\nGorsuch's conservative colleague, Clarence Thomas, who has suggested treating social media as utilities bound to carry all political speech and ending tech's prized legal shield, cited Pizzagate in his own writing on why he would have taken the case.\nCorrection: An earlier version of this story mislabeled libel: It's a civil action. This story was updated on July 2, 2021.",
+          "link": "https://www.protocol.com/bulletins/gorsuch-misinfo-libel",
+          "publishedOn": "2021-07-02T15:53:55.000Z",
+          "wordCount": 8429,
+          "title": "Gorsuch thinks US should revisit libel laws over online misinformation"
+        },
+        {
+          "id": "https://www.protocol.com/policy/khan-ftc-powers",
+          "author": "Ben Brody",
+          "description": "Watch out, Uber Eats. Lina Khan, the Federal Trade Commission's new chair, is taking charge of the agency's Democratic majority to broaden the FTC's ability to regulate new industries and challenge potentially anticompetitive conduct.\nOn Thursday, during the first of the FTC's new public meetings, commissioners cast a series of votes that signaled a desire to tighten the screws on emerging and digital sectors, as members of the public, consumer advocates and industry lobbyists begged the commission to tackle issues such as food delivery apps, right to repair, facial recognition and more.\nThursday's changes, while largely bureaucratic, could have outsized effect coming from an agency that in recent decades narrowed its own approach to the sweeping statutes that govern its powers. \nThe FTC h…",
+          "link": "https://www.protocol.com/policy/khan-ftc-powers",
+          "publishedOn": "2021-07-02T15:10:29.000Z",
+          "wordCount": 9191,
+          "title": "Lina Khan's FTC, back on its heels, eyes a big swing at tech"
+        },
+        {
+          "id": "https://www.protocol.com/bulletins/jim-whitehurst-out-ibm",
+          "author": "Tom Krazit",
+          "description": "IBM President Jim Whitehurst is stepping down from the No. 2 leadership position at the company less than three years after IBM acquired his former company, in just one of several leadership changes announced Friday.\n\nBridget van Kralingen, senior vice president of global markets, will also leave the company, said IBM CEO Arvind Krishna in a press release right before the three-day holiday weekend. Rob Thomas, who has led IBM's Watson initiative in the past, will become the new senior vice president of global markets.\nWhitehurst became president of IBM in early 2020 after Krishna was elevated to the CEO position. IBM spent $34 billion to acquire Red Hat in a deal that closed in 2019, an attempt to position itself as a hybrid cloud vendor after failed attempts to build a public cloud business and compete with the likes of AWS, Microsoft and Google Cloud.\nBut the company has struggled to grow in the years since the deal closed. IBM recently announced that it would spin off its IT consulting business into a new company called Kyndryl, a move seen by many as a cost-cutting measure.\nWhitehurst's bio had already disappeared from IBM's website as of Friday morning. Investors sent IBM's stock down almost 5% on the news.",
+          "link": "https://www.protocol.com/bulletins/jim-whitehurst-out-ibm",
+          "publishedOn": "2021-07-02T15:01:51.000Z",
+          "wordCount": 8317,
+          "title": "Jim Whitehurst and Bridget van Kralingen are out in an IBM leadership shakeup"
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/protocol-fintech/robinhood-payment-order-flow",
+          "author": "Benjamin Pimentel",
+          "description": "Hello and welcome to Protocol | Fintech! This Friday: Vlad in the HOOD, Megan Thee Stallion explains stock investing, and Brian Armstrong takes a tip from Apple.\n\n(Was this email forwarded to you? Sign up here to get it in your inbox every week.)\n\n\nThe Big Story\n\nGoing with the (payment for order) flow\nRobinhood's IPO filing confirmed what many analysts suspected: The online brokerage is growing fast. But the disclosures also underlined the precarious nature of that growth. \nNow we know that Robinhood, which is going public under the ticker \"HOOD,\" makes a ton of money when customers make a ton of trades. And the startup is worried that that system could be upended by legislators and regulators. Ironically, the eye-popping financials it unveiled in its S-1 could fuel the calls for reform.\n…",
+          "link": "https://www.protocol.com/newsletters/protocol-fintech/robinhood-payment-order-flow",
+          "publishedOn": "2021-07-02T14:33:20.000Z",
+          "wordCount": 2009,
+          "title": "Robinhood’s secret weapon could also be its undoing"
+        },
+        {
+          "id": "https://www.protocol.com/branson-bezos-virgin-blue-origin",
+          "author": "Jamie Condliffe",
+          "description": "The CEO bragging rights of 2021 will go to whoever got to space first. Sadly, the argument about logistics could rumble on past launch date.\n\nIn case you missed it, Richard Branson and Jeff Bezos are in a race to get to space. Bezos is taking Wally Funk to space aboard Blue Origin's New Shepard rocket on July 20. But the Financial Times reported that Branson hopes to be aboard a Virgin Galactic flight on July 11, meaning he'd beat the Amazon founder by nine clear days.\nOnly, there's scope for some A-grade pedantry here.\nThere is no single agreed-upon definition of what counts as the point where the Earth's atmosphere ends and space begins. NASA defines space as starting 50 miles above the Earth's surface; the Fédération Aéronautique Internationale, the governing body for air sports, defines it as 100 kilometers, or 62 miles. Both have a point, neither is agreed upon universally, and picking one over the other causes its own problems.\nAnyway. How high does Virgin Galactic's SpaceShipTwo go? In testing, up to about 56 miles. How high does Blue Origin's New Shephard go? About 62 miles.\nIn other words, Branson might make it up there first. But Bezos may contend that Branson didn't, in fact, make it into space at all.\nWould that be tiresome? Yes. Does it really matter all that much in the grand scheme of things? Not particularly. Will that all stop it from happening? Doubtful. But hey, Elon might have the last laugh when he makes it to Mars.",
+          "link": "https://www.protocol.com/branson-bezos-virgin-blue-origin",
+          "publishedOn": "2021-07-02T13:52:45.000Z",
+          "wordCount": 8398,
+          "title": "CEOs are racing to space. Wait for a battle over what counts as space."
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/sourcecode/robinhood-s-1-to-moon",
+          "author": "Source Code Staff",
+          "description": "Good morning! This Friday, Robinhood's S-1 might be the most outrageous one we've ever seen, Wally Funk and Jeff Bezos are heading to space, Pinterest wants to give off more-positive vibes, and if you don't know what to do this holiday weekend, we've got you covered.\nAlso, we're off Sunday and Monday for the holiday. Have a great long weekend; stay cool!\n(Was this email forwarded to you? Sign up here to get Source Code every day.)\nThe Big Story\n\nUnder the $HOOD\n\n\tAfter years of letting everyone play the market, Robinhood is finally ready to join it. On Thursday, the company flipped its long-awaited S-1 paperwork, giving the first glance under the \"$HOOD,\" as they say, into how its business operates.\n\nThis filing has everything: a dogecoin dilemma, a search warrant for its CEO's phone and m…",
+          "link": "https://www.protocol.com/newsletters/sourcecode/robinhood-s-1-to-moon",
+          "publishedOn": "2021-07-02T11:15:43.000Z",
+          "wordCount": 2375,
+          "title": "Robinhood’s going public. Will it go to the moon?"
+        },
+        {
+          "id": "https://www.protocol.com/amazon-daniel-rausch-firetv-interview",
+          "author": "Janko Roettgers",
+          "description": "Amazon has sold millions of Fire TV sticks across the globe, and struck up partnerships with a number of TV manufacturers to embed the Fire TV operating system into their devices. Now, the company is looking to cars as the next frontier.\nVeteran Amazon executive Daniel Rausch took over the company's entertainment devices and services business in February. In a conversation with Protocol, Rausch explained why he is bullish on cars, how consumer habits changed during the pandemic, why Amazon is organizing its game-streaming service around channels and why his living room has become his gym.\nThis interview was edited for length and clarity.\nYou took over the Fire TV business a little over three months ago. How have things been going?\nThe business is doing really well. Fire TV Stick 4K was the…",
+          "link": "https://www.protocol.com/amazon-daniel-rausch-firetv-interview",
+          "publishedOn": "2021-07-02T09:30:00.000Z",
+          "wordCount": 9285,
+          "title": "Amazon’s new Fire TV head wants to take TV streaming on the road"
+        },
+        {
+          "id": "https://www.protocol.com/bulletins/lawmakers-facebook-win",
+          "author": "Ben Brody",
+          "description": "The four top lawmakers overseeing antitrust in Congress urged the U.S. Federal Trade Commission not to ease up on Facebook despite the agency's recent court loss. \n\n\"We urge the Federal Trade Commission to continue to pursue enforcement action against Facebook and to consider all available options under the law for ensuring that the Commission's claims receive a full and fair hearing before the court,\" said a letter released Friday from Sens. Amy Klobuchar and Mike Lee and Reps. David Cicilline and Ken Buck.\nThe four signers are the chairs and top Republicans on both chambers' antitrust subcommittees, and each have proposed overhauls to competition law and criticized the conduct of big tech, though their approaches differ.\nA federal judge on Monday dismissed the FTC's complaint against Facebook while allowing the agency to refile if it can do more to show why the company is allegedly a monopoly. Facebook crossed $1 trillion valuation on the news.",
+          "link": "https://www.protocol.com/bulletins/lawmakers-facebook-win",
+          "publishedOn": "2021-07-02T09:00:00.000Z",
+          "wordCount": 8348,
+          "title": "Antitrust reformers in Congress say the FTC can't let Facebook get away"
+        },
+        {
+          "id": "https://www.protocol.com/robinhood-ipo-s-1",
+          "author": "Benjamin Pimentel",
+          "description": "Robinhood released its long-awaited S-1 filing, required for an initial public offering, on Thursday, July 1. The filing came one day after Robinhood settled with FINRA, the brokerage industry's self-regulatory body, paying a record $70 million fine. The S-1 dropped months after Robinhood revealed it had confidentially submitted documentation to the SEC, with Bloomberg reporting that regulatory concerns had held up the filing.\nThe S-1 is packed with juicy tidbits. Here are a few things we learned reading the prospectus:\n\nRobinhood's famous referral program that promises users \"up to $500 in free stocks''? It turns out around 98% of customers receive a reward in the much-less-enticing $2.50 to $10 range. \nThe U.S. Attorney's Office for the Northern District of California executed a search w…",
+          "link": "https://www.protocol.com/robinhood-ipo-s-1",
+          "publishedOn": "2021-07-01T19:26:09.000Z",
+          "wordCount": 2750,
+          "title": "Everything you need to know about the Robinhood IPO"
+        },
+        {
+          "id": "https://www.protocol.com/newsletters/protocol-enterprise/github-copilot-ai-developers",
+          "author": "Joe Williams",
+          "description": "Welcome to Protocol | Enterprise, your comprehensive roundup of everything you need to know about the week in cloud and enterprise software. This Thursday: GitHub thinks developers should let AI code from time to time, private equity companies love enterprise software in 2021, and IBM's email servers appear to have started the holiday weekend a little early.\n\n(Was this email forwarded to you? Sign up here to get it in your inbox every week.)\nThe Big Story\n\nCleared for takeoff?\n\nPretty much the entire arc of modern tech history — both good and bad — can be viewed as a never-ending quest to automate the tasks that software developers are tired of doing.\nThat's the spirit behind Microsoft-owned GitHub's new Copilot service, announced this week as part of a private beta for developers using Mi…",
+          "link": "https://www.protocol.com/newsletters/protocol-enterprise/github-copilot-ai-developers",
+          "publishedOn": "2021-07-01T16:40:18.000Z",
+          "wordCount": 2380,
+          "title": "GitHub thinks AI should help write code. Now comes the hard part."
+        },
+        {
+          "id": "https://www.protocol.com/china/china-podcast-communist-party",
+          "author": "Shen Lu",
+          "description": "Just a little over a month before the Chinese Communist Party's 100th birthday, a well-produced podcast narrating the Party history in Shanghai — \"Red Tales of Pujiang River\" — was among the top promoted content on Xiaoyuzhou FM, a Chinese podcast app popular among young urbanites.\nThis podcast — a co-production between Xiaoyuzhou FM (小宇宙), meaning Little Universe, and JustPod, a leading Chinese podcast production company — is part of a series of events celebrating the upcoming centennial of the CCP, which falls on Thursday, July 1. The propaganda department of the Yangpu District's Party Committee, a part of a local government in Shanghai, provided guidance.\nThe podcast covers major political and economic events and important figures that shaped Shanghai over the past 100 years. It feels …",
+          "link": "https://www.protocol.com/china/china-podcast-communist-party",
+          "publishedOn": "2021-06-29T13:50:35.000Z",
+          "wordCount": 9340,
+          "title": "China’s Communist Party is coming for podcasting"
+        },
+        {
+          "id": "https://www.protocol.com/enterprise/private-equity-saas",
+          "author": "Joe Williams",
+          "description": "Private equity is roaring back into the world of enterprise tech. \nThe sector is on pace to record high investments in the software industry after a dip in 2020. So far this year, private equity firms have poured $16.1 billion into the sector over 105 deals, according to data compiled for Protocol by PitchBook. The top five most active firms are HG Capital, Vista Equity Partners, Providence Equity Partners, ABRY Partners and TA Associates Management, respectively. \nThat's up from $13.2 billion for all of 2020. It's also outpacing 2019; that year, the industry invested $20.4 billion in the sector over 126 deals. The biggest deals announced so far in 2021 include: Thoma Bravo's $12.3 billion purchase of Proofpoint in April, KKR and Clayton Dubilier & Rice's $5.3 billion purchase of Cloudera,…",
+          "link": "https://www.protocol.com/enterprise/private-equity-saas",
+          "publishedOn": "2021-06-29T09:30:00.000Z",
+          "wordCount": 9287,
+          "title": "In SaaS, it’s private equity’s time to shine"
+        },
+        {
+          "id": "https://www.protocol.com/policy/foursquare-ceo-gary-little",
+          "author": "Issie Lapowsky",
+          "description": "From the early days of the check-in to its evolution into one of the leading location data vendors in the industry, Foursquare's business has always sort of depended on people going places. And for a while — say, most of human history — it seemed like a fairly safe assumption that people, generally speaking, would go places. \nThen COVID-19 hit, and suddenly, places closed and people stayed in, creating what might have been a crisis for a company like Foursquare. \nBut Gary Little, who took over as the company's CEO late last year, argues that the pandemic actually made it more essential for both businesses and governments to understand how people were and weren't moving around the world, using data Foursquare collects and shares in aggregate.\nNow, as countries around the world are reopening…",
+          "link": "https://www.protocol.com/policy/foursquare-ceo-gary-little",
+          "publishedOn": "2021-06-28T09:30:00.000Z",
+          "wordCount": 10310,
+          "title": "Foursquare invented the check-in. Then it watched the world shut down."
+        },
+        {
+          "id": "https://www.protocol.com/sponsored-content/how-zoom-is-building-the-work-from-anywhere-future",
+          "author": "Chris  Stokel-Walker",
+          "description": "When the pandemic shut down offices, the world of work changed. Millions of us took our laptops home and opened up modern video communication platforms like Zoom, picking up where we left off without a hitch. In the last year, users have spent more than 3.5 trillion minutes — equivalent to 6.5 million years — on Zoom calls. But what started as a stopgap measure to tide us over while we worked from home has become an integral part of the new world of work.\n\nHybrid working is likely to be the norm as offices change solely from places of daily productivity into something more like gathering spaces. The ability to work from wherever we want in the world — whether that's our own kitchen or a sun trap in a far-flung country — means that employers are more accepting of working outside the office.…",
+          "link": "https://www.protocol.com/sponsored-content/how-zoom-is-building-the-work-from-anywhere-future",
+          "publishedOn": "2021-06-23T12:00:00.000Z",
+          "wordCount": 1477,
+          "title": "Zoom is making the ‘work-from-anywhere’ future"
+        },
+        {
+          "id": "https://www.protocol.com/workplace/proximity-bias-hybrid-work",
+          "author": "Megan Rose Dickey",
+          "description": "Remote work was a growing trend even before the pandemic thoroughly disrupted the office, but a year with everyone at home has left companies open to a wide range of opinions about what to do with it moving forward. Some companies, such as Google and Apple, are embracing remote work in a hybrid model, where some employees work from home part- or full-time while others put in more face time at the office. But where there's remote work, there's a big challenge for employees and managers alike: proximity bias. \nProximity bias is the idea that employees with close physical proximity to their team and company leaders will be perceived as better workers and ultimately find more success in the workplace than their remote counterparts. That bias often looks like on-site employees having access to …",
+          "link": "https://www.protocol.com/workplace/proximity-bias-hybrid-work",
+          "publishedOn": "2021-06-23T09:30:00.000Z",
+          "wordCount": 9996,
+          "title": "Proximity bias is real. Returning to the office could make it worse."
+        },
+        {
+          "id": "https://www.protocol.com/manuals/the-new-database/billy-bosworth-database-revolution",
+          "author": "Joe Williams",
+          "description": "This story is part of \"The New Database,\" a Protocol Manual. Read more here.\nFor a long time, database technology barely changed. So when it did, it was a major shift — and Billy Bosworth was there to witness it all.\nA college graduate of the University of Louisville in 1994, Bosworth knew that if he was hearing about the Oracle database in Kentucky, a state far from the bleeding edge of tech, it was going mainstream. So he dove into the industry and now, as CEO of Dremio, he's about as far as you could get from Oracle — at least, in the database world. \nThe startup, which has raised $250 million and is valued at $1 billion, specializes in data lakehouses, technology that Dremio proclaims will obliterate the need for data warehouses like Oracle's Autonomous Data Warehouse and up-and-comers…",
+          "link": "https://www.protocol.com/manuals/the-new-database/billy-bosworth-database-revolution",
+          "publishedOn": "2021-06-14T08:33:58.000Z",
+          "wordCount": 1685,
+          "title": "Billy Bosworth had a front seat to the database explosion"
+        }
+      ]
+    },
+    {
+      "title": "Dark Mountain",
+      "feedUrl": "http://dark-mountain.net/feed/",
+      "siteUrl": "https://dark-mountain.net",
+      "articles": [
+        {
+          "id": "https://dark-mountain.net/?p=26260",
+          "author": "Mark Watson",
+          "description": "Third post in our summer Dark Kitchen series, Mark Watson interviews Soto Zen 'tenzo' Valerie Duvauchelle about cooking in a storm and cultivating right relationship with food and community\nThe post When We Eat, We Are Eating the World appeared first on Dark Mountain.",
+          "link": "https://dark-mountain.net/when-we-eat-we-are-eating-the-world/",
+          "publishedOn": "2021-07-06T14:54:28.000Z",
+          "wordCount": 3672,
+          "title": "When We Eat, We Are Eating the World"
+        },
+        {
+          "id": "https://dark-mountain.net/?p=26088",
+          "author": "Charlotte Du Cann",
+          "description": "Introducing our all-colour booklet co-produced with Hodmedod about grains and the people who grow them by three Dark Mountain writers. Photographs by Anne Campbell.\nThe post Sheaf appeared first on Dark Mountain.",
+          "link": "https://dark-mountain.net/sheaf/",
+          "publishedOn": "2021-06-30T09:23:23.000Z",
+          "wordCount": 2078,
+          "title": "Sheaf"
+        },
+        {
+          "id": "https://dark-mountain.net/?p=26063",
+          "author": "Augustin of the Road",
+          "description": "Latest Dark Kitchen series begins with Augustin of the Road's story of wild rice and the restoration of the Kalamazoo river in the Enbridge Line 6B Oil Spill Zone\nThe post Anam manoomin’n appeared first on Dark Mountain.",
+          "link": "https://dark-mountain.net/anam-manoominn/",
+          "publishedOn": "2021-06-23T08:56:22.000Z",
+          "wordCount": 3385,
+          "title": "Anam manoomin’n"
+        },
+        {
+          "id": "https://dark-mountain.net/?p=25325",
+          "author": "Mark Bessoudo",
+          "description": "IWriter and philosopher Mark Bessoudo is inspired by an ancient Stoic practice and the fastest bird on Earth among the towers of modern Toronto\nThe post The View from Above appeared first on Dark Mountain.",
+          "link": "https://dark-mountain.net/the-view-from-above/",
+          "publishedOn": "2021-06-16T11:03:39.000Z",
+          "wordCount": 3405,
+          "title": "The View from Above"
+        },
+        {
+          "id": "https://dark-mountain.net/?p=25967",
+          "author": "Laura Coleman",
+          "description": "Laura  Coleman's heartbreaking story about the burial of a puma beside the forest river she loved.\nThe post Yuma appeared first on Dark Mountain.",
+          "link": "https://dark-mountain.net/yuma/",
+          "publishedOn": "2021-06-09T11:41:35.000Z",
+          "wordCount": 1915,
+          "title": "Yuma"
+        }
+      ]
+    },
+    {
+      "title": "Quillette",
+      "feedUrl": "http://quillette.com/feed/",
+      "siteUrl": "https://quillette.com",
+      "articles": [
+        {
+          "id": "https://quillette.com/?p=111986",
+          "author": "Claire Berlinski and Yuri Deigin",
+          "description": "Bret Weinstein, a former professor of biology at Evergreen State College, is best known for being hounded off his own campus in 2017 by a horde of social-justice zombies who themselves seemed to resemble nothing so much as a lab accident gone wrong. Having become a martyr of hyper-progressive ideological mania, Weinstein resigned, sued, won, starred in a documentary about the experience, and embarked upon a new career as a podcaster. Since then, Weinstein has become both a symbol and a voice for millions of Americans, on the Left and Right alike, who are unnerved that a handful of Silicon Valley oligopolists have acquired the power to set the boundaries of acceptable speech, if not formally, then effectively. Weinstein has become an influential public figure, with 350,000 subscribers on YouTube. Many consider his voice a credible one in life-and-death debates about the COVID-19 pandemic. Recently, Weinstein has graduated from entertaining theories that might not be right but could do no harm, to theories that cannot be right and are sure to do harm. Because of …",
+          "link": "https://quillette.com/2021/07/06/looking-for-covid-19-miracle-drugs-we-already-have-them-theyre-called-vaccines/",
+          "publishedOn": "2021-07-06T15:00:47.000Z",
+          "wordCount": 3576,
+          "title": "Looking for COVID-19 ‘Miracle Drugs’? We Already Have Them. They’re Called Vaccines"
+        },
+        {
+          "id": "https://quillette.com/?p=112027",
+          "author": "Quillette Magazine",
+          "description": "Quillette’s Jonathan Kay speaks to film writer Christian Toto about his RealClearInvestigations look into the increasingly direct identity-politics messaging that now is being pushed on North American toddlers through television, books, and marketing.",
+          "link": "https://quillette.com/2021/07/06/podcast-156-christian-toto-on-progressive-ideological-inroads-into-childrens-shows-anti-racist-baby-books-and-breakfast-cereal/",
+          "publishedOn": "2021-07-06T13:11:38.000Z",
+          "wordCount": 404,
+          "title": "Podcast #156: Christian Toto on Progressive Ideological Inroads Into Children’s Shows, Anti-Racist Baby Books, And… Breakfast Cereal"
+        },
+        {
+          "id": "https://quillette.com/?p=112014",
+          "author": "Quillette Magazine",
+          "description": "Jonathan Kay is an editor and writer at Quillette, a TedX speaker, an op-ed columnist at National Post, and host of the Quillette podcast. His work has appeared recently in the Wall Street Journal, Washington Post, Atlantic, Foreign Affairs, Foreign Policy, Skeptic, Canadian Lawyer and Canadian Jewish News. His books include Among The Truthers (2011), Legacy: How French Canadians Shaped North America (2016), Your Move (2019), Panics and Persecutions (2020), and the forthcoming Magic in the Dark: One Family’s Century of Adventures in the Movie Business (2021).",
+          "link": "https://quillette.com/2021/07/06/jonathan-kay/",
+          "publishedOn": "2021-07-06T06:37:30.000Z",
+          "wordCount": 442,
+          "title": "Jonathan Kay"
+        },
+        {
+          "id": "https://quillette.com/?p=110823",
+          "author": "David S. Wills",
+          "description": "In the 21st century, Scientology has become a synonym for “cult.” Thanks to an array of investigative exposés and testimony from former members, few people in the Western world are unaware of at least some of the Church’s fantastical beliefs and more alarming behaviours. Sixty years ago, however, it was viewed quite differently. Scientology—or dianetics, as it was originally known—was an appealing idea to many intellectuals and creatives at a time when the world was rapidly changing and notions that had once been taken for granted were suddenly being tossed out of the window. In science, art, and philosophy, accepted norms were being turned on their heads, and in the 1950s and ’60s, L. Ron Hubbard’s ideas—peddled as an alternative to psychiatry—fit quite nicely among the emerging doctrines dreamed up by his contemporary thinkers. Indeed, the original concepts that launched Hubbard’s movement were not as outrageous as those that define it today. Among these, the idea of “engrams” and the “reactive mind” were perhaps the most appealing. Hubbard theorised that humans are marked by unconscious …",
+          "link": "https://quillette.com/2021/07/06/huxley-burroughs-and-the-church-of-scientology/",
+          "publishedOn": "2021-07-06T02:59:48.000Z",
+          "wordCount": 3617,
+          "title": "Huxley, Burroughs, and the Church of Scientology"
+        },
+        {
+          "id": "https://quillette.com/?p=111136",
+          "author": "Jared Marcel Pollen",
+          "description": "Years from now, if anyone looks at a line graph (in the OED or Google dictionary) tracking the frequency with which a word is mentioned in print, they may notice the current affinity for the word “narrative.” An already overworked word (by virtue of its abstractness), it is now almost impossible to avoid; we encounter it on a daily basis, especially when reading the news. It is a writer’s job to point out how words become flabby through overuse (such is the visceral aversion to cliché), but that is an elitist’s grievance. More telling is the way in which “narrative” has lately acquired the flavor of a pejorative. The popular connotation, in this case, is one that encourages suspicion. For example, Eric Weinstein likes to refer to what he calls the “Gated Institutional Narrative” (a coinage he uses to indict the insular bias and self-protecting interests of newspapers like the New York Times) to describe a false sense of reality, supported by a phony consensus that is held in place (often in bad faith) by …",
+          "link": "https://quillette.com/2021/07/05/blessed-are-the-sense-makers/",
+          "publishedOn": "2021-07-05T05:17:55.000Z",
+          "wordCount": 3181,
+          "title": "Blessed Are the Sense-Makers"
+        },
+        {
+          "id": "https://quillette.com/?p=111898",
+          "author": "David Bernstein",
+          "description": "A black and Jewish diversity officer, April Powers, recently resigned from her post at the Society of Children’s Book Writers and Illustrators (SCBWI), after a mob descended on her for not mentioning Islamophobia in a statement she’d issued about the rise in anti-Semitism. “I neglected to address the rise in Islamophobia, and deeply regret that omission,” Powers said. “As someone who is vehemently against Islamophobia and hate speech of any kind, I understand that intention is not impact and I am sorry.” Even just a few years ago, such a cancellation would have seemed bizarre and outrageous—especially the suggestion that the morality of one’s actions may be judged according to their “impact,” as subjectively assessed by third-party activists. Neither would we have understood why decrying one form of bigotry without mentioning another is problematic. We have just witnessed a series of news cycles in which we have all been invited to decry bigotry against blacks, Asians, members of the LGBT community, and other groups. Was each of these population-specific calls to action also problematic? pic.twitter.com/BrAxWF2twV …",
+          "link": "https://quillette.com/2021/07/05/standing-up-to-the-social-justice-mobs-within-the-jewish-community/",
+          "publishedOn": "2021-07-05T00:18:22.000Z",
+          "wordCount": 3171,
+          "title": "Standing up to the Social-Justice Mobs Within the Jewish Community"
+        },
+        {
+          "id": "https://quillette.com/?p=111942",
+          "author": "Michael Robillard",
+          "description": "Since initial reports of the coronavirus outbreak in late 2019, America has witnessed a rapid and unprecedented transformation within nearly every aspect of mainstream society. At work, many Americans settled into their new daily routines of working from home, hunched over computer screens for hours of caffeine-supported Zoom calls frequently followed by app-delivered box dinners. In elementary schools throughout the country, young children began growing accustomed to wearing masks while sitting in socially distanced cubicles to learn about the dangers of hugging, shaking hands, or breaking social distancing protocols. In organs of government, state governors around the country invoked various emergency measures to help better curtail nonconforming human behaviour; from doling out stiff fines and penalties to non-compliant small business owners, to offering monetary incentives for snitching on one’s own neighbors, to surveilling parks and beaches with aerial drones, to conducting police raids on non-socially-distanced children’s birthday parties, to imposing $1,000 fines for those citizens refusing to wear a mask. On television, radio, and social media, daily reports from federal, state, and local medical experts …",
+          "link": "https://quillette.com/2021/07/03/on-the-dangers-of-big-covid/",
+          "publishedOn": "2021-07-03T01:12:40.000Z",
+          "wordCount": 3819,
+          "title": "On the Dangers of Big COVID"
+        },
+        {
+          "id": "https://quillette.com/?p=111270",
+          "author": "Yvon Grenier",
+          "description": "Ignoring isn’t the same as ignorance, you have to work at it. ~Margaret Atwood, The Handmaid’s Tale As a Cuba scholar, a student of literature and politics, and an enthusiastic reader of Margaret Atwood’s work, I have collected articles and media clips over the years related to the Grande Dame of CanLit’s many private and official visits to Cuba. Frankly, the file is thin. Generally, scholars engage with her important body of work (more than 60 books, fiction and non-fiction), without mentioning this topic. It is an interesting footnote, no more. Why interesting? Because it illustrates, in her case and as a pattern, how an inquiring mind sincerely committed to human rights and democratic values can turn off its critical antennae. Atwood allowed herself to become a compliant guest in a country that checks almost all the boxes of totalitarianism, minus extensive terror: a single-party state, no rule of law, arbitrary arrests (2,000 of them during the first eight months of last year), stultifying media (even Raúl Castro says so), and a regime of censorship …",
+          "link": "https://quillette.com/2021/07/02/the-prophet-of-dystopia-at-rest-margaret-atwood-in-cuba/",
+          "publishedOn": "2021-07-02T00:52:58.000Z",
+          "wordCount": 3481,
+          "title": "The Prophet of Dystopia at Rest: Margaret Atwood in Cuba"
+        },
+        {
+          "id": "https://quillette.com/?p=110938",
+          "author": "Alan S. Rome",
+          "description": "We live in a time of great anxiety over the role of truth in public life. Media and popular culture are saturated with concerns over “fake news,” alternative facts and conspiracy theories. There is widespread concern over the breakdown of integrity and trust in public figures and experts, the increasing difficulty of distinguishing between true and false claims, and the increasing willingness of predators to prey upon this difficulty. Passions flare, political sides polarise, and neither side seems capable of talking or listening to the other. It is therefore a great irony that many of those most worried about these developments also deny the possibility of absolute truth, without recognising any connection between the two. Certain assumptions about the relative nature of truth are represented, for instance, by the increasing public focus on “perspective” or “social privilege,” with the assumption that identity or experience drastically limits or determines understanding. Under this assumption, each group possesses its own, or perhaps the whole, truth about matters relating to their lives: “You cannot truly know this because you …",
+          "link": "https://quillette.com/2021/06/30/in-defence-of-absolute-truth/",
+          "publishedOn": "2021-06-30T22:27:19.000Z",
+          "wordCount": 4700,
+          "title": "In Defence of Absolute Truth"
+        },
+        {
+          "id": "https://quillette.com/?p=111906",
+          "author": "Matthew Lesh",
+          "description": "Last year Australia was a COVID-19 success story. Just 30,274 cases and 910 deaths in 26 million people was something to celebrate. But now America and Europe are getting on with vaccinations and learning how to live with the virus. Australia is faltering with embarrassingly few vaccinations and new lockdowns. It’s become like a Groundhog Day, set in late March 2020. In recent weeks community transmission has returned after leaks from hotel quarantine. This has led risk-averse state governments to reintroduce stay-at-home orders: first in Melbourne, and now in Sydney, Brisbane, Perth, Darwin, Townsville, and the Gold Coast. Australia’s vaccination rate is at the bottom of the OECD’s 38 advanced economies. Fewer than five percent of Aussies have been fully vaccinated—12 times fewer than Israel, nine times fewer than the United States and the United Kingdom. Australia has experienced the archetypical story of hubris. Aussies genuinely felt superior watching the rest of the world last year: we beat the virus, you got millions of deaths. The early success, however, bred arrogance and complacency. Now the …",
+          "link": "https://quillette.com/2021/06/30/australias-covid-catch-22/",
+          "publishedOn": "2021-06-30T22:22:35.000Z",
+          "wordCount": 2243,
+          "title": "Australia’s COVID Catch-22"
+        }
+      ]
+    },
+    {
+      "title": "Catapult",
+      "feedUrl": "https://catapult.co/rss",
+      "siteUrl": "https://catapult.co/",
+      "articles": [
+        {
+          "id": "https://catapult.co/community/stories/where-author-kendra-james-writes",
+          "author": null,
+          "description": "by kendrajames.\n\nYes. That’s a shower curtain behind my ‘desk.’ We’re in a global panini, okay?\nThe generously sized one-bedroom apartment I share with my husband and our medium-sized dog is laid out in a most...",
+          "link": "https://catapult.co/community/stories/where-author-kendra-james-writes",
+          "publishedOn": "2021-07-07T10:00:00.000Z",
+          "wordCount": 1448,
+          "title": "Where Kendra James Writes"
+        },
+        {
+          "id": "https://catapult.co/stories/column-ariana-remmel-octobot-soft-robots-taught-me-how-to-be-strong",
+          "author": null,
+          "description": "by arianaremmel.\n\nThis is Better Living Through Chemistry, a column by Ariana Remmel on how atoms and molecules can help us explore our lives.\nImagine an octopus that can fit in the palm of your hand. Except you...",
+          "link": "https://catapult.co/stories/column-ariana-remmel-octobot-soft-robots-taught-me-how-to-be-strong",
+          "publishedOn": "2021-07-07T09:10:00.000Z",
+          "wordCount": 3020,
+          "title": "Soft Robots Taught Me How to Be Strong"
+        },
+        {
+          "id": "https://catapult.co/stories/julie-chen-what-does-it-mean-to-be-made-somewhere-italy-diaspora-chinese-fast-fashion",
+          "author": null,
+          "description": "by juliechen.\n\nIn my childhood neighborhood of Evergreen, San Jose, many of the street names are Italian. I lived on Cortona, my second-grade best friend Yoonshin on Michelangelo, and one of my high school best...",
+          "link": "https://catapult.co/stories/julie-chen-what-does-it-mean-to-be-made-somewhere-italy-diaspora-chinese-fast-fashion",
+          "publishedOn": "2021-07-06T11:30:00.000Z",
+          "wordCount": 3513,
+          "title": "What Does It Mean to Be “Made” Somewhere?"
+        },
+        {
+          "id": "https://catapult.co/stories/charlene-adhiambo-tina-turner-musical-catharsis-grief-family",
+          "author": null,
+          "description": "by charleneadhiambo.\n\nIn one of the first scenes of Tina: The Tina Turner Musical, Anna Mae Bullock catches the Holy Ghost in her Baptist church. She’s a firecracker as commanding as the pastor. She hops out of her...",
+          "link": "https://catapult.co/stories/charlene-adhiambo-tina-turner-musical-catharsis-grief-family",
+          "publishedOn": "2021-07-06T11:11:00.000Z",
+          "wordCount": 2557,
+          "title": "What Tina Turner Taught Me"
+        },
+        {
+          "id": "https://catapult.co/community/stories/remember-you-are-in-conversation-writing-exercise-larissa-pham-writing-prompt-letters-to-a-young-poet-rilke",
+          "author": null,
+          "description": "by larissapham.\n\nSomeone I love is reading Rilke’s Letters to a Young Poet, which means that I, in turn, am considering Rilke’s Letters to a Young Poet. \nFranz Kappus first wrote to Rainer Maria Rilke, eight years...",
+          "link": "https://catapult.co/community/stories/remember-you-are-in-conversation-writing-exercise-larissa-pham-writing-prompt-letters-to-a-young-poet-rilke",
+          "publishedOn": "2021-07-06T10:00:00.000Z",
+          "wordCount": 1431,
+          "title": "Remember, You Are in Conversation"
+        },
+        {
+          "id": "https://catapult.co/community/stories/2021-submission-and-freelance-writing-opportunities-where-to-submit-literary-magazines-for-writers",
+          "author": null,
+          "description": "by stellacabotwilson4.\n\n\n\n\n\n\nPosted July 2, 2021\n\nBustle: seeking pitches for its Health &amp; Wellness and Tech sections. Send pitches to melanie.mignucci@bustle.com.\nGASHER Press: accepting submissions of poetry,...",
+          "link": "https://catapult.co/community/stories/2021-submission-and-freelance-writing-opportunities-where-to-submit-literary-magazines-for-writers",
+          "publishedOn": "2021-07-02T16:44:45.000Z",
+          "wordCount": 2317,
+          "title": "Updated Weekly: 2021 Submission and Freelance Writing Opportunities"
+        },
+        {
+          "id": "https://catapult.co/stories/lorraine-boissoneault-acceptable-forms-of-agony-fiction-short-story",
+          "author": null,
+          "description": "by lorraineboissoneault.\n\nBefore she became a saint, Bernadette Soubirous was a sickly asthmatic. Barely four and a half feet tall. Living with ten family members in a basement-cum-prison. She was a teenager when she first...",
+          "link": "https://catapult.co/stories/lorraine-boissoneault-acceptable-forms-of-agony-fiction-short-story",
+          "publishedOn": "2021-07-02T11:30:00.000Z",
+          "wordCount": 4235,
+          "title": "Acceptable Forms of Agony"
+        },
+        {
+          "id": "https://catapult.co/community/stories/job-opportunities-for-writers-july-2-2021-writing-jobs-literary-jobs-where-to-apply-nicole-dieker",
+          "author": null,
+          "description": "by nicoledieker.\n\nNews-O-Matic is transforming the future of news by combining journalism, education, multimedia, and interactive technology.\nNews-O-Matic is currently seeking an Assistant Editor for its Global...",
+          "link": "https://catapult.co/community/stories/job-opportunities-for-writers-july-2-2021-writing-jobs-literary-jobs-where-to-apply-nicole-dieker",
+          "publishedOn": "2021-07-02T10:00:00.000Z",
+          "wordCount": 1480,
+          "title": "Job Opportunities for Writers: July 2, 2021"
+        },
+        {
+          "id": "https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-july-2-2021-where-to-submit-literary-journals-nicole-dieker",
+          "author": null,
+          "description": "by nicoledieker.\n\nInput covers what comes next in technology, culture, and the spaces in between.\nOn June 28, Input features editor Mark Yarm shared the following call for pitches:\n“Hello, freelance writers! Q3 is...",
+          "link": "https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-july-2-2021-where-to-submit-literary-journals-nicole-dieker",
+          "publishedOn": "2021-07-02T10:00:00.000Z",
+          "wordCount": 1234,
+          "title": "Upcoming Submission and Pitching Opportunities: July 2, 2021"
+        },
+        {
+          "id": "https://catapult.co/stories/the-real-villain-in-the-devil-wears-prada-is-toxic-work-culture-lindsay-lee-wallace",
+          "author": null,
+          "description": "by lindsayleewallace.\n\nThe year was 2006 and I was nine years old. As per our usual movie-night compromise, my mom was monopolizing the blanket but allowing me free reign over the snacks. I dimmed the lights, and our...",
+          "link": "https://catapult.co/stories/the-real-villain-in-the-devil-wears-prada-is-toxic-work-culture-lindsay-lee-wallace",
+          "publishedOn": "2021-07-01T12:00:00.000Z",
+          "wordCount": 2763,
+          "title": "The Real Villain in ‘The Devil Wears Prada’ is Toxic Work Culture"
+        },
+        {
+          "id": "https://catapult.co/community/stories/impossible-ideals-of-writers-life-ambition-craft-mfa",
+          "author": null,
+          "description": "by Tabitha-Blankenbiller.\n\nThe first time I felt God, I was squashed into a Pacific University dorm room. It was a party thrown by a few upperclassmen, thick with the cool kids who weren’t concerned about feeling fresh for...",
+          "link": "https://catapult.co/community/stories/impossible-ideals-of-writers-life-ambition-craft-mfa",
+          "publishedOn": "2021-07-01T11:30:00.000Z",
+          "wordCount": 3616,
+          "title": "The Impossible Ideals of the “Writer’s Life”"
+        },
+        {
+          "id": "https://catapult.co/stories/getting-bad-tattoos-helped-me-grow-emmy-favilla-body-positivity-tattooing",
+          "author": null,
+          "description": "by emmyfavilla.\n\nAt seventeen, I acquired a fake ID for one intention and one intention only: to have my right hip permanently marked with a teal-and-black spider. A New York house spider, to be exact, which, in...",
+          "link": "https://catapult.co/stories/getting-bad-tattoos-helped-me-grow-emmy-favilla-body-positivity-tattooing",
+          "publishedOn": "2021-07-01T08:45:00.000Z",
+          "wordCount": 3744,
+          "title": "Getting Bad Tattoos Helped Me Grow"
+        },
+        {
+          "id": "https://catapult.co/community/stories/books-are-stronger-when-written-in-community-graduation-showcase-12-month-novel-generator-ingrid-rojas-contreras",
+          "author": null,
+          "description": "by ingridrojascontreras.\n\nIn January of 2020, I began to teach a yearlong class designed to lead ten students through writing the first draft of a novel. We started out the year by writing commitments to ourselves—promising...",
+          "link": "https://catapult.co/community/stories/books-are-stronger-when-written-in-community-graduation-showcase-12-month-novel-generator-ingrid-rojas-contreras",
+          "publishedOn": "2021-06-30T11:57:14.000Z",
+          "wordCount": 1420,
+          "title": "Books Are Stronger When Written in Community"
+        },
+        {
+          "id": "https://catapult.co/stories/jessica-goudeau-whoever-holds-banner-will-be-shot-myanmar-protests-coup-rights",
+          "author": null,
+          "description": "by jessicagoudeau.\n\nBy Cin Mual Pa\nAs told to Jessica Goudeau\nThis is Myanmar Voices, a new column by Jessica Goudeau, which tells first-person stories of people in Myanmar and their loved ones. The as-told-to format...",
+          "link": "https://catapult.co/stories/jessica-goudeau-whoever-holds-banner-will-be-shot-myanmar-protests-coup-rights",
+          "publishedOn": "2021-06-30T11:30:00.000Z",
+          "wordCount": 2647,
+          "title": "“Whoever Holds the Banner Will Be Shot”"
+        },
+        {
+          "id": "https://catapult.co/stories/dorothy-bendel-column-bloody-mary-ritual-adolescence-shame-distortion",
+          "author": null,
+          "description": "by Dorothy-Bendel.\n\nThis is A Modern Guide to Superstition, a column by Dorothy Bendel on folk belief and ritual in chaotic times.\nCheryl herded us into the bathroom to summon Bloody Mary. Her house was what I...",
+          "link": "https://catapult.co/stories/dorothy-bendel-column-bloody-mary-ritual-adolescence-shame-distortion",
+          "publishedOn": "2021-06-30T10:10:00.000Z",
+          "wordCount": 2203,
+          "title": "“Bloody Mary” and Other Things Only Spoken of in the Dark"
+        },
+        {
+          "id": "https://catapult.co/community/stories/excerpt-from-one-star-raphael-majma",
+          "author": null,
+          "description": "by raphaelmajma.\n\nMirna Hernandez, an ambitious and stubborn daughter of Mexican immigrants, returns to Durham after bombing out of the NYC restaurant scene. Back in her childhood bedroom, she balances sous-cheffing...",
+          "link": "https://catapult.co/community/stories/excerpt-from-one-star-raphael-majma",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 2534,
+          "title": "Excerpt from ‘One Star’"
+        },
+        {
+          "id": "https://catapult.co/community/stories/excerpt-from-comfort-damilola-oyedele",
+          "author": null,
+          "description": "by damioyedele.\n\nComfort gives voice to a teenage girl and her long-lost birth mother, as they seek the truth about their separation, wrestle the forces that broke their bond, and forge a path back to one another....",
+          "link": "https://catapult.co/community/stories/excerpt-from-comfort-damilola-oyedele",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 2474,
+          "title": "Excerpt from ‘Comfort’"
+        },
+        {
+          "id": "https://catapult.co/community/stories/excerpt-from-girl-with-the-primrose-pin-charlene-wang",
+          "author": null,
+          "description": "by charlenewang.\n\nIn a little forgotten town in Mississippi, Kayla and Faith come of age on the Internet. Kayla is beautiful and kinetic, with the kind of face that amasses thousands of likes on Instagram. Faith,...",
+          "link": "https://catapult.co/community/stories/excerpt-from-girl-with-the-primrose-pin-charlene-wang",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 3427,
+          "title": "Excerpt from ‘Girl with the Primrose Pin’"
+        },
+        {
+          "id": "https://catapult.co/community/stories/excerpt-from-a-cilantro-wedding-bouquet-maria-alejandra-barrios",
+          "author": null,
+          "description": "by mariaalejandrabarrios.\n\nVi returns to Barranquilla after her abuela’s death for the funeral and to deal with the almost-in-ruins family restaurant. Soon, ghosts from her past come rushing back: her strained mother, the...",
+          "link": "https://catapult.co/community/stories/excerpt-from-a-cilantro-wedding-bouquet-maria-alejandra-barrios",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 2636,
+          "title": "Excerpt from ‘A Cilantro Wedding Bouquet’"
+        },
+        {
+          "id": "https://catapult.co/community/stories/excerpt-from-fast-songs-for-fast-girls-claire-lobenfeld",
+          "author": null,
+          "description": "by clairelobenfeld.\n\nSixteen-year-old Mickey Gold has to start over at her aunt’s in the suburbs. She is desperate to keep details of the violent outburst that got her expelled from her New York City private school...",
+          "link": "https://catapult.co/community/stories/excerpt-from-fast-songs-for-fast-girls-claire-lobenfeld",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 1720,
+          "title": "Excerpt from ‘Fast Songs for Fast Girls’"
+        },
+        {
+          "id": "https://catapult.co/community/stories/midnight-in-exile-novel-excerpt-andra-nicolescu",
+          "author": null,
+          "description": "by andranicolescu.\n\nWhen eighty-year-old immigrant Paul Popa chances on a photograph that brings painful memories to the fore, he embarks on a journey of self-discovery that takes him from Washington, D.C., to his...",
+          "link": "https://catapult.co/community/stories/midnight-in-exile-novel-excerpt-andra-nicolescu",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 1473,
+          "title": "Excerpt from ‘Midnight in Exile’ by Andra Nicolescu"
+        },
+        {
+          "id": "https://catapult.co/stories/digital-distortions-reflections-on-zoom-and-body-dysmorphia-adam-dalva",
+          "author": null,
+          "description": "by adamdalva.\n\nA different face greets me each morning. Some days, it’s an attractive one, kempt and confident. It returns my raised eyebrows, my pleased smile. Occasionally, the face is blurry, with dull,...",
+          "link": "https://catapult.co/stories/digital-distortions-reflections-on-zoom-and-body-dysmorphia-adam-dalva",
+          "publishedOn": "2021-06-29T11:30:00.000Z",
+          "wordCount": 2901,
+          "title": "Digital Distortions: Reflections on Zoom and Body Dysmorphia"
+        },
+        {
+          "id": "https://catapult.co/community/stories/make-it-sharper-make-it-stranger-revision-exercise-writing-prompt-simon-han",
+          "author": null,
+          "description": "by simonhan.\n\nAt some point during the revision process, we may feel the need to mold our sentences so they “fit” the larger vision of our work. This is especially common when we’re working from an outline or if...",
+          "link": "https://catapult.co/community/stories/make-it-sharper-make-it-stranger-revision-exercise-writing-prompt-simon-han",
+          "publishedOn": "2021-06-29T10:00:00.000Z",
+          "wordCount": 880,
+          "title": "Make it Sharper, Make it Stranger"
+        },
+        {
+          "id": "https://catapult.co/stories/ashes-at-kande-beach-malawi-poem-by-steven-duong",
+          "author": null,
+          "description": "by stevenduong.\n\n\n\nCatapult magazine · Listen to Steven Dương read this poem\n\nAshes at Kande Beach, Malawi\nEverything is an elegy these days, all chipped rings,\nclipped wings. You are alive, so the pills work, \nbut...",
+          "link": "https://catapult.co/stories/ashes-at-kande-beach-malawi-poem-by-steven-duong",
+          "publishedOn": "2021-06-29T10:00:00.000Z",
+          "wordCount": 1054,
+          "title": "Ashes at Kande Beach, Malawi"
+        },
+        {
+          "id": "https://catapult.co/community/stories/jess-zimmerman-personal-writing-is-like-a-cow-with-a-hole-in-it",
+          "author": null,
+          "description": "by jesszimmerman.\n\nThe thing that’s so difficult about personal essays is that they’re awfully personal.\nI realize saying this lands me somewhere on a spectrum from Yogi Berra to Randall from Clerks (“This job would...",
+          "link": "https://catapult.co/community/stories/jess-zimmerman-personal-writing-is-like-a-cow-with-a-hole-in-it",
+          "publishedOn": "2021-06-28T10:35:00.000Z",
+          "wordCount": 2148,
+          "title": "A Cow with a Hole in It"
+        },
+        {
+          "id": "https://catapult.co/stories/chris-karnadi-column-gender-expression-video-games-play",
+          "author": null,
+          "description": "by chriskarnadi.\n\nWhen I painted my nails for the first time, I was mistaken for a woman at least twice. \nAs I waited for the train to the airport and held my tumbler of tea, my charcoal-gray nails poked out of my...",
+          "link": "https://catapult.co/stories/chris-karnadi-column-gender-expression-video-games-play",
+          "publishedOn": "2021-06-28T06:50:09.000Z",
+          "wordCount": 2778,
+          "title": "Are You a Boy? Or Are You a Girl?"
+        },
+        {
+          "id": "https://catapult.co/community/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel",
+          "author": null,
+          "description": "by jessicagoodman.\n\nI’m not precious about my work. Not about my word choices, my dialogue, or my structure. I’m all about killing my darlings. Murder them, baby. Get ’em out of here. Especially if it makes the story...",
+          "link": "https://catapult.co/community/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel",
+          "publishedOn": "2021-06-25T19:34:40.000Z",
+          "wordCount": 1640,
+          "title": "As a Journalist, I Thought I Wasn’t Precious About My Work—Then Someone Tore Apart My Novel"
+        },
+        {
+          "id": "https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-june-25-2021-where-to-submit-literary-mags",
+          "author": null,
+          "description": "by nicoledieker.\n\nPacifica Literary Review publishes poetry, fiction, creative non, photography, and art &amp; design, and serves as an inclusive space for the best emerging and established writers.\nHere’s what...",
+          "link": "https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-june-25-2021-where-to-submit-literary-mags",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 1350,
+          "title": "Upcoming Submission and Pitching Opportunities: June 25, 2021"
+        },
+        {
+          "id": "https://catapult.co/community/stories/job-opportunities-for-writers-june-25-2021-writing-jobs-jobs-for-writers-apply-now",
+          "author": null,
+          "description": "by nicoledieker.\n\nJacobin Foundation is a non-profit that produces publications and other material that encourages public discourse on matters of political economy and culture.\nJacobin Foundation is currently...",
+          "link": "https://catapult.co/community/stories/job-opportunities-for-writers-june-25-2021-writing-jobs-jobs-for-writers-apply-now",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 1586,
+          "title": "Job Opportunities for Writers: June 25, 2021"
+        },
+        {
+          "id": "https://catapult.co/stories/wolf-facts-short-story-mar-stratford",
+          "author": null,
+          "description": "by marstratford.\n\nIf there were any justice in the world, I would have been born a wolf. Instead, I’m a seventh grader. I should be in the eighth grade, but I was held back in kindergarten for biting. A wolf’s...",
+          "link": "https://catapult.co/stories/wolf-facts-short-story-mar-stratford",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 1719,
+          "title": "Wolf Facts"
+        },
+        {
+          "id": "https://catapult.co/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel-jessica-goodman",
+          "author": null,
+          "description": "by jessicagoodman.\n\nI’m not precious about my work. Not about my word choices, my dialogue, or my structure. I’m all about killing my darlings. Murder them, baby. Get ’em out of here. Especially if it makes the story...",
+          "link": "https://catapult.co/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel-jessica-goodman",
+          "publishedOn": "2021-06-24T12:00:00.000Z",
+          "wordCount": 1615,
+          "title": "As a Journalist, I Thought I Wasn’t Precious About My Work—Then Someone Tore Apart My Novel"
+        },
+        {
+          "id": "https://catapult.co/stories/how-seaweed-shapes-our-past-and-future-botany-history-jessica-j-lee",
+          "author": null,
+          "description": "by jessicajlee.\n\nThis is Non-Native Species, a column by Jessica J. Lee on plants, people, and their intertwined migration stories.\nThe cliffs carried the wind down, blasting the Margate shore on which we stood....",
+          "link": "https://catapult.co/stories/how-seaweed-shapes-our-past-and-future-botany-history-jessica-j-lee",
+          "publishedOn": "2021-06-24T11:30:00.000Z",
+          "wordCount": 2718,
+          "title": "How Seaweed Shapes Our Past and Future"
+        },
+        {
+          "id": "https://catapult.co/stories/miyako-pleines-tura-satana-horror-movies-astro-zombies-faster-pussycat-kill",
+          "author": null,
+          "description": "by miyakopleines.\n\nThis is The Curse, a column by Miyako Pleines about the poetry and persuasion of horror films.\nWhen I think of Tura Satana, I think of her menacing, wearing a pink dress with symmetrical cutouts...",
+          "link": "https://catapult.co/stories/miyako-pleines-tura-satana-horror-movies-astro-zombies-faster-pussycat-kill",
+          "publishedOn": "2021-06-24T10:28:00.000Z",
+          "wordCount": 3425,
+          "title": "Tura Satana Taught Me to Find Power in My Asian Identity"
+        },
+        {
+          "id": "https://catapult.co/stories/dear-imo-a-letter-from-the-korean-diaspora-grace-m-cho",
+          "author": null,
+          "description": "by 30176.\n\nFor Ha Bok Su and Ha Koon Ja\nImo-nim, my respected aunt,\nYears have passed since I’ve seen you. How have you been all this time? Geuh dong-an eotteo-keh jinaeseyo? Uri-mal jal mot haeyo. I’m sorry....",
+          "link": "https://catapult.co/stories/dear-imo-a-letter-from-the-korean-diaspora-grace-m-cho",
+          "publishedOn": "2021-06-23T11:30:00.000Z",
+          "wordCount": 3072,
+          "title": "Dear Imo: A Letter from the Korean Diaspora"
+        },
+        {
+          "id": "https://catapult.co/stories/sabina-unni-radical-possibilities-virtual-theater-zoom-chat-audience",
+          "author": null,
+          "description": "by sabinasethiunni.\n\n“For every moment genuinely experienced onstage we get back a response from the audience, participation, empathy, invisible currents from a thousand living, emotionally stimulated people who create...",
+          "link": "https://catapult.co/stories/sabina-unni-radical-possibilities-virtual-theater-zoom-chat-audience",
+          "publishedOn": "2021-06-23T11:30:00.000Z",
+          "wordCount": 3377,
+          "title": "The Radical Possibilities of Virtual Theater"
+        },
+        {
+          "id": "https://catapult.co/community/stories/writing-the-senses-sound-hannah-howard-craft-column",
+          "author": null,
+          "description": "by hannahhoward.\n\nYou know what it’s like when you hear that song. It stops you in your tracks. You might be driving or shopping for groceries, a box of cereal in your hand, and suddenly you are transported. You are...",
+          "link": "https://catapult.co/community/stories/writing-the-senses-sound-hannah-howard-craft-column",
+          "publishedOn": "2021-06-23T10:00:00.000Z",
+          "wordCount": 1969,
+          "title": "Writing the Senses: Sound"
+        },
+        {
+          "id": "https://catapult.co/stories/chris-l-terry-richmond-virginia-robert-e-lee-magical-negro",
+          "author": null,
+          "description": "by chrislterry.\n\nThis is Digital Magical Negro, a column by Chris L. Terry on his experiences as a mixed-race Black man navigating contemporary life in America.\n*\nAs a teen in Richmond, Virginia, a statue of Robert...",
+          "link": "https://catapult.co/stories/chris-l-terry-richmond-virginia-robert-e-lee-magical-negro",
+          "publishedOn": "2021-06-22T13:44:28.000Z",
+          "wordCount": 3383,
+          "title": "My Creepy Neighbor, Robert E. Lee"
+        },
+        {
+          "id": "https://catapult.co/stories/coming-out-as-told-by-florida-wildlife-cara-lynn-albert",
+          "author": null,
+          "description": "by caralynnalbert.\n\nFlorida Panther:\nCareful, girl. Her molasses ringlets may not be what they seem. Framing plump cheeks and eyes golden, like mine. Hips limber. Paws painted black and glossy. She’s sixteen, three...",
+          "link": "https://catapult.co/stories/coming-out-as-told-by-florida-wildlife-cara-lynn-albert",
+          "publishedOn": "2021-06-22T12:00:00.000Z",
+          "wordCount": 1326,
+          "title": "Coming Out, as Told by Florida Wildlife"
+        },
+        {
+          "id": "https://catapult.co/community/stories/writing-idea-novel-or-short-story-adrienne-celt",
+          "author": null,
+          "description": "by adriennecelt.\n\nA question I’m often asked by students or other early-career writers is “How do I know whether a given idea should become a novel or a story?” \nIt’s a fair question, because I write both novels and...",
+          "link": "https://catapult.co/community/stories/writing-idea-novel-or-short-story-adrienne-celt",
+          "publishedOn": "2021-06-22T10:00:00.000Z",
+          "wordCount": 1967,
+          "title": "Is Your Idea Better Suited to a Novel or a Short Story?"
+        },
+        {
+          "id": "https://catapult.co/community/stories/on-beckett-and-writing-with-a-brain-disease-emma-smith-stevens-jess-thom-play-not-i",
+          "author": null,
+          "description": "by emmasmithstevens.\n\nFor the last five years, I have been ill with an autoimmune condition called Addison’s disease that has damaged my adrenal gland, and another that combines features of systemic lupus erythematosus...",
+          "link": "https://catapult.co/community/stories/on-beckett-and-writing-with-a-brain-disease-emma-smith-stevens-jess-thom-play-not-i",
+          "publishedOn": "2021-06-21T10:00:00.000Z",
+          "wordCount": 3188,
+          "title": "On Beckett and Writing with a Brain Disease"
+        },
+        {
+          "id": "https://catapult.co/stories/makalah-moore-hair-black-community-france-noyon-chauny",
+          "author": null,
+          "description": "by makalahmoore.\n\nFaded letters above the large windows told me my new hair salon had once been a cordonnerie, a shoe-repair shop. The mannequin head in the window stared at me from her perch between a basket of...",
+          "link": "https://catapult.co/stories/makalah-moore-hair-black-community-france-noyon-chauny",
+          "publishedOn": "2021-06-21T07:31:30.000Z",
+          "wordCount": 3762,
+          "title": "Our Hair: How I Found Community and Coconut Oil in France"
+        },
+        {
+          "id": "https://catapult.co/stories/how-writing-my-young-adult-novel-helped-me-reclaim-the-queer-girlhood-i-lost-ashley-woodfolk",
+          "author": null,
+          "description": "by ashleywoodfolk.\n\nI love my husband.\nI love him specifically and singularly because of who he is and because of who we are together. I love his quiet thoughtfulness and his corny dad jokes, his serious eyes and the...",
+          "link": "https://catapult.co/stories/how-writing-my-young-adult-novel-helped-me-reclaim-the-queer-girlhood-i-lost-ashley-woodfolk",
+          "publishedOn": "2021-06-17T13:11:57.000Z",
+          "wordCount": 2642,
+          "title": "How Writing My Young Adult Novel Helped Me Reclaim the Queer Girlhood I Lost"
+        },
+        {
+          "id": "https://catapult.co/community/stories/the-delight-in-fiction-is-not-knowing-a-conversation-with-te-ping-chen-journalism-land-of-big-numbers",
+          "author": null,
+          "description": "by allisenlich.\n\nTe-Ping Chen’s debut short story collection, Land of Big Numbers, is thrilling and expansive in its depth and attention to detail. Though the stories dip in and out of realism, surrealism, and...",
+          "link": "https://catapult.co/community/stories/the-delight-in-fiction-is-not-knowing-a-conversation-with-te-ping-chen-journalism-land-of-big-numbers",
+          "publishedOn": "2021-06-17T11:30:00.000Z",
+          "wordCount": 2311,
+          "title": "“The delight in fiction is not knowing what’s going to happen next”: A Conversation with Te-Ping Chen"
+        },
+        {
+          "id": "https://catapult.co/stories/the-transportive-power-of-the-phantom-tollbooth-senses-pandemic-anya-jaremko-greenwold",
+          "author": null,
+          "description": "by anyajaremkogreenwold.\n\nI tried to write about Norton Juster’s The Phantom Tollbooth on a gray day when April curled its toes back under the covers and a March chill rattled the bones of my house. I could not. This is a...",
+          "link": "https://catapult.co/stories/the-transportive-power-of-the-phantom-tollbooth-senses-pandemic-anya-jaremko-greenwold",
+          "publishedOn": "2021-06-16T11:30:00.000Z",
+          "wordCount": 3126,
+          "title": "The Transportive Power of ‘The Phantom Tollbooth’"
+        },
+        {
+          "id": "https://catapult.co/stories/promoting-on-my-book-tour-with-postpartum-depression-maria-kuznetsova",
+          "author": null,
+          "description": "by mariakuznetsova.\n\nI almost died on the way to an event promoting my debut novel. Halfway between my home in Iowa City and a Midwest Independent Booksellers Association event in Decorah, I fell asleep at the wheel,...",
+          "link": "https://catapult.co/stories/promoting-on-my-book-tour-with-postpartum-depression-maria-kuznetsova",
+          "publishedOn": "2021-06-16T10:00:00.000Z",
+          "wordCount": 3374,
+          "title": "Promoting My Book with Postpartum Depression"
+        },
+        {
+          "id": "https://catapult.co/community/stories/journalism-taught-me-to-ask-for-help-akanksha-singh-writing-essay",
+          "author": null,
+          "description": "by akanksha-singh.\n\nI was in Portugal before the pandemic began. I speak no Portuguese beyond the smattering of a phrasebook and had a few interviews lined up for a (now-axed) travel story I was working on. While in...",
+          "link": "https://catapult.co/community/stories/journalism-taught-me-to-ask-for-help-akanksha-singh-writing-essay",
+          "publishedOn": "2021-06-15T14:36:16.000Z",
+          "wordCount": 1774,
+          "title": "Journalism Taught Me to Ask for Help"
+        },
+        {
+          "id": "https://catapult.co/stories/alex-manley-business-front-rebellion-back-rattail-haircut-class-gender-queerness",
+          "author": null,
+          "description": "by alexmanley.\n\nI must have been about seven years old when, sitting in the chair at the women’s hair salon, I asked the stylist to leave a little spot longer at the back.\nMy mother would take me there for...",
+          "link": "https://catapult.co/stories/alex-manley-business-front-rebellion-back-rattail-haircut-class-gender-queerness",
+          "publishedOn": "2021-06-15T11:30:00.000Z",
+          "wordCount": 3065,
+          "title": "Business in the Front, Rebellion in the Back"
+        },
+        {
+          "id": "https://catapult.co/stories/krys-malcolm-belc-halloween-1998-old-man-with-old-wife",
+          "author": null,
+          "description": "by krysmalcolmbelc.\n\nOn a Saturday in mid-October, we finger rubbery masks at Party City. \nI am standing stock-still in the aisle, waiting quietly for Lauren’s permission to feel bonded to her in this new way. A joint...",
+          "link": "https://catapult.co/stories/krys-malcolm-belc-halloween-1998-old-man-with-old-wife",
+          "publishedOn": "2021-06-15T11:15:00.000Z",
+          "wordCount": 1766,
+          "title": "Halloween 1998, Old Man with Old Wife"
+        },
+        {
+          "id": "https://catapult.co/stories/lindsey-trout-hughes-shakespeare-twelfth-night-twins-family-cancer",
+          "author": null,
+          "description": "by lindseytrout.\n\nMy twin sister and I are not carbon copies; we’re more like mirror images, our dominant hands on opposite sides. I used to imagine the moment of our birth: our mother on the surgical table and our...",
+          "link": "https://catapult.co/stories/lindsey-trout-hughes-shakespeare-twelfth-night-twins-family-cancer",
+          "publishedOn": "2021-06-14T15:35:38.000Z",
+          "wordCount": 2769,
+          "title": "Shakespeare’s ‘Twelfth Night’ Taught Me About Being a Twin"
+        },
+        {
+          "id": "https://catapult.co/stories/elizabeth-gollan-pandemic-cooking-family-history-jewish-food",
+          "author": null,
+          "description": "by elizabethgollan.\n\nSometimes life gives you a sourdough baguette toasted with fresh ricotta cheese and homemade cherry preserves. Oysters. Handmade cheese from far corners of France. \nIt’s not hard to eat well, or...",
+          "link": "https://catapult.co/stories/elizabeth-gollan-pandemic-cooking-family-history-jewish-food",
+          "publishedOn": "2021-06-14T11:30:00.000Z",
+          "wordCount": 2284,
+          "title": "In the Pandemic, Cooking Connected Me to My Ancestors"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

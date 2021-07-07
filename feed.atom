@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:30:21.156Z</updated>
+    <updated>2021-07-07T19:31:24.706Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -715,6 +715,18 @@ Points: 34
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump is suing Google, Twitter and Facebook. The cases are "DOA."]]></title>
+        <id>https://www.protocol.com/policy/trump-lawsuit-zuckerberg-dorsey</id>
+        <link href="https://www.protocol.com/policy/trump-lawsuit-zuckerberg-dorsey"/>
+        <updated>2021-07-07T15:40:34.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump announced Wednesday he'll sue Facebook, Twitter and Google for allegedly silencing him, even though the former president's previous attempts to punish social media have largely failed.
+The lawsuits against the companies and CEOs Mark Zuckerberg, Jack Dorsey and Sundar Pichai come as Trump remains suspended from Facebook, Twitter and YouTube over his praise of supporters who perpetrated the deadly Jan. 6 riot at the Capitol.
+"I stand before you this morning to announce a very important and very beautiful, I think, development for our freedom," said Trump, speaking on Wednesday alongside the leaders of the pro-Trump America First Policy Institute. Trump said he would be the lead plaintiff in a class action seeking an injunction, punitive damages and "prompt restitution" in feder…]]></summary>
+        <author>
+            <name>Issie Lapowsky</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft 365: Neues Office-Design im Stil von Windows 11 kommt]]></title>
         <id>https://www.golem.de/2107/157959-rss.html</id>
         <link href="https://www.golem.de/news/microsoft-365-neues-office-design-im-stil-von-windows-11-kommt-2107-157959-rss.html"/>
@@ -1034,6 +1046,18 @@ The CE 04 broke cover as a concept scooter in November 2020, though that itself 
 Continue reading…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiDi’s humbling is the end of an era for Chinese cross-border IPOs]]></title>
+        <id>https://www.protocol.com/newsletters/protocol-china/didi-china-tech-ipos</id>
+        <link href="https://www.protocol.com/newsletters/protocol-china/didi-china-tech-ipos"/>
+        <updated>2021-07-07T14:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Greetings from David Wertime and Shen Lu. Last weekend, the United States turned 245 years old; days before, the Chinese Communist Party turned 100. General Secretary Xi Jinping gave an hour-long speech before a huge crowd in Beijing on July 1, announcing that China "has caught up to the world" and promising that foreigners wishing to "bully, oppress or subjugate" the country would get "cracked heads and spilt blood." Some have noted it's a prepackaged phrase, a metaphor that's not as brutish as its direct translation. But they were still Xi's words, and just as importantly, they stirred the audience far more than anything else he said that day. 
+This week's Protocol | China is a special edition, focused on breaking down the increasingly messy aftermath of DiDi's IPO.
+(Was this email forwa…]]></summary>
+        <author>
+            <name>David Wertime</name>
         </author>
     </entry>
     <entry>
@@ -1515,6 +1539,25 @@ Points: 122
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What happens to DiDi now?]]></title>
+        <id>https://www.protocol.com/newsletters/sourcecode/didi-china-ban</id>
+        <link href="https://www.protocol.com/newsletters/sourcecode/didi-china-ban"/>
+        <updated>2021-07-07T11:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Good morning! This Wednesday, DiDi is in hot water with the Chinese government, Nextdoor gets SPAC'd, the Pentagon drops its JEDI contract, and Aaron Levie's in a fight for his life at Box.
+(Was this email forwarded to you? Sign up here to get Source Code every day.)
+
+The Big Story
+
+DiDi's paradox
+
+	Since Alibaba's smashing 2014 debut on the New York Stock Exchange netted $25 billion, investors have salivated at the chance to buy into China's growth story, with dozens of Chinese companies raising $12.4 billion in the first half of this year alone. Now investors are learning the hard way that purchasing shares in a Chinese company also means being subject to its ever-growing regulatory risks.
+
+It's now ride-hailing giant DiDi's turn in the spotlight ... for better and for worse. Just two da…]]></summary>
+        <author>
+            <name>Source Code Staff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IT-Weiterbildung​: Der permanente Fortbildungsdruck]]></title>
         <id>https://www.heise.de/news/IT-Weiterbildung-Der-permanente-Fortbildungsdruck-6130906.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/IT-Weiterbildung-Der-permanente-Fortbildungsdruck-6130906.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -1808,6 +1851,19 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Where Kendra James Writes]]></title>
+        <id>https://catapult.co/community/stories/where-author-kendra-james-writes</id>
+        <link href="https://catapult.co/community/stories/where-author-kendra-james-writes"/>
+        <updated>2021-07-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by kendrajames.
+
+Yes. That’s a shower curtain behind my ‘desk.’ We’re in a global panini, okay?
+The generously sized one-bedroom apartment I share with my husband and our medium-sized dog is laid out in a most...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elektroauto: Ladestation pr�ft den Zustand des Akkus]]></title>
         <id>https://www.golem.de/2107/157937-rss.html</id>
         <link href="https://www.golem.de/news/elektroauto-ladestation-prueft-den-zustand-des-akkus-2107-157937-rss.html"/>
@@ -1835,6 +1891,18 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Der nach dem Quokka benannte Supercomputer setzt auf Instinct-Karten, die mit sehr viel HBM-Stapelspeicher und Chiplet-Technik antreten. (Supercomputer, AMD)]]></summary>
         <author>
             <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AT&T moved its core tech — but not everything — to Microsoft Azure]]></title>
+        <id>https://www.protocol.com/enterprise/att-microsoft-5g-edge</id>
+        <link href="https://www.protocol.com/enterprise/att-microsoft-5g-edge"/>
+        <updated>2021-07-07T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Telecommunications companies, traditionally concerned with stability and control, have been slower than companies in other industries to embrace cloud computing. Those days are long gone.
+Last week AT&T announced plans to move its 5G network technology to Microsoft Azure. It not only signed a deal with the cloud provider to host its mobile workloads, but also transferred its core Network Cloud technology to Microsoft's budding Azure for Operators division. The two companies have been working together since 2019, but this announcement was the telco equivalent of landing in America and burning your ships: There's no going back once the core intellectual property has left the building.
+For AT&T, it was simply time to acknowledge that big cloud providers like Microsoft finally offer the hardwa…]]></summary>
+        <author>
+            <name>Tom Krazit</name>
         </author>
     </entry>
     <entry>
@@ -1885,6 +1953,19 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Keyboardio finanziert eine ergonomische Tastatur. Das Model 100 kann in Holz und mit Keycaps, die mit minoischer Schrift bedruckt sind, bestellt werden. (Tastatur, Eingabeger�t)]]></summary>
         <author>
             <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soft Robots Taught Me How to Be Strong]]></title>
+        <id>https://catapult.co/stories/column-ariana-remmel-octobot-soft-robots-taught-me-how-to-be-strong</id>
+        <link href="https://catapult.co/stories/column-ariana-remmel-octobot-soft-robots-taught-me-how-to-be-strong"/>
+        <updated>2021-07-07T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[by arianaremmel.
+
+This is Better Living Through Chemistry, a column by Ariana Remmel on how atoms and molecules can help us explore our lives.
+Imagine an octopus that can fit in the palm of your hand. Except you...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -2737,6 +2818,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[This is What Product Taste Looks Like]]></title>
+        <id>60e47e302b74e3048e47d432</id>
+        <link href="https://commoncog.com/blog/what-product-taste-looks-like/"/>
+        <updated>2021-07-06T16:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Why good product people talk about iteration, taste, and Christopher Alexander, while novices obsess over the trappings of frameworks.]]></summary>
+        <author>
+            <name>Cedric Chin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tagung zur IT-Ethik: Künstliche Superintelligenz und der Umgang mit Corona-Daten]]></title>
         <id>https://www.heise.de/news/Tagung-zur-IT-Ethik-Kuenstliche-Superintelligenz-und-der-Umgang-mit-Corona-Daten-6130190.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Tagung-zur-IT-Ethik-Kuenstliche-Superintelligenz-und-der-Umgang-mit-Corona-Daten-6130190.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -2877,6 +2968,18 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Y Combinator launches a new way for co-founders to find each other]]></title>
+        <id>https://www.protocol.com/y-combinator-founder-matching-help</id>
+        <link href="https://www.protocol.com/y-combinator-founder-matching-help"/>
+        <updated>2021-07-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a question Y Combinator's Kyle Corbitt has heard over and over again: How do I find a co-founder? As leader of YC's Startup School, its free entrepreneurship curriculum, Corbitt found many aspiring founders wanted to work on a problem, but faced a roadblock when it came to finding a partner who they could build a company with.
+That's why YC is unveiling a new way to help co-founders find each other. Its new co-founder matching service will allow founders to fill out profiles about what their interests are and what attributes they're looking for in a co-founder. 
+"We realized this is a problem a lot of founders face, particularly internationally," Corbitt said. "I think it's less of a problem if you've gone to Stanford or live in San Francisco where there's a stronger established netwo…]]></summary>
+        <author>
+            <name>Biz  Carson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rund 400 E-Scooter in Kölner Gewässern, 500 im Rhein – Bergung stockt]]></title>
         <id>https://www.heise.de/news/Rund-400-E-Scooter-in-Koelner-Gewaessern-500-im-Rhein-Bergung-stockt-6130158.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Rund-400-E-Scooter-in-Koelner-Gewaessern-500-im-Rhein-Bergung-stockt-6130158.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -2884,6 +2987,24 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Köln birgt seit Anfang 2020 etwa 400 E-Scooter für jährlich rund 10.000 Euro aus seinen Gewässern. Die Beseitigung der 500 Roller im Rhein macht aber Probleme.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony’s hit-driven PlayStation platform is failing indie developers]]></title>
+        <id>https://www.protocol.com/newsletters/gaming/sony-playstation-indie-bad-reputation</id>
+        <link href="https://www.protocol.com/newsletters/gaming/sony-playstation-indie-bad-reputation"/>
+        <updated>2021-07-06T15:56:38.000Z</updated>
+        <summary type="html"><![CDATA[This week in Protocol Gaming, your weekly guide to the business of video games: Sony faces a barrage of criticism over treatment of indies and cross-generation pricing; a slew of high-profile game development figures are founding new studios; and EA saves its E3 announcements for later this month.
+(Was this email forwarded to you? Subscribe here.)
+
+
+The Big Story
+
+Sony's hit-driven PlayStation platform is failing indie developers
+
+Sony's console business is by most accounts firing all on cylinders, with record revenue and strong sales of the PlayStation 5 helping it maintain its industry lead. But the company's reputation among small developers isn't as strong as its platform success, and missteps with its approach to cross-generation software is starting to take a toll on player goodwill.…]]></summary>
+        <author>
+            <name>Nick Statt</name>
         </author>
     </entry>
     <entry>
@@ -2957,6 +3078,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Looking for COVID-19 ‘Miracle Drugs’? We Already Have Them. They’re Called Vaccines]]></title>
+        <id>https://quillette.com/?p=111986</id>
+        <link href="https://quillette.com/2021/07/06/looking-for-covid-19-miracle-drugs-we-already-have-them-theyre-called-vaccines/"/>
+        <updated>2021-07-06T15:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Bret Weinstein, a former professor of biology at Evergreen State College, is best known for being hounded off his own campus in 2017 by a horde of social-justice zombies who themselves seemed to resemble nothing so much as a lab accident gone wrong. Having become a martyr of hyper-progressive ideological mania, Weinstein resigned, sued, won, starred in a documentary about the experience, and embarked upon a new career as a podcaster. Since then, Weinstein has become both a symbol and a voice for millions of Americans, on the Left and Right alike, who are unnerved that a handful of Silicon Valley oligopolists have acquired the power to set the boundaries of acceptable speech, if not formally, then effectively. Weinstein has become an influential public figure, with 350,000 subscribers on YouTube. Many consider his voice a credible one in life-and-death debates about the COVID-19 pandemic. Recently, Weinstein has graduated from entertaining theories that might not be right but could do no harm, to theories that cannot be right and are sure to do harm. Because of …]]></summary>
+        <author>
+            <name>Claire Berlinski and Yuri Deigin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kurz informiert: HPI-Schul-Cloud, Batteriezug, Straßenverkehr, Hausboot]]></title>
         <id>https://www.heise.de/news/Kurz-informiert-HPI-Schul-Cloud-Batteriezug-Strassenverkehr-Hausboot-6129789.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Kurz-informiert-HPI-Schul-Cloud-Batteriezug-Strassenverkehr-Hausboot-6129789.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -2994,6 +3125,17 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Die Windowstaste k�nnte in Windows 11 wichtiger werden. Verschiedene Funktionen sind �ber K�rzel bereits nutzbar. Wir haben sie ausprobiert. (Windows 11, Microsoft)]]></summary>
         <author>
             <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When We Eat, We Are Eating the World]]></title>
+        <id>https://dark-mountain.net/?p=26260</id>
+        <link href="https://dark-mountain.net/when-we-eat-we-are-eating-the-world/"/>
+        <updated>2021-07-06T14:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Third post in our summer Dark Kitchen series, Mark Watson interviews Soto Zen 'tenzo' Valerie Duvauchelle about cooking in a storm and cultivating right relationship with food and community
+The post When We Eat, We Are Eating the World appeared first on Dark Mountain.]]></summary>
+        <author>
+            <name>Mark Watson</name>
         </author>
     </entry>
     <entry>
@@ -3083,6 +3225,17 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Watch: The Dalai Lama shares 86th birthday message]]></title>
+        <id>https://www.lionsroar.com/?p=247211</id>
+        <link href="https://www.lionsroar.com/watch-the-dalai-lama-shares-86th-birthday-message/"/>
+        <updated>2021-07-06T14:04:25.000Z</updated>
+        <summary type="html"><![CDATA["I myself am committed to non-violence and compassion until my death," says His Holiness the Dalai Lama in his 86th birthday message. "This is my offering to my friends."
+The post Watch: The Dalai Lama shares 86th birthday message appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Emily McRae</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Big Idea: Robert V. S. Redick]]></title>
         <id>https://whatever.scalzi.com/?p=39838</id>
         <link href="https://whatever.scalzi.com/2021/07/06/the-big-idea-robert-v-s-redick/"/>
@@ -3123,6 +3276,25 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fintech goes on the mortgage offensive]]></title>
+        <id>https://www.protocol.com/newsletters/protocol-fintech/mortgage-lenders-better-blend</id>
+        <link href="https://www.protocol.com/newsletters/protocol-fintech/mortgage-lenders-better-blend"/>
+        <updated>2021-07-06T13:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to Protocol | Fintech! This Tuesday: mortgage fintech rising, a "true lender" roll-back, and credit-card gripes.
+(Was this email forwarded to you? Sign up here to get it in your inbox every week.)
+The Big Story
+
+Rising interest
+The fintech pressure on the established mortgage business is only intensifying.
+Startups and investors have been moving into this space for the past few years, but two pending IPOs and two impressive private rounds point to heightened interest in startups disrupting a space historically dominated by banks.
+The market is growing — but also getting crowded. The mortgage market is growing rapidly, with purchase originations expected to reach a record $1.54 trillion this year. 
+
+Young people are expected to propel that growth. A new Opendoor survey fou…]]></summary>
+        <author>
+            <name>Benjamin Pimentel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Australian Crypto Firms Lobby For Better Regulation]]></title>
         <id>https://decrypt.co/?p=75297</id>
         <link href="https://decrypt.co/75297/australian-crypto-firms-lobby-for-better-regulation"/>
@@ -3160,6 +3332,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Nothing kündigt seine kommenden In-Ear-Kopfhörer scheibchenweise an: Die Ear 1 sollen 100 Euro kosten und aktive Geräuschunterdrückung unterstützen.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast #156: Christian Toto on Progressive Ideological Inroads Into Children’s Shows, Anti-Racist Baby Books, And… Breakfast Cereal]]></title>
+        <id>https://quillette.com/?p=112027</id>
+        <link href="https://quillette.com/2021/07/06/podcast-156-christian-toto-on-progressive-ideological-inroads-into-childrens-shows-anti-racist-baby-books-and-breakfast-cereal/"/>
+        <updated>2021-07-06T13:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Quillette’s Jonathan Kay speaks to film writer Christian Toto about his RealClearInvestigations look into the increasingly direct identity-politics messaging that now is being pushed on North American toddlers through television, books, and marketing.]]></summary>
+        <author>
+            <name>Quillette Magazine</name>
         </author>
     </entry>
     <entry>
@@ -3237,6 +3419,17 @@ Nachrichtendienste sammeln Information, „um frühzeitig“ – so heisst es in
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Only Genuine Compassion Will Do]]></title>
+        <id>http://www.lionsroar.com/only-genuine-compassion-will-do/</id>
+        <link href="https://www.lionsroar.com/only-genuine-compassion-will-do/"/>
+        <updated>2021-07-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's not enough to simply to believe compassion is important. We must transform our thoughts and behaviour on a daily basis to cultivate compassion.
+The post Only Genuine Compassion Will Do appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>The Dalai Lama</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kaseya VSA: Wie die Lieferketten-Angriffe abliefen und was sie für uns bedeuten]]></title>
         <id>https://www.heise.de/hintergrund/Kaseya-VSA-Wie-die-Lieferketten-Angriffe-abliefen-und-was-sie-fuer-uns-bedeuten-6129656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/hintergrund/Kaseya-VSA-Wie-die-Lieferketten-Angriffe-abliefen-und-was-sie-fuer-uns-bedeuten-6129656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -3274,6 +3467,18 @@ Nachrichtendienste sammeln Information, „um frühzeitig“ – so heisst es in
         <summary type="html"><![CDATA[Die Webanwendung Sichere-Videokonferenz.de ermöglicht spontane, kostenlose Videokonferenzen – völlig DSGVO-konform.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does It Mean to Be “Made” Somewhere?]]></title>
+        <id>https://catapult.co/stories/julie-chen-what-does-it-mean-to-be-made-somewhere-italy-diaspora-chinese-fast-fashion</id>
+        <link href="https://catapult.co/stories/julie-chen-what-does-it-mean-to-be-made-somewhere-italy-diaspora-chinese-fast-fashion"/>
+        <updated>2021-07-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by juliechen.
+
+In my childhood neighborhood of Evergreen, San Jose, many of the street names are Italian. I lived on Cortona, my second-grade best friend Yoonshin on Michelangelo, and one of my high school best...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -3345,6 +3550,23 @@ Abolishing tenure is the least of my proposals]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[It’s a big week for Andy Jassy — and for Amazon]]></title>
+        <id>https://www.protocol.com/newsletters/sourcecode/amazon-andy-jassy-first-week</id>
+        <link href="https://www.protocol.com/newsletters/sourcecode/amazon-andy-jassy-first-week"/>
+        <updated>2021-07-06T11:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Good morning! This Tuesday, Andy Jassy has a lot to do as Amazon's new CEO, full self-driving is hard, the billionaires are heading to Sun Valley (and to space), and vaccine mandates are so hot right now.
+(Was this email forwarded to you? Sign up here to get Source Code every day.)
+
+The Big Story
+
+Still Day One at Amazon?
+Andy Jassy is now CEO of Amazon. And he has a lot to do. Amazon is this big, interlocking puzzle of a company with an unusually wide purview and an even wider effect on the modern world. Jassy's vision and plan will have to be similarly widespread. 
+He'll have to answer the same question in so many places around the company: Where does Amazon need to slow down and focus, and where does it need to push and experiment? Because while it's obviously still good to be Amazon, n…]]></summary>
+        <author>
+            <name>David Pierce</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aave Up 16% On News of Aave Pro Launch]]></title>
         <id>https://decrypt.co/?p=75290</id>
         <link href="https://decrypt.co/75290/aave-up-16-on-news-of-aave-pro-launch"/>
@@ -3355,6 +3577,18 @@ Abolishing tenure is the least of my proposals]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Tina Turner Taught Me]]></title>
+        <id>https://catapult.co/stories/charlene-adhiambo-tina-turner-musical-catharsis-grief-family</id>
+        <link href="https://catapult.co/stories/charlene-adhiambo-tina-turner-musical-catharsis-grief-family"/>
+        <updated>2021-07-06T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[by charleneadhiambo.
+
+In one of the first scenes of Tina: The Tina Turner Musical, Anna Mae Bullock catches the Holy Ghost in her Baptist church. She’s a firecracker as commanding as the pastor. She hops out of her...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Audacity: Sind wir schon Spyware?]]></title>
         <id>https://www.heise.de/news/Audacity-Sind-wir-schon-Spyware-6129737.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Audacity-Sind-wir-schon-Spyware-6129737.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -3362,6 +3596,17 @@ Abolishing tenure is the least of my proposals]]></summary>
         <summary type="html"><![CDATA[Eine neue Richtlinie zur Privatsphäre bringt erneut die Anwender gegen Audacity auf. Mittlerweile mehreren sich die Rufe nach einem Fork des Audioeditors.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrating the Dalai Lama]]></title>
+        <id>https://www.lionsroar.com/?p=222690</id>
+        <link href="https://www.lionsroar.com/happy-birthday-dalai-lama-2/"/>
+        <updated>2021-07-06T11:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Today, we celebrate His Holiness the Dalai Lama's 86th birthday! 
+The post Celebrating the Dalai Lama appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Lilly Greenblatt</name>
         </author>
     </entry>
     <entry>
@@ -3475,6 +3720,19 @@ Abolishing tenure is the least of my proposals]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remember, You Are in Conversation]]></title>
+        <id>https://catapult.co/community/stories/remember-you-are-in-conversation-writing-exercise-larissa-pham-writing-prompt-letters-to-a-young-poet-rilke</id>
+        <link href="https://catapult.co/community/stories/remember-you-are-in-conversation-writing-exercise-larissa-pham-writing-prompt-letters-to-a-young-poet-rilke"/>
+        <updated>2021-07-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by larissapham.
+
+Someone I love is reading Rilke’s Letters to a Young Poet, which means that I, in turn, am considering Rilke’s Letters to a Young Poet. 
+Franz Kappus first wrote to Rainer Maria Rilke, eight years...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HPI-Schul-Cloud: Projekt endet in Übernahme durch drei Bundesländer]]></title>
         <id>https://www.heise.de/news/HPI-Schul-Cloud-Projekt-endet-in-Uebernahme-durch-drei-Bundeslaender-6129533.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/HPI-Schul-Cloud-Projekt-endet-in-Uebernahme-durch-drei-Bundeslaender-6129533.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -3482,6 +3740,55 @@ Abolishing tenure is the least of my proposals]]></summary>
         <summary type="html"><![CDATA[Vier Jahre lang wurde die HPI-Schul-Cloud entwickelt – das Forschungsprojekt endet nun offiziell. Brandenburg, Niedersachsen und Thüringen übernehmen es.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racist graffiti, 'plantation' jokes and 100 potential lawsuits: Ex-workers say Tesla is still racist]]></title>
+        <id>https://www.protocol.com/workplace/tesla-fremont-racism-discrimination</id>
+        <link href="https://www.protocol.com/workplace/tesla-fremont-racism-discrimination"/>
+        <updated>2021-07-06T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA["I was directly called n----- and n---- approximately 100 times at the Fremont factory," Craven said in a sworn statement. "I heard the terms n----- and n---- used over 100 times by co-workers, and by my lead Auggie, in the Tesla factory."
+
+
+	These sworn statements and 103 other declarations sworn under penalty of perjury comprise a 500-page exhibit filed in March 2021 as part of a 2017 lawsuit that alleges Tesla discriminates against Black people and has allowed a racially hostile work environment to fester in its factories. The lawsuit's allegations against the company are not unique: While Tesla has for years denied that it tolerates and enables racist and discriminatory behavior, Protocol found that since 2018, just under 120 people have requested the right to sue Tesla in California f…]]></summary>
+        <author>
+            <name>Anna Kramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe’s Digital Experience chief on how to navigate a cookieless future]]></title>
+        <id>https://www.protocol.com/cookieless-future-adobe</id>
+        <link href="https://www.protocol.com/cookieless-future-adobe"/>
+        <updated>2021-07-06T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Anil Chakravarthy joined Adobe at a unique moment. And that's putting it lightly. Chakravarthy, the executive vice president and general manager of Adobe's Digital Experience business, started at the company in January 2020 and two months later found himself leading a team at the center of a massive pandemic-necessitated digital transformation. 
+For the next year, Chakravarthy said, his job and Adobe's was just to help wherever they could. He said he saw two kinds of companies: the ones that had relatively stable businesses but had to do a decade's worth of digital change in no time flat, and the ones that saw their business more or less flatline. Now, as businesses and people begin to emerge from the pandemic, Chakravarthy said he has a new job: to help companies grow in a market that loo…]]></summary>
+        <author>
+            <name>David Pierce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech CEOs were wary of vaccine mandates. That's changing.]]></title>
+        <id>https://www.protocol.com/workplace/interest-in-vaccine-mandates-rising</id>
+        <link href="https://www.protocol.com/workplace/interest-in-vaccine-mandates-rising"/>
+        <updated>2021-07-06T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Most tech giants say they'll "encourage, but not require" employees to get vaccinated before returning to the office. But as more companies reopen their doors, four software makers now say they'll turn away unvaccinated workers.
+Adobe, VMware, Twilio and Asana are all mandating vaccines for those who come in this summer, the four companies said in June. That's a departure from a norm that industry leaders like Google and Facebook set earlier this year.
+"A few months ago, it was very much like, 'We don't want to do that. We don't want to require vaccinations,'" said Sheeva Ghassemi-Vanni, a partner in the employment practices and litigation groups of the Silicon Valley law firm Fenwick & West.
+That's still the norm: Facebook, Google, Amazon and Microsoft are among the big names that are not…]]></summary>
+        <author>
+            <name>Allison Levitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware fueled insurers’ profits. It’s coming back to haunt them.]]></title>
+        <id>https://www.protocol.com/fintech/ransomware-cyber-insurance-premiums</id>
+        <link href="https://www.protocol.com/fintech/ransomware-cyber-insurance-premiums"/>
+        <updated>2021-07-06T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Idealists don't last long in the insurance industry. The sector has learned time and again that misaligned incentives lead to bad behavior: If you sell fire insurance, someone will eventually commit arson. If you price life insurance based on a medical checkup, arthritic grandpas will cut weight like they're about to go 12 rounds against Floyd "Money" Mayweather. 
+But insurers don't bemoan the human condition: They adapt to it. To remain profitable while discouraging unwanted behavior, insurance companies can raise premiums, set higher deductibles or allocate more funding to fraud detection. 
+Ransomware is rewriting the insurance rulebook. The rampant growth in digital extortion is confounding insurers, with losses from claims widening. An organized attack hit 200 businesses on Friday alon…]]></summary>
+        <author>
+            <name>Hirsh Chitkara</name>
         </author>
     </entry>
     <entry>
@@ -3575,6 +3882,16 @@ Abolishing tenure is the least of my proposals]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jonathan Kay]]></title>
+        <id>https://quillette.com/?p=112014</id>
+        <link href="https://quillette.com/2021/07/06/jonathan-kay/"/>
+        <updated>2021-07-06T06:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Kay is an editor and writer at Quillette, a TedX speaker, an op-ed columnist at National Post, and host of the Quillette podcast. His work has appeared recently in the Wall Street Journal, Washington Post, Atlantic, Foreign Affairs, Foreign Policy, Skeptic, Canadian Lawyer and Canadian Jewish News. His books include Among The Truthers (2011), Legacy: How French Canadians Shaped North America (2016), Your Move (2019), Panics and Persecutions (2020), and the forthcoming Magic in the Dark: One Family’s Century of Adventures in the Movie Business (2021).]]></summary>
+        <author>
+            <name>Quillette Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fake-Homepage für Hausbootverleih: Betrüger kassieren Anzahlungen]]></title>
         <id>https://www.heise.de/news/Hausbootverleih-Fake-Homepage-Betrueger-kassieren-Anzahlungen-6129441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Hausbootverleih-Fake-Homepage-Betrueger-kassieren-Anzahlungen-6129441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -3652,6 +3969,17 @@ Abolishing tenure is the least of my proposals]]></summary>
         <summary type="html"><![CDATA[US-Internetkonzerne könnten ihre Dienste in Hongkong einstellen, sollte die Regierung mit der Änderung der Datenschutzgesetze fortfahren.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden Betrays Another Campaign Pledge—Admits that U.S. Will Continue to Bomb Afghanistan]]></title>
+        <id>https://covertactionmagazine.com/?p=21725</id>
+        <link href="https://covertactionmagazine.com/2021/07/06/biden-betrays-another-campaign-pledge-admits-that-u-s-will-continue-to-bomb-afghanistan/"/>
+        <updated>2021-07-06T05:00:53.000Z</updated>
+        <summary type="html"><![CDATA[After 20 Years, America’s “Longest War” Is Not Really Ending On July 2nd, fleeing questions from reporters about U.S. plans in Afghanistan, President Joe Biden sought refuge behind the July 4th Independence Day holiday. Yet he obliquely acknowledged that the U.S. will use some level of “over-the-horizon” air attacks to prevent the Taliban from taking […]
+The post Biden Betrays Another Campaign Pledge—Admits that U.S. Will Continue to Bomb Afghanistan appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Nick Mottern</name>
         </author>
     </entry>
     <entry>
@@ -3756,6 +4084,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Huxley, Burroughs, and the Church of Scientology]]></title>
+        <id>https://quillette.com/?p=110823</id>
+        <link href="https://quillette.com/2021/07/06/huxley-burroughs-and-the-church-of-scientology/"/>
+        <updated>2021-07-06T02:59:48.000Z</updated>
+        <summary type="html"><![CDATA[In the 21st century, Scientology has become a synonym for “cult.” Thanks to an array of investigative exposés and testimony from former members, few people in the Western world are unaware of at least some of the Church’s fantastical beliefs and more alarming behaviours. Sixty years ago, however, it was viewed quite differently. Scientology—or dianetics, as it was originally known—was an appealing idea to many intellectuals and creatives at a time when the world was rapidly changing and notions that had once been taken for granted were suddenly being tossed out of the window. In science, art, and philosophy, accepted norms were being turned on their heads, and in the 1950s and ’60s, L. Ron Hubbard’s ideas—peddled as an alternative to psychiatry—fit quite nicely among the emerging doctrines dreamed up by his contemporary thinkers. Indeed, the original concepts that launched Hubbard’s movement were not as outrageous as those that define it today. Among these, the idea of “engrams” and the “reactive mind” were perhaps the most appealing. Hubbard theorised that humans are marked by unconscious …]]></summary>
+        <author>
+            <name>David S. Wills</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wieder keine Strafe für Broadcom wegen Monopolmissbrauchs]]></title>
         <id>https://www.heise.de/news/Wieder-keine-Strafe-fuer-Broadcom-wegen-Monopolmissbrauch-6129370.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Wieder-keine-Strafe-fuer-Broadcom-wegen-Monopolmissbrauch-6129370.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -3846,6 +4184,16 @@ Banning Payday Loans Harms Borrowers]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thank you to our supporters]]></title>
+        <id>http://paxsims.wordpress.com/?p=31953</id>
+        <link href="https://paxsims.wordpress.com/2021/07/05/thank-you-to-our-supporters/"/>
+        <updated>2021-07-05T21:59:34.000Z</updated>
+        <summary type="html"><![CDATA[We don’t thank our Patreon supporters often enough, so I thought I would post one. Thanks! Your donations cover the costs of our WordPress account and other basic expenses. PAXsims is a volunteer operation that runs on a shoestring, but you certainly provide our string. If you want to consider a monthly donation, you’ll find […]]]></summary>
+        <author>
+            <name>Rex Brynen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Which media have proven sticky as pandemic has diminished?]]></title>
         <id>https://marginalrevolution.com/?p=81444</id>
         <link href="https://feeds.feedblitz.com/~/656679900/0/marginalrevolution~Which-media-have-proven-sticky-as-pandemic-has-diminished.html"/>
@@ -3901,6 +4249,16 @@ Bulletin: a more than marginal boost for Marginal Revolution]]></summary>
         <summary type="html"><![CDATA[The exchange is defunct after being hit by a major hack in 2019.]]></summary>
         <author>
             <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to be a Derby House Principles ally]]></title>
+        <id>http://paxsims.wordpress.com/?p=31940</id>
+        <link href="https://paxsims.wordpress.com/2021/07/05/how-to-be-a-derby-house-princples-ally/"/>
+        <updated>2021-07-05T20:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Nick Pett, a senior civil servant in the UK Ministry of Defence, gave an outstanding talk recently on how to be an ally to the LGBT community. I want you to watch it. And I want you to apply his sentiments to women and BAME/BIPOC and disabled wargamers as well. To paraphrase his excellent example […]]]></summary>
+        <author>
+            <name>Sally Davis</name>
         </author>
     </entry>
     <entry>
@@ -4112,6 +4470,17 @@ Plus 10 more...]]></summary>
         <summary type="html"><![CDATA[Barclays has stopped customers from sending funds to Binance just days after the FCA cracked down on the company.]]></summary>
         <author>
             <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Life-Changing Words of Mary Oliver]]></title>
+        <id>https://www.lionsroar.com/?p=227074</id>
+        <link href="https://www.lionsroar.com/mary-olivers-the-summer-day/"/>
+        <updated>2021-07-05T16:00:07.000Z</updated>
+        <summary type="html"><![CDATA[In this Lion’s Roar archive article, Rick Bass looks at Oliver’s poem “The Summer Day,” which asks, “What is it you plan to do with your one wild and precious life?”
+The post The Life-Changing Words of Mary Oliver appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Rick Bass</name>
         </author>
     </entry>
     <entry>
@@ -4909,6 +5278,17 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Andy Jassy is now CEO of Amazon. Here’s what’s on his to-do list.]]></title>
+        <id>https://www.protocol.com/andy-jassy-ceo</id>
+        <link href="https://www.protocol.com/andy-jassy-ceo"/>
+        <updated>2021-07-05T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Twenty-seven years to the day since Amazon.com was incorporated (though it was called Cadabra Inc. at the time), the company has its second leader. Andy Jassy is now running the show. And while on some level, this is as low-key a CEO transition as Amazon could have — Jassy's been at the company since 1997, and as CEO of AWS, he ran the company's biggest moneymaker, plus Jeff Bezos is still going to be involved at the company — it's still a big change. 
+Few companies have as wide a purview as Amazon does, and even fewer have as large an effect on the modern world. Jassy's vision and plan will have to be similarly widespread. And in so many cases around the company, he'll have to answer the same question: Where does Amazon need to slow down and focus, and where does it need to push and exper…]]></summary>
+        <author>
+            <name>David Pierce</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zwei-Faktor-Authentifizierung: Apple integriert Einmal-Codes ins Betriebssystem]]></title>
         <id>https://www.heise.de/news/Zwei-Faktor-Authentifizierung-Apple-integriert-Einmal-Codes-ins-Betriebssystem-6128699.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Zwei-Faktor-Authentifizierung-Apple-integriert-Einmal-Codes-ins-Betriebssystem-6128699.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -5126,6 +5506,16 @@ Some major cities ranked by surveillance cameras per km]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Blessed Are the Sense-Makers]]></title>
+        <id>https://quillette.com/?p=111136</id>
+        <link href="https://quillette.com/2021/07/05/blessed-are-the-sense-makers/"/>
+        <updated>2021-07-05T05:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Years from now, if anyone looks at a line graph (in the OED or Google dictionary) tracking the frequency with which a word is mentioned in print, they may notice the current affinity for the word “narrative.” An already overworked word (by virtue of its abstractness), it is now almost impossible to avoid; we encounter it on a daily basis, especially when reading the news. It is a writer’s job to point out how words become flabby through overuse (such is the visceral aversion to cliché), but that is an elitist’s grievance. More telling is the way in which “narrative” has lately acquired the flavor of a pejorative. The popular connotation, in this case, is one that encourages suspicion. For example, Eric Weinstein likes to refer to what he calls the “Gated Institutional Narrative” (a coinage he uses to indict the insular bias and self-protecting interests of newspapers like the New York Times) to describe a false sense of reality, supported by a phony consensus that is held in place (often in bad faith) by …]]></summary>
+        <author>
+            <name>Jared Marcel Pollen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bayern baut kommunales WLAN aus – Monatlich 9,2 Millionen Nutzer]]></title>
         <id>https://www.heise.de/news/Bayern-baut-kommunales-WLAN-aus-Monatlich-9-2-Millionen-Nutzer-6128420.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Bayern-baut-kommunales-WLAN-aus-Monatlich-9-2-Millionen-Nutzer-6128420.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -5133,6 +5523,17 @@ Some major cities ranked by surveillance cameras per km]]></summary>
         <summary type="html"><![CDATA[Von unterwegs aus schnell etwas googeln oder auf dem Handy die Mails abrufen? Mit BayernWLAN soll das in immer mehr Regionen Bayerns möglich sein.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deadly June 10th Spill of Toxins from U.S. Military Base in Okinawa Could Sicken and Kill Thousands]]></title>
+        <id>https://covertactionmagazine.com/?p=21186</id>
+        <link href="https://covertactionmagazine.com/2021/07/05/deadly-june-10th-spill-of-toxins-from-u-s-military-base-in-okinawa-could-sicken-and-kill-thousands/"/>
+        <updated>2021-07-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why is Top Army Brass Stonewalling Information Requests From Fearful Residents? On June 10, 2021, 2,400 liters of “firefighting water” containing PFAS (per- and polyfluoroalkyl substances) were accidentally released from the U.S. Army Oil Storage Facility into Uruma City and other nearby locations, according to Ryukyu Shimpo, an Okinawan news agency. The Okinawa Defense Bureau […]
+The post Deadly June 10th Spill of Toxins from U.S. Military Base in Okinawa Could Sicken and Kill Thousands appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Pat Elder</name>
         </author>
     </entry>
     <entry>
@@ -5245,6 +5646,16 @@ This example demonstrates something I’ve noticed quite often. People are far t
         <summary type="html"><![CDATA[Der jüngste Angriff in den USA am Wochenende hat Auswirkungen auch in Deutschland und Schweden. Präsident Biden lässt klären, ob Russland dahintersteckt.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standing up to the Social-Justice Mobs Within the Jewish Community]]></title>
+        <id>https://quillette.com/?p=111898</id>
+        <link href="https://quillette.com/2021/07/05/standing-up-to-the-social-justice-mobs-within-the-jewish-community/"/>
+        <updated>2021-07-05T00:18:22.000Z</updated>
+        <summary type="html"><![CDATA[A black and Jewish diversity officer, April Powers, recently resigned from her post at the Society of Children’s Book Writers and Illustrators (SCBWI), after a mob descended on her for not mentioning Islamophobia in a statement she’d issued about the rise in anti-Semitism. “I neglected to address the rise in Islamophobia, and deeply regret that omission,” Powers said. “As someone who is vehemently against Islamophobia and hate speech of any kind, I understand that intention is not impact and I am sorry.” Even just a few years ago, such a cancellation would have seemed bizarre and outrageous—especially the suggestion that the morality of one’s actions may be judged according to their “impact,” as subjectively assessed by third-party activists. Neither would we have understood why decrying one form of bigotry without mentioning another is problematic. We have just witnessed a series of news cycles in which we have all been invited to decry bigotry against blacks, Asians, members of the LGBT community, and other groups. Was each of these population-specific calls to action also problematic? pic.twitter.com/BrAxWF2twV …]]></summary>
+        <author>
+            <name>David Bernstein</name>
         </author>
     </entry>
     <entry>
@@ -5492,6 +5903,32 @@ Bild: Julie Christie (hier 1997 in Mexiko) spielt im Film von Nicolas Roeg die R
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple wants to help me and my fat fingers]]></title>
+        <id>https://www.protocol.com/apple-iphone-touchscreen-interface-patent</id>
+        <link href="https://www.protocol.com/apple-iphone-touchscreen-interface-patent"/>
+        <updated>2021-07-04T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy Fourth of July to all who celebrate. I'm celebrating by eating some hot dogs, going swimming and rounding up some of the funnest (and funniest) patent applications of the week.
+Google wants to help make credit card fraud a bit easier to spot, Amazon is worried about people spilling drinks on the Echo, Apple wants to help me not make so many typos, Facebook is looking out for my Beat Saber sessions and Microsoft wants to make parental controls a little more intuitive.
+And remember: The big tech companies file all kinds of crazy patents for things, and though most never amount to anything, some end up defining the future.
+Alphabet
+Easier financial transactions
+Fraudulent transactions on a credit card are a pain. It often takes the credit card provider time to gather all the information…]]></summary>
+        <author>
+            <name>Karyne Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Anti Imperialist Ponders the 4th of July and its Meaning for his Newborn Child]]></title>
+        <id>https://covertactionmagazine.com/?p=21621</id>
+        <link href="https://covertactionmagazine.com/2021/07/04/an-anti-imperialist-ponders-the-4th-of-july-and-its-meaning-for-his-newborn-child/"/>
+        <updated>2021-07-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On his newborn daughter’s first July 4th holiday, an anti-imperialist writer ponders what he hopes for her to come to understand about her nation of birth. Gabriela, you are part of the four percent of the world’s population that celebrates today, July 4th, as Independence Day. We are in the extreme minority of the earth’s […]
+The post An Anti Imperialist Ponders the 4th of July and its Meaning for his Newborn Child appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Matt McKenna</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Telegram: bald mehr als 2.500 Teilnehmer in unserer öffentlichen Gruppe!]]></title>
         <id>https://tarnkappe.info/?p=155552</id>
         <link href="https://tarnkappe.info/telegram-bald-mehr-als-2-500-teilnehmer-in-unserer-oeffentlichen-gruppe/"/>
@@ -5701,6 +6138,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On the Dangers of Big COVID]]></title>
+        <id>https://quillette.com/?p=111942</id>
+        <link href="https://quillette.com/2021/07/03/on-the-dangers-of-big-covid/"/>
+        <updated>2021-07-03T01:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Since initial reports of the coronavirus outbreak in late 2019, America has witnessed a rapid and unprecedented transformation within nearly every aspect of mainstream society. At work, many Americans settled into their new daily routines of working from home, hunched over computer screens for hours of caffeine-supported Zoom calls frequently followed by app-delivered box dinners. In elementary schools throughout the country, young children began growing accustomed to wearing masks while sitting in socially distanced cubicles to learn about the dangers of hugging, shaking hands, or breaking social distancing protocols. In organs of government, state governors around the country invoked various emergency measures to help better curtail nonconforming human behaviour; from doling out stiff fines and penalties to non-compliant small business owners, to offering monetary incentives for snitching on one’s own neighbors, to surveilling parks and beaches with aerial drones, to conducting police raids on non-socially-distanced children’s birthday parties, to imposing $1,000 fines for those citizens refusing to wear a mask. On television, radio, and social media, daily reports from federal, state, and local medical experts …]]></summary>
+        <author>
+            <name>Michael Robillard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hong Kong’s regulators try to push back against Chinese market practices]]></title>
         <id>/content/31ibk8npqd0kh7pjinqke7cie2s7b77d</id>
         <link href="https://www.economist.com/finance-and-economics/2021/07/03/hong-kongs-regulators-try-to-push-back-against-chinese-market-practices"/>
@@ -5792,6 +6239,42 @@ Wel is het dan zo dat de Eneco App minder inzicht kan verschaffen zonder ieder k
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Updated Weekly: 2021 Submission and Freelance Writing Opportunities]]></title>
+        <id>https://catapult.co/community/stories/2021-submission-and-freelance-writing-opportunities-where-to-submit-literary-magazines-for-writers</id>
+        <link href="https://catapult.co/community/stories/2021-submission-and-freelance-writing-opportunities-where-to-submit-literary-magazines-for-writers"/>
+        <updated>2021-07-02T16:44:45.000Z</updated>
+        <summary type="html"><![CDATA[by stellacabotwilson4.
+
+
+
+
+
+
+Posted July 2, 2021
+
+Bustle: seeking pitches for its Health &amp; Wellness and Tech sections. Send pitches to melanie.mignucci@bustle.com.
+GASHER Press: accepting submissions of poetry,...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gorsuch thinks US should revisit libel laws over online misinformation]]></title>
+        <id>https://www.protocol.com/bulletins/gorsuch-misinfo-libel</id>
+        <link href="https://www.protocol.com/bulletins/gorsuch-misinfo-libel"/>
+        <updated>2021-07-02T15:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Justice Neil Gorsuch wrote Friday that the Supreme Court should consider revising its standards on libel to counteract misinformation in the digital age.
+
+Saying that he would have taken up a case that the court declined to hear, the conservative appointed by President Trump criticized the actual malice standard in libel law cases, which says that media organizations can be held liable for putting out false information about "public figures" only if they knew it was false or recklessly disregarded whether it was.
+Gorsuch wrote that that standard, which originated in a 1964 decision that the media now relies upon to hold government officials and corporate executives to account without serious threat of lawsuits, may not make as much sense when "virtually anyone in this country can publish virtually anything for immediate consumption virtually anywhere in the world." 
+He said the standard incentivized ignorance over traditional journalistic practices and favored "those who can disseminate the most sensational information as efficiently as possible without any particular concern for truth."
+Gorsuch's conservative colleague, Clarence Thomas, who has suggested treating social media as utilities bound to carry all political speech and ending tech's prized legal shield, cited Pizzagate in his own writing on why he would have taken the case.
+Correction: An earlier version of this story mislabeled libel: It's a civil action. This story was updated on July 2, 2021.]]></summary>
+        <author>
+            <name>Ben Brody</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iodéOS – does the data saving Android operating system fulfill its promise?]]></title>
         <id>https://tarnkappe.info/?p=155022</id>
         <link href="https://tarnkappe.info/iodeos-does-the-data-saving-android-operating-system-fulfill-its-promise/"/>
@@ -5804,6 +6287,71 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lina Khan's FTC, back on its heels, eyes a big swing at tech]]></title>
+        <id>https://www.protocol.com/policy/khan-ftc-powers</id>
+        <link href="https://www.protocol.com/policy/khan-ftc-powers"/>
+        <updated>2021-07-02T15:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Watch out, Uber Eats. Lina Khan, the Federal Trade Commission's new chair, is taking charge of the agency's Democratic majority to broaden the FTC's ability to regulate new industries and challenge potentially anticompetitive conduct.
+On Thursday, during the first of the FTC's new public meetings, commissioners cast a series of votes that signaled a desire to tighten the screws on emerging and digital sectors, as members of the public, consumer advocates and industry lobbyists begged the commission to tackle issues such as food delivery apps, right to repair, facial recognition and more.
+Thursday's changes, while largely bureaucratic, could have outsized effect coming from an agency that in recent decades narrowed its own approach to the sweeping statutes that govern its powers. 
+The FTC h…]]></summary>
+        <author>
+            <name>Ben Brody</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jim Whitehurst and Bridget van Kralingen are out in an IBM leadership shakeup]]></title>
+        <id>https://www.protocol.com/bulletins/jim-whitehurst-out-ibm</id>
+        <link href="https://www.protocol.com/bulletins/jim-whitehurst-out-ibm"/>
+        <updated>2021-07-02T15:01:51.000Z</updated>
+        <summary type="html"><![CDATA[IBM President Jim Whitehurst is stepping down from the No. 2 leadership position at the company less than three years after IBM acquired his former company, in just one of several leadership changes announced Friday.
+
+Bridget van Kralingen, senior vice president of global markets, will also leave the company, said IBM CEO Arvind Krishna in a press release right before the three-day holiday weekend. Rob Thomas, who has led IBM's Watson initiative in the past, will become the new senior vice president of global markets.
+Whitehurst became president of IBM in early 2020 after Krishna was elevated to the CEO position. IBM spent $34 billion to acquire Red Hat in a deal that closed in 2019, an attempt to position itself as a hybrid cloud vendor after failed attempts to build a public cloud business and compete with the likes of AWS, Microsoft and Google Cloud.
+But the company has struggled to grow in the years since the deal closed. IBM recently announced that it would spin off its IT consulting business into a new company called Kyndryl, a move seen by many as a cost-cutting measure.
+Whitehurst's bio had already disappeared from IBM's website as of Friday morning. Investors sent IBM's stock down almost 5% on the news.]]></summary>
+        <author>
+            <name>Tom Krazit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood’s secret weapon could also be its undoing]]></title>
+        <id>https://www.protocol.com/newsletters/protocol-fintech/robinhood-payment-order-flow</id>
+        <link href="https://www.protocol.com/newsletters/protocol-fintech/robinhood-payment-order-flow"/>
+        <updated>2021-07-02T14:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to Protocol | Fintech! This Friday: Vlad in the HOOD, Megan Thee Stallion explains stock investing, and Brian Armstrong takes a tip from Apple.
+
+(Was this email forwarded to you? Sign up here to get it in your inbox every week.)
+
+
+The Big Story
+
+Going with the (payment for order) flow
+Robinhood's IPO filing confirmed what many analysts suspected: The online brokerage is growing fast. But the disclosures also underlined the precarious nature of that growth. 
+Now we know that Robinhood, which is going public under the ticker "HOOD," makes a ton of money when customers make a ton of trades. And the startup is worried that that system could be upended by legislators and regulators. Ironically, the eye-popping financials it unveiled in its S-1 could fuel the calls for reform.
+…]]></summary>
+        <author>
+            <name>Benjamin Pimentel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEOs are racing to space. Wait for a battle over what counts as space.]]></title>
+        <id>https://www.protocol.com/branson-bezos-virgin-blue-origin</id>
+        <link href="https://www.protocol.com/branson-bezos-virgin-blue-origin"/>
+        <updated>2021-07-02T13:52:45.000Z</updated>
+        <summary type="html"><![CDATA[The CEO bragging rights of 2021 will go to whoever got to space first. Sadly, the argument about logistics could rumble on past launch date.
+
+In case you missed it, Richard Branson and Jeff Bezos are in a race to get to space. Bezos is taking Wally Funk to space aboard Blue Origin's New Shepard rocket on July 20. But the Financial Times reported that Branson hopes to be aboard a Virgin Galactic flight on July 11, meaning he'd beat the Amazon founder by nine clear days.
+Only, there's scope for some A-grade pedantry here.
+There is no single agreed-upon definition of what counts as the point where the Earth's atmosphere ends and space begins. NASA defines space as starting 50 miles above the Earth's surface; the Fédération Aéronautique Internationale, the governing body for air sports, defines it as 100 kilometers, or 62 miles. Both have a point, neither is agreed upon universally, and picking one over the other causes its own problems.
+Anyway. How high does Virgin Galactic's SpaceShipTwo go? In testing, up to about 56 miles. How high does Blue Origin's New Shephard go? About 62 miles.
+In other words, Branson might make it up there first. But Bezos may contend that Branson didn't, in fact, make it into space at all.
+Would that be tiresome? Yes. Does it really matter all that much in the grand scheme of things? Not particularly. Will that all stop it from happening? Doubtful. But hey, Elon might have the last laugh when he makes it to Mars.]]></summary>
+        <author>
+            <name>Jamie Condliffe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Cost-Benefit Considerations Produced “Progressive” Governance in Pirate Societies]]></title>
         <id>https://c4ss.org/?p=55015</id>
         <link href="https://c4ss.org/content/55015"/>
@@ -5811,6 +6359,103 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Peter Leeson’s book The Invisible Hook: The Hidden Economics of Pirates explores yet another fascinating account of how governance is possible under anarchy. Leeson distinguishes between the invisible hand (the “hidden order” present in metaphorical market anarchy) and the invisible hook (the “hidden order” in the literal anarchy of pirate societies). The main argument being...]]></summary>
         <author>
             <name>Emile Phaneuf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acceptable Forms of Agony]]></title>
+        <id>https://catapult.co/stories/lorraine-boissoneault-acceptable-forms-of-agony-fiction-short-story</id>
+        <link href="https://catapult.co/stories/lorraine-boissoneault-acceptable-forms-of-agony-fiction-short-story"/>
+        <updated>2021-07-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by lorraineboissoneault.
+
+Before she became a saint, Bernadette Soubirous was a sickly asthmatic. Barely four and a half feet tall. Living with ten family members in a basement-cum-prison. She was a teenager when she first...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood’s going public. Will it go to the moon?]]></title>
+        <id>https://www.protocol.com/newsletters/sourcecode/robinhood-s-1-to-moon</id>
+        <link href="https://www.protocol.com/newsletters/sourcecode/robinhood-s-1-to-moon"/>
+        <updated>2021-07-02T11:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Good morning! This Friday, Robinhood's S-1 might be the most outrageous one we've ever seen, Wally Funk and Jeff Bezos are heading to space, Pinterest wants to give off more-positive vibes, and if you don't know what to do this holiday weekend, we've got you covered.
+Also, we're off Sunday and Monday for the holiday. Have a great long weekend; stay cool!
+(Was this email forwarded to you? Sign up here to get Source Code every day.)
+The Big Story
+
+Under the $HOOD
+
+	After years of letting everyone play the market, Robinhood is finally ready to join it. On Thursday, the company flipped its long-awaited S-1 paperwork, giving the first glance under the "$HOOD," as they say, into how its business operates.
+
+This filing has everything: a dogecoin dilemma, a search warrant for its CEO's phone and m…]]></summary>
+        <author>
+            <name>Source Code Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Opportunities for Writers: July 2, 2021]]></title>
+        <id>https://catapult.co/community/stories/job-opportunities-for-writers-july-2-2021-writing-jobs-literary-jobs-where-to-apply-nicole-dieker</id>
+        <link href="https://catapult.co/community/stories/job-opportunities-for-writers-july-2-2021-writing-jobs-literary-jobs-where-to-apply-nicole-dieker"/>
+        <updated>2021-07-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by nicoledieker.
+
+News-O-Matic is transforming the future of news by combining journalism, education, multimedia, and interactive technology.
+News-O-Matic is currently seeking an Assistant Editor for its Global...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Submission and Pitching Opportunities: July 2, 2021]]></title>
+        <id>https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-july-2-2021-where-to-submit-literary-journals-nicole-dieker</id>
+        <link href="https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-july-2-2021-where-to-submit-literary-journals-nicole-dieker"/>
+        <updated>2021-07-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by nicoledieker.
+
+Input covers what comes next in technology, culture, and the spaces in between.
+On June 28, Input features editor Mark Yarm shared the following call for pitches:
+“Hello, freelance writers! Q3 is...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the Joy of Doing Nothing]]></title>
+        <id>https://www.lionsroar.com/?p=245196</id>
+        <link href="https://www.lionsroar.com/discover-the-joy-of-doing-nothing/"/>
+        <updated>2021-07-02T09:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Zen teacher Pat Enkyo O’Hara teaches us the practice of Shikantaza. 
+The post Discover the Joy of Doing Nothing appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Roshi Pat Enkyo O'Hara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s new Fire TV head wants to take TV streaming on the road]]></title>
+        <id>https://www.protocol.com/amazon-daniel-rausch-firetv-interview</id>
+        <link href="https://www.protocol.com/amazon-daniel-rausch-firetv-interview"/>
+        <updated>2021-07-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon has sold millions of Fire TV sticks across the globe, and struck up partnerships with a number of TV manufacturers to embed the Fire TV operating system into their devices. Now, the company is looking to cars as the next frontier.
+Veteran Amazon executive Daniel Rausch took over the company's entertainment devices and services business in February. In a conversation with Protocol, Rausch explained why he is bullish on cars, how consumer habits changed during the pandemic, why Amazon is organizing its game-streaming service around channels and why his living room has become his gym.
+This interview was edited for length and clarity.
+You took over the Fire TV business a little over three months ago. How have things been going?
+The business is doing really well. Fire TV Stick 4K was the…]]></summary>
+        <author>
+            <name>Janko Roettgers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antitrust reformers in Congress say the FTC can't let Facebook get away]]></title>
+        <id>https://www.protocol.com/bulletins/lawmakers-facebook-win</id>
+        <link href="https://www.protocol.com/bulletins/lawmakers-facebook-win"/>
+        <updated>2021-07-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The four top lawmakers overseeing antitrust in Congress urged the U.S. Federal Trade Commission not to ease up on Facebook despite the agency's recent court loss. 
+
+"We urge the Federal Trade Commission to continue to pursue enforcement action against Facebook and to consider all available options under the law for ensuring that the Commission's claims receive a full and fair hearing before the court," said a letter released Friday from Sens. Amy Klobuchar and Mike Lee and Reps. David Cicilline and Ken Buck.
+The four signers are the chairs and top Republicans on both chambers' antitrust subcommittees, and each have proposed overhauls to competition law and criticized the conduct of big tech, though their approaches differ.
+A federal judge on Monday dismissed the FTC's complaint against Facebook while allowing the agency to refile if it can do more to show why the company is allegedly a monopoly. Facebook crossed $1 trillion valuation on the news.]]></summary>
+        <author>
+            <name>Ben Brody</name>
         </author>
     </entry>
     <entry>
@@ -5891,6 +6536,17 @@ Der Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit ei
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Who Ordered the Killing of Malcolm X?]]></title>
+        <id>https://covertactionmagazine.com/?p=20492</id>
+        <link href="https://covertactionmagazine.com/2021/07/02/who-ordered-the-killing-of-malcolm-x/"/>
+        <updated>2021-07-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Evidence May Implicate the New York Police Dept., the District Attorney, the FBI, and Even (Unthinkably) … On Sunday February 21, 1965, at 3:00 p.m., Malcolm X was gunned down at the Audubon Ballroom on Broadway and 166th Street in Manhattan while delivering a speech to an audience of about 400...
+The post Who Ordered the Killing of Malcolm X? appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Jeremy Kuzmarov</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KOMMENTAR - Gebt dem Apotheken-Kunden, was der Kunde wünscht – auch Globuli]]></title>
         <id>https://www.nzz.ch/wirtschaft/galenica-erwirbt-hersteller-von-alternativen-arzneimitteln-ld.1633533</id>
         <link href="https://www.nzz.ch/wirtschaft/galenica-erwirbt-hersteller-von-alternativen-arzneimitteln-ld.1633533"/>
@@ -5898,6 +6554,16 @@ Der Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit ei
         <summary type="html"><![CDATA[Galenica erwirbt einen Hersteller von alternativen Arzneimitteln. Das ist einerseits Dienst am Kunden, andererseits aber auch Hoffnung auf neues Wachstum.]]></summary>
         <author>
             <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Prophet of Dystopia at Rest: Margaret Atwood in Cuba]]></title>
+        <id>https://quillette.com/?p=111270</id>
+        <link href="https://quillette.com/2021/07/02/the-prophet-of-dystopia-at-rest-margaret-atwood-in-cuba/"/>
+        <updated>2021-07-02T00:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Ignoring isn’t the same as ignorance, you have to work at it. ~Margaret Atwood, The Handmaid’s Tale As a Cuba scholar, a student of literature and politics, and an enthusiastic reader of Margaret Atwood’s work, I have collected articles and media clips over the years related to the Grande Dame of CanLit’s many private and official visits to Cuba. Frankly, the file is thin. Generally, scholars engage with her important body of work (more than 60 books, fiction and non-fiction), without mentioning this topic. It is an interesting footnote, no more. Why interesting? Because it illustrates, in her case and as a pattern, how an inquiring mind sincerely committed to human rights and democratic values can turn off its critical antennae. Atwood allowed herself to become a compliant guest in a country that checks almost all the boxes of totalitarianism, minus extensive terror: a single-party state, no rule of law, arbitrary arrests (2,000 of them during the first eight months of last year), stultifying media (even Raúl Castro says so), and a regime of censorship …]]></summary>
+        <author>
+            <name>Yvon Grenier</name>
         </author>
     </entry>
     <entry>
@@ -5961,6 +6627,38 @@ Der Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit ei
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Everything you need to know about the Robinhood IPO]]></title>
+        <id>https://www.protocol.com/robinhood-ipo-s-1</id>
+        <link href="https://www.protocol.com/robinhood-ipo-s-1"/>
+        <updated>2021-07-01T19:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood released its long-awaited S-1 filing, required for an initial public offering, on Thursday, July 1. The filing came one day after Robinhood settled with FINRA, the brokerage industry's self-regulatory body, paying a record $70 million fine. The S-1 dropped months after Robinhood revealed it had confidentially submitted documentation to the SEC, with Bloomberg reporting that regulatory concerns had held up the filing.
+The S-1 is packed with juicy tidbits. Here are a few things we learned reading the prospectus:
+
+Robinhood's famous referral program that promises users "up to $500 in free stocks''? It turns out around 98% of customers receive a reward in the much-less-enticing $2.50 to $10 range. 
+The U.S. Attorney's Office for the Northern District of California executed a search w…]]></summary>
+        <author>
+            <name>Benjamin Pimentel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub thinks AI should help write code. Now comes the hard part.]]></title>
+        <id>https://www.protocol.com/newsletters/protocol-enterprise/github-copilot-ai-developers</id>
+        <link href="https://www.protocol.com/newsletters/protocol-enterprise/github-copilot-ai-developers"/>
+        <updated>2021-07-01T16:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Protocol | Enterprise, your comprehensive roundup of everything you need to know about the week in cloud and enterprise software. This Thursday: GitHub thinks developers should let AI code from time to time, private equity companies love enterprise software in 2021, and IBM's email servers appear to have started the holiday weekend a little early.
+
+(Was this email forwarded to you? Sign up here to get it in your inbox every week.)
+The Big Story
+
+Cleared for takeoff?
+
+Pretty much the entire arc of modern tech history — both good and bad — can be viewed as a never-ending quest to automate the tasks that software developers are tired of doing.
+That's the spirit behind Microsoft-owned GitHub's new Copilot service, announced this week as part of a private beta for developers using Mi…]]></summary>
+        <author>
+            <name>Joe Williams</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Libertarian Kiri: Pasar-Bebas Anti-Kapitalisme, Cita-Cita yang Tidak Dikenal]]></title>
         <id>https://c4ss.org/?p=55030</id>
         <link href="https://c4ss.org/content/55030"/>
@@ -5992,6 +6690,17 @@ Der Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit ei
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NYTimes Op-Ed Denounces Daniel Ellsberg and Edward Snowden on 50th Anniversary of Publishing the Pentagon Papers]]></title>
+        <id>https://covertactionmagazine.com/?p=21370</id>
+        <link href="https://covertactionmagazine.com/2021/07/01/nytimes-op-ed-denounces-daniel-ellsberg-and-edward-snowden-on-50th-anniversary-of-publishing-the-pentagon-papers/"/>
+        <updated>2021-07-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This past June 13th, The New York Times celebrated the 50th anniversary of its publishing the Pentagon Papers. In a special section, “Uncovering the Secret History of the Vietnam War,” it told how a team of 50 reporters, researchers and editors worked on the story for nearly four months, holed up in a “whole group […]
+The post NYTimes Op-Ed Denounces Daniel Ellsberg and Edward Snowden on 50th Anniversary of Publishing the Pentagon Papers appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Barbara Koeppel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kundgebung für Versammlungsfreiheit vor dem Landtag in Düsseldorf]]></title>
         <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/duesseldorf-kundgebung-fuer-versammlungsfreiheit-6532.html</id>
         <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/duesseldorf-kundgebung-fuer-versammlungsfreiheit-6532.html"/>
@@ -6003,6 +6712,17 @@ Das Bündnis zeigt Präsenz anlässlich der von SPD und Grünen einberufenen Akt
  Das Bündnis "Versammlungsgesetz NRW stoppen - Grundrechte erhalten!" erneuert die Forderung nach einem Rücktritt von Innenminister Reul und nach der Beerdigung des autoritären und repressiven Gesetzentwurfs. Das von CDU und FDP geplante Versammlungsgesetz wird auch mit den mitt…]]></summary>
         <author>
             <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Four Immeasurables Leave Nothing Untouched]]></title>
+        <id>https://www.lionsroar.com/?p=240863</id>
+        <link href="https://www.lionsroar.com/the-four-immeasurables-leave-nothing-untouched/"/>
+        <updated>2021-07-01T14:08:52.000Z</updated>
+        <summary type="html"><![CDATA[If you don’t want your happiness to impede that of someone else, says Vanessa Zuisei Goddard, practice the four immeasurables. 
+The post The Four Immeasurables Leave Nothing Untouched appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Vanessa Zuisei Goddard</name>
         </author>
     </entry>
     <entry>
@@ -6048,6 +6768,18 @@ Which was, of course, the pandemic. Inside—th…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Real Villain in ‘The Devil Wears Prada’ is Toxic Work Culture]]></title>
+        <id>https://catapult.co/stories/the-real-villain-in-the-devil-wears-prada-is-toxic-work-culture-lindsay-lee-wallace</id>
+        <link href="https://catapult.co/stories/the-real-villain-in-the-devil-wears-prada-is-toxic-work-culture-lindsay-lee-wallace"/>
+        <updated>2021-07-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by lindsayleewallace.
+
+The year was 2006 and I was nine years old. As per our usual movie-night compromise, my mom was monopolizing the blanket but allowing me free reign over the snacks. I dimmed the lights, and our...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Links & What I've Been Reading Q2 2021]]></title>
         <id>https://fantasticanachronism.com/2021/07/01/links-and-what-ive-been-reading-q2-2021/</id>
         <link href="https://fantasticanachronism.com/2021/07/01/links-and-what-ive-been-reading-q2-2021/"/>
@@ -6058,6 +6790,18 @@ Which was, of course, the pandemic. Inside—th…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Impossible Ideals of the “Writer’s Life”]]></title>
+        <id>https://catapult.co/community/stories/impossible-ideals-of-writers-life-ambition-craft-mfa</id>
+        <link href="https://catapult.co/community/stories/impossible-ideals-of-writers-life-ambition-craft-mfa"/>
+        <updated>2021-07-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by Tabitha-Blankenbiller.
+
+The first time I felt God, I was squashed into a Pacific University dorm room. It was a party thrown by a few upperclassmen, thick with the cool kids who weren’t concerned about feeling fresh for...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Nigeria can solve its tech talent gap]]></title>
         <id>https://restofworld.org/2021/how-nigeria-can-solve-its-tech-talent-gap/</id>
         <link href="https://restofworld.org/2021/how-nigeria-can-solve-its-tech-talent-gap/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds"/>
@@ -6065,6 +6809,18 @@ Which was, of course, the pandemic. Inside—th…]]></summary>
         <summary type="html"><![CDATA[Nigeria is becoming a fintech powerhouse, but a lack of employees is holding startups back.]]></summary>
         <author>
             <name>Olayinka David-West and Ibukun Taiwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Bad Tattoos Helped Me Grow]]></title>
+        <id>https://catapult.co/stories/getting-bad-tattoos-helped-me-grow-emmy-favilla-body-positivity-tattooing</id>
+        <link href="https://catapult.co/stories/getting-bad-tattoos-helped-me-grow-emmy-favilla-body-positivity-tattooing"/>
+        <updated>2021-07-01T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[by emmyfavilla.
+
+At seventeen, I acquired a fake ID for one intention and one intention only: to have my right hip permanently marked with a teal-and-black spider. A New York house spider, to be exact, which, in...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -6100,6 +6856,26 @@ Sie sind es, die das Feuer der Revolte in Kolumbien am Brennen halten. Wir haben
         <summary type="html"><![CDATA[Fed officials debate whether and when to taper support]]></summary>
         <author>
             <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Defence of Absolute Truth]]></title>
+        <id>https://quillette.com/?p=110938</id>
+        <link href="https://quillette.com/2021/06/30/in-defence-of-absolute-truth/"/>
+        <updated>2021-06-30T22:27:19.000Z</updated>
+        <summary type="html"><![CDATA[We live in a time of great anxiety over the role of truth in public life. Media and popular culture are saturated with concerns over “fake news,” alternative facts and conspiracy theories. There is widespread concern over the breakdown of integrity and trust in public figures and experts, the increasing difficulty of distinguishing between true and false claims, and the increasing willingness of predators to prey upon this difficulty. Passions flare, political sides polarise, and neither side seems capable of talking or listening to the other. It is therefore a great irony that many of those most worried about these developments also deny the possibility of absolute truth, without recognising any connection between the two. Certain assumptions about the relative nature of truth are represented, for instance, by the increasing public focus on “perspective” or “social privilege,” with the assumption that identity or experience drastically limits or determines understanding. Under this assumption, each group possesses its own, or perhaps the whole, truth about matters relating to their lives: “You cannot truly know this because you …]]></summary>
+        <author>
+            <name>Alan S. Rome</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia’s COVID Catch-22]]></title>
+        <id>https://quillette.com/?p=111906</id>
+        <link href="https://quillette.com/2021/06/30/australias-covid-catch-22/"/>
+        <updated>2021-06-30T22:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Last year Australia was a COVID-19 success story. Just 30,274 cases and 910 deaths in 26 million people was something to celebrate. But now America and Europe are getting on with vaccinations and learning how to live with the virus. Australia is faltering with embarrassingly few vaccinations and new lockdowns. It’s become like a Groundhog Day, set in late March 2020. In recent weeks community transmission has returned after leaks from hotel quarantine. This has led risk-averse state governments to reintroduce stay-at-home orders: first in Melbourne, and now in Sydney, Brisbane, Perth, Darwin, Townsville, and the Gold Coast. Australia’s vaccination rate is at the bottom of the OECD’s 38 advanced economies. Fewer than five percent of Aussies have been fully vaccinated—12 times fewer than Israel, nine times fewer than the United States and the United Kingdom. Australia has experienced the archetypical story of hubris. Aussies genuinely felt superior watching the rest of the world last year: we beat the virus, you got millions of deaths. The early success, however, bred arrogance and complacency. Now the …]]></summary>
+        <author>
+            <name>Matthew Lesh</name>
         </author>
     </entry>
     <entry>
@@ -6154,6 +6930,16 @@ In recen…]]></summary>
         <summary type="html"><![CDATA[In this episode Cas and I discuss the new tendency for cryptocurrency businesses to hire regulators and the old tendency to try to avoid regulation at any cost. Anchor Spotify Apple Google Overcast RSS Feed]]></summary>
         <author>
             <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connections US 2021 YouTube Channel]]></title>
+        <id>http://paxsims.wordpress.com/?p=31920</id>
+        <link href="https://paxsims.wordpress.com/2021/06/30/connections-us-2021-youtube-channel/"/>
+        <updated>2021-06-30T17:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Connections US has a YouTube Channel which is populated with this year’s conference events.]]></summary>
+        <author>
+            <name>Stephen Downes-Martin</name>
         </author>
     </entry>
     <entry>
@@ -6716,6 +7502,18 @@ Auch wenn die Coronazahlen hierzulande derzeit sinken, steht eines fest: Die wir
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Books Are Stronger When Written in Community]]></title>
+        <id>https://catapult.co/community/stories/books-are-stronger-when-written-in-community-graduation-showcase-12-month-novel-generator-ingrid-rojas-contreras</id>
+        <link href="https://catapult.co/community/stories/books-are-stronger-when-written-in-community-graduation-showcase-12-month-novel-generator-ingrid-rojas-contreras"/>
+        <updated>2021-06-30T11:57:14.000Z</updated>
+        <summary type="html"><![CDATA[by ingridrojascontreras.
+
+In January of 2020, I began to teach a yearlong class designed to lead ten students through writing the first draft of a novel. We started out the year by writing commitments to ourselves—promising...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Look At Loki: Episodes 1-3]]></title>
         <id>https://whatever.scalzi.com/?p=39782</id>
         <link href="https://whatever.scalzi.com/2021/06/30/a-look-at-loki-episodes-1-3/"/>
@@ -6733,6 +7531,20 @@ Auch wenn die Coronazahlen hierzulande derzeit sinken, steht eines fest: Die wir
         <summary type="html"><![CDATA[It’s been almost a decade since The Avengers (2012) came out, and since that fateful day little thirteen year old me saw it in theaters, Loki has been my favorite Marvel character. Now, Marvel has finally put out a show all about the god of mischief himself, and I am so amped. Before we continue, I must […]]]></summary>
         <author>
             <name>Athena Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Whoever Holds the Banner Will Be Shot”]]></title>
+        <id>https://catapult.co/stories/jessica-goudeau-whoever-holds-banner-will-be-shot-myanmar-protests-coup-rights</id>
+        <link href="https://catapult.co/stories/jessica-goudeau-whoever-holds-banner-will-be-shot-myanmar-protests-coup-rights"/>
+        <updated>2021-06-30T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by jessicagoudeau.
+
+By Cin Mual Pa
+As told to Jessica Goudeau
+This is Myanmar Voices, a new column by Jessica Goudeau, which tells first-person stories of people in Myanmar and their loved ones. The as-told-to format...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -6746,6 +7558,19 @@ Auch wenn die Coronazahlen hierzulande derzeit sinken, steht eines fest: Die wir
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“Bloody Mary” and Other Things Only Spoken of in the Dark]]></title>
+        <id>https://catapult.co/stories/dorothy-bendel-column-bloody-mary-ritual-adolescence-shame-distortion</id>
+        <link href="https://catapult.co/stories/dorothy-bendel-column-bloody-mary-ritual-adolescence-shame-distortion"/>
+        <updated>2021-06-30T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[by Dorothy-Bendel.
+
+This is A Modern Guide to Superstition, a column by Dorothy Bendel on folk belief and ritual in chaotic times.
+Cheryl herded us into the bathroom to summon Bloody Mary. Her house was what I...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Books from everywhere: Rest of World’s 2021 reading guide]]></title>
         <id>https://restofworld.org/2021/rest-of-world-2021-reading-guide/</id>
         <link href="https://restofworld.org/2021/rest-of-world-2021-reading-guide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds"/>
@@ -6753,6 +7578,89 @@ Auch wenn die Coronazahlen hierzulande derzeit sinken, steht eines fest: Die wir
         <summary type="html"><![CDATA[🇵🇰 A Woman Like Her: The Story Behind the Honor Killing of a Social Media Star By Sanam Maher Sanam Maher’s vivid, fast-paced book details the rise of Pakistan’s first...]]></summary>
         <author>
             <name>Rest of World Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excerpt from ‘One Star’]]></title>
+        <id>https://catapult.co/community/stories/excerpt-from-one-star-raphael-majma</id>
+        <link href="https://catapult.co/community/stories/excerpt-from-one-star-raphael-majma"/>
+        <updated>2021-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by raphaelmajma.
+
+Mirna Hernandez, an ambitious and stubborn daughter of Mexican immigrants, returns to Durham after bombing out of the NYC restaurant scene. Back in her childhood bedroom, she balances sous-cheffing...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excerpt from ‘Comfort’]]></title>
+        <id>https://catapult.co/community/stories/excerpt-from-comfort-damilola-oyedele</id>
+        <link href="https://catapult.co/community/stories/excerpt-from-comfort-damilola-oyedele"/>
+        <updated>2021-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by damioyedele.
+
+Comfort gives voice to a teenage girl and her long-lost birth mother, as they seek the truth about their separation, wrestle the forces that broke their bond, and forge a path back to one another....]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excerpt from ‘Girl with the Primrose Pin’]]></title>
+        <id>https://catapult.co/community/stories/excerpt-from-girl-with-the-primrose-pin-charlene-wang</id>
+        <link href="https://catapult.co/community/stories/excerpt-from-girl-with-the-primrose-pin-charlene-wang"/>
+        <updated>2021-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by charlenewang.
+
+In a little forgotten town in Mississippi, Kayla and Faith come of age on the Internet. Kayla is beautiful and kinetic, with the kind of face that amasses thousands of likes on Instagram. Faith,...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excerpt from ‘A Cilantro Wedding Bouquet’]]></title>
+        <id>https://catapult.co/community/stories/excerpt-from-a-cilantro-wedding-bouquet-maria-alejandra-barrios</id>
+        <link href="https://catapult.co/community/stories/excerpt-from-a-cilantro-wedding-bouquet-maria-alejandra-barrios"/>
+        <updated>2021-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by mariaalejandrabarrios.
+
+Vi returns to Barranquilla after her abuela’s death for the funeral and to deal with the almost-in-ruins family restaurant. Soon, ghosts from her past come rushing back: her strained mother, the...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excerpt from ‘Fast Songs for Fast Girls’]]></title>
+        <id>https://catapult.co/community/stories/excerpt-from-fast-songs-for-fast-girls-claire-lobenfeld</id>
+        <link href="https://catapult.co/community/stories/excerpt-from-fast-songs-for-fast-girls-claire-lobenfeld"/>
+        <updated>2021-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by clairelobenfeld.
+
+Sixteen-year-old Mickey Gold has to start over at her aunt’s in the suburbs. She is desperate to keep details of the violent outburst that got her expelled from her New York City private school...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excerpt from ‘Midnight in Exile’ by Andra Nicolescu]]></title>
+        <id>https://catapult.co/community/stories/midnight-in-exile-novel-excerpt-andra-nicolescu</id>
+        <link href="https://catapult.co/community/stories/midnight-in-exile-novel-excerpt-andra-nicolescu"/>
+        <updated>2021-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by andranicolescu.
+
+When eighty-year-old immigrant Paul Popa chances on a photograph that brings painful memories to the fore, he embarks on a journey of self-discovery that takes him from Washington, D.C., to his...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sheaf]]></title>
+        <id>https://dark-mountain.net/?p=26088</id>
+        <link href="https://dark-mountain.net/sheaf/"/>
+        <updated>2021-06-30T09:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Introducing our all-colour booklet co-produced with Hodmedod about grains and the people who grow them by three Dark Mountain writers. Photographs by Anne Campbell.
+The post Sheaf appeared first on Dark Mountain.]]></summary>
+        <author>
+            <name>Charlotte Du Cann</name>
         </author>
     </entry>
     <entry>
@@ -6885,6 +7793,17 @@ Der interessante Einblick in die alternative Lebensweise ausserhalb der Norm ist
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Lion’s Roar Podcast: Life is But a Dream with Andrew Holecek and Feeding Your Demons with Lama Tsultrim Allione]]></title>
+        <id>https://www.lionsroar.com/?p=247088</id>
+        <link href="https://www.lionsroar.com/the-lions-roar-podcast-life-is-but-a-dream-with-andrew-holecek-and-feeding-your-demons-with-lama-tsultrim-allione/"/>
+        <updated>2021-06-29T16:21:13.000Z</updated>
+        <summary type="html"><![CDATA[This episode of The Lion’s Roar Podcast features dream yoga specialist Andrew Holecek and "Feeding Your Demons" author Lama Tsultrim Allione.
+The post The Lion’s Roar Podcast: Life is But a Dream with Andrew Holecek and Feeding Your Demons with Lama Tsultrim Allione appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Sandra Hannebohm</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kill, I really hope to see you there.]]></title>
         <id>https://kill-the-newsletter.com/alternates/u9hcw7ri3nwd1202.html</id>
         <link href="https://kill-the-newsletter.com/alternates/u9hcw7ri3nwd1202.html"/>
@@ -6951,6 +7870,16 @@ Der interessante Einblick in die alternative Lebensweise ausserhalb der Norm ist
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Product Validation Frameworks are Mostly Useless Without Taste]]></title>
+        <id>60db2f532b74e3048e47d39e</id>
+        <link href="https://commoncog.com/blog/product-validation-taste/"/>
+        <updated>2021-06-29T15:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Product validation frameworks often describe processes without talking about taste. Here's why this is almost always a bad idea.]]></summary>
+        <author>
+            <name>Cedric Chin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bundeswehr verkleinert Kontingent für Corona-Amtshilfe – Aber mit hoher Einsatzbereitschaft]]></title>
         <id>https://augengeradeaus.net/?p=57409</id>
         <link href="https://augengeradeaus.net/2021/06/bundeswehr-verkleinert-kontingent-fuer-corona-amtshilfe-aber-mit-hoher-einsatzbereitschaft/"/>
@@ -6986,6 +7915,41 @@ Strukturelle Diskriminierung und Unterdrückung als Ausgangspunkt
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[China’s Communist Party is coming for podcasting]]></title>
+        <id>https://www.protocol.com/china/china-podcast-communist-party</id>
+        <link href="https://www.protocol.com/china/china-podcast-communist-party"/>
+        <updated>2021-06-29T13:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Just a little over a month before the Chinese Communist Party's 100th birthday, a well-produced podcast narrating the Party history in Shanghai — "Red Tales of Pujiang River" — was among the top promoted content on Xiaoyuzhou FM, a Chinese podcast app popular among young urbanites.
+This podcast — a co-production between Xiaoyuzhou FM (小宇宙), meaning Little Universe, and JustPod, a leading Chinese podcast production company — is part of a series of events celebrating the upcoming centennial of the CCP, which falls on Thursday, July 1. The propaganda department of the Yangpu District's Party Committee, a part of a local government in Shanghai, provided guidance.
+The podcast covers major political and economic events and important figures that shaped Shanghai over the past 100 years. It feels …]]></summary>
+        <author>
+            <name>Shen Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experience profound Tibetan Buddhist practices for yourself with “Open Heart, Vajra Mind”]]></title>
+        <id>https://www.lionsroar.com/?p=247046</id>
+        <link href="https://www.lionsroar.com/experience-profound-tibetan-buddhist-practices-for-yourself-with-open-heart-vajra-mind/"/>
+        <updated>2021-06-29T13:44:27.000Z</updated>
+        <summary type="html"><![CDATA[Lion's Roar editor-in-chief Melvin McLeod discusses our new online learning series.
+The post Experience profound Tibetan Buddhist practices for yourself with “Open Heart, Vajra Mind” appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Melvin McLeod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Distortions: Reflections on Zoom and Body Dysmorphia]]></title>
+        <id>https://catapult.co/stories/digital-distortions-reflections-on-zoom-and-body-dysmorphia-adam-dalva</id>
+        <link href="https://catapult.co/stories/digital-distortions-reflections-on-zoom-and-body-dysmorphia-adam-dalva"/>
+        <updated>2021-06-29T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by adamdalva.
+
+A different face greets me each morning. Some days, it’s an attractive one, kempt and confident. It returns my raised eyebrows, my pleased smile. Occasionally, the face is blurry, with dull,...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why did we wait so long for the threshing machine?]]></title>
         <id>https://rootsofprogress.org/why-did-we-wait-so-long-for-the-threshing-machine</id>
         <link href="https://rootsofprogress.org/why-did-we-wait-so-long-for-the-threshing-machine"/>
@@ -7016,6 +7980,49 @@ Strukturelle Diskriminierung und Unterdrückung als Ausgangspunkt
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Make it Sharper, Make it Stranger]]></title>
+        <id>https://catapult.co/community/stories/make-it-sharper-make-it-stranger-revision-exercise-writing-prompt-simon-han</id>
+        <link href="https://catapult.co/community/stories/make-it-sharper-make-it-stranger-revision-exercise-writing-prompt-simon-han"/>
+        <updated>2021-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by simonhan.
+
+At some point during the revision process, we may feel the need to mold our sentences so they “fit” the larger vision of our work. This is especially common when we’re working from an outline or if...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashes at Kande Beach, Malawi]]></title>
+        <id>https://catapult.co/stories/ashes-at-kande-beach-malawi-poem-by-steven-duong</id>
+        <link href="https://catapult.co/stories/ashes-at-kande-beach-malawi-poem-by-steven-duong"/>
+        <updated>2021-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by stevenduong.
+
+
+
+Catapult magazine · Listen to Steven Dương read this poem
+
+Ashes at Kande Beach, Malawi
+Everything is an elegy these days, all chipped rings,
+clipped wings. You are alive, so the pills work, 
+but...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In SaaS, it’s private equity’s time to shine]]></title>
+        <id>https://www.protocol.com/enterprise/private-equity-saas</id>
+        <link href="https://www.protocol.com/enterprise/private-equity-saas"/>
+        <updated>2021-06-29T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Private equity is roaring back into the world of enterprise tech. 
+The sector is on pace to record high investments in the software industry after a dip in 2020. So far this year, private equity firms have poured $16.1 billion into the sector over 105 deals, according to data compiled for Protocol by PitchBook. The top five most active firms are HG Capital, Vista Equity Partners, Providence Equity Partners, ABRY Partners and TA Associates Management, respectively. 
+That's up from $13.2 billion for all of 2020. It's also outpacing 2019; that year, the industry invested $20.4 billion in the sector over 126 deals. The biggest deals announced so far in 2021 include: Thoma Bravo's $12.3 billion purchase of Proofpoint in April, KKR and Clayton Dubilier & Rice's $5.3 billion purchase of Cloudera,…]]></summary>
+        <author>
+            <name>Joe Williams</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mutiert der Trumpismus zu einer radikalen Weltreligion?]]></title>
         <id>https://www.xn--untergrund-blttle-2qb.ch/politik/nordamerika/mutiert-der-trumpismus-zu-einer-radikalen-weltreligion-6508.html</id>
         <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/nordamerika/mutiert-der-trumpismus-zu-einer-radikalen-weltreligion-6508.html"/>
@@ -7040,6 +8047,17 @@ Eine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Art Against Drones]]></title>
+        <id>https://covertactionmagazine.com/?p=19176</id>
+        <link href="https://covertactionmagazine.com/2021/06/29/art-against-drones/"/>
+        <updated>2021-06-29T05:00:24.000Z</updated>
+        <summary type="html"><![CDATA[At the High Line, a popular tourist attraction in New York City, visitors to the West side of Lower Manhattan ascend above street level to what was once an elevated freight train line and is now a tranquil and architecturally intriguing promenade. Here walkers enjoy...
+The post Art Against Drones appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Kathy Kelly</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[June Eris of the Month 2021: Eris Trojan Horse]]></title>
         <id>http://historiadiscordia.com/?p=9730</id>
         <link href="http://historiadiscordia.com/june-eris-of-the-month-2021-eris-trojan-horse/"/>
@@ -7047,6 +8065,37 @@ Eine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil.
         <summary type="html"><![CDATA[Anonymously submitted entry for June Eris of the Month 2021. A burning Troy, the Trojan Horse, and a bad-ass nipple revealing Eris. Ah, when times were simpler. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.]]></summary>
         <author>
             <name>themgt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Perla and Ed McGrady GameNation Part II Friday, 2 July]]></title>
+        <id>http://paxsims.wordpress.com/?p=31913</id>
+        <link href="https://paxsims.wordpress.com/2021/06/28/peter-perla-and-ed-mcgrady-gamenation-part-ii-friday-2-july/"/>
+        <updated>2021-06-28T23:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Join Peter Perla and Ed McGrady as they discuss AI and cyber games, and how the USAF game showed they almost had enough stuff, but not quite enough, to take on the Chinese.  Right before they released their budget.  Tune in to hear their take on the wargaming news of the day. https://zoom.us/webinar/register/WN_JIldrBu5RwaSJl_srXAyTg]]></summary>
+        <author>
+            <name>Stephen Downes-Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Award-winning PAXsims editors]]></title>
+        <id>http://paxsims.wordpress.com/?p=31824</id>
+        <link href="https://paxsims.wordpress.com/2021/06/28/award-winning-paxsims-editors/"/>
+        <updated>2021-06-28T21:20:50.000Z</updated>
+        <summary type="html"><![CDATA[I am pleased to report that two PAXsims editors were recently recognized for their contributions to professional wargaming. Sally Davis (Dstl) has received a A* Analyisis Function Award from the UK Ministry of Defence for her work on diversity and inclusion. The nomination noted Dstl’s endorsement of the Derby House Principles, her work on the […]]]></summary>
+        <author>
+            <name>Rex Brynen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen to “Unenlightened” — Born I’s newest example of “trap music for meditators”]]></title>
+        <id>https://www.lionsroar.com/?p=247072</id>
+        <link href="https://www.lionsroar.com/watch-unenlightened-born-is-newest-example-of-trap-music-for-meditators/"/>
+        <updated>2021-06-28T18:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Listen to Born I's third single from his upcoming album, "Unenlightened."
+The post Listen to “Unenlightened” — Born I’s newest example of “trap music for meditators” appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Rod Meade Sperry</name>
         </author>
     </entry>
     <entry>
@@ -7107,6 +8156,28 @@ Eine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil.
 		bod…]]></summary>
         <author>
             <name>Post Carbon Institute Newsletter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ending the War in Yemen Means Overcoming Political Cowardice]]></title>
+        <id>https://covertactionmagazine.com/?p=21202</id>
+        <link href="https://covertactionmagazine.com/2021/06/28/ending-the-war-in-yemen-means-overcoming-political-cowardice/"/>
+        <updated>2021-06-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UN World Food Program says that “400,000 children may die in Yemen this year without urgent intervention” The struggle to end U.S. support for the war in Yemen has run into another obstacle. This time it’s partisanship. But it isn’t Republican opposition blocking Joe Biden’s promise to end U.S. participation in the world’s worst humanitarian catastrophe. […]
+The post Ending the War in Yemen Means Overcoming Political Cowardice appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Brian Garvey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buddhist translator Thomas Cleary dies]]></title>
+        <id>https://www.lionsroar.com/?p=247054</id>
+        <link href="https://www.lionsroar.com/buddhist-translator-thomas-cleary-dies/"/>
+        <updated>2021-06-28T16:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Thomas Cleary, a prolific translator of Asian Classics, passed away on June 20, 2021.
+The post Buddhist translator Thomas Cleary dies appeared first on Lion's Roar.]]></summary>
+        <author>
+            <name>Lilly Greenblatt</name>
         </author>
     </entry>
     <entry>
@@ -7172,6 +8243,29 @@ Eine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Iranian Journal of Wargaming]]></title>
+        <id>http://paxsims.wordpress.com/?p=31899</id>
+        <link href="https://paxsims.wordpress.com/2021/06/28/iranian-journal-of-wargaming/"/>
+        <updated>2021-06-28T12:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Several issues (2019-2020) of the Iranian Journal of Wargaming can be found online here, containing a mix of wargaming, game theoretic, operations research, and simulation articles (all in Farsi). Abstracts in English are also provided. The journal is edited by Dr. Mohammad Reza Mehreghan (operations research, University of Tehran). The Director-in-Charge is Dr Valivand Zamani […]]]></summary>
+        <author>
+            <name>Rex Brynen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cow with a Hole in It]]></title>
+        <id>https://catapult.co/community/stories/jess-zimmerman-personal-writing-is-like-a-cow-with-a-hole-in-it</id>
+        <link href="https://catapult.co/community/stories/jess-zimmerman-personal-writing-is-like-a-cow-with-a-hole-in-it"/>
+        <updated>2021-06-28T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[by jesszimmerman.
+
+The thing that’s so difficult about personal essays is that they’re awfully personal.
+I realize saying this lands me somewhere on a spectrum from Yogi Berra to Randall from Clerks (“This job would...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why the Chinese government turned on Jack Ma’s ‘Harvard for China’]]></title>
         <id>https://restofworld.org/2021/why-the-chinese-government-turned-on-jack-mas-harvard-for-china/</id>
         <link href="https://restofworld.org/2021/why-the-chinese-government-turned-on-jack-mas-harvard-for-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds"/>
@@ -7179,6 +8273,19 @@ Eine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil.
         <summary type="html"><![CDATA[Ma created Hupan University to cultivate Chinese entrepreneurs. Then the government suspended future enrollment.]]></summary>
         <author>
             <name>Yi-Ling Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foursquare invented the check-in. Then it watched the world shut down.]]></title>
+        <id>https://www.protocol.com/policy/foursquare-ceo-gary-little</id>
+        <link href="https://www.protocol.com/policy/foursquare-ceo-gary-little"/>
+        <updated>2021-06-28T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[From the early days of the check-in to its evolution into one of the leading location data vendors in the industry, Foursquare's business has always sort of depended on people going places. And for a while — say, most of human history — it seemed like a fairly safe assumption that people, generally speaking, would go places. 
+Then COVID-19 hit, and suddenly, places closed and people stayed in, creating what might have been a crisis for a company like Foursquare. 
+But Gary Little, who took over as the company's CEO late last year, argues that the pandemic actually made it more essential for both businesses and governments to understand how people were and weren't moving around the world, using data Foursquare collects and shares in aggregate.
+Now, as countries around the world are reopening…]]></summary>
+        <author>
+            <name>Issie Lapowsky</name>
         </author>
     </entry>
     <entry>
@@ -7205,6 +8312,19 @@ Bild: Demonstration für einen für einen bundesweiten Mietendeckel nachdem das 
 In diesem Jahr geht die Berliner Initiative „Deutsche Wohnen & Co. enteignen“ in ihre entscheidende Phase. Damit es im September 2021 zu einem Volksentscheid kommt, müssen in Berlin 175.000 Unterschriften gesammelt werden. Das Ziel: die Enteignung von Immobilienkonzernen mit 3.000 Wohnungen und mehr und anschliessender Vergesellschaftung der insgesamt 243.000 Wohnungen durch die Überführu…]]></summary>
         <author>
             <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are You a Boy? Or Are You a Girl?]]></title>
+        <id>https://catapult.co/stories/chris-karnadi-column-gender-expression-video-games-play</id>
+        <link href="https://catapult.co/stories/chris-karnadi-column-gender-expression-video-games-play"/>
+        <updated>2021-06-28T06:50:09.000Z</updated>
+        <summary type="html"><![CDATA[by chriskarnadi.
+
+When I painted my nails for the first time, I was mistaken for a woman at least twice. 
+As I waited for the train to the airport and held my tumbler of tea, my charcoal-gray nails poked out of my...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -7287,6 +8407,17 @@ Cloth Stamps
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned information/pictures/video.  The pictures have been scanned from my collection.]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accident at Naval Air Station on the Chesapeake Bay Sends 2,500 Gallons of Toxic Foam into Local Sewer System]]></title>
+        <id>https://covertactionmagazine.com/?p=20912</id>
+        <link href="https://covertactionmagazine.com/2021/06/27/accident-at-naval-air-station-on-the-chesapeake-bay-sends-2500-gallons-of-toxic-foam-into-local-sewer-system/"/>
+        <updated>2021-06-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Materials are being temporarily held in a MetCom holding tank; ultimate fate is unknown The Patuxent River Naval Air Station, on the Chesapeake Bay in St. Mary’s County, Maryland, announced in the last week of May that toxic aqueous film-forming foam (AFFF), was released on base after an accidental discharge from a hangar’s fire suppression […]
+The post Accident at Naval Air Station on the Chesapeake Bay Sends 2,500 Gallons of Toxic Foam into Local Sewer System appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Pat Elder</name>
         </author>
     </entry>
     <entry>
@@ -7376,6 +8507,16 @@ Walkways lined by abandoned gestures first appeared on Open Thinkering.]]></summ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Barzashka: Do academic standards for research excellence apply to professional wargaming?]]></title>
+        <id>http://paxsims.wordpress.com/?p=31890</id>
+        <link href="https://paxsims.wordpress.com/2021/06/25/barzashka-do-academic-standards-for-research-excellence-apply-to-professional-wargaming/"/>
+        <updated>2021-06-25T21:04:56.000Z</updated>
+        <summary type="html"><![CDATA[The following item has been written for PAXsims by Ivanka Barzashka (Managing Director of the Wargaming Network at the School of Security Studies at King’s College London), based on her recent presentation at the Connections US 2021 professional wargaming conference. This article expresses her personal views and does not necessarily reflect an institutional position.  Wargaming […]]]></summary>
+        <author>
+            <name>Rex Brynen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Wirecard-Skandal: Finanzminister Olaf Scholz erntet in der Abschlussdebatte des Bundestags viel Kritik]]></title>
         <id>https://www.nzz.ch/wirtschaft/wirecard-skandal-alle-sehen-sich-als-opfer-nzz-ld.1564559</id>
         <link href="https://www.nzz.ch/wirtschaft/wirecard-skandal-alle-sehen-sich-als-opfer-nzz-ld.1564559"/>
@@ -7393,6 +8534,18 @@ Walkways lined by abandoned gestures first appeared on Open Thinkering.]]></summ
         <summary type="html"><![CDATA[2013 spielte in einem Kriminalfall die Zahlenfolge 5785/43293091 eine Rolle. Meines Wissens ist der Fall immer noch ungeklärt und die Bedeutung der Zahlen unbekannt. English version (translated with Deepl) Wer sich für Verschlüsselung und Kriminalität interessiert, sollte unbedingt am morgigen 26. Juni 2021 meinen ICCH-Vortrag “Crime-related Codes and Ciphers” anhören. Ich werde ihn wieder zusammen…]]></summary>
         <author>
             <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As a Journalist, I Thought I Wasn’t Precious About My Work—Then Someone Tore Apart My Novel]]></title>
+        <id>https://catapult.co/community/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel</id>
+        <link href="https://catapult.co/community/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel"/>
+        <updated>2021-06-25T19:34:40.000Z</updated>
+        <summary type="html"><![CDATA[by jessicagoodman.
+
+I’m not precious about my work. Not about my word choices, my dialogue, or my structure. I’m all about killing my darlings. Murder them, baby. Get ’em out of here. Especially if it makes the story...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -7425,6 +8578,44 @@ Walkways lined by abandoned gestures first appeared on Open Thinkering.]]></summ
  / France, Démocratie, Extrême droite, Politique - 2002/06]]></summary>
         <author>
             <name>Anne-Cécile Robert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Submission and Pitching Opportunities: June 25, 2021]]></title>
+        <id>https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-june-25-2021-where-to-submit-literary-mags</id>
+        <link href="https://catapult.co/community/stories/upcoming-submission-and-pitching-opportunities-june-25-2021-where-to-submit-literary-mags"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by nicoledieker.
+
+Pacifica Literary Review publishes poetry, fiction, creative non, photography, and art &amp; design, and serves as an inclusive space for the best emerging and established writers.
+Here’s what...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job Opportunities for Writers: June 25, 2021]]></title>
+        <id>https://catapult.co/community/stories/job-opportunities-for-writers-june-25-2021-writing-jobs-jobs-for-writers-apply-now</id>
+        <link href="https://catapult.co/community/stories/job-opportunities-for-writers-june-25-2021-writing-jobs-jobs-for-writers-apply-now"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by nicoledieker.
+
+Jacobin Foundation is a non-profit that produces publications and other material that encourages public discourse on matters of political economy and culture.
+Jacobin Foundation is currently...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolf Facts]]></title>
+        <id>https://catapult.co/stories/wolf-facts-short-story-mar-stratford</id>
+        <link href="https://catapult.co/stories/wolf-facts-short-story-mar-stratford"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by marstratford.
+
+If there were any justice in the world, I would have been born a wolf. Instead, I’m a seventh grader. I should be in the eighth grade, but I was held back in kindergarten for biting. A wolf’s...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -7540,6 +8731,16 @@ Of course this is a striking amount of political diversity by the standards of t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hanley: A critique of strategic operational gaming]]></title>
+        <id>http://paxsims.wordpress.com/?p=31883</id>
+        <link href="https://paxsims.wordpress.com/2021/06/24/hanley-a-critique-of-strategic-operational-gaming/"/>
+        <updated>2021-06-24T22:16:20.000Z</updated>
+        <summary type="html"><![CDATA[PAXsims is pleased to share John Hanley’s 1991 PhD thesis, On Wargaming: A Critique of Strategic Operational Gaming (Yale University, 1991). This paper is a critique of strategic operational gaming. Operational gaming refers to the use of gaming to explore plans and investigate courses of action. Strategic refers to the subject explored. Therefore, this inquiry deals with two topics. One is the limits and […]]]></summary>
+        <author>
+            <name>Rex Brynen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Architecting Energy Systems - An Introduction]]></title>
         <id>https://renewableplus.blogspot.com/2021/06/architecting-energy-systems-introduction.html</id>
         <link href="https://renewableplus.blogspot.com/2021/06/architecting-energy-systems-introduction.html"/>
@@ -7583,6 +8784,17 @@ Stamps with Seeds
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned information/pictures.  The pictures have been scanned from my collection.]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Under Pandemic, United Nations Votes to Condemn Cruel and Illegal U.S. Blockade of Cuba—But There Is A Twist]]></title>
+        <id>https://covertactionmagazine.com/?p=20967</id>
+        <link href="https://covertactionmagazine.com/2021/06/24/under-pandemic-united-nations-votes-to-condemn-cruel-and-illegal-u-s-blockade-of-cuba-but-there-is-a-twist/"/>
+        <updated>2021-06-24T18:36:00.000Z</updated>
+        <summary type="html"><![CDATA[184 Countries Vote in the United Nations to Condemn U.S. Blockade of Cuba—But As Usual, Only Two Countries Vote Against the Resolution: the U.S. and Israel While Conditions in Cuba Under the Blockade are Worsening—Potentially Worse than the Special Period—Cuba’s Biotechnological and Pharmaceutical Industry May Help Them Out of the Pandemic On June 23rd, 184 […]
+The post Under Pandemic, United Nations Votes to Condemn Cruel and Illegal U.S. Blockade of Cuba—But There Is A Twist appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>Chris Agee</name>
         </author>
     </entry>
     <entry>
@@ -7684,6 +8896,44 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[How workers manufacturing products like aloe jelly and gardening gloves also became the influencers selling them.]]></summary>
         <author>
             <name>Andrew Deck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As a Journalist, I Thought I Wasn’t Precious About My Work—Then Someone Tore Apart My Novel]]></title>
+        <id>https://catapult.co/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel-jessica-goodman</id>
+        <link href="https://catapult.co/stories/as-a-journalist-i-thought-i-wasnt-precious-about-my-workthen-someone-tore-apart-my-novel-jessica-goodman"/>
+        <updated>2021-06-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by jessicagoodman.
+
+I’m not precious about my work. Not about my word choices, my dialogue, or my structure. I’m all about killing my darlings. Murder them, baby. Get ’em out of here. Especially if it makes the story...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Seaweed Shapes Our Past and Future]]></title>
+        <id>https://catapult.co/stories/how-seaweed-shapes-our-past-and-future-botany-history-jessica-j-lee</id>
+        <link href="https://catapult.co/stories/how-seaweed-shapes-our-past-and-future-botany-history-jessica-j-lee"/>
+        <updated>2021-06-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by jessicajlee.
+
+This is Non-Native Species, a column by Jessica J. Lee on plants, people, and their intertwined migration stories.
+The cliffs carried the wind down, blasting the Margate shore on which we stood....]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tura Satana Taught Me to Find Power in My Asian Identity]]></title>
+        <id>https://catapult.co/stories/miyako-pleines-tura-satana-horror-movies-astro-zombies-faster-pussycat-kill</id>
+        <link href="https://catapult.co/stories/miyako-pleines-tura-satana-horror-movies-astro-zombies-faster-pussycat-kill"/>
+        <updated>2021-06-24T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[by miyakopleines.
+
+This is The Curse, a column by Miyako Pleines about the poetry and persuasion of horror films.
+When I think of Tura Satana, I think of her menacing, wearing a pink dress with symmetrical cutouts...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -7828,6 +9078,78 @@ In der Juli-Ausgabe zeigen die Journalisten Nick Reimer und Toralf Staud, wie de
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zoom is making the ‘work-from-anywhere’ future]]></title>
+        <id>https://www.protocol.com/sponsored-content/how-zoom-is-building-the-work-from-anywhere-future</id>
+        <link href="https://www.protocol.com/sponsored-content/how-zoom-is-building-the-work-from-anywhere-future"/>
+        <updated>2021-06-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When the pandemic shut down offices, the world of work changed. Millions of us took our laptops home and opened up modern video communication platforms like Zoom, picking up where we left off without a hitch. In the last year, users have spent more than 3.5 trillion minutes — equivalent to 6.5 million years — on Zoom calls. But what started as a stopgap measure to tide us over while we worked from home has become an integral part of the new world of work.
+
+Hybrid working is likely to be the norm as offices change solely from places of daily productivity into something more like gathering spaces. The ability to work from wherever we want in the world — whether that's our own kitchen or a sun trap in a far-flung country — means that employers are more accepting of working outside the office.…]]></summary>
+        <author>
+            <name>Chris  Stokel-Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear Imo: A Letter from the Korean Diaspora]]></title>
+        <id>https://catapult.co/stories/dear-imo-a-letter-from-the-korean-diaspora-grace-m-cho</id>
+        <link href="https://catapult.co/stories/dear-imo-a-letter-from-the-korean-diaspora-grace-m-cho"/>
+        <updated>2021-06-23T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by 30176.
+
+For Ha Bok Su and Ha Koon Ja
+Imo-nim, my respected aunt,
+Years have passed since I’ve seen you. How have you been all this time? Geuh dong-an eotteo-keh jinaeseyo? Uri-mal jal mot haeyo. I’m sorry....]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Radical Possibilities of Virtual Theater]]></title>
+        <id>https://catapult.co/stories/sabina-unni-radical-possibilities-virtual-theater-zoom-chat-audience</id>
+        <link href="https://catapult.co/stories/sabina-unni-radical-possibilities-virtual-theater-zoom-chat-audience"/>
+        <updated>2021-06-23T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by sabinasethiunni.
+
+“For every moment genuinely experienced onstage we get back a response from the audience, participation, empathy, invisible currents from a thousand living, emotionally stimulated people who create...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing the Senses: Sound]]></title>
+        <id>https://catapult.co/community/stories/writing-the-senses-sound-hannah-howard-craft-column</id>
+        <link href="https://catapult.co/community/stories/writing-the-senses-sound-hannah-howard-craft-column"/>
+        <updated>2021-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by hannahhoward.
+
+You know what it’s like when you hear that song. It stops you in your tracks. You might be driving or shopping for groceries, a box of cereal in your hand, and suddenly you are transported. You are...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proximity bias is real. Returning to the office could make it worse.]]></title>
+        <id>https://www.protocol.com/workplace/proximity-bias-hybrid-work</id>
+        <link href="https://www.protocol.com/workplace/proximity-bias-hybrid-work"/>
+        <updated>2021-06-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Remote work was a growing trend even before the pandemic thoroughly disrupted the office, but a year with everyone at home has left companies open to a wide range of opinions about what to do with it moving forward. Some companies, such as Google and Apple, are embracing remote work in a hybrid model, where some employees work from home part- or full-time while others put in more face time at the office. But where there's remote work, there's a big challenge for employees and managers alike: proximity bias. 
+Proximity bias is the idea that employees with close physical proximity to their team and company leaders will be perceived as better workers and ultimately find more success in the workplace than their remote counterparts. That bias often looks like on-site employees having access to …]]></summary>
+        <author>
+            <name>Megan Rose Dickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anam manoomin’n]]></title>
+        <id>https://dark-mountain.net/?p=26063</id>
+        <link href="https://dark-mountain.net/anam-manoominn/"/>
+        <updated>2021-06-23T08:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Latest Dark Kitchen series begins with Augustin of the Road's story of wild rice and the restoration of the Kalamazoo river in the Enbridge Line 6B Oil Spill Zone
+The post Anam manoomin’n appeared first on Dark Mountain.]]></summary>
+        <author>
+            <name>Augustin of the Road</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hunderte Gruppengründungen der esoterisch-neurechten Akademie Engelsburg bundesweit]]></title>
         <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/flensburg-akademie-engelsburg-6493.html</id>
         <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/flensburg-akademie-engelsburg-6493.html"/>
@@ -7874,6 +9196,17 @@ Thank you @PiyushLosalka]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How FDR Was Manipulated and Betrayed by His Own Naval Intelligence Chief in the Fateful Last Months of WWII]]></title>
+        <id>https://covertactionmagazine.com/?p=20134</id>
+        <link href="https://covertactionmagazine.com/2021/06/23/how-fdr-was-manipulated-and-betrayed-by-his-own-naval-intelligence-chief-in-the-fateful-last-months-of-wwii/"/>
+        <updated>2021-06-23T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unknown for decades, declassified documents show that FDR’s mail was deliberately diverted and falsified to prevent a historic meeting with Mao Zedong that might have shortened the war, changed history, and reshaped the modern world. Historians cite the 1972 meeting between Mao Zedong and Richard Nixon as the original spark for U.S.-China Globalization in which […]
+The post How FDR Was Manipulated and Betrayed by His Own Naval Intelligence Chief in the Fateful Last Months of WWII appeared first on CovertAction Magazine.]]></summary>
+        <author>
+            <name>James Bradley</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Consultants and Railroaders Turn New Haven Line Investment Into Shelf Art]]></title>
         <id>http://pedestrianobservations.com/?p=6319</id>
         <link href="https://pedestrianobservations.com/2021/06/22/consultants-and-railroaders-turn-new-haven-line-investment-into-shelf-art/"/>
@@ -7915,6 +9248,16 @@ Thank you @PiyushLosalka]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Game Lab discussion topics at Connections US]]></title>
+        <id>http://paxsims.wordpress.com/?p=31864</id>
+        <link href="https://paxsims.wordpress.com/2021/06/22/game-lab-discussion-topics-at-connections-us/"/>
+        <updated>2021-06-22T15:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Short discussions on the following topics to be held online at Connections US (must be registered for Connections US) Wednesday and Thursday. Discussions run in parallel for one hour. Wednesday 23 June 1300–1400 US EDT Host Question Description Chuck Turnitsa 1. How can Simulation Systems assist with traditional (or not) Wargaming? Many organizations that are […]]]></summary>
+        <author>
+            <name>Stephen Downes-Martin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Open Call: ArchDaily & Strelka Award 2021]]></title>
         <id>15588-premiya-archdaily-and-strelka-award-2021-otkryla-priyom-zayavok</id>
         <link href="https://strelkamag.com/en/article/premiya-archdaily-and-strelka-award-2021-otkryla-priyom-zayavok"/>
@@ -7922,6 +9265,16 @@ Thank you @PiyushLosalka]]></summary>
         <summary type="html"><![CDATA[Submit your project by July 30.]]></summary>
         <author>
             <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An MBA for Business Operators]]></title>
+        <id>60d1fa7e2b74e3048e47d2d2</id>
+        <link href="https://commoncog.com/blog/an-mba-for-business-operators/"/>
+        <updated>2021-06-22T15:16:55.000Z</updated>
+        <summary type="html"><![CDATA[A look at two syllabuses for learning the art of business, why they're rare, and why to take notice when a practitioner mentions one.]]></summary>
+        <author>
+            <name>Cedric Chin</name>
         </author>
     </entry>
     <entry>
@@ -7938,6 +9291,20 @@ China ist indiskutabel, ein schlimmer Staat. Darin sind sich viele einig – auc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My Creepy Neighbor, Robert E. Lee]]></title>
+        <id>https://catapult.co/stories/chris-l-terry-richmond-virginia-robert-e-lee-magical-negro</id>
+        <link href="https://catapult.co/stories/chris-l-terry-richmond-virginia-robert-e-lee-magical-negro"/>
+        <updated>2021-06-22T13:44:28.000Z</updated>
+        <summary type="html"><![CDATA[by chrislterry.
+
+This is Digital Magical Negro, a column by Chris L. Terry on his experiences as a mixed-race Black man navigating contemporary life in America.
+*
+As a teen in Richmond, Virginia, a statue of Robert...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Open Call: World Architecture Community 10+5+x Awards]]></title>
         <id>15564-open-call-world-architecture-community-10-5-x-awards</id>
         <link href="https://strelkamag.com/en/article/open-call-world-architecture-community-10-5-x-awards"/>
@@ -7945,6 +9312,32 @@ China ist indiskutabel, ein schlimmer Staat. Darin sind sich viele einig – auc
         <summary type="html"><![CDATA[Apply by July 15, 2021.]]></summary>
         <author>
             <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming Out, as Told by Florida Wildlife]]></title>
+        <id>https://catapult.co/stories/coming-out-as-told-by-florida-wildlife-cara-lynn-albert</id>
+        <link href="https://catapult.co/stories/coming-out-as-told-by-florida-wildlife-cara-lynn-albert"/>
+        <updated>2021-06-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by caralynnalbert.
+
+Florida Panther:
+Careful, girl. Her molasses ringlets may not be what they seem. Framing plump cheeks and eyes golden, like mine. Hips limber. Paws painted black and glossy. She’s sixteen, three...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Your Idea Better Suited to a Novel or a Short Story?]]></title>
+        <id>https://catapult.co/community/stories/writing-idea-novel-or-short-story-adrienne-celt</id>
+        <link href="https://catapult.co/community/stories/writing-idea-novel-or-short-story-adrienne-celt"/>
+        <updated>2021-06-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by adriennecelt.
+
+A question I’m often asked by students or other early-career writers is “How do I know whether a given idea should become a novel or a story?” 
+It’s a fair question, because I write both novels and...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -8047,6 +9440,18 @@ Specialization is for insects first appeared on Open Thinkering.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On Beckett and Writing with a Brain Disease]]></title>
+        <id>https://catapult.co/community/stories/on-beckett-and-writing-with-a-brain-disease-emma-smith-stevens-jess-thom-play-not-i</id>
+        <link href="https://catapult.co/community/stories/on-beckett-and-writing-with-a-brain-disease-emma-smith-stevens-jess-thom-play-not-i"/>
+        <updated>2021-06-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by emmasmithstevens.
+
+For the last five years, I have been ill with an autoimmune condition called Addison’s disease that has damaged my adrenal gland, and another that combines features of systemic lupus erythematosus...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An Architect’s House]]></title>
         <id>13184-dom-arkhitektora</id>
         <link href="https://strelkamag.com/en/article/dom-arkhitektora"/>
@@ -8069,6 +9474,18 @@ Damit soll eine geplante Rodung verhindert werden. Trotz des massiven öffentlic
  Deswegen haben sich Aktivist:Innen dazu entschlossen, Strukturen in den Bäumen …]]></summary>
         <author>
             <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Hair: How I Found Community and Coconut Oil in France]]></title>
+        <id>https://catapult.co/stories/makalah-moore-hair-black-community-france-noyon-chauny</id>
+        <link href="https://catapult.co/stories/makalah-moore-hair-black-community-france-noyon-chauny"/>
+        <updated>2021-06-21T07:31:30.000Z</updated>
+        <summary type="html"><![CDATA[by makalahmoore.
+
+Faded letters above the large windows told me my new hair salon had once been a cordonnerie, a shoe-repair shop. The mannequin head in the window stared at me from her perch between a basket of...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -8352,6 +9769,16 @@ Imagine Adolf Hitler had n…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Simulation & Gaming, June 2021]]></title>
+        <id>http://paxsims.wordpress.com/?p=31858</id>
+        <link href="https://paxsims.wordpress.com/2021/06/18/simulation-gaming-june-2021/"/>
+        <updated>2021-06-18T14:55:53.000Z</updated>
+        <summary type="html"><![CDATA[The latest issue of Simulation & Gaming 52, 3 (June 2021) is now available. The issue is devoted to the topic of facilitation in gaming. Editorial Why Facilitation?  Elyssebeth Leigh, Elena Likhacheva, Elizabeth Tipton, Marieke de Wijse-van Heeswijk, and Birgit Zürn Articles Becoming the Unseen Helmsman – Game facilitator competencies for novice, experienced, and non-game facilitators  Rens Kortmann and Vincent Peters The […]]]></summary>
+        <author>
+            <name>Rex Brynen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Friedenspolitische Wahlprüfsteine 2021]]></title>
         <id>https://www.darmstaedter-signal.de/?p=2860</id>
         <link href="https://www.darmstaedter-signal.de/meldungen/friedenspolitische-wahlpruefsteine-2021/"/>
@@ -8470,6 +9897,31 @@ The post To Stay Sharpe Miss Right appeared first on .]]></summary>
         <summary type="html"><![CDATA[Defaults may be heading lower but the market has become much riskier]]></summary>
         <author>
             <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Writing My Young Adult Novel Helped Me Reclaim the Queer Girlhood I Lost]]></title>
+        <id>https://catapult.co/stories/how-writing-my-young-adult-novel-helped-me-reclaim-the-queer-girlhood-i-lost-ashley-woodfolk</id>
+        <link href="https://catapult.co/stories/how-writing-my-young-adult-novel-helped-me-reclaim-the-queer-girlhood-i-lost-ashley-woodfolk"/>
+        <updated>2021-06-17T13:11:57.000Z</updated>
+        <summary type="html"><![CDATA[by ashleywoodfolk.
+
+I love my husband.
+I love him specifically and singularly because of who he is and because of who we are together. I love his quiet thoughtfulness and his corny dad jokes, his serious eyes and the...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“The delight in fiction is not knowing what’s going to happen next”: A Conversation with Te-Ping Chen]]></title>
+        <id>https://catapult.co/community/stories/the-delight-in-fiction-is-not-knowing-a-conversation-with-te-ping-chen-journalism-land-of-big-numbers</id>
+        <link href="https://catapult.co/community/stories/the-delight-in-fiction-is-not-knowing-a-conversation-with-te-ping-chen-journalism-land-of-big-numbers"/>
+        <updated>2021-06-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by allisenlich.
+
+Te-Ping Chen’s debut short story collection, Land of Big Numbers, is thrilling and expansive in its depth and attention to detail. Though the stories dip in and out of realism, surrealism, and...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -8636,6 +10088,41 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Transportive Power of ‘The Phantom Tollbooth’]]></title>
+        <id>https://catapult.co/stories/the-transportive-power-of-the-phantom-tollbooth-senses-pandemic-anya-jaremko-greenwold</id>
+        <link href="https://catapult.co/stories/the-transportive-power-of-the-phantom-tollbooth-senses-pandemic-anya-jaremko-greenwold"/>
+        <updated>2021-06-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by anyajaremkogreenwold.
+
+I tried to write about Norton Juster’s The Phantom Tollbooth on a gray day when April curled its toes back under the covers and a March chill rattled the bones of my house. I could not. This is a...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The View from Above]]></title>
+        <id>https://dark-mountain.net/?p=25325</id>
+        <link href="https://dark-mountain.net/the-view-from-above/"/>
+        <updated>2021-06-16T11:03:39.000Z</updated>
+        <summary type="html"><![CDATA[IWriter and philosopher Mark Bessoudo is inspired by an ancient Stoic practice and the fastest bird on Earth among the towers of modern Toronto
+The post The View from Above appeared first on Dark Mountain.]]></summary>
+        <author>
+            <name>Mark Bessoudo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promoting My Book with Postpartum Depression]]></title>
+        <id>https://catapult.co/stories/promoting-on-my-book-tour-with-postpartum-depression-maria-kuznetsova</id>
+        <link href="https://catapult.co/stories/promoting-on-my-book-tour-with-postpartum-depression-maria-kuznetsova"/>
+        <updated>2021-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by mariakuznetsova.
+
+I almost died on the way to an event promoting my debut novel. Halfway between my home in Iowa City and a Midwest Independent Booksellers Association event in Decorah, I fell asleep at the wheel,...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Die Finck-Dynastie, Mäzene des deutschen Faschismus]]></title>
         <id>https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/august-von-finck-dynastie-afd-6362.html</id>
         <link href="https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/august-von-finck-dynastie-afd-6362.html"/>
@@ -8747,6 +10234,16 @@ Dank des intensiven Spiels Frank Sinatras sowie einer gekonnten Inszenierung erh
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7 Powers in Practice]]></title>
+        <id>60c8d5de2b74e3048e47d1cf</id>
+        <link href="https://commoncog.com/blog/7-powers-in-practice/"/>
+        <updated>2021-06-15T17:02:11.000Z</updated>
+        <summary type="html"><![CDATA[What the best book on business strategy actually looks like in practice. Also: why it's important to read business narratives to learn more.]]></summary>
+        <author>
+            <name>Cedric Chin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Corona als enwickelter Stamokap]]></title>
         <id>https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/theorie/corona-als-entwickelter-stamokap-6480.html</id>
         <link href="https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/theorie/corona-als-entwickelter-stamokap-6480.html"/>
@@ -8760,6 +10257,18 @@ Bild: Impfstoff von Pfizer/BioNTech in einem Spital von Strasbourg, Januar 2021.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Journalism Taught Me to Ask for Help]]></title>
+        <id>https://catapult.co/community/stories/journalism-taught-me-to-ask-for-help-akanksha-singh-writing-essay</id>
+        <link href="https://catapult.co/community/stories/journalism-taught-me-to-ask-for-help-akanksha-singh-writing-essay"/>
+        <updated>2021-06-15T14:36:16.000Z</updated>
+        <summary type="html"><![CDATA[by akanksha-singh.
+
+I was in Portugal before the pandemic began. I speak no Portuguese beyond the smattering of a phrasebook and had a few interviews lined up for a (now-axed) travel story I was working on. While in...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Libra Shrugged is a Smashwords Father’s Day special — get your coupon here!]]></title>
         <id>https://davidgerard.co.uk/blockchain/?p=19723</id>
         <link href="https://davidgerard.co.uk/blockchain/2021/06/15/libra-shrugged-is-a-smashwords-fathers-day-special-get-your-coupon-here/"/>
@@ -8767,6 +10276,32 @@ Bild: Impfstoff von Pfizer/BioNTech in einem Spital von Strasbourg, Januar 2021.
         <summary type="html"><![CDATA[Your father needs to hear how Facebook tried to plant a data miner atop all of commerce ... only to fall flat on their faces, tripped by their own hubris.]]></summary>
         <author>
             <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business in the Front, Rebellion in the Back]]></title>
+        <id>https://catapult.co/stories/alex-manley-business-front-rebellion-back-rattail-haircut-class-gender-queerness</id>
+        <link href="https://catapult.co/stories/alex-manley-business-front-rebellion-back-rattail-haircut-class-gender-queerness"/>
+        <updated>2021-06-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by alexmanley.
+
+I must have been about seven years old when, sitting in the chair at the women’s hair salon, I asked the stylist to leave a little spot longer at the back.
+My mother would take me there for...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halloween 1998, Old Man with Old Wife]]></title>
+        <id>https://catapult.co/stories/krys-malcolm-belc-halloween-1998-old-man-with-old-wife</id>
+        <link href="https://catapult.co/stories/krys-malcolm-belc-halloween-1998-old-man-with-old-wife"/>
+        <updated>2021-06-15T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[by krysmalcolmbelc.
+
+On a Saturday in mid-October, we finger rubbery masks at Party City. 
+I am standing stock-still in the aisle, waiting quietly for Lauren’s permission to feel bonded to her in this new way. A joint...]]></summary>
+        <author>
+            <name>Catapult</name>
         </author>
     </entry>
     <entry>
@@ -8860,6 +10395,18 @@ Still a graduate stu…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shakespeare’s ‘Twelfth Night’ Taught Me About Being a Twin]]></title>
+        <id>https://catapult.co/stories/lindsey-trout-hughes-shakespeare-twelfth-night-twins-family-cancer</id>
+        <link href="https://catapult.co/stories/lindsey-trout-hughes-shakespeare-twelfth-night-twins-family-cancer"/>
+        <updated>2021-06-14T15:35:38.000Z</updated>
+        <summary type="html"><![CDATA[by lindseytrout.
+
+My twin sister and I are not carbon copies; we’re more like mirror images, our dominant hands on opposite sides. I used to imagine the moment of our birth: our mother on the surgical table and our...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Episode 9 – Shillfluencers (and the unspoken financial epidemic) — Crypto Critics’ Corner]]></title>
         <id>http://bennettftomlin.com/?p=3038</id>
         <link href="https://bennettftomlin.com/2021/06/14/episode-9-shillfluencers-and-the-unspoken-financial-epidemic-crypto-critics-corner/"/>
@@ -8919,6 +10466,32 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[Demographic Inevitability]]></summary>
         <author>
             <name>Fantastic Anachronism</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In the Pandemic, Cooking Connected Me to My Ancestors]]></title>
+        <id>https://catapult.co/stories/elizabeth-gollan-pandemic-cooking-family-history-jewish-food</id>
+        <link href="https://catapult.co/stories/elizabeth-gollan-pandemic-cooking-family-history-jewish-food"/>
+        <updated>2021-06-14T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[by elizabethgollan.
+
+Sometimes life gives you a sourdough baguette toasted with fresh ricotta cheese and homemade cherry preserves. Oysters. Handmade cheese from far corners of France. 
+It’s not hard to eat well, or...]]></summary>
+        <author>
+            <name>Catapult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billy Bosworth had a front seat to the database explosion]]></title>
+        <id>https://www.protocol.com/manuals/the-new-database/billy-bosworth-database-revolution</id>
+        <link href="https://www.protocol.com/manuals/the-new-database/billy-bosworth-database-revolution"/>
+        <updated>2021-06-14T08:33:58.000Z</updated>
+        <summary type="html"><![CDATA[This story is part of "The New Database," a Protocol Manual. Read more here.
+For a long time, database technology barely changed. So when it did, it was a major shift — and Billy Bosworth was there to witness it all.
+A college graduate of the University of Louisville in 1994, Bosworth knew that if he was hearing about the Oracle database in Kentucky, a state far from the bleeding edge of tech, it was going mainstream. So he dove into the industry and now, as CEO of Dremio, he's about as far as you could get from Oracle — at least, in the database world. 
+The startup, which has raised $250 million and is valued at $1 billion, specializes in data lakehouses, technology that Dremio proclaims will obliterate the need for data warehouses like Oracle's Autonomous Data Warehouse and up-and-comers…]]></summary>
+        <author>
+            <name>Joe Williams</name>
         </author>
     </entry>
     <entry>
@@ -9454,6 +11027,17 @@ The breach seems to have started with an attack on Microsoft products, including
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yuma]]></title>
+        <id>https://dark-mountain.net/?p=25967</id>
+        <link href="https://dark-mountain.net/yuma/"/>
+        <updated>2021-06-09T11:41:35.000Z</updated>
+        <summary type="html"><![CDATA[Laura  Coleman's heartbreaking story about the burial of a puma beside the forest river she loved.
+The post Yuma appeared first on Dark Mountain.]]></summary>
+        <author>
+            <name>Laura Coleman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - VW-Dieselskandal: Winterkorn, weitere Ex-Manager und deren Versicherungen sollen 288 Millionen Euro Schadenersatz zahlen]]></title>
         <id>https://www.nzz.ch/wirtschaft/vw-dieselskandal-staatsanwaltschaft-klagt-weitere-fuehrungskraefte-an-ld.1512256</id>
         <link href="https://www.nzz.ch/wirtschaft/vw-dieselskandal-staatsanwaltschaft-klagt-weitere-fuehrungskraefte-an-ld.1512256"/>
@@ -9573,6 +11157,16 @@ Frustrierte, vorwiegend weisse, heterosexuelle Männer, die sich als Verlierer d
 The post UFOs: The Silly Season Comes Early first appeared on Gwynne Dyer.]]></summary>
         <author>
             <name>Gwynne Dyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Powers]]></title>
+        <id>60bfbf9105bf5506c962ffeb</id>
+        <link href="https://commoncog.com/blog/7-powers-summary/"/>
+        <updated>2021-06-08T19:22:59.000Z</updated>
+        <summary type="html"><![CDATA[7 Powers is arguably the best book on business strategy currently available today.]]></summary>
+        <author>
+            <name>Cedric Chin</name>
         </author>
     </entry>
     <entry>

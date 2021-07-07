@@ -1238,6 +1238,22 @@
           "title": "Wood and Wood Paper Stamps - Update"
         }
       ]
+    },
+    {
+      "title": "Eric Jang",
+      "feedUrl": "https://blog.evjang.com/feeds/posts/default?alt=rss",
+      "siteUrl": "https://blog.evjang.com/",
+      "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-842965756326639856.post-5970994817156947316",
+          "author": "noreply@blogger.com (Unknown)",
+          "description": "Eric Jang, \"Ten Apes\", Jun 19 2021. NFT \"drop\" coming soon.\n\n\nAndy Warhol once said, “Art is what you can get away with.” I interpret the quote as a nihilistic take on “beauty is in the eye of the beholder” — a urinal you found in the junkyard can be considered art, so long as you convince someone to buy it, or showcase it in a museum. All that matters is what other people see in it and what buyers are willing to pay.\nThe 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In this essay I’ll explain what NFTs are by motivating them with some interesting real-world problems. Then I’ll discuss why the NFT craze for digital art generates so much ideologically contentious debate. Finally, I’ll discuss some parallels between artistic and financial nihilism, and how this might …",
+          "link": "https://blog.evjang.com/2021/06/nft.html",
+          "publishedOn": "2021-06-19T23:59:00.000Z",
+          "wordCount": 3037,
+          "title": "Stonks are What You Can Get Away With: NFTs and Financial Nihilism"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

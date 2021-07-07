@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:02:24.080Z</updated>
+    <updated>2021-07-07T19:03:25.366Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -1297,6 +1297,17 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Weeknote 26/2021]]></title>
+        <id>https://dougbelshaw.com/blog/?p=45638</id>
+        <link href="https://dougbelshaw.com/blog/2021/07/03/weeknote-26-2021/"/>
+        <updated>2021-07-03T12:55:37.000Z</updated>
+        <summary type="html"><![CDATA[What I've been up to this week.
+Weeknote 26/2021 first appeared on Open Thinkering.]]></summary>
+        <author>
+            <name>Doug Belshaw</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recaudación de fondos: Fondo de rescate de Anna]]></title>
         <id>https://c4ss.org/?p=55034</id>
         <link href="https://c4ss.org/content/55034"/>
@@ -1712,6 +1723,28 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Weeknote 25/2021]]></title>
+        <id>https://dougbelshaw.com/blog/?p=45630</id>
+        <link href="https://dougbelshaw.com/blog/2021/06/26/weeknote-25-2021/"/>
+        <updated>2021-06-26T10:56:51.000Z</updated>
+        <summary type="html"><![CDATA[What I've been up to this week.
+Weeknote 25/2021 first appeared on Open Thinkering.]]></summary>
+        <author>
+            <name>Doug Belshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walkways lined by abandoned gestures]]></title>
+        <id>https://dougbelshaw.com/blog/?p=45622</id>
+        <link href="https://dougbelshaw.com/blog/2021/06/26/the-human-condition/"/>
+        <updated>2021-06-26T10:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Reflections on what the work of Fernando Pessoa reveals about the human condition.
+Walkways lined by abandoned gestures first appeared on Open Thinkering.]]></summary>
+        <author>
+            <name>Doug Belshaw</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Élections sans électeurs]]></title>
         <id>https://www.monde-diplomatique.fr/2009/07/GARRIGOU/17593</id>
         <link href="https://www.monde-diplomatique.fr/2009/07/GARRIGOU/17593"/>
@@ -1923,6 +1956,17 @@ Thank you @PiyushLosalka]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Specialization is for insects]]></title>
+        <id>https://dougbelshaw.com/blog/?p=45606</id>
+        <link href="https://dougbelshaw.com/blog/2021/06/21/specialization-is-for-insects/"/>
+        <updated>2021-06-21T16:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Reflections on a quotation by Robert Heinlein.
+Specialization is for insects first appeared on Open Thinkering.]]></summary>
+        <author>
+            <name>Doug Belshaw</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[La non-violence offre des armes efficaces]]></title>
         <id>https://www.monde-diplomatique.fr/1973/01/MULLER/31291</id>
         <link href="https://www.monde-diplomatique.fr/1973/01/MULLER/31291"/>
@@ -2008,6 +2052,17 @@ Andy Warhol once said, “Art is what you can get away with.” I interpret the 
 The 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In this essay I’ll explain what NFTs are by motivating them with some interesting real-world problems. Then I’ll discuss why the NFT craze for digital art generates so much ideologically contentious debate. Finally, I’ll discuss some parallels between artistic and financial nihilism, and how this might …]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weeknote 24/2021]]></title>
+        <id>https://dougbelshaw.com/blog/?p=45599</id>
+        <link href="https://dougbelshaw.com/blog/2021/06/19/weeknote-24-2021/"/>
+        <updated>2021-06-19T08:06:14.000Z</updated>
+        <summary type="html"><![CDATA[What I've been up to this week.
+Weeknote 24/2021 first appeared on Open Thinkering.]]></summary>
+        <author>
+            <name>Doug Belshaw</name>
         </author>
     </entry>
     <entry>
@@ -2289,6 +2344,17 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[The El Salvador Bitcoin scheme is a barely-planned smash-and-grab.]]></summary>
         <author>
             <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weeknote 23/2021]]></title>
+        <id>https://dougbelshaw.com/blog/?p=45590</id>
+        <link href="https://dougbelshaw.com/blog/2021/06/11/weeknote-23-2021/"/>
+        <updated>2021-06-11T18:06:19.000Z</updated>
+        <summary type="html"><![CDATA[What I've been up to this week.
+Weeknote 23/2021 first appeared on Open Thinkering.]]></summary>
+        <author>
+            <name>Doug Belshaw</name>
         </author>
     </entry>
     <entry>

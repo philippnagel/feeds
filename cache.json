@@ -1889,6 +1889,67 @@
           "title": "Une ambiguïté fondamentale"
         }
       ]
+    },
+    {
+      "title": "Open Thinkering",
+      "feedUrl": "https://dougbelshaw.com/blog/feed/",
+      "siteUrl": "https://dougbelshaw.com/blog",
+      "articles": [
+        {
+          "id": "https://dougbelshaw.com/blog/?p=45638",
+          "author": "Doug Belshaw",
+          "description": "What I've been up to this week.\nWeeknote 26/2021 first appeared on Open Thinkering.",
+          "link": "https://dougbelshaw.com/blog/2021/07/03/weeknote-26-2021/",
+          "publishedOn": "2021-07-03T12:55:37.000Z",
+          "wordCount": 1072,
+          "title": "Weeknote 26/2021"
+        },
+        {
+          "id": "https://dougbelshaw.com/blog/?p=45630",
+          "author": "Doug Belshaw",
+          "description": "What I've been up to this week.\nWeeknote 25/2021 first appeared on Open Thinkering.",
+          "link": "https://dougbelshaw.com/blog/2021/06/26/weeknote-25-2021/",
+          "publishedOn": "2021-06-26T10:56:51.000Z",
+          "wordCount": 758,
+          "title": "Weeknote 25/2021"
+        },
+        {
+          "id": "https://dougbelshaw.com/blog/?p=45622",
+          "author": "Doug Belshaw",
+          "description": "Reflections on what the work of Fernando Pessoa reveals about the human condition.\nWalkways lined by abandoned gestures first appeared on Open Thinkering.",
+          "link": "https://dougbelshaw.com/blog/2021/06/26/the-human-condition/",
+          "publishedOn": "2021-06-26T10:20:55.000Z",
+          "wordCount": 834,
+          "title": "Walkways lined by abandoned gestures"
+        },
+        {
+          "id": "https://dougbelshaw.com/blog/?p=45606",
+          "author": "Doug Belshaw",
+          "description": "Reflections on a quotation by Robert Heinlein.\nSpecialization is for insects first appeared on Open Thinkering.",
+          "link": "https://dougbelshaw.com/blog/2021/06/21/specialization-is-for-insects/",
+          "publishedOn": "2021-06-21T16:42:56.000Z",
+          "wordCount": 976,
+          "title": "Specialization is for insects"
+        },
+        {
+          "id": "https://dougbelshaw.com/blog/?p=45599",
+          "author": "Doug Belshaw",
+          "description": "What I've been up to this week.\nWeeknote 24/2021 first appeared on Open Thinkering.",
+          "link": "https://dougbelshaw.com/blog/2021/06/19/weeknote-24-2021/",
+          "publishedOn": "2021-06-19T08:06:14.000Z",
+          "wordCount": 659,
+          "title": "Weeknote 24/2021"
+        },
+        {
+          "id": "https://dougbelshaw.com/blog/?p=45590",
+          "author": "Doug Belshaw",
+          "description": "What I've been up to this week.\nWeeknote 23/2021 first appeared on Open Thinkering.",
+          "link": "https://dougbelshaw.com/blog/2021/06/11/weeknote-23-2021/",
+          "publishedOn": "2021-06-11T18:06:19.000Z",
+          "wordCount": 803,
+          "title": "Weeknote 23/2021"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

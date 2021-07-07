@@ -188,6 +188,12 @@
       "feedUrl": "https://samczsun.com/rss/",
       "siteUrl": "https://samczsun.com/",
       "articles": []
+    },
+    {
+      "title": "Speculative Heresy",
+      "feedUrl": "https://speculativeheresy.wordpress.com/feed/",
+      "siteUrl": "https://speculativeheresy.wordpress.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

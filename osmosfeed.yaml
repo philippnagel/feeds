@@ -45,7 +45,8 @@ sources:
   - href: https://berthub.eu/articles/index.xml
   - href: https://www.xn--untergrund-blttle-2qb.ch/rss/aktuelle_artikel.rss
   - href: https://www.artstation.com/mitcharts.rss
- # - href: https://research.paradigm.xyz/
- # - href: https://edwardsnowden.substack.com
+# - href: https://research.paradigm.xyz/
+# - href: https://edwardsnowden.substack.com
   - href: https://distill.pub/
+  - href: http://www.hans-peter-bartels.de/feed/
 

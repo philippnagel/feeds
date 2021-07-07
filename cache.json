@@ -157,6 +157,31 @@
           "title": "A new study of crypto ownership"
         }
       ]
+    },
+    {
+      "title": "Historia Discordia",
+      "feedUrl": "http://historiadiscordia.com/feed/",
+      "siteUrl": "http://historiadiscordia.com",
+      "articles": [
+        {
+          "id": "http://historiadiscordia.com/?p=9730",
+          "author": "themgt",
+          "description": "Anonymously submitted entry for June Eris of the Month 2021. A burning Troy, the Trojan Horse, and a bad-ass nipple revealing Eris. Ah, when times were simpler. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.",
+          "link": "http://historiadiscordia.com/june-eris-of-the-month-2021-eris-trojan-horse/",
+          "publishedOn": "2021-06-29T02:47:04.000Z",
+          "wordCount": 765,
+          "title": "June Eris of the Month 2021: Eris Trojan Horse"
+        },
+        {
+          "id": "http://historiadiscordia.com/?p=9680",
+          "author": "Gorightly",
+          "description": "In his monograph Notes of a Neon Gringo, Kerry Thornley wrote: “When Robert Anton Wilson printed up letterheads for the Bavarian Illuminati, they carried the notice: ‘Safeguard this letter; it may be an important historical document.’ That was very much how I felt about my first little notebook, penned in 1975. I had just begun […]",
+          "link": "http://historiadiscordia.com/the-origins-of-the-thornley-oswald-manuscript/",
+          "publishedOn": "2021-06-16T03:28:21.000Z",
+          "wordCount": 1500,
+          "title": "The Origins of the Thornley/Oswald Manuscript"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

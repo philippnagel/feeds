@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T18:25:48.627Z</updated>
+    <updated>2021-07-07T18:27:47.558Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -403,6 +403,16 @@ Some major cities ranked by surveillance cameras per km]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[June Eris of the Month 2021: Eris Trojan Horse]]></title>
+        <id>http://historiadiscordia.com/?p=9730</id>
+        <link href="http://historiadiscordia.com/june-eris-of-the-month-2021-eris-trojan-horse/"/>
+        <updated>2021-06-29T02:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Anonymously submitted entry for June Eris of the Month 2021. A burning Troy, the Trojan Horse, and a bad-ass nipple revealing Eris. Ah, when times were simpler. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.]]></summary>
+        <author>
+            <name>themgt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.11.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
@@ -419,6 +429,16 @@ Changed: sources in template data is now ordered by last update timestamp (as op
 Thank you @PiyushLosalka]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Origins of the Thornley/Oswald Manuscript]]></title>
+        <id>http://historiadiscordia.com/?p=9680</id>
+        <link href="http://historiadiscordia.com/the-origins-of-the-thornley-oswald-manuscript/"/>
+        <updated>2021-06-16T03:28:21.000Z</updated>
+        <summary type="html"><![CDATA[In his monograph Notes of a Neon Gringo, Kerry Thornley wrote: “When Robert Anton Wilson printed up letterheads for the Bavarian Illuminati, they carried the notice: ‘Safeguard this letter; it may be an important historical document.’ That was very much how I felt about my first little notebook, penned in 1975. I had just begun […]]]></summary>
+        <author>
+            <name>Gorightly</name>
         </author>
     </entry>
 </feed>

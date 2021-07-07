@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T18:59:09.534Z</updated>
+    <updated>2021-07-07T19:00:24.114Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -1221,6 +1221,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[News: Binance vs. the world, VanEck ETF, Robinhood fined, AfriCrypt Ponzi, mass ransomware attack]]></title>
+        <id>https://davidgerard.co.uk/blockchain/?p=19887</id>
+        <link href="https://davidgerard.co.uk/blockchain/2021/07/03/news-binance-vs-the-world-vaneck-etf-robinhood-fined-africrypt-ponzi-mass-ransomware-attack/"/>
+        <updated>2021-07-03T20:56:01.000Z</updated>
+        <summary type="html"><![CDATA[I am Elmer J. FUD, nocoiner. I own a mansion and a yacht.]]></summary>
+        <author>
+            <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recaudación de fondos: Fondo de rescate de Anna]]></title>
         <id>https://c4ss.org/?p=55034</id>
         <link href="https://c4ss.org/content/55034"/>
@@ -1487,6 +1497,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[El Salvador: Chivo Wallet, Strike speaks, users test the system so far]]></title>
+        <id>https://davidgerard.co.uk/blockchain/?p=19835</id>
+        <link href="https://davidgerard.co.uk/blockchain/2021/06/29/el-salvador-chivo-wallet-mallers-speaks-users-test-the-system-so-far/"/>
+        <updated>2021-06-29T22:37:05.000Z</updated>
+        <summary type="html"><![CDATA["It's like watching a clown car slowly racing towards a trash fire. More clowns keep jumping in making the tragic, ever approaching end ever more ridiculous."]]></summary>
+        <author>
+            <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stimulus and Non-Critical Projects]]></title>
         <id>http://pedestrianobservations.com/?p=6373</id>
         <link href="https://pedestrianobservations.com/2021/06/29/stimulus-and-non-critical-projects/"/>
@@ -1514,6 +1534,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Anonymously submitted entry for June Eris of the Month 2021. A burning Troy, the Trojan Horse, and a bad-ass nipple revealing Eris. Ah, when times were simpler. Send us your Eris of the Month Club submissions (more info here) by using the form at the bottom of The MGT. page.]]></summary>
         <author>
             <name>themgt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin myths: immutability, decentralisation, and the cult of “21 million”]]></title>
+        <id>https://davidgerard.co.uk/blockchain/?p=19789</id>
+        <link href="https://davidgerard.co.uk/blockchain/2021/06/27/bitcoin-myths-immutability-decentralisation-and-the-cult-of-21-million/"/>
+        <updated>2021-06-27T22:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Decentralisation was always a phantom. Every process in Bitcoin tends to centralisation. Plus: a history of Bitcoin Cash.]]></summary>
+        <author>
+            <name>David Gerard</name>
         </author>
     </entry>
     <entry>
@@ -1821,6 +1851,16 @@ The 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[News: Stopping ransomware, China hates miners, Ecuador CBDC history, NFTs still too hard to buy]]></title>
+        <id>https://davidgerard.co.uk/blockchain/?p=19744</id>
+        <link href="https://davidgerard.co.uk/blockchain/2021/06/16/news-stopping-ransomware-china-hates-miners-ecuador-cbdc-history-nfts-still-too-hard-to-buy/"/>
+        <updated>2021-06-16T23:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Things happened that aren't in El Salvador!]]></summary>
+        <author>
+            <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Miniature Sheets with Materials Affixed - Update]]></title>
         <id>tag:blogger.com,1999:blog-3218389485258956159.post-5037573841197431337</id>
         <link href="https://philaquelymoi.blogspot.com/2021/06/miniature-sheets-with-materials-affixed.html"/>
@@ -1890,6 +1930,26 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[Hacker gangs go after the money—and the data]]></summary>
         <author>
             <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreign Policy:  El Salvador Is Printing Money With Bitcoin]]></title>
+        <id>https://davidgerard.co.uk/blockchain/?p=19732</id>
+        <link href="https://davidgerard.co.uk/blockchain/2021/06/15/foreign-policy-el-salvador-is-printing-money-with-bitcoin/"/>
+        <updated>2021-06-15T17:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Bukele doesn't want to de-dollarize El Salvador — he just wants to print his own dollars as well.]]></summary>
+        <author>
+            <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libra Shrugged is a Smashwords Father’s Day special — get your coupon here!]]></title>
+        <id>https://davidgerard.co.uk/blockchain/?p=19723</id>
+        <link href="https://davidgerard.co.uk/blockchain/2021/06/15/libra-shrugged-is-a-smashwords-fathers-day-special-get-your-coupon-here/"/>
+        <updated>2021-06-15T14:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Your father needs to hear how Facebook tried to plant a data miner atop all of commerce ... only to fall flat on their faces, tripped by their own hubris.]]></summary>
+        <author>
+            <name>David Gerard</name>
         </author>
     </entry>
     <entry>
@@ -1999,6 +2059,16 @@ Flock Stamps 
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned. The picture is scanned from my collection.]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Salvador passes its Bitcoin Law — and it’s a Tether scam]]></title>
+        <id>https://davidgerard.co.uk/blockchain/?p=19671</id>
+        <link href="https://davidgerard.co.uk/blockchain/2021/06/11/el-salvador-passes-its-bitcoin-law-and-its-a-tether-scam/"/>
+        <updated>2021-06-11T23:45:54.000Z</updated>
+        <summary type="html"><![CDATA[The El Salvador Bitcoin scheme is a barely-planned smash-and-grab.]]></summary>
+        <author>
+            <name>David Gerard</name>
         </author>
     </entry>
     <entry>

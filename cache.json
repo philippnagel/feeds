@@ -1632,6 +1632,76 @@
           "title": "A Look At Loki: Episodes 1-3"
         }
       ]
+    },
+    {
+      "title": "Attack of the 50 Foot Blockchain",
+      "feedUrl": "https://davidgerard.co.uk/blockchain/feed/",
+      "siteUrl": "https://davidgerard.co.uk/blockchain",
+      "articles": [
+        {
+          "id": "https://davidgerard.co.uk/blockchain/?p=19887",
+          "author": "David Gerard",
+          "description": "I am Elmer J. FUD, nocoiner. I own a mansion and a yacht.",
+          "link": "https://davidgerard.co.uk/blockchain/2021/07/03/news-binance-vs-the-world-vaneck-etf-robinhood-fined-africrypt-ponzi-mass-ransomware-attack/",
+          "publishedOn": "2021-07-03T20:56:01.000Z",
+          "wordCount": 4157,
+          "title": "News: Binance vs. the world, VanEck ETF, Robinhood fined, AfriCrypt Ponzi, mass ransomware attack"
+        },
+        {
+          "id": "https://davidgerard.co.uk/blockchain/?p=19835",
+          "author": "David Gerard",
+          "description": "\"It's like watching a clown car slowly racing towards a trash fire. More clowns keep jumping in making the tragic, ever approaching end ever more ridiculous.\"",
+          "link": "https://davidgerard.co.uk/blockchain/2021/06/29/el-salvador-chivo-wallet-mallers-speaks-users-test-the-system-so-far/",
+          "publishedOn": "2021-06-29T22:37:05.000Z",
+          "wordCount": 3134,
+          "title": "El Salvador: Chivo Wallet, Strike speaks, users test the system so far"
+        },
+        {
+          "id": "https://davidgerard.co.uk/blockchain/?p=19789",
+          "author": "David Gerard",
+          "description": "Decentralisation was always a phantom. Every process in Bitcoin tends to centralisation. Plus: a history of Bitcoin Cash.",
+          "link": "https://davidgerard.co.uk/blockchain/2021/06/27/bitcoin-myths-immutability-decentralisation-and-the-cult-of-21-million/",
+          "publishedOn": "2021-06-27T22:02:34.000Z",
+          "wordCount": 5113,
+          "title": "Bitcoin myths: immutability, decentralisation, and the cult of “21 million”"
+        },
+        {
+          "id": "https://davidgerard.co.uk/blockchain/?p=19744",
+          "author": "David Gerard",
+          "description": "Things happened that aren't in El Salvador!",
+          "link": "https://davidgerard.co.uk/blockchain/2021/06/16/news-stopping-ransomware-china-hates-miners-ecuador-cbdc-history-nfts-still-too-hard-to-buy/",
+          "publishedOn": "2021-06-16T23:08:59.000Z",
+          "wordCount": 3477,
+          "title": "News: Stopping ransomware, China hates miners, Ecuador CBDC history, NFTs still too hard to buy"
+        },
+        {
+          "id": "https://davidgerard.co.uk/blockchain/?p=19732",
+          "author": "David Gerard",
+          "description": "Bukele doesn't want to de-dollarize El Salvador — he just wants to print his own dollars as well.",
+          "link": "https://davidgerard.co.uk/blockchain/2021/06/15/foreign-policy-el-salvador-is-printing-money-with-bitcoin/",
+          "publishedOn": "2021-06-15T17:06:03.000Z",
+          "wordCount": 1088,
+          "title": "Foreign Policy:  El Salvador Is Printing Money With Bitcoin"
+        },
+        {
+          "id": "https://davidgerard.co.uk/blockchain/?p=19723",
+          "author": "David Gerard",
+          "description": "Your father needs to hear how Facebook tried to plant a data miner atop all of commerce ... only to fall flat on their faces, tripped by their own hubris.",
+          "link": "https://davidgerard.co.uk/blockchain/2021/06/15/libra-shrugged-is-a-smashwords-fathers-day-special-get-your-coupon-here/",
+          "publishedOn": "2021-06-15T14:29:17.000Z",
+          "wordCount": 827,
+          "title": "Libra Shrugged is a Smashwords Father’s Day special — get your coupon here!"
+        },
+        {
+          "id": "https://davidgerard.co.uk/blockchain/?p=19671",
+          "author": "David Gerard",
+          "description": "The El Salvador Bitcoin scheme is a barely-planned smash-and-grab.",
+          "link": "https://davidgerard.co.uk/blockchain/2021/06/11/el-salvador-passes-its-bitcoin-law-and-its-a-tether-scam/",
+          "publishedOn": "2021-06-11T23:45:54.000Z",
+          "wordCount": 4524,
+          "title": "El Salvador passes its Bitcoin Law — and it’s a Tether scam"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

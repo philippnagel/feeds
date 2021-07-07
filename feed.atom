@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T18:54:27.266Z</updated>
+    <updated>2021-07-07T18:55:27.138Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -232,6 +232,16 @@ Let’s all have a revisionist Fourth of July]]></summary>
         <summary type="html"><![CDATA[I’ve talked before on the subject of infrastructure as stimulus, arguing that it’s ideally used for projects with one-time costs and ongoing benefits. Tonight I want to discuss a specific aspect of this: jobs. American infrastructure projects always talk about how many jobs they will create as a benefit rather than as a cost, and […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Saudi-Emirati rift within OPEC is a sign of things to come]]></title>
+        <id>/content/tprj2jgpdu4fdlo2jvikuvf1mg94tt98</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/07/the-saudi-emirati-rift-within-opec-is-a-sign-of-things-to-come"/>
+        <updated>2021-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As demand eventually dwindles, some oil producers will be keener than others to turn reserves into cash]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
         </author>
     </entry>
     <entry>
@@ -1151,6 +1161,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Central banks face a daunting task: tapering without the tantrum]]></title>
+        <id>/content/qbjklasg55pb64tacba6a03o1jkkh8t8</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/04/central-banks-face-up-to-the-daunting-task-of-quitting-qe"/>
+        <updated>2021-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can they stop their bond-buying and avoid upending markets?]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recaudación de fondos: Fondo de rescate de Anna]]></title>
         <id>https://c4ss.org/?p=55034</id>
         <link href="https://c4ss.org/content/55034"/>
@@ -1182,6 +1202,36 @@ Zu dem Artikel: Windows 11: Mindestanforderungen für TPM, RAM und SecureBoot um
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>honeybee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong’s regulators try to push back against Chinese market practices]]></title>
+        <id>/content/31ibk8npqd0kh7pjinqke7cie2s7b77d</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/03/hong-kongs-regulators-try-to-push-back-against-chinese-market-practices"/>
+        <updated>2021-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A proposal to codify banking conduct could stir controversy]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The return of the carry trade]]></title>
+        <id>/content/i115m1ce2q62snhk0i8j96ece2bsvdie</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/03/the-return-of-the-carry-trade"/>
+        <updated>2021-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interest-rate rises in some big emerging markets will entice foreign capital]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stubborn optimism about China’s economy]]></title>
+        <id>/content/gs8ff2l6gvap90m2g6db04hjthqvfdmp</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/03/stubborn-optimism-about-chinas-economy-after-a-decade-on-the-ground"/>
+        <updated>2021-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After a decade on the ground, our correspondent is optimistic about the country’s prospects]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
         </author>
     </entry>
     <entry>
@@ -1224,6 +1274,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Peter Leeson’s book The Invisible Hook: The Hidden Economics of Pirates explores yet another fascinating account of how governance is possible under anarchy. Leeson distinguishes between the invisible hand (the “hidden order” present in metaphorical market anarchy) and the invisible hook (the “hidden order” in the literal anarchy of pirate societies). The main argument being...]]></summary>
         <author>
             <name>Emile Phaneuf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A global corporate-tax deal takes shape]]></title>
+        <id>/content/9va9ic3or7go8sonjutmvafumpfeho7p</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/02/a-global-corporate-tax-deal-takes-shape"/>
+        <updated>2021-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To get 130 jurisdictions to agree is remarkable. But plenty remains to be done]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
         </author>
     </entry>
     <entry>
@@ -1274,6 +1334,26 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[The Floyd rebellion is changing the world before our very eyes. What type of change and to what degree it will shift the balance of forces between rulers and ruled, haves and the have-nots remains to be seen. What is clear is that there is an active and open political contest to shape the outcome....]]></summary>
         <author>
             <name>Kali Akuno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to assess the costs and benefits of lockdowns]]></title>
+        <id>/content/cvi9s6i3gj6mpm25pnpridpmj27rkbrp</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/01/how-to-assess-the-costs-and-benefits-of-lockdowns"/>
+        <updated>2021-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The policy will stay in governments’ toolkits. A growing body of research will guide its use]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does America’s hot housing market still need propping up?]]></title>
+        <id>/content/ils0duc2qant798i5sl2aajkev2126bl</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/07/01/does-americas-hot-housing-market-still-need-propping-up"/>
+        <updated>2021-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fed officials debate whether and when to taper support]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
         </author>
     </entry>
     <entry>
@@ -1427,6 +1507,76 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Global markets adapt to a change in the Federal Reserve’s tone]]></title>
+        <id>/content/fbj3t5uldn3gchvvapbclvv7v3m5704m</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/24/global-markets-adapt-to-a-change-in-the-federal-reserves-tone"/>
+        <updated>2021-06-24T14:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Those betting on reflation and commodities lose out]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three corporate giants are posing a stiff test for Chinese banks]]></title>
+        <id>/content/hgn0ckpab2ln3vm842fdmlon8pfaqk03</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/24/three-corporate-giants-are-posing-a-stiff-test-for-chinese-banks"/>
+        <updated>2021-06-24T14:39:32.000Z</updated>
+        <summary type="html"><![CDATA[The country’s big lenders dare to be dull]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new phase in the financial cycle]]></title>
+        <id>/content/laj1n21d1sakc0eimnpc9pav7qq20rms</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/24/a-new-phase-in-the-financial-cycle"/>
+        <updated>2021-06-24T14:39:32.000Z</updated>
+        <summary type="html"><![CDATA[The Treasury-bond yield curve flattens]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An anniversary for free traders]]></title>
+        <id>/content/hep1vbc6jtdhfc0m3ni21gdai1vb14hd</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/24/an-anniversary-for-free-traders"/>
+        <updated>2021-06-24T14:39:32.000Z</updated>
+        <summary type="html"><![CDATA[How the Victorians fought for cheap food]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe’s biggest neobank wants to take over the world]]></title>
+        <id>/content/o45qsbl6dsodb9j912msvms3tnomkvd2</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/24/europes-biggest-neobank-wants-to-take-over-the-world"/>
+        <updated>2021-06-24T14:39:32.000Z</updated>
+        <summary type="html"><![CDATA[But can Revolut make money once the crypto mania ebbs?]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Economics needs to evolve]]></title>
+        <id>/content/fs62i773o5mjv1q19qk246jdpsssr2p1</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/24/economics-needs-to-evolve"/>
+        <updated>2021-06-24T14:39:32.000Z</updated>
+        <summary type="html"><![CDATA[There has been too much focus on equilibrium]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The international role of the euro]]></title>
+        <id>/content/2ldhn417558dle2b6bbsip90pp5c3f6u</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/24/the-international-role-of-the-euro"/>
+        <updated>2021-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Europe’s currency aspirations are getting a boost]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.11.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
@@ -1487,6 +1637,16 @@ It is personally to me a disappointing issue and gives me the reason to stop col
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Global markets adapt to a change in the Federal Reserve’s tone]]></title>
+        <id>/content/vihs90hlrbclb6ctihi6734if8iq14fi</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/20/global-markets-adapt-to-a-change-in-the-federal-reserves-tone"/>
+        <updated>2021-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After an unsettling week, investors have to retune]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stonks are What You Can Get Away With: NFTs and Financial Nihilism]]></title>
         <id>tag:blogger.com,1999:blog-842965756326639856.post-5970994817156947316</id>
         <link href="https://blog.evjang.com/2021/06/nft.html"/>
@@ -1501,6 +1661,16 @@ The 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is the pandemic accelerating automation? Don’t be so sure]]></title>
+        <id>/content/kv2mlus9s5nrbo4tompr6viq96ae2jtf</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/19/is-the-pandemic-accelerating-automation-dont-be-so-sure"/>
+        <updated>2021-06-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The pessimists could, of course, eventually be proven right]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Data is Overrated]]></title>
         <id>http://pedestrianobservations.com/?p=6290</id>
         <link href="https://pedestrianobservations.com/2021/06/18/data-is-overrated/"/>
@@ -1508,6 +1678,46 @@ The 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In t
         <summary type="html"><![CDATA[Ten years ago I blogged that smartphones would not have a revolutionary effect on public transportation. I think the trend since then has vindicated me – routing apps have not had visible impact on ridership, whereas traditional investments in better service have. I bring this up because a brief conversation with an Israeli public transportation […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will America’s housing boom lead to another financial crisis?]]></title>
+        <id>/content/okc3jr6skqg22nmdf7cs8hjamqq64udm</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/17/will-americas-housing-boom-lead-to-another-financial-crisis"/>
+        <updated>2021-06-17T14:58:23.000Z</updated>
+        <summary type="html"><![CDATA[It is hard not to feel uneasy, but lending standards are much higher]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why China has learned to relax about its currency]]></title>
+        <id>/content/52hc6a0sqeabvk768q7kl6cgser2m7pb</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/17/why-china-has-learned-to-relax-about-its-currency"/>
+        <updated>2021-06-17T14:58:23.000Z</updated>
+        <summary type="html"><![CDATA[In a sign of tolerance, it has not slammed the door on capital inflows]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America’s high-yield debt is on ever-shakier foundations]]></title>
+        <id>/content/tr9gp6t86vq4b7hdpv165m9fat9gn5ni</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/17/americas-high-yield-debt-is-on-ever-shakier-foundations"/>
+        <updated>2021-06-17T14:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Defaults may be heading lower but the market has become much riskier]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uneven vaccination rates are creating a new economic divide]]></title>
+        <id>/content/fgf6uta1h2jiqa7v7agd9lr1ssatfobq</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/17/uneven-vaccination-rates-are-creating-a-new-economic-divide"/>
+        <updated>2021-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They may also stoke fears of a new taper tantrum]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
         </author>
     </entry>
     <entry>
@@ -1570,6 +1780,16 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[In his monograph Notes of a Neon Gringo, Kerry Thornley wrote: “When Robert Anton Wilson printed up letterheads for the Bavarian Illuminati, they carried the notice: ‘Safeguard this letter; it may be an important historical document.’ That was very much how I felt about my first little notebook, penned in 1975. I had just begun […]]]></summary>
         <author>
             <name>Gorightly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The methods and menace of the new bank robbers]]></title>
+        <id>/content/5lbs87c9e7621iso1fea7btvvqogv0q8</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/16/the-methods-and-menace-of-the-new-bank-robbers"/>
+        <updated>2021-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hacker gangs go after the money—and the data]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
         </author>
     </entry>
     <entry>
@@ -1704,6 +1924,36 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Will empty shopfronts revive as New York comes back to life?]]></title>
+        <id>/content/snhhm44h5asp9rvdj8390pdae7kqa7c3</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/10/will-empty-shopfronts-revive-as-new-york-comes-back-to-life"/>
+        <updated>2021-06-10T14:44:58.000Z</updated>
+        <summary type="html"><![CDATA[A mismatch between what landlords and tenants want could hold things up]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the market for secondhand private-equity stakes is thriving]]></title>
+        <id>/content/pjvt5c06ha8vbt1au2aq7gm5sej6ma85</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/10/why-the-market-for-secondhand-private-equity-stakes-is-thriving"/>
+        <updated>2021-06-10T14:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Wherever there is a primary market, a secondary one is never far behind]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slow jobs growth may not be a bad sign for America’s recovery]]></title>
+        <id>/content/mc0t07gfld9bcmdcqth8ce6nb18u4oaa</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/10/slow-jobs-growth-may-not-be-a-bad-sign-for-americas-recovery"/>
+        <updated>2021-06-10T14:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Look beyond the tepid headline numbers, and hiring seems robust]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What City of Neighborhoods?]]></title>
         <id>http://pedestrianobservations.com/?p=6268</id>
         <link href="https://pedestrianobservations.com/2021/06/09/what-city-of-neighborhoods/"/>
@@ -1711,6 +1961,36 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[Here is a table of New York community boards, with their employed resident and job counts, broken down by how many people live and work in the same community board and how many in the same borough: Borough CB Emp. res. In same borough % In CB % Jobs From same borough % From CB […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreign asset managers are eyeing China’s vast pool of savings]]></title>
+        <id>/content/kpn50q93qk65vge5v97mb2cns2m5ajg7</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/10/foreign-asset-managers-are-eyeing-chinas-vast-pool-of-savings"/>
+        <updated>2021-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do they stand a chance against home-grown competitors?]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soaring factory prices in China add to global inflation fears]]></title>
+        <id>/content/6lbu3auilc1eq82se495djm7u1id2rhr</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/10/soaring-factory-prices-in-china-add-to-global-inflation-fears"/>
+        <updated>2021-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Long a source of cheap goods, is China now exporting higher prices?]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptocoins are proliferating wildly. What are they all for?]]></title>
+        <id>/content/hfs4ia7ibbtug6r932q0rd38jcc25svf</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/06/10/cryptocoins-are-proliferating-wildly-what-are-they-all-for"/>
+        <updated>2021-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They range from fads to potential rivals to bitcoin]]></summary>
+        <author>
+            <name>Finance &amp; economics</name>
         </author>
     </entry>
     <entry>

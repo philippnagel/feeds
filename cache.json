@@ -2305,6 +2305,20 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=75418",
+          "author": "Jeff Benson",
+          "description": "NFT movie platform VUELE says \"Zero Contact\" will be \"the world's first NFT feature film.\"",
+          "link": "https://decrypt.co/75418/oscar-winner-anthony-hopkins-next-film-will-be-nft",
+          "publishedOn": "2021-07-07T19:21:12.000Z",
+          "wordCount": 456,
+          "title": "Oscar Winner Anthony Hopkins’ Next Film Will Be an NFT",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Anthony-Hopkins-Hannibal-Lecter-gID_2.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://decrypt.co/?p=75402",
           "author": "Jeff John Roberts",
           "description": "The $15 million fine by New York state is the latest in a series of penalties to hit Robinhood. It also underscores the regulatory risk of operating in the crypto sphere.",
@@ -4097,6 +4111,37 @@
           "publishedOn": "2021-06-14T12:57:02.000Z",
           "wordCount": 3659,
           "title": "On the Pension Apocalypse"
+        }
+      ]
+    },
+    {
+      "title": "Meta-rationality",
+      "feedUrl": "https://metarationality.com/rss.xml",
+      "siteUrl": "https://metarationality.com/rss.xml",
+      "articles": []
+    },
+    {
+      "title": "grugq’s domain",
+      "feedUrl": "https://gru.gq/feed/",
+      "siteUrl": "https://gru.gq",
+      "articles": [
+        {
+          "id": "https://gru.gq/2021/07/05/regarding-the-kaseya-attack-some-answers/",
+          "author": "grugq",
+          "description": "Another spectacular raid by Russian ransom where gangs prompted a series of interesting questions by Catalin. I thought it would be worthwhile to address them. Here is the thread with the questions. I have inlined them below with my responses. Some questions in regards to the Kaseya incident: -How did REvil learn of the VSA […]",
+          "link": "https://gru.gq/2021/07/05/regarding-the-kaseya-attack-some-answers/",
+          "publishedOn": "2021-07-05T16:36:42.000Z",
+          "wordCount": 1723,
+          "title": "Regarding the Kaseya Attack, Some Answers"
+        },
+        {
+          "id": "https://gru.gq/2021/06/09/not-all-exploits-are-grey-in-the-dark/",
+          "author": "grugq",
+          "description": "Capabilities are not interchangeable, nor are they all equal. This seems obvious, and yet not everyone agrees (apparently). In this article about the six 0day exploits patched on June 7 2021, we have the following line: Kevin Breen, director of cyber threat research at Immersive Labs, said elevation of privilege flaws are just as valuable […]",
+          "link": "https://gru.gq/2021/06/09/not-all-exploits-are-grey-in-the-dark/",
+          "publishedOn": "2021-06-09T11:50:33.000Z",
+          "wordCount": 645,
+          "title": "Not all exploits are “grey in the dark”"
         }
       ]
     }

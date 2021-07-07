@@ -1513,6 +1513,12 @@
           "title": "Cryptocoins are proliferating wildly. What are they all for?"
         }
       ]
+    },
+    {
+      "title": "The Outline World Dispatch",
+      "feedUrl": "https://feeds.theoutline.com/globaldispatch",
+      "siteUrl": "https://theoutline.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

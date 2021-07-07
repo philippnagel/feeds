@@ -1950,6 +1950,23 @@
           "title": "Weeknote 23/2021"
         }
       ]
+    },
+    {
+      "title": "Placeholder Blog - Placeholder",
+      "feedUrl": "https://www.placeholder.vc/blog?format=RSS",
+      "siteUrl": "https://www.placeholder.vc/blog/",
+      "articles": [
+        {
+          "id": "5a479ee3b7411c6102f75729:5a81a80c0d92971a09518af4:60c9f6c7845d4919c7e74bfa",
+          "author": "Joel Monegro",
+          "description": "Yield is one of the most important primitives in financial markets. \r\nAlongside gains, it’s an expression of investment profits. But where gains \r\nstem from changes in the price of an asset – and are only realized when the \r\nasset is sold – yield is a measure of cash flows generated and distributed \r\nto the asset’s holder. While they are separate phenomena, yield informs the \r\nprice of an asset and vice versa. Element is a protocol that allows \r\ndevelopers and investors to harness the power of yield in their \r\napplications and strategies.",
+          "link": "https://www.placeholder.vc/blog/element-thesis",
+          "publishedOn": "2021-06-16T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Element Thesis",
+          "itunes": {}
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

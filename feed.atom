@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:03:25.366Z</updated>
+    <updated>2021-07-07T19:03:58.150Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -2133,6 +2133,23 @@ Weeknote 24/2021 first appeared on Open Thinkering.]]></summary>
         <summary type="html"><![CDATA[Things happened that aren't in El Salvador!]]></summary>
         <author>
             <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Element Thesis]]></title>
+        <id>5a479ee3b7411c6102f75729:5a81a80c0d92971a09518af4:60c9f6c7845d4919c7e74bfa</id>
+        <link href="https://www.placeholder.vc/blog/element-thesis"/>
+        <updated>2021-06-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yield is one of the most important primitives in financial markets. 
+Alongside gains, it’s an expression of investment profits. But where gains 
+stem from changes in the price of an asset – and are only realized when the 
+asset is sold – yield is a measure of cash flows generated and distributed 
+to the asset’s holder. While they are separate phenomena, yield informs the 
+price of an asset and vice versa. Element is a protocol that allows 
+developers and investors to harness the power of yield in their 
+applications and strategies.]]></summary>
+        <author>
+            <name>Joel Monegro</name>
         </author>
     </entry>
     <entry>

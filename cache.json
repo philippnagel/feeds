@@ -212,6 +212,166 @@
       "feedUrl": "http://www.richardprice.io/rss",
       "siteUrl": "https://www.richardprice.io/",
       "articles": []
+    },
+    {
+      "title": "Tarnkappe.info",
+      "feedUrl": "https://tarnkappe.info/feed/",
+      "siteUrl": "https://tarnkappe.info",
+      "articles": [
+        {
+          "id": "https://tarnkappe.info/?p=157332",
+          "author": "honeybee",
+          "description": "Dries Depoorter hat am Anfang dieser Woche sein Kunstprojekt „The Flemish Scrollers“ vorgestellt, welches Politikern einmal vor Augen führt, wie Überwachung Menschen in Zukunft...\nZu dem Artikel: Der Digitalkünstler Dries Depoorter präsentiert belgische Parlamentarier in „Die flämischen Bildschirmschubser“\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/der-digitalkuenstler-dries-depoorter-praesentiert-belgische-parlamentarier-in-die-flaemischen-bildschirmschubser/",
+          "publishedOn": "2021-07-07T17:50:36.000Z",
+          "wordCount": 682,
+          "title": "Der Digitalkünstler Dries Depoorter präsentiert belgische Parlamentarier in „Die flämischen Bildschirmschubser“"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=157299",
+          "author": "Antonia Frank",
+          "description": "Wie die Generalstaatsanwaltschaft Bamberg am Dienstag mitteilte, sei es der Bundespolizei am 1. Juli gelungen, quasi in letzter Sekunde, am Flughafen Frankfurt am Main...\nZu dem Artikel: Anlagebetrüger inhaftiert: mittels Krypto-Investitionen 62 Bitcoins erbeutet\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/anlagebetrueger-inhaftiert-mittels-krypto-investitionen-62-bitcoins-erbeutet/",
+          "publishedOn": "2021-07-07T12:55:59.000Z",
+          "wordCount": 691,
+          "title": "Anlagebetrüger inhaftiert: mittels Krypto-Investitionen 62 Bitcoins erbeutet"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156988",
+          "author": "Lars Sobiraj",
+          "description": "Die Zusammenarbeit zwischen der Antipiraterie-Firma Alliance For Creativity and Entertainment (ACE) und des Filmverbandes Motion Picture Association (MPA) trägt Früchte. Doch im Fokus der...\nZu dem Artikel: ACE/MPA kapern weitere Domains, Cloudflare soll myGully enttarnen\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/ace-mpa-kapern-weitere-domains-cloudflare-soll-mygully-enttarnen/",
+          "publishedOn": "2021-07-07T11:16:59.000Z",
+          "wordCount": 725,
+          "title": "ACE/MPA kapern weitere Domains, Cloudflare soll myGully enttarnen"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156975",
+          "author": "Sunny",
+          "description": "Herzlich willkommen zu einer „Bergfest„-Ausgabe unserer Tarnkappe.info-Lesetipps. Heute geht es bei uns unter anderem noch einmal um das leidige, aber in hohem Maße relevante...\nZu dem Artikel: Lesetipps: Binance vs. Euro, SpaceX und Starlink für Nerds, Glücksspiel\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/lesetipps-binance-vs-euro-spacex-und-starlink-fuer-nerds-gluecksspiel/",
+          "publishedOn": "2021-07-07T11:11:10.000Z",
+          "wordCount": 990,
+          "title": "Lesetipps: Binance vs. Euro, SpaceX und Starlink für Nerds, Glücksspiel"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156667",
+          "author": "Antonia Frank",
+          "description": "Die Abgeordneten des Europäischen Parlaments stimmen heute über die ePrivacy-Ausnahmeverordnung ab. Diese wird Anbietern von E-Mail-, Chat- und Messengerdiensten künftig quasi als Ausnahme beim...\nZu dem Artikel: ePrivacy-Ausnahmeverordnung bringt E‑Kommunikations-Überwachung\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/eprivacy-ausnahmeverordnung-bringt-e%e2%80%91kommunikations-ueberwachung/",
+          "publishedOn": "2021-07-06T18:25:13.000Z",
+          "wordCount": 853,
+          "title": "ePrivacy-Ausnahmeverordnung bringt E‑Kommunikations-Überwachung"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156699",
+          "author": "Sunny",
+          "description": "Herzlich willkommen zu einer neuen Ausgabe unserer Tarnkappe.info-Lesetipps. Kryptowährungen und immer größer werdende Ransomware-Angriffe schaffen es in den letzten Tagen und Wochen regelmäßig in...\nZu dem Artikel: Lesetipps: Ein erschreckendes Ausmaß an Unkenntnis, Operation Lyrebird\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/lesetipps-ein-erschreckendes-ausmass-an-unkenntnis-operation-lyrebird/",
+          "publishedOn": "2021-07-06T16:07:20.000Z",
+          "wordCount": 990,
+          "title": "Lesetipps: Ein erschreckendes Ausmaß an Unkenntnis, Operation Lyrebird"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156765",
+          "author": "Antonia Frank",
+          "description": "Im Zuge einer europaweiten Auswertung von EncroChat Handys ist der Polizei auch in Brandenburg ein Schlag gegen die organisierte Drogenkriminalität gelungen. Dabei erfreute sich...\nZu dem Artikel: EncroChat-Entschlüsselung: weitere 24 Haftbefehle in Brandenburg\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/encrochat-entschluesselung-weitere-24-haftbefehle-in-brandenburg/",
+          "publishedOn": "2021-07-06T14:14:06.000Z",
+          "wordCount": 694,
+          "title": "EncroChat-Entschlüsselung: weitere 24 Haftbefehle in Brandenburg"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156563",
+          "author": "Lars Sobiraj",
+          "description": "Crimemarket versus crime.to: Die Anhänger eines Fraud-Forums wollen für einen Monat viel Geld ausgeben, um den Betreibern eines anderen Fraud-Forums das Leben schwer zu...\nZu dem Artikel: Zugang zu crime.to soll einen Monat lang blockiert werden\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/zugang-zu-crime-to-soll-einen-monat-lang-blockiert-werden/",
+          "publishedOn": "2021-07-06T04:48:23.000Z",
+          "wordCount": 702,
+          "title": "Zugang zu crime.to soll einen Monat lang blockiert werden"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156466",
+          "author": "Antonia Frank",
+          "description": "Die Eröffnung des Hauptverfahrens gegen einen 31-jährigen Drogendealer verwarf das Landgericht (LG) Berlin in einem Beschluss am vergangenen Donnerstag. Es bestimmte, dass die von...\nZu dem Artikel: LG Berlin spricht sich gegen Daten-Verwendung von EncroChat-Hack aus\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/lg-berlin-spricht-sich-gegen-daten-verwendung-von-encrochat-hack-aus/",
+          "publishedOn": "2021-07-05T18:03:08.000Z",
+          "wordCount": 936,
+          "title": "LG Berlin spricht sich gegen Daten-Verwendung von EncroChat-Hack aus"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=156245",
+          "author": "Sunny",
+          "description": "Herzlich willkommen zu einer neuen Ausgabe unserer Tarnkappe.info-Lesetipps. Eine Lösegeldforderung von unglaublichen 70 Millionen US-Dollar in Bitcoin ist das Resultat eines in hohem Maße...\nZu dem Artikel: Lesetipps: Ein weltweiter Cyberangriff, digitale Gewalt, Drucker-Albträume\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/lesetipps-ein-weltweiter-cyberangriff-digitale-gewalt-drucker-albtraeume/",
+          "publishedOn": "2021-07-05T16:09:48.000Z",
+          "wordCount": 1074,
+          "title": "Lesetipps: Ein weltweiter Cyberangriff, digitale Gewalt, Drucker-Albträume"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=155993",
+          "author": "Lars Sobiraj",
+          "description": "Anfang 2016 existierten noch nicht so viele 4K-Film- und Serien-Mitschnitte. Auch die Technik für Fernsehgeräte und Monitore hat sich seitdem sehr stark weiterentwickelt. Somit...\nZu dem Artikel: NIMA4K im Interview – der Hotspot für hochauflösende Serien und Filme\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/nima4k-im-interview-der-hotspot-fuer-hochaufloesende-serien-und-filme/",
+          "publishedOn": "2021-07-05T11:08:21.000Z",
+          "wordCount": 2681,
+          "title": "NIMA4K im Interview – der Hotspot für hochauflösende Serien und Filme"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=155792",
+          "author": "honeybee",
+          "description": "Nintendo gewann im Mai 2021 einen Rechtsstreit gegen den Betreiber Matthew Storman von RomUniverse. Dieser wurde damals zur Zahlung von 2,1 Millionen Dollar Schadenersatz...\nZu dem Artikel: RomUniverse: Nintendo erhält vereinbarte Entschädigung über 50$ monatlich nicht\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/romuniverse-nintendo-erhaelt-vereinbarte-entschaedigung-ueber-50-monatlich-nicht/",
+          "publishedOn": "2021-07-04T18:18:21.000Z",
+          "wordCount": 654,
+          "title": "RomUniverse: Nintendo erhält vereinbarte Entschädigung über 50$ monatlich nicht"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=155764",
+          "author": "Antonia Frank",
+          "description": "Hohe Haftstrafen erfolgten für die drei Betreiber vom Wallstreet Market. Das Landgericht Frankfurt sprach am Freitag in einem Urteil Gefängnisstrafen zwischen fünf Jahren und...\nZu dem Artikel: Wallstreet Market: Hohe Haftstrafen für Betreiber des Online-Shops\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/wallstreet-market-hohe-haftstrafen-fuer-betreiber-des-online-shops/",
+          "publishedOn": "2021-07-04T18:10:28.000Z",
+          "wordCount": 960,
+          "title": "Wallstreet Market: Hohe Haftstrafen für Betreiber des Online-Shops"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=155552",
+          "author": "Lars Sobiraj",
+          "description": "„Russlands Zuckerberg“, wie Pavel Durov gerne von manchen Medien genannt wird, hat mit Telegram einen Messenger-Dienst erschaffen, der sich bisher recht erfolgreich der Kontrolle...\nZu dem Artikel: Telegram: bald mehr als 2.500 Teilnehmer in unserer öffentlichen Gruppe!\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/telegram-bald-mehr-als-2-500-teilnehmer-in-unserer-oeffentlichen-gruppe/",
+          "publishedOn": "2021-07-04T05:26:53.000Z",
+          "wordCount": 1211,
+          "title": "Telegram: bald mehr als 2.500 Teilnehmer in unserer öffentlichen Gruppe!"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=155215",
+          "author": "Lars Sobiraj",
+          "description": "Hey, aufwachen, ihr Schlafmützen! Die Arbeitswoche ist rum! Es ist Zeit, die wenigen Stunden des Wochenendes zu genießen. Sunny und Ghandy waren heute schon...\nZu dem Artikel: Lesetipps: DSGVO-Bußgelder & andere Zwischenfälle, ein Geburtstag\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/lesetipps-dsgvo-bussgelder-andere-zwischenfaelle-ein-geburtstag/",
+          "publishedOn": "2021-07-03T09:34:22.000Z",
+          "wordCount": 1140,
+          "title": "Lesetipps: DSGVO-Bußgelder & andere Zwischenfälle, ein Geburtstag"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=155357",
+          "author": "honeybee",
+          "description": "Microsofts neues Betriebssystem Windows 11 setzt zur Installation ein Trusted Platform Modul 2.0 (TPM), 4 GB RAM und SecureBoot voraus. Mithilfe des integrierten Registry Editors...\nZu dem Artikel: Windows 11: Mindestanforderungen für TPM, RAM und SecureBoot umgehen\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/windows-11-mindestanforderungen-fuer-tpm-ram-und-secureboot-umgehen/",
+          "publishedOn": "2021-07-03T08:49:42.000Z",
+          "wordCount": 701,
+          "title": "Windows 11: Mindestanforderungen für TPM, RAM und SecureBoot umgehen"
+        },
+        {
+          "id": "https://tarnkappe.info/?p=155022",
+          "author": "Sunny",
+          "description": "As already mentioned, iodéOS is an Android operating system based on LineageOS with a special focus on privacy. The manufacturer claims that the user...\nZu dem Artikel: iodéOS – does the data saving Android operating system fulfill its promise?\nTarnkappe.info - Unter dem Radar",
+          "link": "https://tarnkappe.info/iodeos-does-the-data-saving-android-operating-system-fulfill-its-promise/",
+          "publishedOn": "2021-07-02T15:16:24.000Z",
+          "wordCount": 1871,
+          "title": "iodéOS – does the data saving Android operating system fulfill its promise?"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

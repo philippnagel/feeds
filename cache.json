@@ -1,0 +1,163 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "author": null,
+          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "publishedOn": "2021-06-23T05:57:59.000Z",
+          "wordCount": 370,
+          "title": "v1.11.0"
+        }
+      ]
+    },
+    {
+      "title": "Marginal Revolution",
+      "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&x=1",
+      "siteUrl": "http://marginalrevolution.com",
+      "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=81460",
+          "author": "Tyler Cowen",
+          "description": "That is the topic of my latest Bloomberg column, here is one part: In economic terms, the private value of internet security is often less than the public value. A ransomware attack that results in only a slight decrease in profits for a business could translate into a major social inconvenience. One consolation is that […]\n\r\nThe post The economics of ransomware attacks appeared first on Marginal REVOLUTION.\n\r\n      \nRelated Stories\n\nWyoming fact of the day\nIn which ways are Democratic economists Democrats? (or not)\nWhich media have proven sticky as pandemic has diminished?",
+          "link": "https://feeds.feedblitz.com/~/656866152/0/marginalrevolution~The-economics-of-ransomware-attacks.html",
+          "publishedOn": "2021-07-07T18:03:47.000Z",
+          "wordCount": 366,
+          "title": "The economics of ransomware attacks"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81455",
+          "author": "Tyler Cowen",
+          "description": "1. Minerva Schools, for those of you who haven’t heard of it.  And Woolf University. 2. “The implication of the birthday paper is that, at the height of the pandemic, there were not very big differences in private behavior according to party, even if public behavior was different.” Link here. 3. Wikipedia page for Zemmour.  […]\n\r\nThe post Wednesday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to M.   Does Affirmative Action actually exist in ... by Boonton\nIn reply to Zaua.   “Oh, we're not discriminating against ... by M\n3b: The complacent (cl)ass   it’s nonetheless evident that ... by Alastair\nIn reply to Anonymous.   So say, for example conservatives are ... by Boonton\nThe red memory, the foam of sybil and indeed: I am a blue dove ... by Equestrian\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/656859456/0/marginalrevolution~Wednesday-assorted-links.html",
+          "publishedOn": "2021-07-07T16:51:34.000Z",
+          "wordCount": 330,
+          "title": "Wednesday assorted links"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81440",
+          "author": "Alex Tabarrok",
+          "description": "Like Michael Lewis’s The Premonition which I reviewed earlier, Andy Slavitt’s Preventable is a story of heroes, only all the heroes are named Andy Slavitt. It begins, as all such stories do, with an urgent call from the White House…the President needs you now! When not reminding us (e.g. xv, 14, 105, 112, 133, 242, […]\n\r\nThe post Book Review: Andy Slavitt’s Preventable appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to John.   Find me the study or product warranty that ... by Anti-Gnostic\nIn reply to JFA.   I really hated his toxic relationship with ... by Dino the Isaurian\nIn reply to JWatts.   Your comment does not address any aspect ... by K\nIn reply to Anti-Gnostic.   “Work, how? Masks are not PPE ... by John\nIn reply to Boonton.   Trump was a moron, but somehow his ... by Sure\nPlus 10 more...\n\nRelated Stories\n\nThe Premonition\nLet’s all have a revisionist Fourth of July\nUse Fractional Dosing to Speed Vaccination and Save Lives",
+          "link": "https://feeds.feedblitz.com/~/656833676/0/marginalrevolution~Book-Review-Andy-Slavitts-Preventable.html",
+          "publishedOn": "2021-07-07T11:25:53.000Z",
+          "wordCount": 1754,
+          "title": "Book Review: Andy Slavitt’s Preventable"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81454",
+          "author": "Tyler Cowen",
+          "description": "In a series of tweets (try this one), Matt Yglesias has been arguing that academic economists are far more Democratic than the U.S. population as a whole, though less left-wing than most other academics.  I agree with his claims, which are backed by plenty of data, but I wish to add some further thoughts. Very […]\n\r\nThe post In which ways are Democratic economists Democrats? (or not) appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Anon.   The existence of Marxian economists kind of ... by Well\nIn reply to Bob Sanderson.   Republicans are left wing as well ... by Agree\nWhere is the Public Choice perspective?   Economic policies ... by B.B.\nIn reply to WB.   “First, many of Mexico’s policy problems ... by Floccina\nIn reply to M.   The point is you need to fix other parts of ... by Ricardo\nPlus 10 more...\n\nRelated Stories\n\nThe Public Choice Outreach Conference!\nA new study of crypto ownership\nLet’s all have a revisionist Fourth of July",
+          "link": "https://feeds.feedblitz.com/~/656810785/0/marginalrevolution~In-which-ways-are-Democratic-economists-Democrats-or-not.html",
+          "publishedOn": "2021-07-07T05:02:36.000Z",
+          "wordCount": 1028,
+          "title": "In which ways are Democratic economists Democrats? (or not)"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81448",
+          "author": "Tyler Cowen",
+          "description": "“One highlight of the night, aside from the enormous spread of pies, was chatting with former Sen. Bill Nelson, now the head of NASA, and hearing him talk about the recent UFO report — he’s convinced life is out there somewhere” Here is the context, if you are curious, though you shouldn’t be.  Via the […]\n\r\nThe post Very good sentences appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to anonymous.   Dealing with this information, Must ... by Atom channeling David Mamet\nIn reply to dearieme.   “Venona messages also indicated that ... by TMC\nIn reply to Etalon d'Silomar.   Tyler : Rogan   A) Charlie ... by Faze\nIn reply to So Much For Subtlety.   “even though, you know, ... by dearieme\nIn reply to So Much For Subtlety.   And there was the Vast ... by Rich Berger\nPlus 10 more...\n\nRelated Stories\n\nThe separating equilibrium (a ban by any other name?)",
+          "link": "https://feeds.feedblitz.com/~/656794082/0/marginalrevolution~Very-good-sentences.html",
+          "publishedOn": "2021-07-06T23:38:21.000Z",
+          "wordCount": 281,
+          "title": "Very good sentences"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81407",
+          "author": "Tyler Cowen",
+          "description": "“They can outfight snakes 10 to 30 times their size,” says the University of Basel in Switzerland. According to a new meta-analysis study, perhaps snakes should be fearful of spiders. It seems arachnids like to chow down on the reptiles, all over the world. The study, published in The Journal of Arachnology, has the straightforward […]\n\r\nThe post Scientists discover spiders are eating snakes all over the world appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Sam Yule L. Jacksen.   Okay, that's pretty funny ... by Morris Applebaum IV\nspiders eating snakes   the american state department is ... by maskedswedishcannibals\nIn reply to mkt42.   There are plenty of videos of praying ... by Ricardo\nIn reply to Sneed.   Spiders>snakes>Sneed by Walter\nIn reply to Crikey.   Our wise and superior socialist leaders ... by Sneed\nPlus 10 more...\n\nRelated Stories\n\nUse Fractional Dosing to Speed Vaccination and Save Lives\nFacts and uncertainties about ear wax\nNematodes Maximize Expected Utility",
+          "link": "https://feeds.feedblitz.com/~/656776664/0/marginalrevolution~Scientists-discover-spiders-are-eating-snakes-all-over-the-world.html",
+          "publishedOn": "2021-07-06T18:49:27.000Z",
+          "wordCount": 396,
+          "title": "Scientists discover spiders are eating snakes all over the world"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81445",
+          "author": "Tyler Cowen",
+          "description": "1. Taiwan and TSMC dependence. 2. Claims about necks. 3. Replicable mask results. 4. Rigged for thee but not for me? 5. Can individual investors beat the market? 6. “With low level of infections, vaccines may (depending on testing strategy, but especially with universal or random testing) appear ineffective simply because of randomness due to […]\n\r\nThe post Tuesday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Anti-Gnostic.   To be honest we might be ok if you ... by Boonton\nIn reply to Boonton.   You seem a little touchy. Are you still ... by Anti-Gnostic\nIn reply to Anti-Gnostic.   Moron, patients still get ... by Boonton\nIn reply to MikeP.   So now you're creating a rather special ... by Boonton\nIn reply to K.   It seems like if there is any group of ... by Scott C\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/656768570/0/marginalrevolution~Tuesday-assorted-links.html",
+          "publishedOn": "2021-07-06T16:28:49.000Z",
+          "wordCount": 285,
+          "title": "Tuesday assorted links"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81451",
+          "author": "Alex Tabarrok",
+          "description": "I’ve been shouting about fractional dosing since January, most recently with my post A Half Dose of Moderna is More Effective Than a Full Dose of AstraZeneca and the associated paper with Michael Kremer and co-authors. Yesterday we saw some big movement. Writing in Nature Medicine, WHO epidemiologists Benjamin Cowling and Wey Wen Lim and […]\n\r\nThe post Use Fractional Dosing to Speed Vaccination and Save Lives appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to dan1111.   It's not nearly as speculative as would ... by Boonton\nIn reply to dan1111.   Not only that, dan1111. You can see how ... by Walter\nIn reply to Dr. joe bidens alsatian, ph.d.   So you apparently ... by Walter\nIn reply to Boonton@gmail.com.   This argument relies heavily ... by dan1111\nIn reply to dan1111.   “To the layperson, if you were short ... by dan1111\nPlus 10 more...\n\nRelated Stories\n\nFacts and uncertainties about ear wax\nNematodes Maximize Expected Utility\nLet’s all have a revisionist Fourth of July",
+          "link": "https://feeds.feedblitz.com/~/656728624/0/marginalrevolution~Use-Fractional-Dosing-to-Speed-Vaccination-and-Save-Lives.html",
+          "publishedOn": "2021-07-06T11:28:00.000Z",
+          "wordCount": 1102,
+          "title": "Use Fractional Dosing to Speed Vaccination and Save Lives"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81443",
+          "author": "Alex Tabarrok",
+          "description": "The Public Choice Outreach Conference, a compact lecture series designed as a “crash course” in Public Choice for students planning careers in academia, journalism, law, or public policy, will be online this year–a week of noon to 1:15 (EST) Zooms, August 2-7. Monday, August 2 An Introduction to Public Choice—Alex Tabarrok Tuesday, August 3 Arrow’s […]\n\r\nThe post The Public Choice Outreach Conference! appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nBy: Wednesday Links – Vega Theory\t\t by Wednesday Links – Vega Theory\nIn reply to Alex Tabarrok.   Thanks Alex by Ramagopal\nIn reply to Ramagopal.   People from all over the world are ... by Alex Tabarrok\nWonder if the lecture on democratic institutions would ever ... by john\nDo apply! We are going to be quite liberal. by Alex Tabarrok\nPlus 9 more...\n\nRelated Stories\n\nA new study of crypto ownership\nUse Fractional Dosing to Speed Vaccination and Save Lives\nAbolishing tenure is the least of my proposals",
+          "link": "https://feeds.feedblitz.com/~/656728626/0/marginalrevolution~The-Public-Choice-Outreach-Conference.html",
+          "publishedOn": "2021-07-06T11:25:24.000Z",
+          "wordCount": 347,
+          "title": "The Public Choice Outreach Conference!"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81449",
+          "author": "Tyler Cowen",
+          "description": "In my latest Bloomberg column I attempt to design an ideal university from scratch.  The point is not that all schools should be this way, rather this is the experiment I would like to see at the margin: I would start with what I expect students to know. They should be able to write very […]\n\r\nThe post Abolishing tenure is the least of my proposals appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Rebes.   Some states already do this ... by Thomas Sewell\nIn reply to weichi.   This is excellent point. I would also add ... by Jim Sanders\nIn reply to jerseycityjoan.   Surely MRU has some videos on ... by Anti-Gnostic\nReplace the signaling mechanism with standardized tests. (Yes, ... by fintech revolution\nIn reply to Tom Meadowcroft.   Your comment is depressing but I ... by jerseycityjoan\nPlus 10 more...\n\nRelated Stories\n\nA new study of crypto ownership\nBullshit Ability as an Honest Signal of Intelligence\nLet’s all have a revisionist Fourth of July",
+          "link": "https://feeds.feedblitz.com/~/656705012/0/marginalrevolution~Abolishing-tenure-is-the-least-of-my-proposals.html",
+          "publishedOn": "2021-07-06T04:55:27.000Z",
+          "wordCount": 793,
+          "title": "Abolishing tenure is the least of my proposals"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81447",
+          "author": "Tyler Cowen",
+          "description": "Wyoming—the first US state to grant a charter to a crypto bank—has approved legal status for a decentralized autonomous organization (DAO), the American CryptoFed DAO, according to an announcement on Sunday. The organization, which has a mission to introduce a new monetary system, now becomes the first legally recognized DAO in the U.S. It comes […]\n\r\nThe post Wyoming fact of the day appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nThis triggered the thought that “crypto is the new wildcat ... by Les Cargill\nIn reply to Kris Bitney.   dOrg is legally recognized as an LLC ... by Kris Bitney\nIt is not the first legally recognized DAO in the US. dOrg has ... by Kris Bitney\nIn reply to Kaleberg.   Because when traditional banks fail, ... by jayson\nIn reply to Dennis Duffy.   You do better. by Bill\nPlus 10 more...\n\nRelated Stories\n\nWhich media have proven sticky as pandemic has diminished?\nLiving under guardianship is worse than you think\nBanning Payday Loans Harms Borrowers",
+          "link": "https://feeds.feedblitz.com/~/656687687/0/marginalrevolution~Wyoming-fact-of-the-day.html",
+          "publishedOn": "2021-07-05T23:36:36.000Z",
+          "wordCount": 394,
+          "title": "Wyoming fact of the day"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81444",
+          "author": "Tyler Cowen",
+          "description": "The single biggest new media habit to be formed during the pandemic appears to be gaming. The extra hour per week that people spent gaming last year represented the largest percentage increase of any media category. And unlike other lockdown hobbies, it is showing no sign of falling away as life gets back to normal. […]\n\r\nThe post Which media have proven sticky as pandemic has diminished? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Fazal Majid.   To some extent those businesses are ... by Dino the Isaurian\nIn reply to Ricardo.   Yes, and once you've played enough games ... by g\nI had started before the pandemic but the pandemic has ... by Paul H\nIn the much smaller but adjacent tabletop gaming industry, YoY ... by Isaac Shalev\nIn reply to Dino the Isaurian.   “Books of the printed ... by JSK\nPlus 10 more...\n\nRelated Stories\n\nBulletin!\nBulletin: a more than marginal boost for Marginal Revolution",
+          "link": "https://feeds.feedblitz.com/~/656679900/0/marginalrevolution~Which-media-have-proven-sticky-as-pandemic-has-diminished.html",
+          "publishedOn": "2021-07-05T21:53:29.000Z",
+          "wordCount": 431,
+          "title": "Which media have proven sticky as pandemic has diminished?"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81423",
+          "author": "Tyler Cowen",
+          "description": "About one hour long, from one of Canada’s classical liberal groups, Institute for Liberal Studies, here are some links: Podbean: Click here Apple Podcasts: Click Here Spotify: Click Here\n\r\nThe post Curious Task podcast, food in Canada and revisiting *An Economist Gets Lunch* appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nThere is no 'American' food without immigrants. They are the ... by Andrew\nFirst, it's charming to hear this guy talk in a sort of Ike ... by gnama gnama\n[…] Read More […] by Curious Task podcast, food in Canada and revisiting *An Economist Gets Lunch* - Marginal REVOLUTION - INFOSHRI\nAppropriate timing: the end of the restaurant lock-down! ... by rayward",
+          "link": "https://feeds.feedblitz.com/~/656664452/0/marginalrevolution~Curious-Task-podcast-food-in-Canada-and-revisiting-An-Economist-Gets-Lunch.html",
+          "publishedOn": "2021-07-05T18:22:35.000Z",
+          "wordCount": 265,
+          "title": "Curious Task podcast, food in Canada and revisiting *An Economist Gets Lunch*"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81437",
+          "author": "Tyler Cowen",
+          "description": "1. The license plate culture that is Maine. 2. Some speculations about rising crime rates. 3. Three-minute TikTok?  Why isn’t this bigger news? 4. A slightly different diagnosis of “the epistemic crisis.” 5. “Manufacturers can’t produce leading-edge chips without the system, and “it is only made by the Dutch firm ASML,”” (NYT) 6. “Beware the […]\n\r\nThe post Monday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Matt.   The consent decree was abnegated by Donald ... by JonFraz\nIn reply to Matt.   If you'd like to have a rational discussion ... by JonFraz\nIn reply to steve.   I don't think property crime has ... by Anne\nIn reply to JonFraz.   The Baltimore PD is already operating ... by Matt\nIn reply to JonFraz.   So you admit that violent crime has ... by Matt\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/656651307/0/marginalrevolution~Monday-assorted-links.html",
+          "publishedOn": "2021-07-05T16:08:21.000Z",
+          "wordCount": 275,
+          "title": "Monday assorted links"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81438",
+          "author": "Tyler Cowen",
+          "description": "Employing representative data from the U.S. Survey of Consumer Payment Choice, we disprove the hypothesis that cryptocurrency investors are motivated by distrust in fiat currencies or regulated finance. Compared with the general population, investors show no differences in their level of security concerns with either cash or commercial banking services. We find that cryptocurrency investors […]\n\r\nThe post A new study of crypto ownership appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nMen are also more likely to buy penny stocks, speculative gold ... by Kaleberg\nIn reply to Dr. joe bidens alsatian, ph.d.   Non sequitur by ABC\nIn reply to Ray Lopez.   That's because you don't use it. by ABC\nAccording to the expert on the subject, Alanis Morissette, it's ... by rayward\nSince this paper only surveys US cryptocurrency holders, I ... by Greg\nPlus 10 more...\n\nRelated Stories\n\nAnn Bernstein interview with Lant Pritchett\nNematodes Maximize Expected Utility\nSome major cities ranked by surveillance cameras per km",
+          "link": "https://feeds.feedblitz.com/~/656581218/0/marginalrevolution~A-new-study-of-crypto-ownership.html",
+          "publishedOn": "2021-07-05T05:54:43.000Z",
+          "wordCount": 401,
+          "title": "A new study of crypto ownership"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.11.0"
+}

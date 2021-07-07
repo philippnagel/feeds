@@ -67,5 +67,6 @@ sources:
   - href: http://econlog.econlib.org/index.xml
   - href: http://www.ribbonfarm.com/feed/
   - href: http://feeds.feedburner.com/DownloadMagazinesDE?format=xml
-  - href: https://ddosecrets.substack.com/
+# - href: https://ddosecrets.substack.com/
+  - href: https://karpathy.github.io/
  

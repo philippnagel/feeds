@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:18:21.520Z</updated>
+    <updated>2021-07-07T19:19:19.230Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -2739,6 +2739,16 @@ Das Bündnis zeigt Präsenz anlässlich der von SPD und Grünen einberufenen Akt
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Links & What I've Been Reading Q2 2021]]></title>
+        <id>https://fantasticanachronism.com/2021/07/01/links-and-what-ive-been-reading-q2-2021/</id>
+        <link href="https://fantasticanachronism.com/2021/07/01/links-and-what-ive-been-reading-q2-2021/"/>
+        <updated>2021-07-01T11:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Link roundup]]></summary>
+        <author>
+            <name>Fantastic Anachronism</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kolumbien: «Ich bin ein Vandale und Teil der Primera Linea»]]></title>
         <id>https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/kolumbien-korruption-proteste-revolte-6533.html</id>
         <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/kolumbien-korruption-proteste-revolte-6533.html"/>
@@ -4333,6 +4343,16 @@ Glow in the Dark Stamp Under UV Stamps
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned information/pictures. Some of the pictures has been taken from the internet.]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Pension Apocalypse]]></title>
+        <id>https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/</id>
+        <link href="https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/"/>
+        <updated>2021-06-14T12:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Demographic Inevitability]]></summary>
+        <author>
+            <name>Fantastic Anachronism</name>
         </author>
     </entry>
     <entry>

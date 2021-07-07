@@ -4068,6 +4068,37 @@
       "feedUrl": "https://www.artstation.com/kirillan.rss",
       "siteUrl": "https://www.artstation.com/kirillan",
       "articles": []
+    },
+    {
+      "title": "The Iconoclast",
+      "feedUrl": "https://iconoclast.jp/feed/",
+      "siteUrl": "https://iconoclast.jp",
+      "articles": []
+    },
+    {
+      "title": "Fantastic Anachronism",
+      "feedUrl": "https://fantasticanachronism.com/atom.xml",
+      "siteUrl": "/atom.xml",
+      "articles": [
+        {
+          "id": "https://fantasticanachronism.com/2021/07/01/links-and-what-ive-been-reading-q2-2021/",
+          "author": null,
+          "description": "Link roundup",
+          "link": "https://fantasticanachronism.com/2021/07/01/links-and-what-ive-been-reading-q2-2021/",
+          "publishedOn": "2021-07-01T11:38:56.000Z",
+          "wordCount": 3723,
+          "title": "Links & What I've Been Reading Q2 2021"
+        },
+        {
+          "id": "https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/",
+          "author": null,
+          "description": "Demographic Inevitability",
+          "link": "https://fantasticanachronism.com/2021/06/14/on-the-pension-apocalypse/",
+          "publishedOn": "2021-06-14T12:57:02.000Z",
+          "wordCount": 3659,
+          "title": "On the Pension Apocalypse"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

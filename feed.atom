@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:03:58.150Z</updated>
+    <updated>2021-07-07T19:06:42.901Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Crypto to Pay $15M Fine Over Security, Anti-Money Laundering Issues]]></title>
+        <id>https://decrypt.co/?p=75402</id>
+        <link href="https://decrypt.co/75402/robinhood-crypto-nydfs-fine"/>
+        <updated>2021-07-07T19:00:19.000Z</updated>
+        <summary type="html"><![CDATA[The $15 million fine by New York state is the latest in a series of penalties to hit Robinhood. It also underscores the regulatory risk of operating in the crypto sphere.]]></summary>
+        <author>
+            <name>Jeff John Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marines Had An “Aircraft Carrier On Land” With Catapults And Arresting Gear In Vietnam]]></title>
+        <id>https://www.thedrive.com/the-war-zone/41401/marines-had-an-aircraft-carrier-on-land-with-catapults-and-arresting-gear-in-vietnam</id>
+        <link href="https://www.thedrive.com/the-war-zone/41401/marines-had-an-aircraft-carrier-on-land-with-catapults-and-arresting-gear-in-vietnam"/>
+        <updated>2021-07-07T18:27:15.000Z</updated>
+        <summary type="html"><![CDATA[During the long conflict in Southeast Asia, U.S. Marines Corps jets regularly flew from bases on land in direct support of troops on the ground. However, only one of the airbases that the service operated from in South Vietnam was actually outfitted with arrester wires and even catapult launch gear. This was at Chu Lai, […]]]></summary>
+        <author>
+            <name>Thomas Newdick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Jeep Grand Cherokee Trackhawk Won't Have Hellcat V8: Report]]></title>
+        <id>https://www.thedrive.com/news/41438/new-jeep-grand-cherokee-trackhawk-wont-have-hellcat-v8-report</id>
+        <link href="https://www.thedrive.com/news/41438/new-jeep-grand-cherokee-trackhawk-wont-have-hellcat-v8-report"/>
+        <updated>2021-07-07T18:09:23.000Z</updated>
+        <summary type="html"><![CDATA[With the lineups of every automaker gradually getting electrified, Hellcat V8-equipped cars seem old-fashioned, despite being sold as we speak. The latest Hellcat V8s boast over 700 horsepower—nearly 800, in fact—and have made their way into everything from Chargers, Challengers, Durangos, and of course, the Jeep Grand Cherokee. The Grand Cherokee Trackhawk has been on […]]]></summary>
+        <author>
+            <name>Peter Holderith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The economics of ransomware attacks]]></title>
         <id>https://marginalrevolution.com/?p=81460</id>
@@ -38,6 +68,55 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Call to Minimize Distraction and Respect Users’ Attention]]></title>
+        <id>https://news.ycombinator.com/item?id=27763834</id>
+        <link href="http://www.minimizedistraction.com/"/>
+        <updated>2021-07-07T17:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.minimizedistraction.com/
+Comments URL: https://news.ycombinator.com/item?id=27763834
+Points: 94
+# Comments: 35]]></summary>
+        <author>
+            <name>cratermoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first on-orbit fuel depot has been deployed]]></title>
+        <id>https://news.ycombinator.com/item?id=27763763</id>
+        <link href="https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed"/>
+        <updated>2021-07-07T17:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed
+Comments URL: https://news.ycombinator.com/item?id=27763763
+Points: 40
+# Comments: 12]]></summary>
+        <author>
+            <name>tectonic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk's Bitcoin Bet Could Cost Tesla $100 Million]]></title>
+        <id>https://decrypt.co/?p=75411</id>
+        <link href="https://decrypt.co/75411/teslas-bitcoin-holdings-could-cost-the-company-100-million"/>
+        <updated>2021-07-07T17:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Following Bitcoin's rough quarter, Tesla could face an impairment charge on its balance sheet.]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The James Webb Space Telescope has passed the final mission analysis review]]></title>
+        <id>https://news.ycombinator.com/item?id=27763598</id>
+        <link href="https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp"/>
+        <updated>2021-07-07T17:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp
+Comments URL: https://news.ycombinator.com/item?id=27763598
+Points: 100
+# Comments: 38]]></summary>
+        <author>
+            <name>guerrilla</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Hadal Quadrants, Episode 2: Trans Youth Bills]]></title>
         <id>https://c4ss.org/?p=55052</id>
         <link href="https://c4ss.org/content/55052"/>
@@ -45,6 +124,36 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[In this episode of The Hadal Quadrants, host Leslee Petersen speaks to activists Ashley Shade and Logan Marie Glitterbomb about queer liberation, Pride, and the recent rash of trans youth bills. Intro music by Joel Williamson Be sure to follow The Hadal Quadrants on Facebook and Twitter. And if you want early access to C4SS podcasts, free swag, and...]]></summary>
         <author>
             <name>C4SS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel Might Ditch Its New Air Force One Jet Before It Even Enters Service]]></title>
+        <id>https://www.thedrive.com/the-war-zone/41437/israel-might-ditch-its-new-air-force-one-jet-before-it-even-enters-service</id>
+        <link href="https://www.thedrive.com/the-war-zone/41437/israel-might-ditch-its-new-air-force-one-jet-before-it-even-enters-service"/>
+        <updated>2021-07-07T17:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Before it has even entered service, Israel’s “Air Force One” could be abandoned, and the adapted Boeing 767 airframe sold off. That, at least, is the plan of at least one prominent Israeli lawmaker, although the proposal will likely face opposition from the Israeli Ministry of Defense, which wants the jet to transport the prime […]]]></summary>
+        <author>
+            <name>Thomas Newdick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Deals on Summer Road Trip Gear and More from Amazon, eBay, Walmart, Cabela's, and Aukey]]></title>
+        <id>https://www.thedrive.com/deals/41431/road-trip-deals-auto-rv</id>
+        <link href="https://www.thedrive.com/deals/41431/road-trip-deals-auto-rv"/>
+        <updated>2021-07-07T17:00:31.000Z</updated>
+        <summary type="html"><![CDATA[With summer in full swing, chances are pretty good we've all got our summer travel plans cemented. But just because we know when and where we're headed doesn't mean we have all the gear, tools, and accessories we need to ensure the perfect summer road trip.  To that end, we've got dozens of deals below […]]]></summary>
+        <author>
+            <name>Jon Langston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa: More Than $1 Billion Spent Using Crypto-Linked Cards in 2021]]></title>
+        <id>https://decrypt.co/?p=75403</id>
+        <link href="https://decrypt.co/75403/visa-more-than-1-billion-spent-using-crypto-linked-cards-in-2021"/>
+        <updated>2021-07-07T16:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Payments giant Visa has revealed that over a billion dollars was spent using its crypto-linked cards during the first half of 2021.]]></summary>
+        <author>
+            <name>Liam Frost</name>
         </author>
     </entry>
     <entry>
@@ -71,6 +180,218 @@ Plus 10 more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reverse Engineer the BL602 WiFi Driver]]></title>
+        <id>https://news.ycombinator.com/item?id=27763031</id>
+        <link href="https://lupyuen.github.io/articles/wifi"/>
+        <updated>2021-07-07T16:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lupyuen.github.io/articles/wifi
+Comments URL: https://news.ycombinator.com/item?id=27763031
+Points: 80
+# Comments: 6]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Old Computer Challenge]]></title>
+        <id>https://news.ycombinator.com/item?id=27762986</id>
+        <link href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html"/>
+        <updated>2021-07-07T16:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html
+Comments URL: https://news.ycombinator.com/item?id=27762986
+Points: 17
+# Comments: 10]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG favicons have some cool benefits]]></title>
+        <id>https://news.ycombinator.com/item?id=27762970</id>
+        <link href="https://austingil.com/svg-favicons/"/>
+        <updated>2021-07-07T16:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://austingil.com/svg-favicons/
+Comments URL: https://news.ycombinator.com/item?id=27762970
+Points: 46
+# Comments: 22]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ram 1500 G/T Pack: The New Mild-Hybrid Street Truck]]></title>
+        <id>https://www.thedrive.com/news/41436/ram-1500-g-t-pack-the-new-mild-hybrid-street-truck</id>
+        <link href="https://www.thedrive.com/news/41436/ram-1500-g-t-pack-the-new-mild-hybrid-street-truck"/>
+        <updated>2021-07-07T16:02:49.000Z</updated>
+        <summary type="html"><![CDATA[The late '90s and early '00s street truck fad was great; I miss it. There are still high-performance pickups, of course, though they're Baja blasters instead of pavement pounders. Cheesy alliteration aside, there are plenty of folks out there who want to see more muscle trucks on the road—and apparently, some of them work at […]]]></summary>
+        <author>
+            <name>Caleb Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cost of the “New Way to Message on Instagram” (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27762500</id>
+        <link href="https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram"/>
+        <updated>2021-07-07T15:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram
+Comments URL: https://news.ycombinator.com/item?id=27762500
+Points: 82
+# Comments: 65]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Open-source real-time transcription playground (React, Python, GCP)]]></title>
+        <id>https://news.ycombinator.com/item?id=27762350</id>
+        <link href="https://github.com/saharmor/realtime-transcription-playground"/>
+        <updated>2021-07-07T15:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/saharmor/realtime-transcription-playground
+Comments URL: https://news.ycombinator.com/item?id=27762350
+Points: 33
+# Comments: 6]]></summary>
+        <author>
+            <name>saharhash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparison of Haskell and Julia List Comprehensions]]></title>
+        <id>https://news.ycombinator.com/item?id=27762347</id>
+        <link href="https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html"/>
+        <updated>2021-07-07T15:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html
+Comments URL: https://news.ycombinator.com/item?id=27762347
+Points: 34
+# Comments: 14]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SQLite query inside a Bash function]]></title>
+        <id>https://news.ycombinator.com/item?id=27762201</id>
+        <link href="https://news.ycombinator.com/item?id=27762201"/>
+        <updated>2021-07-07T15:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Part of the workflow for building my website is the generation of a table in
+tab-separated column format (.tsv). The source data is found in four other .tsv
+files. I use an SQLite query to perform a 4-way join and write out the new table. For
+convenience, I wrote a script that encapsulates the query inside a Bash function.
+The example below illustrates this technique.
+    repertoire() {
+      pushd $CMM_SOURCES/_data
+      sqlite3 
+
+
+Comments URL: https://news.ycombinator.com/item?id=27762201
+Points: 86
+# Comments: 32]]></summary>
+        <author>
+            <name>chmaynard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Media Platforms as Common Carriers? [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=27762145</id>
+        <link href="https://www2.law.ucla.edu/volokh/carrier.pdf"/>
+        <updated>2021-07-07T15:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www2.law.ucla.edu/volokh/carrier.pdf
+Comments URL: https://news.ycombinator.com/item?id=27762145
+Points: 76
+# Comments: 44]]></summary>
+        <author>
+            <name>amadeuspagel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JanusGraph – Distributed, open source, scalable graph database]]></title>
+        <id>https://news.ycombinator.com/item?id=27762109</id>
+        <link href="https://janusgraph.org/"/>
+        <updated>2021-07-07T15:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://janusgraph.org/
+Comments URL: https://news.ycombinator.com/item?id=27762109
+Points: 43
+# Comments: 21]]></summary>
+        <author>
+            <name>patternexon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming to Terms with Tailwind]]></title>
+        <id>https://news.ycombinator.com/item?id=27762072</id>
+        <link href="https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/"/>
+        <updated>2021-07-07T15:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/
+Comments URL: https://news.ycombinator.com/item?id=27762072
+Points: 104
+# Comments: 88]]></summary>
+        <author>
+            <name>Wolfr_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Hummer EV Doesn't Have Removable Doors]]></title>
+        <id>https://www.thedrive.com/news/41432/why-the-hummer-ev-doesnt-have-removable-doors</id>
+        <link href="https://www.thedrive.com/news/41432/why-the-hummer-ev-doesnt-have-removable-doors"/>
+        <updated>2021-07-07T15:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Removable doors have become a staple on off-roaders like the Jeep Wrangler and Ford Bronco. GM doesn't have a direct competitor to these vehicles as such, but it did just release a brand new truck that should perform pretty well off the beaten path—the 2022 GMC Hummer EV. The new Hummer is technically a convertible […]]]></summary>
+        <author>
+            <name>Peter Holderith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma]]></title>
+        <id>https://news.ycombinator.com/item?id=27761881</id>
+        <link href="https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma"/>
+        <updated>2021-07-07T14:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma
+Comments URL: https://news.ycombinator.com/item?id=27761881
+Points: 71
+# Comments: 5]]></summary>
+        <author>
+            <name>eric_khun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neurons Unexpectedly Encode Information in the Timing of Their Firing]]></title>
+        <id>https://news.ycombinator.com/item?id=27761706</id>
+        <link href="https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/"/>
+        <updated>2021-07-07T14:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/
+Comments URL: https://news.ycombinator.com/item?id=27761706
+Points: 117
+# Comments: 47]]></summary>
+        <author>
+            <name>theafh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Von den Streiks der Werkvertragsarbeiter*innen in der Öl- und Gasindustrie im Iran]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/asien/iran-oelindustrie-gasindustrie-streiks-6539.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/asien/iran-oelindustrie-gasindustrie-streiks-6539.html"/>
+        <updated>2021-07-07T14:19:58.000Z</updated>
+        <summary type="html"><![CDATA[In diesen Tagen sind ein grosser Teil der Leih- und Werkvertragsarbeiter*innen (ab jetzt LWA) der iranischen Öl- und Gasindustrie im Streik.
+
+Bild: Das vom Streik betroffene Gasfeld South Pars in der iranischen Provinz Bushehr. / Fars News Agency - Hossein Mersadi (CC BY 4.0 cropped)
+Die landesweiten Streiks wurden vor 16 Tagen (19. Juni) begonnen und jetzt sind mehr als 40 tausend LWA in mehr als 80 Industrieanlagen für Öl und Gas im Streik 1 (Siehe die Forderungen der LWA im 1. Anhang). Denjenigen, die die Nachrichten über weltweite Arbeitskämpfe folgen, ist schon bewusst, dass im Iran zumindest seit zehn Jahren tägliche Proteste und Streiks der Arbeiter*innen zu „normalen“ Ereignissen des Tages gehören. 
+ Die Verschärfung des Neoliberalismus2 wurde mit der strukturellen Ineffizienz und …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Npm audit: Broken by Design]]></title>
+        <id>https://news.ycombinator.com/item?id=27761334</id>
+        <link href="https://overreacted.io/npm-audit-broken-by-design/"/>
+        <updated>2021-07-07T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://overreacted.io/npm-audit-broken-by-design/
+Comments URL: https://news.ycombinator.com/item?id=27761334
+Points: 543
+# Comments: 135]]></summary>
+        <author>
+            <name>wongmjane</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intouchables parrains du football mondial. Enquête sur la FIFA]]></title>
         <id>https://www.monde-diplomatique.fr/2010/06/GARCIA/19214</id>
         <link href="https://www.monde-diplomatique.fr/2010/06/GARCIA/19214"/>
@@ -82,6 +403,26 @@ Plus 10 more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UK Building Society Nationwide To Review Crypto Policies Amid Wider Crackdown]]></title>
+        <id>https://decrypt.co/?p=75385</id>
+        <link href="https://decrypt.co/75385/uk-building-society-nationwide-to-review-crypto-policies-amid-wider-crackdown"/>
+        <updated>2021-07-07T14:03:52.000Z</updated>
+        <summary type="html"><![CDATA[The world’s largest building society is the latest UK financial institution to ramp up its monitoring of consumers using crypto.]]></summary>
+        <author>
+            <name>Adriana Hamacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alchemy and Polygon Partner on DeFi, Plan to Spur Ethereum Dapp Development]]></title>
+        <id>https://decrypt.co/?p=75366</id>
+        <link href="https://decrypt.co/75366/alchemy-polygon-dapps"/>
+        <updated>2021-07-07T13:59:11.000Z</updated>
+        <summary type="html"><![CDATA[A tie-up between two significant Ethereum infrastructure providers could be a boon for the world of dapps.]]></summary>
+        <author>
+            <name>Jeff John Roberts</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Big Idea: Sarah Henning]]></title>
         <id>https://whatever.scalzi.com/?p=39856</id>
         <link href="https://whatever.scalzi.com/2021/07/07/the-big-idea-sarah-henning-2/"/>
@@ -99,6 +440,43 @@ Plus 10 more...]]></summary>
         <summary type="html"><![CDATA[Author Sarah Henning has returned to the Big Idea, to subvert your classic fairytale expectations and take them for a spin in the second book of her Kingdoms of Sand and Sky series, The Queen Will Betray You. SARAH HENNING: This time last year, I wrote a post about the Big Idea behind The Princess Will Save […]]]></summary>
         <author>
             <name>Athena Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ideas in statistics that have powered AI]]></title>
+        <id>https://news.ycombinator.com/item?id=27760919</id>
+        <link href="https://news.columbia.edu/news/top-10-ideas-statistics-ai"/>
+        <updated>2021-07-07T13:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.columbia.edu/news/top-10-ideas-statistics-ai
+Comments URL: https://news.ycombinator.com/item?id=27760919
+Points: 116
+# Comments: 42]]></summary>
+        <author>
+            <name>MAXPOOL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex game worlds, simple text interfaces (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27760863</id>
+        <link href="https://egamebook.com/blog/complex-systems-simple-interface/"/>
+        <updated>2021-07-07T13:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://egamebook.com/blog/complex-systems-simple-interface/
+Comments URL: https://news.ycombinator.com/item?id=27760863
+Points: 86
+# Comments: 8]]></summary>
+        <author>
+            <name>davegauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production]]></title>
+        <id>https://news.ycombinator.com/item?id=27760627</id>
+        <link href="https://news.ycombinator.com/item?id=27760627"/>
+        <updated>2021-07-07T13:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN, we are Elena and Emeli, co-founders of Evidently AI http://evidentlyai.com. We're building monitoring for machine learning models in production. The tool is open source and available on GitHub: https://github.com/evidentlyai/evidently. You can use it locally in a Jupyter notebook or in a Bash shell. There’s a video showing how it works in Jupyter here: https://www.youtube.com/watch?v=NPtTKYxm524.
+Machine learning models can stop working as expected, often for non-obvious reasons. If this happens to a marketing personalization model, you might spam your customers by mistake. If this happens to credit scoring models, you might face legal and reputational risks. And so on. To catch issues with the model, it is not enough to just look at service metrics like latency. You have to track d…]]></summary>
+        <author>
+            <name>elenasamuylova</name>
         </author>
     </entry>
     <entry>
@@ -111,6 +489,39 @@ Zu dem Artikel: Anlagebetrüger inhaftiert: mittels Krypto-Investitionen 62 Bitc
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Antonia Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Oberon Emulator in JavaScript and Java]]></title>
+        <id>https://news.ycombinator.com/item?id=27760396</id>
+        <link href="https://schierlm.github.io/OberonEmulator/"/>
+        <updated>2021-07-07T12:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://schierlm.github.io/OberonEmulator/
+Comments URL: https://news.ycombinator.com/item?id=27760396
+Points: 112
+# Comments: 21]]></summary>
+        <author>
+            <name>pjmlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARK Invest Becomes First Asset Manager to Reveal Fees for Bitcoin ETF]]></title>
+        <id>https://decrypt.co/?p=75378</id>
+        <link href="https://decrypt.co/75378/ark-invest-becomes-first-asset-manager-to-reveal-fees-for-bitcoin-etf"/>
+        <updated>2021-07-07T12:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Cathie Wood’s ARK Invest is reportedly the first Bitcoin ETF hopeful to clearly state fees for its proposed offering.]]></summary>
+        <author>
+            <name>Andrew Asmakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance CEO Calls For ‘Clear Regulations’ Amid Growing Pressure]]></title>
+        <id>https://decrypt.co/?p=75377</id>
+        <link href="https://decrypt.co/75377/binance-ceo-calls-for-clear-regulation-amid-growing-pressure"/>
+        <updated>2021-07-07T12:13:06.000Z</updated>
+        <summary type="html"><![CDATA[With Binance facing growing pressure from regulators, the crypto exchange's CEO Changpeng Zhao has said that "compliance is a journey".]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
         </author>
     </entry>
     <entry>
@@ -167,6 +578,36 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How To Know if Your Car Has an Active Recall]]></title>
+        <id>https://www.thedrive.com/cars-101/41411/does-my-car-have-active-recall</id>
+        <link href="https://www.thedrive.com/cars-101/41411/does-my-car-have-active-recall"/>
+        <updated>2021-07-07T11:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Aside from the folks who regularly read automotive enthusiasts and news websites like The Drive and Car Bibles (Ed. Note: Hello, we appreciate you.), most people hear about recalls strictly from the news or a viral story on social media. You might hear about the Mercedes-Benz cars that might lose power steering, Chevrolet Bolt EVs […]]]></summary>
+        <author>
+            <name>Tony Markovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Bitcoin Mayor’ Candidate Eric Adams Wins New York’s Democratic Primary]]></title>
+        <id>https://decrypt.co/?p=75373</id>
+        <link href="https://decrypt.co/75373/bitcoin-mayor-candidate-eric-adams-wins-new-yorks-democratic-primary"/>
+        <updated>2021-07-07T10:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Eric Adams has promised to make New York City into a “center of Bitcoins.”]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lamborghini Aventador Ultimae Is the Raging Bull's Last Stand]]></title>
+        <id>https://www.thedrive.com/news/41430/lamborghini-aventador-ultimae-will-be-last-edition-built</id>
+        <link href="https://www.thedrive.com/news/41430/lamborghini-aventador-ultimae-will-be-last-edition-built"/>
+        <updated>2021-07-07T10:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The Lamborghini Aventador has been the company's flagship model since its launch in 2011. Taking over from the Murciélago, it carried on the tradition of naturally aspirated V12 power in a mid-engined chassis with all-wheel drive.  After a long innings and innumerable variants over the years, production is wrapping up with a final special edition: […]]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Hockey Sister]]></title>
         <id>60887afcf337d5bd7f40256b</id>
         <link href="https://www.newyorker.com/culture/personal-history/the-hockey-sister"/>
@@ -217,6 +658,40 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Axie Infinity's 27% Rise Leads Crypto Gaming Token Rally]]></title>
+        <id>https://decrypt.co/?p=75367</id>
+        <link href="https://decrypt.co/75367/axie-infinitys-27-rise-leads-crypto-gaming-token-rally"/>
+        <updated>2021-07-07T09:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Tokens powering crypto games such as Axie Infinity (AXS) and Decentraland (MANA) are seeing double-digit gains today.]]></summary>
+        <author>
+            <name>Liam Frost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Beefs Up Compliance Team With New Hire From eToro]]></title>
+        <id>https://decrypt.co/?p=75330</id>
+        <link href="https://decrypt.co/75330/binance-hires-etoro-compliance-director"/>
+        <updated>2021-07-07T08:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Binance adds a new director of compliance following recent clashes with regulators in the UK, the Cayman Islands, and elsewhere.]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herausgeber_innenkollektiv (Hrsg.): Wir wissen, was wir wollen. Frauenrevolution in Nord-und Ostsyrien. Band II.]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/herausgeber-innenkollektiv-wir-wissen-was-wir-wollen-frauenrevolution-in-nord-und-ostsyrien-6511.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/herausgeber-innenkollektiv-wir-wissen-was-wir-wollen-frauenrevolution-in-nord-und-ostsyrien-6511.html"/>
+        <updated>2021-07-07T06:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Die Geschichte der Frauenrevolution Rojavas wird von Frauen gemacht – und geschrieben.
+
+Bild: Frauen der YPJ in einem genossenschaftlichen Gewächshaus in Rojava. / Kurdishstruggle (CC BY 2.0 cropped)
+Endlich ist sie da: eine detaillierte Beschreibung der Frauenrevolution Rojavas. Wer sich damit beschäftigen will, wie eine der grössten feministischen Bewegungen weltweit Befreiung nicht nur theoretisch konzipiert, sondern praktisch realisiert, muss dieses Buch lesen. 
+ Seine Stärke liegt vor allem in den Stimmen der Akteurinnen vor Ort, die der Motor der Revolution sind. Mehr als 150 Interviews führte eine Delegation der feministischen Kampagne „Gemeinsam kämpfen“, die sich über mehrere Monate in Rojava aufhielt. In Zusammenarbeit mit dem Andrea Wolf Institut und zahlreichen freiwilligen Übe…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In which ways are Democratic economists Democrats? (or not)]]></title>
         <id>https://marginalrevolution.com/?p=81454</id>
         <link href="https://feeds.feedblitz.com/~/656810785/0/marginalrevolution~In-which-ways-are-Democratic-economists-Democrats-or-not.html"/>
@@ -246,6 +721,36 @@ Let’s all have a revisionist Fourth of July]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Hottest Decentralized Apps (Dapps): From DeFi to Games]]></title>
+        <id>https://decrypt.co/?p=75053</id>
+        <link href="https://decrypt.co/75053/the-hottest-decentralized-apps-dapps-from-defi-to-games"/>
+        <updated>2021-07-07T03:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized apps, or dapps, run on blockchains and do away with centralized middlemen. They're shaking up everything from finance to gaming.]]></summary>
+        <author>
+            <name>Esat Dedezade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Congressman Adds Dogecoin, Ethereum to Portfolio]]></title>
+        <id>https://decrypt.co/?p=75359</id>
+        <link href="https://decrypt.co/75359/us-congressman-adds-dogecoin-ethereum-portfolio"/>
+        <updated>2021-07-07T01:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Freshman Congressman Barry Moore purchased at least $5,000 in cryptocurrency from May to June.]]></summary>
+        <author>
+            <name>Jeff Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Twitter Spaces with Frances Coppola and Cas Piancey]]></title>
+        <id>http://bennettftomlin.com/?p=3176</id>
+        <link href="https://bennettftomlin.com/2021/07/06/my-twitter-spaces-with-frances-coppola-and-cas-piancey/"/>
+        <updated>2021-07-07T00:44:50.000Z</updated>
+        <summary type="html"><![CDATA[This was a Twitter Spaces that I did a couple weeks ago with chadsgx, Wolf_Financial, Cas Piancey, and Frances Coppola. We discuss Tether and Bitfinex and take a few (heated) questions at the end.]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Infrastructure, Stimulus, and Jobs]]></title>
         <id>http://pedestrianobservations.com/?p=6397</id>
         <link href="https://pedestrianobservations.com/2021/07/06/infrastructure-stimulus-and-jobs/"/>
@@ -253,6 +758,16 @@ Let’s all have a revisionist Fourth of July]]></summary>
         <summary type="html"><![CDATA[I’ve talked before on the subject of infrastructure as stimulus, arguing that it’s ideally used for projects with one-time costs and ongoing benefits. Tonight I want to discuss a specific aspect of this: jobs. American infrastructure projects always talk about how many jobs they will create as a benefit rather than as a cost, and […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Cybertruck Will Get Rear-Wheel Steering, Musk Says]]></title>
+        <id>https://www.thedrive.com/news/41429/tesla-cybertruck-will-get-rear-wheel-steering-musk-says</id>
+        <link href="https://www.thedrive.com/news/41429/tesla-cybertruck-will-get-rear-wheel-steering-musk-says"/>
+        <updated>2021-07-07T00:17:57.000Z</updated>
+        <summary type="html"><![CDATA[The Tesla Cybertruck has been a polarizing vehicle since it was first revealed back in 2019. Known for its distinctive angular styling, shattering windows, and  stainless steel exterior, it's drawn great admiration from its fans and ridicule from its detractors. We've heard precious little about the upcoming vehicle since then. However, in response to a […]]]></summary>
+        <author>
+            <name>Lewin Day</name>
         </author>
     </entry>
     <entry>
@@ -293,6 +808,36 @@ The separating equilibrium (a ban by any other name?)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Binance Suspends SEPA Euro Bank Deposits]]></title>
+        <id>https://decrypt.co/?p=75356</id>
+        <link href="https://decrypt.co/75356/binance-suspends-sepa-euro-bank-deposits"/>
+        <updated>2021-07-06T23:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Customers must instead rely on credit or debit card payments.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coyote-Engined 1979 Ford Bronco Sells for $213,000]]></title>
+        <id>https://www.thedrive.com/news/41428/coyote-engined-1979-ford-bronco-sells-for-213000</id>
+        <link href="https://www.thedrive.com/news/41428/coyote-engined-1979-ford-bronco-sells-for-213000"/>
+        <updated>2021-07-06T23:05:31.000Z</updated>
+        <summary type="html"><![CDATA[The last 18 months or so has seen a pandemic ravage the world, the ocean catch fire, and used car prices reaching stellar heights, particularly in the collector scene. A great example of this bullish market sentiment is this heavily-modified 1979 Ford Bronco, which sold for the lofty price of $213,000 on Bring a Trailer […]]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Gains Another 9%, Now Up 25% Over Past Week]]></title>
+        <id>https://decrypt.co/?p=75360</id>
+        <link href="https://decrypt.co/75360/uniswap-gains-more-ground-up-25-over-past-week"/>
+        <updated>2021-07-06T22:58:51.000Z</updated>
+        <summary type="html"><![CDATA[The UNI native governance token is one of the market leaders of late, alongside AAVE.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“Scarface” Startles Anew on the Criterion Channel]]></title>
         <id>60e44318833fa66507c752a6</id>
         <link href="https://www.newyorker.com/culture/the-front-row/scarface-startles-anew-on-the-criterion-channel"/>
@@ -303,6 +848,66 @@ The separating equilibrium (a ban by any other name?)]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 BMW 2 Series: BMW’s Best Coupe Gets a Bold New Design, More Power]]></title>
+        <id>https://www.thedrive.com/news/41413/2022-bmw-2-series-bmws-best-coupe-gets-a-bold-new-design-more-power</id>
+        <link href="https://www.thedrive.com/news/41413/2022-bmw-2-series-bmws-best-coupe-gets-a-bold-new-design-more-power"/>
+        <updated>2021-07-06T22:01:56.000Z</updated>
+        <summary type="html"><![CDATA[While most of its competitors choose to fill this space with front-biased fare, BMW is keeping the rear-drive luxury compact coupe alive with the second-generation 2022 BMW 2 Series. Featuring more power, a roomier interior, and apparently better handling than before, BMW says its new 2 aims to offer "maximum driving enjoyment." Sporting a slightly […]]]></summary>
+        <author>
+            <name>Chris Tsui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden to Sign Order Protecting Farmers’ Right to Repair Tractors]]></title>
+        <id>https://www.thedrive.com/news/41427/biden-to-sign-order-protecting-farmers-right-to-repair-tractors</id>
+        <link href="https://www.thedrive.com/news/41427/biden-to-sign-order-protecting-farmers-right-to-repair-tractors"/>
+        <updated>2021-07-06T21:37:13.000Z</updated>
+        <summary type="html"><![CDATA[United States President Joe Biden will sign an executive order that restricts manufacturers from limiting farmers' ability to repair their own property. News of the impending order was given by White House Press Secretary Jen Psaki during a news conference on Tuesday. Psaki noted that the U.S. Department of Agriculture (USDA) and the Federal Trade […]]]></summary>
+        <author>
+            <name>Rob Stumpf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Update to Reduce ETH Supply Likely Coming in August]]></title>
+        <id>https://decrypt.co/?p=75349</id>
+        <link href="https://decrypt.co/75349/ethereum-update-reduce-eth-supply-likely-coming-august"/>
+        <updated>2021-07-06T21:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Pending approval from client teams, EIP-1559 should go live around the date of August 4.]]></summary>
+        <author>
+            <name>Jeff Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deal Spotlight: This Advance Auto Parts GearWrench Sale Is Seriously Tantalizing]]></title>
+        <id>https://www.thedrive.com/deals/41424/advance-gearwrench-deal</id>
+        <link href="https://www.thedrive.com/deals/41424/advance-gearwrench-deal"/>
+        <updated>2021-07-06T21:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Deals and sales on automotive tools can often be a crapshoot. With so many brands out there, it can be tough to know whether you're getting your money's worth. Can you afford to spend a lot on a trusted name that you know will last for years? Or do you roll the dice with a […]]]></summary>
+        <author>
+            <name>Jon Langston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaguar Land Rover Promises to Fix ‘Unacceptable’ Quality Issues]]></title>
+        <id>https://www.thedrive.com/news/41423/jaguar-land-rover-promises-to-fix-unacceptable-quality-issues</id>
+        <link href="https://www.thedrive.com/news/41423/jaguar-land-rover-promises-to-fix-unacceptable-quality-issues"/>
+        <updated>2021-07-06T20:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Jaguar and Land Rover aren't chided for their reliability without reason—J.D. Power respectively ranked them the third and absolute least-dependable makes in a 2020 study. In what may already be the post-peak car era, where automakers must choose conglomerating or crumbling, the troubled JLR must fix that or face the gallows. And if its CEO […]]]></summary>
+        <author>
+            <name>James Gilboy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New B-21 Raider Stealth Bomber Rendering Released By The Air Force (Updated)]]></title>
+        <id>https://www.thedrive.com/the-war-zone/41425/new-b-21-raider-stealth-bomber-rendering-released-by-the-air-force</id>
+        <link href="https://www.thedrive.com/the-war-zone/41425/new-b-21-raider-stealth-bomber-rendering-released-by-the-air-force"/>
+        <updated>2021-07-06T19:27:57.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Air Force has released what is only the third official rendering of its future B-21 Raider stealth bomber, which shows a previously unseen and extremely curious cockpit windscreen configuration. The latest image depicts one of the aircraft flying over Edwards Air Force Base in California, where initial testing of these bombers is set […]]]></summary>
+        <author>
+            <name>Joseph Trevithick and Tyler Rogoway</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Look “Inside”]]></title>
         <id>https://whatever.scalzi.com/?p=39818</id>
         <link href="https://whatever.scalzi.com/2021/07/06/a-look-inside/"/>
@@ -320,6 +925,16 @@ The separating equilibrium (a ban by any other name?)]]></summary>
         <summary type="html"><![CDATA[I’ve never been the biggest fan of stand-up comedy. Growing up, I never wanted to watch somebody just stand there and tell stories I couldn’t relate to, or say jokes I didn’t really get. I watched a lot of cartoons, and not much of anything else. So it was only in 2015 that I discovered […]]]></summary>
         <author>
             <name>Athena Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Lotus Emira: The Last Gas Lotus Packs an AMG Engine]]></title>
+        <id>https://www.thedrive.com/news/41399/2022-lotus-emira-the-last-gas-lotus-packs-an-amg-engine-in-a-mini-evija-form</id>
+        <link href="https://www.thedrive.com/news/41399/2022-lotus-emira-the-last-gas-lotus-packs-an-amg-engine-in-a-mini-evija-form"/>
+        <updated>2021-07-06T18:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Long-troubled Lotus has always had the engineering chops—if not quite the capital or brand recognition—to go toe-to-toe with Porsche. Now backed by China's well-financed Geely, Lotus may at last have what it needs to take the fight to Stuttgart, which it will do with its first new mortally attainable road car since the third-gen Exige. […]]]></summary>
+        <author>
+            <name>James Gilboy</name>
         </author>
     </entry>
     <entry>
@@ -352,6 +967,46 @@ Nematodes Maximize Expected Utility]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ford Secures Chips to Finally Finish Thousands of Incomplete F-150 Pickups]]></title>
+        <id>https://www.thedrive.com/news/41420/ford-secures-chips-to-finally-finish-thousands-of-incomplete-f-150-pickups</id>
+        <link href="https://www.thedrive.com/news/41420/ford-secures-chips-to-finally-finish-thousands-of-incomplete-f-150-pickups"/>
+        <updated>2021-07-06T18:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Have you been waiting to buy a new pickup truck? You aren't alone. Ford would love to sell you a freshly built, 14th-generation F-150, but as we've written about already, it's not always that simple. Luckily, after months of watching stockpiles of unfinished trucks grow with no semiconductors available, the story is about to change. […]]]></summary>
+        <author>
+            <name>Caleb Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FinCEN Appoints First Chief Advisor for Crypto]]></title>
+        <id>https://decrypt.co/?p=75328</id>
+        <link href="https://decrypt.co/75328/fincen-appoints-first-chief-advisor-crypto"/>
+        <updated>2021-07-06T18:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Michele Korver previously worked for the Department of Justice.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Onion Predicted America's Middle Of The Night Pullout From Bagram In Afghanistan]]></title>
+        <id>https://www.thedrive.com/the-war-zone/41418/the-onion-predicted-americas-pullout-from-bagram-in-afghanistan-in-the-middle-of-the-night</id>
+        <link href="https://www.thedrive.com/the-war-zone/41418/the-onion-predicted-americas-pullout-from-bagram-in-afghanistan-in-the-middle-of-the-night"/>
+        <updated>2021-07-06T18:37:09.000Z</updated>
+        <summary type="html"><![CDATA[New details about the U.S. military's sudden, nighttime departure from Bagram Airfield in Afghanistan, which had been a major hub for the United States and the NATO-led coalition in the country for nearly 20 years, emerged over the weekend. The last Americans reportedly left unannounced, ostensibly for operational security reasons, but they turned off the […]]]></summary>
+        <author>
+            <name>Joseph Trevithick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Royal Navy Will Add 50 Percent More Surface-To-Air Missiles To Its Existing Destroyers]]></title>
+        <id>https://www.thedrive.com/the-war-zone/41419/the-royal-navy-will-add-50-percent-more-surface-to-air-missiles-to-its-existing-destroyers</id>
+        <link href="https://www.thedrive.com/the-war-zone/41419/the-royal-navy-will-add-50-percent-more-surface-to-air-missiles-to-its-existing-destroyers"/>
+        <updated>2021-07-06T18:26:44.000Z</updated>
+        <summary type="html"><![CDATA[The Royal Navy’s Type 45, or Daring class, destroyers will receive additional surface-to-air missiles as part of a weapons refit, marking a major increase in firepower for the warships. Once the new Sea Ceptor weapons are fitted, the six Type 45s, which provide area defense for the U.K.’s Carrier Strike Group, among other duties, will […]]]></summary>
+        <author>
+            <name>Thomas Newdick</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ePrivacy-Ausnahmeverordnung bringt E‑Kommunikations-Überwachung]]></title>
         <id>https://tarnkappe.info/?p=156667</id>
         <link href="https://tarnkappe.info/eprivacy-ausnahmeverordnung-bringt-e%e2%80%91kommunikations-ueberwachung/"/>
@@ -361,6 +1016,26 @@ Zu dem Artikel: ePrivacy-Ausnahmeverordnung bringt E‑Kommunikations-Überwachu
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Antonia Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Extends Esports Push With ESL Sponsorship]]></title>
+        <id>https://decrypt.co/?p=75337</id>
+        <link href="https://decrypt.co/75337/coinbase-extends-esports-push-with-esl-sponsorship"/>
+        <updated>2021-07-06T18:12:02.000Z</updated>
+        <summary type="html"><![CDATA[The crypto exchange racks up its third esports sponsorship this year.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevy Camaro Sales Are in a Death Spiral]]></title>
+        <id>https://www.thedrive.com/news/41422/chevy-camaro-sales-are-in-a-death-spiral</id>
+        <link href="https://www.thedrive.com/news/41422/chevy-camaro-sales-are-in-a-death-spiral"/>
+        <updated>2021-07-06T17:07:15.000Z</updated>
+        <summary type="html"><![CDATA[There hasn't been much good news for the Chevy Camaro in what seems like a few years. In fact, we just had some more bad news today and it looks like that trend is set to continue as second-quarter sales numbers are in for Chevy's pony car.  Remember when, exactly a year ago today, we […]]]></summary>
+        <author>
+            <name>Peter Holderith</name>
         </author>
     </entry>
     <entry>
@@ -398,6 +1073,30 @@ Plus 10 more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thérèse Raquin – Du sollst nicht ehebrechen]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/therese-raquin-du-sollst-nicht-ehebrechen-6386.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/therese-raquin-du-sollst-nicht-ehebrechen-6386.html"/>
+        <updated>2021-07-06T16:21:26.000Z</updated>
+        <summary type="html"><![CDATA[„Thérèse Raquin“ erzählt basierend auf dem gleichnamigen Roman, wie eine unglücklich verheiratete Frau eine Affäre beginnt.
+
+Bild: Der französische Filmregisseur Marcel Carné (sitzend) verfilmte den Roman von Emile Zola 1953. / JJ Georges (CC BY-SA 3.0 unported - cropped)
+Die Adaption bewegt sich stärker in eine Krimirichtung, anstatt sich allein auf das Psychologische zu konzentrieren. Tragisch ist die Geschichte dennoch, arbeitet zudem mit sehr ambivalenten Figuren, bei denen nicht klar ist, ob man sie nun anfeuern soll oder nicht. 
+ Richtig glücklich war das Leben von Thérèse Raquin (Simone Signoret) nie. Schon früh hat sie ihre Eltern verloren, weshalb ihre Tante (Sylvie) sie bei sich aufnahm. Später verheiratete diese die junge Frau mit ihrem kränkelnden Sohn Camille (Jacques Duby). S…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Bentley Flying Spur Hybrid: 536 HP Combined From an Electrified V6]]></title>
+        <id>https://www.thedrive.com/news/41417/2022-bentley-flying-spur-hybrid-536-hp-combined-from-an-electrified-v6</id>
+        <link href="https://www.thedrive.com/news/41417/2022-bentley-flying-spur-hybrid-536-hp-combined-from-an-electrified-v6"/>
+        <updated>2021-07-06T16:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Bentley's second plug-in hybrid will be a version of the Flying Spur, which is being billed as its most environmentally friendly car yet and part of the brand's overall journey towards carbon neutrality. With a gasoline V6 hybrid powertrain, it promises plenty of horsepower (536, precisely) and to be the big, Bentley-shaped car you expect […]]]></summary>
+        <author>
+            <name>Hazel Southwell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesetipps: Ein erschreckendes Ausmaß an Unkenntnis, Operation Lyrebird]]></title>
         <id>https://tarnkappe.info/?p=156699</id>
         <link href="https://tarnkappe.info/lesetipps-ein-erschreckendes-ausmass-an-unkenntnis-operation-lyrebird/"/>
@@ -417,6 +1116,56 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[A judge recently dismissed two antitrust cases against Facebook. But what appeared to be a setback for the effort may actually provide a road map for how it can succeed.]]></summary>
         <author>
             <name>Sheelah Kolhatkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Sales Volumes Hit $2.5 Billion For First Half of 2021]]></title>
+        <id>https://decrypt.co/?p=75301</id>
+        <link href="https://decrypt.co/75301/nft-sales-volumes-hit-2-5-billion-for-first-half-of-2021"/>
+        <updated>2021-07-06T15:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Sales of NFTs have totaled 10,000 to 20,000 every week since March, with buyers still outnumbering sellers.]]></summary>
+        <author>
+            <name>Adriana Hamacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rimac Just Bought Bugatti. Here's Why It's a Huge EV Bet for VW]]></title>
+        <id>https://www.thedrive.com/tech/41414/rimac-just-bought-bugatti-heres-why-its-a-huge-ev-bet-for-vw</id>
+        <link href="https://www.thedrive.com/tech/41414/rimac-just-bought-bugatti-heres-why-its-a-huge-ev-bet-for-vw"/>
+        <updated>2021-07-06T15:38:37.000Z</updated>
+        <summary type="html"><![CDATA[After months of rumors, electric hypercar manufacturer Rimac will officially assume the majority stake in Volkswagen's artsy-performance automaker, Bugatti. The two companies, along with buy-in from Porsche, will form a fresh brand under the new ownership model aptly called Bugatti-Rimac. The brand will be headed up by Mate Rimac, the 33-year-old Croatian CEO, and be […]]]></summary>
+        <author>
+            <name>Rob Stumpf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevy Killed a Flat-Plane Crank, Z06 V8-Powered Camaro Z/28]]></title>
+        <id>https://www.thedrive.com/news/41416/chevy-killed-a-flat-plane-crank-z06-v8-powered-camaro-z-28</id>
+        <link href="https://www.thedrive.com/news/41416/chevy-killed-a-flat-plane-crank-z06-v8-powered-camaro-z-28"/>
+        <updated>2021-07-06T15:15:34.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot to be said for General Motors often failing to get out of its own way. There are exceptions, sure, plenty of exceptions. However, the automaker's decisions often reek of design by committee, pencil-pushing at a biblical scale, and serious strategetic missteps leading to cars like the current Chevrolet Camaro. The Chevrolet Camaro […]]]></summary>
+        <author>
+            <name>Peter Holderith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Central Bank Closes Software Maker Over Alleged Cryptocurrency Trading]]></title>
+        <id>https://decrypt.co/?p=75313</id>
+        <link href="https://decrypt.co/75313/china-central-bank-closes-software-maker-over-alleged-cryptocurrency-trading"/>
+        <updated>2021-07-06T15:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Authorities in China have reportedly closed down a software company over its alleged involvement in crypto trading activities.]]></summary>
+        <author>
+            <name>Andrew Asmakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$55 Billion UK Hedge Fund Marshall Wace Plans Move Into Crypto]]></title>
+        <id>https://decrypt.co/?p=75302</id>
+        <link href="https://decrypt.co/75302/55-billion-hedge-fund-firm-marshall-wace-plans-move-into-crypto"/>
+        <updated>2021-07-06T14:49:26.000Z</updated>
+        <summary type="html"><![CDATA[The London-based hedge fund holds over $55 billion in assets under management.]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
         </author>
     </entry>
     <entry>
@@ -449,6 +1198,40 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Wind your way towards Sidewinders, the second installment in Robert V. S. Redick’s Fire Sacrament trilogy. Follow along in his Big Idea as he tells you of the genius that went into creating this novel. ROBERT V. S. REDICK: On the last page of my epic fantasy Master Assassins, everyone is laughing.  Everyone who isn’t dead, that […]]]></summary>
         <author>
             <name>Athena Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM Just Killed the CD Player]]></title>
+        <id>https://www.thedrive.com/news/41415/gm-just-killed-the-cd-player</id>
+        <link href="https://www.thedrive.com/news/41415/gm-just-killed-the-cd-player"/>
+        <updated>2021-07-06T13:56:53.000Z</updated>
+        <summary type="html"><![CDATA[CDs are going the way of the cassette and eight-track before them, and that's been true for a while already. Best Buy stopped selling 'em in 2018 and few cars these days can even play them, probably because Apple CarPlay and Android Auto exist. As further proof, General Motors no longer sells any normal passenger […]]]></summary>
+        <author>
+            <name>Caleb Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian Crypto Firms Lobby For Better Regulation]]></title>
+        <id>https://decrypt.co/?p=75297</id>
+        <link href="https://decrypt.co/75297/australian-crypto-firms-lobby-for-better-regulation"/>
+        <updated>2021-07-06T13:34:56.000Z</updated>
+        <summary type="html"><![CDATA[The crypto industry’s relationship with regulators has often been a difficult one, but in Australia, firms want clarity.]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journalismus im Visier des Verfassungsschutzes]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/medien/journalismus-verfassungsschutz-junge-welt-6537.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/medien/journalismus-verfassungsschutz-junge-welt-6537.html"/>
+        <updated>2021-07-06T13:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Heimatschutz, Bundesamt und ein Staatssekretär definieren die aktuellen Herausforderungen der deutschen Staatssicherheit – und die NATO kennt die vaterlandslosen Gesellen.
+
+Bild: Dienstsitz Berlin des Bundesamts für Verfassungsschutz. / © Boevaya mashina - via Wikimedia Commons (CC BY-SA 3.0 cropped)
+Nachrichtendienste sammeln Information, „um frühzeitig“ – so heisst es in einem gängigen Politiklexikon (Schubert/Klein 2005) – „vor inneren oder äusseren Gefahren zu warnen“. Wobei gleich angemerkt wird, dass dies in Deutschland der parlamentarischen Kontrolle unterliegt, also kein Bürger sich wegen der meist im Geheimen stattfindenden Aktivitäten Sorgen machen muss. Und vor Gefahren zu warnen, ist ja überhaupt ein edles Anliegen! 
+ In der Tat: Jeder Staat verfügt über mehrere Geheimdienste, …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -507,6 +1290,36 @@ Use Fractional Dosing to Speed Vaccination and Save Lives
 Abolishing tenure is the least of my proposals]]></summary>
         <author>
             <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Up 16% On News of Aave Pro Launch]]></title>
+        <id>https://decrypt.co/?p=75290</id>
+        <link href="https://decrypt.co/75290/aave-up-16-on-news-of-aave-pro-launch"/>
+        <updated>2021-07-06T11:16:38.000Z</updated>
+        <summary type="html"><![CDATA[The price of Aave has shot up after the DeFi lending project confirmed that its institutional investor platform Aave Pro will launch in July.]]></summary>
+        <author>
+            <name>Andrew Asmakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s How To Buy the Right Motorcycle Boots for Riding]]></title>
+        <id>https://www.thedrive.com/motorcycles/41402/how-to-choose-the-right-motorcycle-boots</id>
+        <link href="https://www.thedrive.com/motorcycles/41402/how-to-choose-the-right-motorcycle-boots"/>
+        <updated>2021-07-06T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Few pieces of motorcycle kit are as important to your riding safety as your footwear. At the same time, few pieces are as overlooked. You wouldn’t believe how many people I’ve come across who drop thousands on the best helmet, jacket, and jeans, and then just run Adidas Sambas or Jordans — it’s wildly shortsighted.  […]]]></summary>
+        <author>
+            <name>Jonathon Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetix Up 26%, Leading Double-Digit Gains for DeFi Tokens]]></title>
+        <id>https://decrypt.co/?p=75285</id>
+        <link href="https://decrypt.co/75285/synthetix-up-26-leading-double-digit-gains-for-defi-tokens"/>
+        <updated>2021-07-06T10:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized finance (DeFi) tokens are seeing significant gains compared to the rest of the cryptocurrency market, led by Synthetix (SNX).]]></summary>
+        <author>
+            <name>Liam Frost</name>
         </author>
     </entry>
     <entry>
@@ -591,6 +1404,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Brazilian ‘King of Bitcoin’ Busted for Alleged $300 Million Fraud]]></title>
+        <id>https://decrypt.co/?p=75275</id>
+        <link href="https://decrypt.co/75275/brazilian-king-bitcoin-busted-alleged-300-million-fraud"/>
+        <updated>2021-07-06T00:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Cláudio Oliveira was president of the Bitcoin Banco Group, a Brazilian financial management firm that reported the disappearance of 7,000 BTC in 2019.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wyoming fact of the day]]></title>
         <id>https://marginalrevolution.com/?p=81447</id>
         <link href="https://feeds.feedblitz.com/~/656687687/0/marginalrevolution~Wyoming-fact-of-the-day.html"/>
@@ -617,6 +1440,16 @@ Living under guardianship is worse than you think
 Banning Payday Loans Harms Borrowers]]></summary>
         <author>
             <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin.org Reportedly Hit With DDoS Attack, Ransom Demand]]></title>
+        <id>https://decrypt.co/?p=75276</id>
+        <link href="https://decrypt.co/75276/bitcoin-org-reportedly-hit-ddos-attack-ransom-demand"/>
+        <updated>2021-07-05T22:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Attackers have demanded a ransom of 0.5 Bitcoin, the site’s operator told Decrypt.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
         </author>
     </entry>
     <entry>
@@ -668,6 +1501,38 @@ Bulletin: a more than marginal boost for Marginal Revolution]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ex-Cryptopia Employee Admits to Stealing $170,000 in Crypto From Exchange]]></title>
+        <id>https://decrypt.co/?p=75271</id>
+        <link href="https://decrypt.co/75271/ex-cryptopia-employee-admits-stealing-170000-exchange"/>
+        <updated>2021-07-05T21:01:04.000Z</updated>
+        <summary type="html"><![CDATA[The exchange is defunct after being hit by a major hack in 2019.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corona Newsflash: Help, stijging! En: kinderen vaccineren?]]></title>
+        <id>https://berthub.eu/articles/posts/corona-newsflash/</id>
+        <link href="https://berthub.eu/articles/posts/corona-newsflash/"/>
+        <updated>2021-07-05T19:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Een extra update, twee weken na de vorige, want er is al weer voldoende te vertellen.
+Deze keer weer een aantal vragen op verzoek: De cijfers stijgen ineens heel hard, wat betekent dat? Is het veilig om naar evenementen te gaan? Zou mijn dochter/zoon zich moeten laten vaccineren? Werken de vaccins nog wel?
+Wat de f is er aan de hand met de cijfers ineens Goeie vraag. Ze gaan omhoog en hard ook.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Thorchain? The DeFi Bridge for Bitcoin, Ethereum and More]]></title>
+        <id>https://decrypt.co/?p=75068</id>
+        <link href="https://decrypt.co/75068/what-is-thorchain-defi-bitcoin-ethereum"/>
+        <updated>2021-07-05T18:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Thorchain is a Cosmos-based blockchain protocol for swapping crypto-assets like Bitcoin and Ethereum across blockchain networks.]]></summary>
+        <author>
+            <name>Walter Smith</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Curious Task podcast, food in Canada and revisiting *An Economist Gets Lunch*]]></title>
         <id>https://marginalrevolution.com/?p=81423</id>
         <link href="https://feeds.feedblitz.com/~/656664452/0/marginalrevolution~Curious-Task-podcast-food-in-Canada-and-revisiting-An-Economist-Gets-Lunch.html"/>
@@ -701,6 +1566,26 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Episode 13 – BitClout is Bad — Crypto Critics’ Corner]]></title>
+        <id>http://bennettftomlin.com/?p=3170</id>
+        <link href="https://bennettftomlin.com/2021/07/05/episode-13-bitclout-is-bad-crypto-critics-corner/"/>
+        <updated>2021-07-05T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[In this episode Cas and I are joined by David Canellis of Protos Media to discuss the controversial cryptocurrency BitClout. Anchor Spotify Apple Google Overcast RSS Feed]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Henry IV, Part II, by William Shakespeare]]></title>
+        <id>https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii</id>
+        <link href="https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii"/>
+        <updated>2021-07-05T17:25:11.000Z</updated>
+        <summary type="html"><![CDATA[The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Un ethnologue au Mondial]]></title>
         <id>https://www.monde-diplomatique.fr/1998/08/AUGE/3958</id>
         <link href="https://www.monde-diplomatique.fr/1998/08/AUGE/3958"/>
@@ -709,6 +1594,26 @@ Tarnkappe.info - Unter dem Radar]]></summary>
  / Audiovisuel, Sport - 1998/08]]></summary>
         <author>
             <name>Marc Augé</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Mining Is Turning New York Lake Into a 'Hot Tub', Say Locals]]></title>
+        <id>https://decrypt.co/?p=75256</id>
+        <link href="https://decrypt.co/75256/bitcoin-mining-is-turning-new-york-lake-into-a-hot-tub-say-locals"/>
+        <updated>2021-07-05T16:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin mining operator Greenidge Generation is already planning another facility in South Carolina.]]></summary>
+        <author>
+            <name>Adriana Hamacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Luring 'Hundreds' of Indian Engineers With $1,000 Crypto Bonuses]]></title>
+        <id>https://decrypt.co/?p=75254</id>
+        <link href="https://decrypt.co/75254/coinbase-luring-hundreds-of-indian-engineers-with-1000-crypto-bonuses"/>
+        <updated>2021-07-05T16:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency exchange Coinbase is planning a hiring spree in India, with new engineers receiving a one-time payment of $1,000 in crypto.]]></summary>
+        <author>
+            <name>Andrew Asmakov</name>
         </author>
     </entry>
     <entry>
@@ -747,6 +1652,36 @@ Plus 10 more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Barclays Blocks Binance Payments To 'Keep Your Money Safe']]></title>
+        <id>https://decrypt.co/?p=75252</id>
+        <link href="https://decrypt.co/75252/barclays-stops-binance-payments-in-effort-to-protect-customer-funds"/>
+        <updated>2021-07-05T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Barclays has stopped customers from sending funds to Binance just days after the FCA cracked down on the company.]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the REvil Ransomware Attack Means for Bitcoin]]></title>
+        <id>https://decrypt.co/?p=75246</id>
+        <link href="https://decrypt.co/75246/what-the-revil-ransomware-attack-means-for-crypto"/>
+        <updated>2021-07-05T15:09:48.000Z</updated>
+        <summary type="html"><![CDATA[The REvil gang has demanded $70 million in Bitcoin after attacking at least 200 US companies on Friday.]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UBS: Regulatory Crackdowns Could Pop 'Bubble-like' Crypto Markets]]></title>
+        <id>https://decrypt.co/?p=75238</id>
+        <link href="https://decrypt.co/75238/ubs-regulatory-crackdowns-could-pop-bubble-like-crypto-markets"/>
+        <updated>2021-07-05T14:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Swiss banking giant UBS has warned its clients about the risks that regulatory crackdowns pose to the crypto market.]]></summary>
+        <author>
+            <name>Liam Frost</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Un ethnologue au Tour de France]]></title>
         <id>https://www.monde-diplomatique.fr/1997/08/AUGE/4890</id>
         <link href="https://www.monde-diplomatique.fr/1997/08/AUGE/4890"/>
@@ -755,6 +1690,16 @@ Plus 10 more...]]></summary>
  / Société, Sport - 1997/08]]></summary>
         <author>
             <name>Marc Augé</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kazakhstan Introduces Additional Taxes for Crypto Miners]]></title>
+        <id>https://decrypt.co/?p=75230</id>
+        <link href="https://decrypt.co/75230/kazakhstan-introduces-additional-taxes-for-crypto-miners"/>
+        <updated>2021-07-05T13:25:21.000Z</updated>
+        <summary type="html"><![CDATA[A new law will impose an additional tax fee for the energy used by cryptocurrency mining operators in Kazakhstan.]]></summary>
+        <author>
+            <name>Andrew Asmakov</name>
         </author>
     </entry>
     <entry>
@@ -768,6 +1713,16 @@ Plus 10 more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[America’s First Legal DAO Approved in Wyoming]]></title>
+        <id>https://decrypt.co/?p=75222</id>
+        <link href="https://decrypt.co/75222/americas-first-dao-approved-in-wyoming"/>
+        <updated>2021-07-05T12:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized autonomous organizations, or DAOs, are recognized as a new form of company in the crypto-friendly state.]]></summary>
+        <author>
+            <name>Adriana Hamacher</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NIMA4K im Interview – der Hotspot für hochauflösende Serien und Filme]]></title>
         <id>https://tarnkappe.info/?p=155993</id>
         <link href="https://tarnkappe.info/nima4k-im-interview-der-hotspot-fuer-hochaufloesende-serien-und-filme/"/>
@@ -777,6 +1732,26 @@ Zu dem Artikel: NIMA4K im Interview – der Hotspot für hochauflösende Serien 
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Lars Sobiraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meme Coin Pack Flocks to Baby Doge as Dogecoin, SafeMoon, SHIB Slip]]></title>
+        <id>https://decrypt.co/?p=75213</id>
+        <link href="https://decrypt.co/75213/meme-coin-pack-flocks-to-baby-doge-as-dogecoin-safemoon-and-shib-slip"/>
+        <updated>2021-07-05T11:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk's Twitter mention of Baby Doge has seen its price surge by over 300% in a week, while other meme coins falter.]]></summary>
+        <author>
+            <name>Liam Frost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnam’s Central Bank To Pilot Use of Crypto]]></title>
+        <id>https://decrypt.co/?p=75208</id>
+        <link href="https://decrypt.co/75208/vietnams-central-bank-to-pilot-use-of-crypto"/>
+        <updated>2021-07-05T10:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Vietnam’s prime minister, Phạm Minh Chính, has reportedly asked the country’s central bank for a study and pilot implementation of cryptocurrency.]]></summary>
+        <author>
+            <name>Scott Chipolina</name>
         </author>
     </entry>
     <entry>
@@ -1110,6 +2085,34 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Getriebe und Gedärme]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/die-geschichte-des-autos-6534.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/die-geschichte-des-autos-6534.html"/>
+        <updated>2021-07-05T08:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Ich, der ich in der Wohnung sitze, sage: „Ich stehe in der Ziegelofengasse.“ – Warum das?
+
+Bild: Genfer Automobil-Salon 2019. / Matti Blume (CC BY-SA 4.0 cropped)
+Denn nicht ich stehe dort, sondern der Wagen, den ich fahre. Mit diesem „Ich“ identifiziere ich nicht nur das Auto als meines, mit diesem „Ich“ kategorisiere ich mich als das Auto selbst. Das Auto, das bin ich, denn sonst würde ich nicht mit dieser Selbstverständlichkeit „Ich“ sagen. Es hat mich. Wir, das Es und das Ich, sind eine Einheit. 
+ Keiner Maschine ist es je gelungen, mit ihrem Besitzer so verschmolzen zu werden wie dem Auto. Diese Überidentifikation ist nicht nur determiniert, sie ist überdeterminiert. Das Verhältnis zum Auto ist nicht pragmatisch und instrumentell, es ist paradigmatisch und emotionell. Direkt libidinös…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jan-Hendrik Schulz: Unbeugsam hinter Gittern. Die Hungerstreiks der RAF nach dem Deutschen Herbst.]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/jan-hendrik-schulz-unbeugsam-hinter-gittern-die-hungerstreiks-der-raf-nach-dem-deutschen-herbst-6510.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/jan-hendrik-schulz-unbeugsam-hinter-gittern-die-hungerstreiks-der-raf-nach-dem-deutschen-herbst-6510.html"/>
+        <updated>2021-07-05T06:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Die letzten drei Hungerstreiks der RAF deckten zerstörerische Haftpraktiken auf und führten zu einer grossen gesellschaftlichen Solidarität.
+
+Bild: Blick aus dem Hauptgebäude JVA Fuhlsbüttel. Hier starb der RAF-Gefangene Sigurd Debus im April 1981 an den Folgen der Zwangsernährung. / GeoTrinity (CC BY-SA 3.0 cropped)
+Die Rote-Armee-Fraktion (RAF) ist nun offiziell historisch. Primärquellen wie Haftunterlagen, archivierte Briefe oder Aufrufe sind der geschichtswissenschaftlichen Aufarbeitung zugänglich − Verfassungsschutz ausgenommen. 
+ Jan-Hendrik Schulz widmet sich in seinem 2019 erschienenen Buch den kollektiv geführten RAF-Hungerstreiks (HS) nach dem Deutschen Herbst von 1977 bis 1989. Er fragt, wie es den RAF-Gefangenen gelang, mit ihren HS-Kampagnen erhebliche gesellschaftliche Unters…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A new study of crypto ownership]]></title>
         <id>https://marginalrevolution.com/?p=81438</id>
         <link href="https://feeds.feedblitz.com/~/656581218/0/marginalrevolution~A-new-study-of-crypto-ownership.html"/>
@@ -1190,6 +2193,95 @@ Zu dem Artikel: Wallstreet Market: Hohe Haftstrafen für Betreiber des Online-Sh
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Antonia Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Und jetzt mal Urlaub.]]></title>
+        <id>https://augengeradeaus.net/?p=57452</id>
+        <link href="https://augengeradeaus.net/2021/07/und-jetzt-mal-urlaub/"/>
+        <updated>2021-07-04T16:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Nach ein paar Tagen low ops-Versuch und, natürlich heute im ARD-Presseclub, mache ich jetzt eine Weile richtig Urlaub. Und ich bitte um Verständnis, dass ich auch die Kommentarfunktion für die Zeit deaktiviere. Weiterhin: schöne Sommertage!]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der surreale Kampf der ZapatistInnen für das Leben – und gegen den Kapitalismus]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/mexiko-chiapas-zapatistas-der-surreale-kampf-6535.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/mexiko-chiapas-zapatistas-der-surreale-kampf-6535.html"/>
+        <updated>2021-07-04T16:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Eine Delegation der ZapatistInnen segelt nach Europa. Nicht um zu erobern, sondern um Kontakte zu knüpfen und sich mit anderen Aufständischen zusammenzutun und gemeinsam mit ihnen zu kämpfen.
+
+Bild: Territorium der EZLN in Chiapas, Mexico. / Matthew T Rader, MatthewTRader.com (CC BY-SA 4.0 cropped)
+„Im Namen der zapatistischen Frauen, Kinder, Männer, Alten und natürlich auch Anderer erkläre ich, dass der Name dieses Landes, das seine Eingeborenen jetzt ‚Europa‘ nennen, von nun an SLUMIL K’AJXEMK’OP heissen wird, was ‚Aufständisches Land‘ oder ‚Land, das nicht aufgibt, das nicht ohnmächtig wird‘ bedeutet. Und so wird es von den eigenen und anderen Menschen genannt werden, solange es hier jemanden gibt, der nicht aufgibt, der sich nicht verkauft und der sich nicht unterwirft.“ 
+ Das sind die…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Has Hired an Army of Support Staff to Keep Customers Happy]]></title>
+        <id>https://decrypt.co/?p=75202</id>
+        <link href="https://decrypt.co/75202/coinbase-has-hired-an-army-of-support-staff-to-keep-customers-happy"/>
+        <updated>2021-07-04T16:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase has addressed its checkered history of customer service complaints in a new blog post.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EY Takes Crack At Ethereum’s Gas Fee Problem With New Protocol]]></title>
+        <id>https://decrypt.co/?p=75191</id>
+        <link href="https://decrypt.co/75191/ey-takes-crack-at-ethereums-gas-fee-problem-with-new-protocol"/>
+        <updated>2021-07-04T14:46:22.000Z</updated>
+        <summary type="html"><![CDATA[EY releases Nightfall 3 to help make the Ethereum blockchain cheaper to use.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dogecoin Partygoers Dance For Free DOGE at Million Doge Disco]]></title>
+        <id>https://decrypt.co/?p=75186</id>
+        <link href="https://decrypt.co/75186/dogecoin-partygoers-dance-for-free-doge-at-million-doge-disco"/>
+        <updated>2021-07-04T14:19:20.000Z</updated>
+        <summary type="html"><![CDATA[The Million Doge Disco launched yesterday and thousands across the globe have already joined the party.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSA Conference Takes Heat For Suggesting That Blockchain Replace the Internet's Most Important Protocol]]></title>
+        <id>https://decrypt.co/?p=75188</id>
+        <link href="https://decrypt.co/75188/rsa-conference-takes-heat-for-suggesting-that-blockchain-replace-the-internets-most-important-protocol"/>
+        <updated>2021-07-04T14:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Computer security experts were baffled by the suggestion promoted by a major industry conference.]]></summary>
+        <author>
+            <name>Ekin Genç</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunday Reads – Things I Found Interesting 2021-07-04]]></title>
+        <id>http://bennettftomlin.com/?p=3127</id>
+        <link href="https://bennettftomlin.com/2021/07/04/sunday-reads-things-i-found-interesting-2021-07-04/"/>
+        <updated>2021-07-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fraud in the art world Vulture had a fantastic article about a fraudulent art dealer. See if you can find analogies to crypto and especially NFTs. Read it here. ICYMI In this article I attempt to challenge those who malign Tether researchers and journalists covering Tether as ‘conspiratorial truthers’. In this episode Cas and I … Continue reading Sunday Reads – Things I Found Interesting 2021-07-04]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanda]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wanda-film-1971-6475.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wanda-film-1971-6475.html"/>
+        <updated>2021-07-04T11:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Barbara Lodens einziger Film – sie starb 1980 an Krebs im Alter von nur 48 Jahren, als sie gerade ihren nächsten Film plante – ist in Vergessenheit geraten, ebenso wie die Regisseurin und Schauspielerin selbst.
+
+Bild: Julie Christie (hier 1997 in Mexiko) spielt im Film von Nicolas Roeg die Rolle der Laura Baxter. / Unknown author (PD)
+„Woman is symptom to man.”
+ (Jacques Lacan) 
+ Eine alte Frau schaut zum Fenster hinaus. Ein Kind schreit. Ein Mann verlässt das Haus. Wanda (Barbara Loden) wacht auf. Ein Steinbruch – irgendwo in Amerika. Dort steht das Haus. Ganz in Weiss gekleidet verlässt Wanda diesen Ort, leiht sich bei einem alten Mann, den sie kennt, ein bisschen Geld und zockelt los. Szenenwechsel. In einem Gerichtssaal warten Wandas Mann (Jerome Thier), die Kinder und Miss Godek (Mari…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -1275,6 +2367,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[One of Ours, by Willa Cather]]></title>
+        <id>https://standardebooks.org/ebooks/willa-cather/one-of-ours</id>
+        <link href="https://standardebooks.org/ebooks/willa-cather/one-of-ours"/>
+        <updated>2021-07-03T18:45:52.000Z</updated>
+        <summary type="html"><![CDATA[A young man struggles with finding his purpose in life until the breakout of World War I prompts him to volunteer for the Army.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pourquoi le régime syrien a survécu]]></title>
         <id>https://www.monde-diplomatique.fr/2021/07/CLUZET/63296</id>
         <link href="https://www.monde-diplomatique.fr/2021/07/CLUZET/63296"/>
@@ -1294,6 +2396,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
  / Chine, Communisme, Capitalisme, Maoïsme, Nationalisme, Stratégie, Histoire, Inégalités, Parti politique, Mutation, Idéologie, Société - 2021/07]]></summary>
         <author>
             <name>Jean-Louis Rocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether Truthers and the Inconvenient Conspiracy Theories]]></title>
+        <id>http://bennettftomlin.com/?p=3149</id>
+        <link href="https://bennettftomlin.com/2021/07/03/tether-truthers-and-the-inconvenient-conspiracy-theories/"/>
+        <updated>2021-07-03T13:36:57.000Z</updated>
+        <summary type="html"><![CDATA[There is a reflexive tendency among those who defend Tether to categorise those who criticize Tether as ‘truthers’, akin to those who spread ‘Jet Fuel Doesn’t Melt Steel Beams’ in their Facebook group about how the earth is flat. This tendency is absurd when you consider the history of the accusations made by ‘truthers’ and … Continue reading Tether Truthers and the Inconvenient Conspiracy Theories]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
         </author>
     </entry>
     <entry>
@@ -1327,6 +2439,16 @@ Zu dem Artikel: Lesetipps: DSGVO-Bußgelder & andere Zwischenfälle, ein Geburts
 Tarnkappe.info - Unter dem Radar]]></summary>
         <author>
             <name>Lars Sobiraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trotz low ops: Reden wir über die Bundeswehr in Afghanistan (m. Video)]]></title>
+        <id>https://augengeradeaus.net/?p=56862</id>
+        <link href="https://augengeradeaus.net/2021/07/trotz-low-ops-reden-wir-ueber-die-bundeswehr-in-afghanistan/"/>
+        <updated>2021-07-03T09:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Low ops auf Augen geradeaus! ist ja (noch) nicht richtig Urlaub, deshalb mache ich etwas, was wichtig ist: Am (morgigen) Sonntag spreche ich im ARD-Presseclub über den Bundeswehreinsatz über Afghanistan, die Bundeswehr in diesem Einsatz – und die Folgen, die das für die deutschen Streitkräfte auch in anderen Missionen hat. In der Sendung sind die Kolleg:innen Sandra Petersmann, Julia Weigelt und Hasnain Kazim dabei. Und zur Einstimmung auf das Gespräch habe ich mir noch ein paar wesentliche Papiere und Veröffentlichungen]]></summary>
+        <author>
+            <name>T.Wiegold</name>
         </author>
     </entry>
     <entry>
@@ -1402,6 +2524,17 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eneco: moet dit nou? (update!)]]></title>
+        <id>https://berthub.eu/articles/posts/eneco-moet-dit-nou/</id>
+        <link href="https://berthub.eu/articles/posts/eneco-moet-dit-nou/"/>
+        <updated>2021-07-02T18:45:37.000Z</updated>
+        <summary type="html"><![CDATA[UPDATE: Zoals gezegd had ik Eneco om een reactie gevraagd en die is gekomen. In het kort, Eneco vertelt me dat de website een onjuiste weergave van zaken gaf. De teksten zullen aangepast worden. Het niet instemmen met ieder kwartier meten & analyse van gebruik zal geen effect hebben op het automatisch doorgeven van meterstanden voor de rekening en het online overzicht.
+Wel is het dan zo dat de Eneco App minder inzicht kan verschaffen zonder ieder kwartier verse data, maar dat is natuurlijk niet anders.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iodéOS – does the data saving Android operating system fulfill its promise?]]></title>
         <id>https://tarnkappe.info/?p=155022</id>
         <link href="https://tarnkappe.info/iodeos-does-the-data-saving-android-operating-system-fulfill-its-promise/"/>
@@ -1421,6 +2554,73 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Peter Leeson’s book The Invisible Hook: The Hidden Economics of Pirates explores yet another fascinating account of how governance is possible under anarchy. Leeson distinguishes between the invisible hand (the “hidden order” present in metaphorical market anarchy) and the invisible hook (the “hidden order” in the literal anarchy of pirate societies). The main argument being...]]></summary>
         <author>
             <name>Emile Phaneuf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Polack: Diagram]]></title>
+        <id>15556-peter-polack-diagram</id>
+        <link href="https://strelkamag.com/en/article/peter-polack-diagram"/>
+        <updated>2021-07-02T08:58:26.000Z</updated>
+        <summary type="html"><![CDATA[Interrogating how algorithms are designed to generate narratives about law enforcement, criminal justice, and incarceration.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alyona Shapovalova & Alisa Smorodina: Testing the Ability to Deanthropocentralise. Insect]]></title>
+        <id>14780-alyona-shapovalova-and-alisa-smorodina</id>
+        <link href="https://strelkamag.com/en/article/alyona-shapovalova-and-alisa-smorodina"/>
+        <updated>2021-07-02T08:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Subverting means of control with non-human ecological strategies.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mariia Fedorova: Pandemic Chronotope]]></title>
+        <id>15162-mariia-fedorova-pandemic-chronotope</id>
+        <link href="https://strelkamag.com/en/article/mariia-fedorova-pandemic-chronotope"/>
+        <updated>2021-07-02T08:55:55.000Z</updated>
+        <summary type="html"><![CDATA[A collective fairy tale project expressing the experience of COVID-19 isolation.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electric Red: Status Flag]]></title>
+        <id>15672-electric-red-status-flag</id>
+        <link href="https://strelkamag.com/en/article/electric-red-status-flag"/>
+        <updated>2021-07-02T08:55:27.000Z</updated>
+        <summary type="html"><![CDATA[A flag that represents everyone.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rossana Rossanda: Einmischung]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/rossana-rossanda-einmischung-6509.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/rossana-rossanda-einmischung-6509.html"/>
+        <updated>2021-07-02T08:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Ende der 1970er Jahre diskutierten kommunistische und feministische Frauen über ihre Distanz zur Politik.
+
+Bild: Rossana Rossanda, 1963. / dati.camera.it (CC BY 4.0 cropped)
+Der Auslöser zur Entstehung dieses Buches ist ein Störfall: Einige feministische Aktivist:innen stürmen die Bühnen eines kommunistischen Kongresses und unterbrechen die Diskussion mit einem Sprechchor. Dabei machen sie diese Unterbrechung selbst zum Thema der Debatte, indem sie rufen: „Wir verstehen euch nicht, wir hören euch nicht, ihr interessiert uns nicht, ihr redet Blabla, ihr habt nichts mit uns zu tun, wir haben nichts mit euch zu tun!“ (S. 30) 
+ Diese Aktion erschien der Kommunistin Rossana Rossanda zunächst nur als Störung der Diskussion – als Verhinderung der politischen Debatte, in der es galt, sich zu verst…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wenn die Gondeln Trauer tragen]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wenn-die-gondeln-trauer-tragen-6474.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wenn-die-gondeln-trauer-tragen-6474.html"/>
+        <updated>2021-07-02T06:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Unbeschwertheit steht am Anfang. Johnny (Nicholas Salter) und seine Schwester Christine (Sharon Williams) spielen auf einer Wiese nahe des Anwesens ihrer Eltern Laura (Julie Christie) und John Baxter (Donald Sutherland).
+
+Bild: Julie Christie (hier 1997 in Mexiko) spielt im Film von Nicolas Roeg die Rolle der Laura Baxter. / Festival Internacional de Cine en Guadalajara (CC BY 2.0 cropped)
+Der Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit einem Ball. John schaut Dias von einer Kirche an, Laura studiert ein Buch. So unbekümmert geht es in Nicolas Roegs Film nach einer Kurzgeschichte von Daphne du Maurier – die u.a. auch den Stoff für Hitchcocks „Die Vögel“, „Rebecca“ und „Jamaica Inn“ lieferte – nur noch einmal zu: in der berühmten Liebesszene zwischen John und Lau…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -1495,6 +2695,20 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kundgebung für Versammlungsfreiheit vor dem Landtag in Düsseldorf]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/duesseldorf-kundgebung-fuer-versammlungsfreiheit-6532.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/duesseldorf-kundgebung-fuer-versammlungsfreiheit-6532.html"/>
+        <updated>2021-07-01T14:43:22.000Z</updated>
+        <summary type="html"><![CDATA[Das Bündnis "Versammlungsgesetz NRW stoppen - Grundrechte erhalten!" wird am Donnerstag, den 1. Juli 2021 ab 11 Uhr eine Kundgebung vor dem nordrhein-westfälischen Landtag in Düsseldorf abhalten.
+
+Bild: Demonstration am 26.06.2021 in Düsseldorf. / Presse VersGNRWStoppen
+Das Bündnis zeigt Präsenz anlässlich der von SPD und Grünen einberufenen Aktuellen Stunde zur Aufarbeitung des eskalativen Polizeieinsatzes gegen die Grossdemonstration gegen das geplante schwarz-gelbe Versammlungsgesetz vom Samstag, 26. Juni 2021. 
+ Das Bündnis "Versammlungsgesetz NRW stoppen - Grundrechte erhalten!" erneuert die Forderung nach einem Rücktritt von Innenminister Reul und nach der Beerdigung des autoritären und repressiven Gesetzentwurfs. Das von CDU und FDP geplante Versammlungsgesetz wird auch mit den mitt…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Big Idea: E. J. Mellow]]></title>
         <id>https://whatever.scalzi.com/?p=39794</id>
         <link href="https://whatever.scalzi.com/2021/07/01/the-big-idea-e-j-mellow/"/>
@@ -1525,6 +2739,21 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kolumbien: «Ich bin ein Vandale und Teil der Primera Linea»]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/kolumbien-korruption-proteste-revolte-6533.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/kolumbien-korruption-proteste-revolte-6533.html"/>
+        <updated>2021-07-01T08:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Während viele Menschen hierzulande denken, man müsse alle Theorien kennen, viele Bücher lesen und jahrelange Debatten führen, wissen viele der Kämpfer an der Frontlinie, woher sie kommen.
+
+Bild: Proteste in Bogotá, Mai 2021. / Jorge2mg (CC BY-SA 3.0 unported - cropped)
+Sie sind es, die das Feuer der Revolte in Kolumbien am Brennen halten. Wir haben einen Beitrag von Víctor de Currea-Lugo übersetzt, Reflektionen eines Gesprächs mit einem jungen Mann der Primera Línea[1] in Kolumbien: 
+ Mein Name ist Martin, aber das spielt keine Rolle. Am Ende dieser Artikel wird man sich nicht einmal mehr daran erinnern, dass ich Martin heisse. Mein Alter spielt auch keine Rolle, ich bin zu alt, um weiterhin zu warten, und zu jung, um zu resignieren. 
+ Es ist möglich, dass ich heute Nacht durch das mörderi…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to assess the costs and benefits of lockdowns]]></title>
         <id>/content/cvi9s6i3gj6mpm25pnpridpmj27rkbrp</id>
         <link href="https://www.economist.com/finance-and-economics/2021/07/01/how-to-assess-the-costs-and-benefits-of-lockdowns"/>
@@ -1542,6 +2771,36 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[Fed officials debate whether and when to taper support]]></summary>
         <author>
             <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 12 – Regulatory Capture and Regulatory Arbitrage: Sleeping with your Enemy — Crypto Critics’ Corner]]></title>
+        <id>http://bennettftomlin.com/?p=3138</id>
+        <link href="https://bennettftomlin.com/2021/06/30/episode-12-regulatory-capture-and-regulatory-arbitrage-sleeping-with-your-enemy-crypto-critics-corner/"/>
+        <updated>2021-06-30T18:22:49.000Z</updated>
+        <summary type="html"><![CDATA[In this episode Cas and I discuss the new tendency for cryptocurrency businesses to hire regulators and the old tendency to try to avoid regulation at any cost. Anchor Spotify Apple Google Overcast RSS Feed]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetzt mal extended low ops]]></title>
+        <id>https://augengeradeaus.net/?p=57437</id>
+        <link href="https://augengeradeaus.net/2021/06/jetzt-mal-extended-low-ops/"/>
+        <updated>2021-06-30T14:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Die Urlaubszeit ist angebrochen, und ich gehe zwar noch nicht richtig in Urlaub, mache aber schon mal intensiv low ops. Das wird sich auch auf die Freischaltung von Kommentaren auswirken. Schöne Sommertage!]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sicherheitshalber der Podcast Folge 45: Taiwan: Kriegsgefahr zwischen China und den USA? | Zehn Jahre Aussetzung der Wehrpflicht]]></title>
+        <id>https://augengeradeaus.net/?p=57433</id>
+        <link href="https://augengeradeaus.net/2021/06/sicherheitshalber-der-podcast-folge-45-taiwan-kriegsgefahr-zwischen-china-und-den-usa-zehn-jahre-aussetzung-der-wehrpflicht/"/>
+        <updated>2021-06-30T14:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Sicherheitshalber ist der Podcast zur sicherheitspolitischen Lage in Deutschland, Europa und der Welt. In Folge 45 sprechen Ulrike Franke, Frank Sauer, Carlo Masala und ich zuerst über die Situation rund um Taiwan. Das aggressive chinesische Vorgehen gegen Hongkong legt die Frage nahe, ob die Republik China auf Taiwan, deren politischer Status umstritten ist, womöglich ein ähnliches Schicksal droht. Könnte China gar versuchen, sich den selbsterklärten demokratischen Inselstaat mit militärischen Mitteln einzuverleiben? Greifen dann die USA ein? Welche Konsequenzen hätte das]]></summary>
+        <author>
+            <name>T.Wiegold</name>
         </author>
     </entry>
     <entry>
@@ -1575,6 +2834,30 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Angriff auf deutsche Patrouille in Mali: Explosion 20 Meter vor dem Tanklaster]]></title>
+        <id>https://augengeradeaus.net/?p=57429</id>
+        <link href="https://augengeradeaus.net/2021/06/angriff-auf-deutsche-patroulle-in-mali-explosion-20-meter-vor-dem-tanklaster/"/>
+        <updated>2021-06-30T10:54:15.000Z</updated>
+        <summary type="html"><![CDATA[Die deutschen Soldaten, die in der vergangenen Woche in Mali bei ihrer Aufklärungsmission von einem Selbstmordattentäter angegriffen wurden, sind möglicherweise nur knapp einer noch größeren Katastrophe entgangen: Die Autobombe des Angreifers explodierte wenige Meter vor einem Tanklaster, dessen Ladung aber nicht in Brand geriet. Bei dem Anschlag wurden zwölf deutsche und ein belgischer Soldat verwundet. In einer Sondersitzung des Verteidigungs- und später des Auswärtigen Ausschusses informierte der Parlamentarische Staatssekretär Thomas Silberhorn am (heutigen) Mittwoch die Abgeordneten über die bisherigen Erkenntnisse]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Jugoslawische Erinnerungskultur und die partisanische Geste]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/europa/post-jugoslawische-erinnerungskultur-und-die-partisanische-geste-6526.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/europa/post-jugoslawische-erinnerungskultur-und-die-partisanische-geste-6526.html"/>
+        <updated>2021-06-30T08:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Wer den jugoslawischen Transitionsprozess verstehen will, darf sich nicht nur die Aneignungen durch das Kapital ansehen, sondern auch die staatliche Aneignung der antifaschistischen Erinnerung.
+
+Bild: Slowenischer Partisan im Kampf gegen den deutschen Faschismus, 1944. / Unknown author (PD)
+Marx war im ersten Band seines Hauptwerkes „Das Kapital“ hauptsächlich daran interessiert, wie Kapital und Ware logisch erfasst werden können, um so zu seiner eigentlichen Problemstellung zu gelangen, nämlich der Produktion des Mehrwerts. Die historische Formierung von Kapital stand nicht im Fokus seiner Aufmerksamkeit und er widmete sich dieser Frage nur in wenigen Kapiteln am Ende des ersten Bandes. 
+ Marx’ historische Analyse spricht von einer Begegnung von Kapital und Arbeit, die nach einer ganz and…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[El capitalismo como religión y el mito de la naturaleza capitalista]]></title>
         <id>https://c4ss.org/?p=55024</id>
         <link href="https://c4ss.org/content/55024"/>
@@ -1582,6 +2865,40 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         <summary type="html"><![CDATA[De Qianzi. Artículo original: Capitalism as Religion and The Myth of Capitalist Nature, 9 de marzo de 2021. Traducido al español por Camila Figueroa. Una breve indagación sobre el diagnóstico proporcionado por Walter Benjamin. “Se puede discernir una religión en el capitalismo, es decir, el capitalismo sirve esencialmente para aliviar las mismas ansiedades, tormentos y...]]></summary>
         <author>
             <name>Qianzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Captain Fantastic – Einmal Wildnis und zurück]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/captain-fantastic-einmal-wildnis-und-zurueck-6498.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/captain-fantastic-einmal-wildnis-und-zurueck-6498.html"/>
+        <updated>2021-06-30T06:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Ein Road Trip durch die Emotionen. Natürlich, witzig und schmerzhaft ehrlich schleicht sich die im Wald lebende Familie ihren Weg in das Herz des Zuschauers.
+
+Bild: Viggo Mortensen (hier am Toronto Film Festival, September 2008) spielt die Rolle des Aussteigers Ben. / christopherharte (CC BY-SA 2.0 cropped)
+Der interessante Einblick in die alternative Lebensweise ausserhalb der Norm ist eine willkommende Abwechslung und dürfte für viele der Jungdarsteller ein künstlerisches Sprungbrett für kommende Auftritte sein. Ein visuelles Nimmerland mit nachdenklichen Momenten, in dem Familie alles ist was zählt! 
+ Es war einmal ein Vater, der lebte mit seinen sechs Zwergen hinter den nördlichen Bergen im tiefen tiefen Wald. Dort lernten sie, wie man jagt, klettert, Shakespeare zitiert und über Atomp…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Henry IV, Part I, by William Shakespeare]]></title>
+        <id>https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i</id>
+        <link href="https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i"/>
+        <updated>2021-06-29T23:48:19.000Z</updated>
+        <summary type="html"><![CDATA[King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ticket No. 9672, by Jules Verne]]></title>
+        <id>https://standardebooks.org/ebooks/jules-verne/ticket-no-9672/laura-e-kendall</id>
+        <link href="https://standardebooks.org/ebooks/jules-verne/ticket-no-9672/laura-e-kendall"/>
+        <updated>2021-06-29T23:29:48.000Z</updated>
+        <summary type="html"><![CDATA[The wife of a lost fisherman finds his last message to her: a lottery ticket in a bottle.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
         </author>
     </entry>
     <entry>
@@ -1615,6 +2932,26 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Die deutschen Gefallenen im Einsatz in Afghanistan]]></title>
+        <id>https://augengeradeaus.net/?p=57231</id>
+        <link href="https://augengeradeaus.net/2021/06/die-deutschen-gefallenen-im-einsatz-in-afghanistan/"/>
+        <updated>2021-06-29T20:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Die Bundeswehr hat den verlustreichsten Auslandseinsatz ihrer Geschichte beendet. In Afghanistan fielen seit 2003 insgesamt 35 deutsche Soldaten. Nach offiziellen Zahlen der Bundeswehr kamen in den Missionen am Hindukusch 59 Soldaten um; in dieser Statistik sind allerdings auch Unfälle oder natürliche Todesfälle enthalten. Die Übersicht über die Gefallenen, also die Toten durch Feindeinwirkung: 2003  29.05.03 – Kabul, Stabsgefreiter Stephan Kamins, Mine 07.06.2003 – Kabul, Selbstmordanschlag auf Bus: Oberfeldwebel Carsten Kühlmorgen; Oberfähnrich Andreas Beljo; Feldwebel Helmi Jimenez-Paradis; Stabsunteroffizier Jörg Baasch 2005]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundeswehr hat Afghanistan verlassen – Deutscher Einsatz am Hindukusch endet nach fast 20 Jahren (m. Korrektur)]]></title>
+        <id>https://augengeradeaus.net/?p=57412</id>
+        <link href="https://augengeradeaus.net/2021/06/bundeswehr-hat-afghanistan-verlassen-deutscher-einsatz-am-hindukusch-endet-nach-fast-20-jahren/"/>
+        <updated>2021-06-29T19:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Die Bundeswehr hat ihren Einsatz in Afghanistan beendet und ihre Soldaten vom Hindukusch abgezogen. Am (heutigen) Dienstag verließ das letzte Flugzeug mit deutschen Soldatinnen und Soldaten Mazar-e Sharif im Norden des Landes. Aus dem Hauptquartier der NATO-geführten Resolute Support Mission waren die letzten deutschen Soldaten bereits in der vergangenen Woche abgezogen worden. Die letzte Maschine verließ um 23:54 Uhr Ortszeit (21.24 MESZ) den afghanischen Luftraum. (KORREKTUR: nicht Start in Mazar-e Sharif). Das Verteidigungsministerium meldete das Ende der deutschen Beteiligung am]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Robin des boîtes]]></title>
         <id>https://www.monde-diplomatique.fr/2016/03/NAMIAS/54955</id>
         <link href="https://www.monde-diplomatique.fr/2016/03/NAMIAS/54955"/>
@@ -1626,6 +2963,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bundeswehr verkleinert Kontingent für Corona-Amtshilfe – Aber mit hoher Einsatzbereitschaft]]></title>
+        <id>https://augengeradeaus.net/?p=57409</id>
+        <link href="https://augengeradeaus.net/2021/06/bundeswehr-verkleinert-kontingent-fuer-corona-amtshilfe-aber-mit-hoher-einsatzbereitschaft/"/>
+        <updated>2021-06-29T15:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Die Bundeswehr wird ihr Kontingent zur Unterstützung ziviler Behörden in der Coronavirus-Pandemie ab dem 1. Juli auf 15.000 Soldatinnen und Soldaten reduzieren, aber für weitere Unterstützung in hoher Bereitschaft bleiben. Aktuell ist die Truppe noch mit rund 8.400 Soldaten in der Amtshilfe zur Unterstützung tätig. Die Verringerung der Zahl von Soldatinnen und Soldaten, die die Bundeswehr in der Pandemie vorhält, hatte Verteidigungsministerin Annegret Kramp-Karrenbauer bereits vor gut drei Wochen angekündigt. Angesichts sinkender Fallzahlen und Inzidendenzen sollte das Corona-Kontigent, das im]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recul de la foi, mais pas de l'intolérance]]></title>
         <id>https://www.monde-diplomatique.fr/cartes/religions-societe</id>
         <link href="https://www.monde-diplomatique.fr/cartes/religions-societe"/>
@@ -1634,6 +2981,54 @@ Tarnkappe.info - Unter dem Radar]]></summary>
  / Europe, Christianisme, Exclusion sociale, Identité culturelle, Intégration sociale, Islam, Judaïsme, Religion, Société, Société civile, Monde - Social]]></summary>
         <author>
             <name>Cécile Marin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alicia Garza: Die Kraft des Handelns. Wie wir Bewegungen für das 21. Jahrhundert bilden.]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/alicia-garza-die-kraft-des-handelns-1922.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/alicia-garza-die-kraft-des-handelns-1922.html"/>
+        <updated>2021-06-29T14:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Identitätspolitik wird hierzulande von radikaleren Kreisen oft zu Unrecht geschmäht. Zugleich wird sie in Europa oftmals nur verkürzt rezipiert. Alicia Garza lädt uns in ihrem Buch dazu ein, einen tieferen Einblick in die Black Lives Matter-Bewegung und ein durch und durch aktivistisches Leben zu gewinnen.
+
+Bild: Black Lives Matter Protest in Washington D.C., September 2020. / Elvert Barnes (CC BY-SA 2.0 cropped)
+Strukturelle Diskriminierung und Unterdrückung als Ausgangspunkt
+ Mit Die Kraft des Handelns publizierte die bekannte schwarze und queerfeministische Aktivistin Alicia Garza ein Werk, in welchem es weniger darum geht, die Welt besser zu verstehen, sondern zu ihrer grundlegenden Veränderung beizutragen. Bekanntheit erlangte die Autorin als Mitbegründerin der Black Lives Matter-Bewe…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shifting Fundamentals]]></title>
+        <id>15642-the-shifting-fundamentals</id>
+        <link href="https://strelkamag.com/en/article/the-shifting-fundamentals"/>
+        <updated>2021-06-29T10:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Markus Lähteenmäki reviews the 17th Venice Biennale of Architecture.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutiert der Trumpismus zu einer radikalen Weltreligion?]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/nordamerika/mutiert-der-trumpismus-zu-einer-radikalen-weltreligion-6508.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/nordamerika/mutiert-der-trumpismus-zu-einer-radikalen-weltreligion-6508.html"/>
+        <updated>2021-06-29T09:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Im Leben eines jeden Journalisten gibt es bisweilen (wenn auch nicht so häufig) journalistische Sternstunden, deren historische und politische Bedeutung man nicht immer gleich zu erkennen und dort einzuordnen vermag, wohin sie gehören.
+
+Bild: Donald J. Trump bei einem Besuch auf einer Farm in Georgia, Oktober 2018. /  	Trump White House Archived (PD)
+Eine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil. 
+ Es begann damit, dass ein amerikanischer Freund (mit dem ich einst auf der Schulbank sass und der heute zum engeren Zirkel von Donald Trump gehört und dessen Namen ich aus naheliegenden Gründen daher auch nicht nennen werde) mich über ein „Geheimtreffen“ informierte, zu dem der grösste aller Präsidenten in der 233jährigen Geschichte der Vereinigten Staaten von Amerika …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundeswehr ändert Covid-Regeln für Afghanistan-Rückkehrer: Nun doch keine zwingende Quarantäne]]></title>
+        <id>https://augengeradeaus.net/?p=57405</id>
+        <link href="https://augengeradeaus.net/2021/06/bundeswehr-aendert-covid-regeln-fuer-afghanistan-rueckkehrer-nun-doch-keine-zwingende-quarantaene/"/>
+        <updated>2021-06-29T07:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Die Bundeswehr hat die Bestimmungen für eine Covid-Quarantäne der aus Afghanistan zurück verlegten Soldaten abgeschwächt. Die Soldatinnen und Soldaten, die bereits einen vollständigen Impfschutz haben, müssen nun doch nicht in Quarantäne – so lange es keinen erneuten positiven Coronavirus-Test im Kontingent gibt. Am (gestrigen) Montag war bekannt geworden, dass die Bundeswehr ihr Camp in Mazar-e Sharif im Norden Afghanistans zum so genannten Virusvariantengebiet erklärt hatte. Damit galt für alle Soldatinnen und Soldaten die Regel, nach der Heimkehr nach Deutschland zunächst]]></summary>
+        <author>
+            <name>T.Wiegold</name>
         </author>
     </entry>
     <entry>
@@ -1658,6 +3053,16 @@ Tarnkappe.info - Unter dem Radar]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Streit um neues Sturmgewehr für die Bundeswehr geht in die nächste Runde]]></title>
+        <id>https://augengeradeaus.net/?p=57399</id>
+        <link href="https://augengeradeaus.net/2021/06/streit-um-neues-sturmgewehr-fuer-die-bundeswehr-geht-in-die-naechste-runde/"/>
+        <updated>2021-06-28T15:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Eine Überraschung ist es nicht: Der Streit, wer das neue Sturmgewehr der Bundeswehr liefern wird, geht jetzt vor Gericht. Nach der Entscheidung der Vergabekammer beim Bundeskartellamt, die einen Ausschluss der Suhler Firma C.G. Haenel bestätigt hatte, reichte das Unternehmen dagegen Beschwerde beim Oberlandesgericht (OLG) Düsseldorf ein. Damit verzögert sich die Beschaffung der neuen Standardwaffe der Streitkräfte weiter. Die Vergabekammer hatte am 10. Juni entschieden, dass das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAInBw) korrekt entschieden habe, Haenel von]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Le Philharmonique de New York en goguette à Pyongyang]]></title>
         <id>https://www.monde-diplomatique.fr/2009/07/SUKI/17464</id>
         <link href="https://www.monde-diplomatique.fr/2009/07/SUKI/17464"/>
@@ -1666,6 +3071,69 @@ Tarnkappe.info - Unter dem Radar]]></summary>
  / Corée du Nord, Culture, Géopolitique, Musique, Diplomatie, Université - 2009/07]]></summary>
         <author>
             <name>Suki Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 11 – El Salvador and Bitcoin — Crypto Critics’ Corner]]></title>
+        <id>http://bennettftomlin.com/?p=3131</id>
+        <link href="https://bennettftomlin.com/2021/06/28/episode-11-el-salvador-and-bitcoin-crypto-critics-corner/"/>
+        <updated>2021-06-28T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[In this episode Cas and I discuss the politically, economically, and historically impactful news that El Salvador is adopting Bitcoin as legal tender. Anchor Spotify Apple Google Overcast RSS Feed Cas Piancey provided some additional context on this issue through his reporting at Protos that can be found here: Read this before criticizing El Salvador’s … Continue reading Episode 11 – El Salvador and Bitcoin — Crypto Critics’ Corner]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vom Hakenkreuz zum Bundesverdienstkreuz: Das „rein arische Familienunternehmen“ der Reimanns]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/reimann-dynastie-6365.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/reimann-dynastie-6365.html"/>
+        <updated>2021-06-28T08:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Wer sich auf Spurensuche nach den reichsten Deutschen begibt, der muss ein paar Klippen umschiffen.
+
+Bild: Zwangsarbeiter aus Frankreich in Berliner Siemenswerke, 1943. / Bundesarchiv, Bild 183-S68029 (CC BY-SA 3.0 cropped)
+Die Reimanns haben in diesem Jahr mit einem Familienvermögen von 32 Milliarden Euro die Spitzenposition im Milliardärs-Ranking des Manager-Magazins erobert und sind trotzdem nur schwer zu finden. Keine Fotos. Keine Videos. Keine näheren Angaben zu den Personen hinter den Milliarden. Stattdessen „Die Reimanns“ eine deutsche Auswandererfamilie in Texas und Personal einer Vorabendserie auf RTL II. Was? Das sollen die reichsten Deutschen sein? Natürlich nicht. Erst mit dem Zusatz „Unternehmerfamilie“ kommt man der Sache näher und stösst in diesem Zusammenhang dann auch auf …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ernst Hubeli: Die neue Krise der Städte]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/ernst-hubeli-die-neue-krise-der-staedte-6507.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/ernst-hubeli-die-neue-krise-der-staedte-6507.html"/>
+        <updated>2021-06-28T07:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Elegant geschrieben, kämpferisch und brandaktuell: Eine Streitschrift fragt nach der Gerechtigkeit der Wohnungsversorgung.
+
+Bild: Demonstration für einen für einen bundesweiten Mietendeckel nachdem das Bundesverfassungsgericht das Berliner Gesetz wegen Unzuständigkeit für nichtig erklärt hatte, am 15. April 2021 vom Hermannplatz zu Kottbusser Tor, mit einer Runde über der Moritzplatz. / Leonhard Lenz (PD)
+In diesem Jahr geht die Berliner Initiative „Deutsche Wohnen & Co. enteignen“ in ihre entscheidende Phase. Damit es im September 2021 zu einem Volksentscheid kommt, müssen in Berlin 175.000 Unterschriften gesammelt werden. Das Ziel: die Enteignung von Immobilienkonzernen mit 3.000 Wohnungen und mehr und anschliessender Vergesellschaftung der insgesamt 243.000 Wohnungen durch die Überführu…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arac Attack – Angriff der achtbeinigen Monster]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/arac-attack-angriff-der-achtbeinigen-monster-6476.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/arac-attack-angriff-der-achtbeinigen-monster-6476.html"/>
+        <updated>2021-06-28T06:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Riesenspinnen – na ja, was Neues ist das nicht im einschlägigen Genre. Und was die hiesige Filmkritik dazu zu sagen hat, ist nicht erwähnenswert.
+
+Bild: Der neuseeländische Filmregisseur Ellory Elkayem, Februar 2009. / Cooltv (PD)
+„Und was die hiesige Filmkritik dazu zu sagen hat, ist nicht erwähnenswert. Jedenfalls werden Spinnen – wenn sie eine bestimmte Grösse überschreiten – zu mörderischen Monstern. Der Originaltitel des Films ist angeblich geändert worden in „Eight Legged Freaks“, weil „Arac Attack“ so ähnlich wie „Iraq Attack“ klingt. Na ja. Hatte Saddam Hussein Mörderspinnen? 
+ Den Ernst der Lage müssen jedenfalls auch die Einwohner von Prosperity in Arizona erfahren, einer Stadt, in der Prosperität allerdings schon lange ein Fremdwort ist. Das Städtchen kränkelt vor sich hin. Bürg…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildfires in California (I)]]></title>
+        <id>https://nintil.com/wildfires-california/</id>
+        <link href="https://nintil.com/wildfires-california/"/>
+        <updated>2021-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[California has a habit of going up in flames on a yearly basis, leaving Cyberpunk-worthy scenes as a result. Why does this happen and where is it going is the topic of this post.
+How many acres burn every year? Is it getting worse?
+There is broad consensus in the scientific community that wildfire behavior is changing across the American West in general, and in California in particular. Figure 2.3 highlights trends in wildfire activity in California since 1990. All indicators shown—wildfire occurrence, total area burned, and average fire size—display an upward trend in the last several decades across the state (The Costs of Wildfire in California)
+From the chart below, it seems clear that there is an increasing trend in burned yearly acreage.  Taking for example the worst 5 years in the pe…]]></summary>
+        <author>
+            <name>Nintil</name>
         </author>
     </entry>
     <entry>
@@ -1713,6 +3181,27 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sunday Reads – Things I Found Interesting 2021-06-27]]></title>
+        <id>http://bennettftomlin.com/?p=3061</id>
+        <link href="https://bennettftomlin.com/2021/06/27/sunday-reads-things-i-found-interesting-2021-06-27/"/>
+        <updated>2021-06-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary of Bitfinex and Tether Grant Williams wrote the best summary of Bitfinex and Tether I have yet read, it is unfortunately paywalled, but if you would like to subscribe to get access you can go here. (Note: I was given a free copy) If instead you would like to read my introduction you can … Continue reading Sunday Reads – Things I Found Interesting 2021-06-27]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking-free audience statistics]]></title>
+        <id>https://berthub.eu/articles/posts/tracking-free-audience-statistics/</id>
+        <link href="https://berthub.eu/articles/posts/tracking-free-audience-statistics/"/>
+        <updated>2021-06-27T11:46:27.000Z</updated>
+        <summary type="html"><![CDATA[As regular readers of this blog will know, I am no friend of the surveillance capitalism that currently powers the web. It is becoming well-neigh impossible to develop any software or host any content without some component tracking your users & sending data to third parties.
+Even though I try very hard not to fall for this, periodically I discover that my sites also embed things that embed things that potentially leak your details to third parties.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meme Weeding: Polycentricity and High-Speed Rail]]></title>
         <id>http://pedestrianobservations.com/?p=6354</id>
         <link href="https://pedestrianobservations.com/2021/06/26/meme-weeding-polycentricity-and-high-speed-rail/"/>
@@ -1720,6 +3209,19 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[There is a common line among German rail advocates that high-speed rail is not a good fit for Germany’s urban geography because the country is more polycentric than Japan or France. Per such advocates, it’s more important to connect small cities to a national network of trains averaging 120 km/h. It’s based on a wrong […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warum kommen so viele Nationalist*innen auf antisemitische Urteile?]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/antisemitismus/antisemitismus-nationalismus-2972.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/antisemitismus/antisemitismus-nationalismus-2972.html"/>
+        <updated>2021-06-26T14:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Immer wieder sind Linke und Liberale erstaunt und entsetzt, dass so viele[1] Leute im 21. Jahrhundert noch Antisemit*innen sind.
+
+Bild: Mahnwache gegen Antisemitismus nach Anschlag in Halle, Hannover, Oktober 2019. / Stobaios (CC BY-SA 4.0 cropped)
+Häufig wird dann weit in die Geschichte ausgeholt, um zu erklären, dass der Antisemitismus irgendwie schon immer da gewesen sei – was übrigens, selbst wenn es stimmen würde, auch keine Erklärung wäre. Auch dann wäre ja zu begründen, warum er sich bis heute halten konnte, anders als beispielsweise die Hexenverfolgung. Gerne werden Antisemit*innen auch sozialpsychologisch als Mängelwesen pathologisiert: Sozialneid, Sexualnöte, Versagensängste, Probleme mit dem Über-Ich, magisches Weltbild usw.[2] Und so unsympathisch Antisemit*innen auch zumeist s…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -1764,6 +3266,47 @@ Walkways lined by abandoned gestures first appeared on Open Thinkering.]]></summ
  / France, Démocratie, Extrême droite, Politique - 2002/06]]></summary>
         <author>
             <name>Anne-Cécile Robert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Papst Johannes Paulus II in den Niederlanden]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/johannes-paul-der-papstbesuch-in-den-niederlanden-6506.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/johannes-paul-der-papstbesuch-in-den-niederlanden-6506.html"/>
+        <updated>2021-06-25T08:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Im Mai 1985 kam der Papst in die Niederlande, es sollte ein Desaster werden.
+
+Bild: Demonstration in Utrecht gegen den Besuch von Papst Johannes Paul II, 12. Mai 1985. / Het Utrechts Archief (CC BY-SA 4.0 cropped)
+Bis in die sechziger Jahre waren die Niederlande ein Musterland für Katholiken. Die ‘Verzuiling‘ (Versäulung’), ein typisch holländisches Gesellschaftsmodell, in dem jeder Glaube seine eigene Zeitung, politische Partei, Rundfunkanstalt, Vereine und Schulen hatte, machte die holländischen Katholiken zu einer engen, loyalen Gruppe von Glaubensgenoss*innen. Doch das begann sich in den 1960er Jahren zu ändern. 
+ In 1966 antworteten die Niederlande auf das Zweite Vatikanische Konzil mit einem Pastoralrat. Rom hatte den Grundstein für das religiöses Leben im 21. Jahrhundert gelegt, ein…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathias Wörsching: Faschismustheorien]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/mathias-woersching-faschismustheorien-6408.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/mathias-woersching-faschismustheorien-6408.html"/>
+        <updated>2021-06-25T06:34:19.000Z</updated>
+        <summary type="html"><![CDATA[Ein grossartiges Einführungswerk in die historischen und aktuellen Tendenzen des Faschismus.
+
+Bild: Jair Bolsonaro während einer Fernsehansprache, März 2021. / Isac Nóbrega - Palácio do Planalto (CC BY 2.0 cropped)
+Von der AfD bis nach Halle, von Bolsonaro bis Erdogan: Autoritäre und reaktionäre Welterklärungen haben Hochkonjunktur. Die Antworten, die fraglos als Reaktionen auf die Krisenhaftigkeit des globalen Kapitalismus zu verstehen sind, müssen als Ausdruck der gesellschaftlichen Zurichtungen von Konkurrenz, Vernutzung und Entfremdung betrachtet werden. Einen Zusammenhang zwischen Kapitalismus und Faschismus zu sehen, ist keine Neuigkeit. Wie genau dieser Zusammenhang aussieht, was Faschismus ist und was nicht, darüber gibt dieses Überblickswerk Auskunft. 
+ Mathias Wörschings „Faschis…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Platoon]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/platoon-film-6473.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/platoon-film-6473.html"/>
+        <updated>2021-06-25T06:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Merkwürdige Kritiken hat Oliver Stones „Platoon“ bewirkt.
+
+Bild: Eine US-Platoon-Einheit beim Quang Tri Fluss in Vietnam, 1967. / Russell Jewett (CC BY-SA 4.0 cropped)
+So schrieb „Cinema“, „[...] gerade aus der blossen Beschränkung auf die Oberfläche des Krieges“ resultiere „die Fragwürdigkeit des Films. Hinter dem schockierenden Dokumentarismus von ›Platoon‹ dräuen still und unauffällig patriotische Rehabilitation und konservativ-katholische Rückendeckung. Oliver Stone erteilt dem schlechten Gewissen der Amerikaner eine nachträgliche Absolution.“ In welchem Film war der Autor dieser Zeilen? Das Lexikon des internationalen Films sieht in „Platoon“ eine Heroisierung der gefallenen Opfer“ (freilich nur der amerikanischen!)“. Die „Frankfurter Allgemeine Zeitung“ fragt sich und uns, ob Stones …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -1884,6 +3427,41 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘Seeking Sanctuary’: Call for Papers from The Garage Journal]]></title>
+        <id>15618-seeking-sanctuary</id>
+        <link href="https://strelkamag.com/en/article/seeking-sanctuary"/>
+        <updated>2021-06-24T12:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Apply by September 15, 2021.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concrete Ceiling Apartment in Central Moscow]]></title>
+        <id>15594-kvartira-s-istoricheskim-kirpichom-na-karetnom-ryadu</id>
+        <link href="https://strelkamag.com/en/article/kvartira-s-istoricheskim-kirpichom-na-karetnom-ryadu"/>
+        <updated>2021-06-24T10:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Custom-made furniture and textured surfaces.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dannenröder Forst: Ella/UP1 wird verurteilt zu 2 Jahren, 3 Monaten Haft]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-forst-ella-up1-urteil-6505.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-forst-ella-up1-urteil-6505.html"/>
+        <updated>2021-06-24T07:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Ella/UP1 war bei den Protesten im Dannenröder Forst wie tausende andere Menschen aktiv und wurde gestern, am Mittwoch, den 23. Juni, überraschend vor angesetztem Prozessende in Alsfeld zu 2 Jahren und 3 Monaten Haft verurteilt.
+
+Bild: Protest-Camp im Dannenröder Wald, August 2020. / Leonhard Lenz (PD)
+Die Staatsanwaltschaft forderte noch drei Monate mehr Haft, für den Vorwurf des tätlichen Angriffs auf Vollstreckungsbeamte, basierend allein auf den Aussagen der ohne Identitätsnachweis aufgetretenen SEK-Beamten. 
+ Ella gehörte zu den vielen, die bei den Protesten im Danni von der Polizei von den Bäumen geholt und mitgenommen wurden, aber nur zu den wenigen, die nicht zurückgekehrt sind. 
+ "Wir sind alle geschockt, wütend und fassungslos. Das ist eine politisch beziehungsweise wirtschaftspol…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The international role of the euro]]></title>
         <id>/content/2ldhn417558dle2b6bbsip90pp5c3f6u</id>
         <link href="https://www.economist.com/finance-and-economics/2021/06/24/the-international-role-of-the-euro"/>
@@ -1916,6 +3494,33 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hunderte Gruppengründungen der esoterisch-neurechten Akademie Engelsburg bundesweit]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/flensburg-akademie-engelsburg-6493.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/flensburg-akademie-engelsburg-6493.html"/>
+        <updated>2021-06-23T08:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Bundesweit bildeten sich im letzten Monat mehrere hundert Regionalgruppen der Akademie Engelsburg, nachdem deren Gründer Martin Laker per telegram dazu aufgerufen hatte.
+
+Bild: Rezept für eine Eso-Fascho-SexismusVerschwörungsSekten-Suppe. / subtilus.info
+Laker wirkt auf den ersten Blick wie ein anstrengender Ökoguru, ein in einem anderen Jahrtausend steckengebliebener Sektenprophet. Aber was er sagt ist nicht ausschliesslich phrasenhafte Esoterik. Er vertritt vielmehr zutiefst sexistische und rassistische Positionen, verbreitet Reichsbürger-Ideologie und Q-Anon-Mythen. Über allem sieht er Anastasia – jene strahlende Romanheldin des russischen Autors Wladimir Megre, die heute Vorbild für eine religiöse, antisemitische, völkische Siedlungsbewegung ist. Auch in Deutschland gibt es rund 20 sol…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lärm und Wut]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/laerm-und-wut-6384.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/laerm-und-wut-6384.html"/>
+        <updated>2021-06-23T06:01:11.000Z</updated>
+        <summary type="html"><![CDATA[„Lärm und Wut“ erzählt von zwei vernachlässigten Jungen in einer Pariser Vorstadt, die Freundschaft schliessen.
+
+Bild: Banlieue in Paris. / matelo971 (CC BY-NC-SA 2.0 cropped)
+Diese wird jedoch nicht zu einem Ausweg aus Trost- und Perspektivlosigkeit. Vielmehr ist die eigenwillige Mischung aus Fantastereien und ungeschminkten Realismus ein noch immer wirkungsvolles Porträt sinnloser Gewalt und eines bitteren Fatalismus. 
+ Ein intaktes Familienleben hat der 14-jährige Bruno (Vincent Gasperitsch) nicht gerade. Zusammen mit seiner Mutter lebt er in einem trostlosen Plattenbau in der Pariser Vorstadt. Die meiste Zeit ist er dabei allein, da seine Mutter viel arbeiten muss. Zudem tut er sich etwas schwer damit, an seiner neuen Schule Anschluss zu finden. Lediglich sein Vogel, dem er den Namen S…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.11.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
@@ -1945,6 +3550,16 @@ Thank you @PiyushLosalka]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Richard II, by William Shakespeare]]></title>
+        <id>https://standardebooks.org/ebooks/william-shakespeare/richard-ii</id>
+        <link href="https://standardebooks.org/ebooks/william-shakespeare/richard-ii"/>
+        <updated>2021-06-22T17:39:00.000Z</updated>
+        <summary type="html"><![CDATA[King Richard II’s wasteful spending habits drive his supporters to revolt.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[«<small class="fine"> </small>Adalen 31<small class="fine"> </small>» : un film moral]]></title>
         <id>https://www.monde-diplomatique.fr/1974/02/RAMONET/32135</id>
         <link href="https://www.monde-diplomatique.fr/1974/02/RAMONET/32135"/>
@@ -1953,6 +3568,75 @@ Thank you @PiyushLosalka]]></summary>
  / Cinéma, Mouvement de contestation, Politique, Travail, Suède, Socialisme - 1974/02]]></summary>
         <author>
             <name>Ignacio Ramonet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Call: ArchDaily & Strelka Award 2021]]></title>
+        <id>15588-premiya-archdaily-and-strelka-award-2021-otkryla-priyom-zayavok</id>
+        <link href="https://strelkamag.com/en/article/premiya-archdaily-and-strelka-award-2021-otkryla-priyom-zayavok"/>
+        <updated>2021-06-22T15:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Submit your project by July 30.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China - einfach indiskutabel?]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/asien/china-einfach-indiskutabel-6484.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/asien/china-einfach-indiskutabel-6484.html"/>
+        <updated>2021-06-22T14:06:41.000Z</updated>
+        <summary type="html"><![CDATA[China: Besonders üble Ausbeutung, repressiver Staat, Neokolonialismus, Uiguren, Hongkong – ist damit alles gesagt?
+
+Bild: Polizeieinsatz in Hong Kong während den #OathGate-Protesten, November 2016. / Mario Sixtus (CC BY-NC-SA 2.0 cropped)
+China ist indiskutabel, ein schlimmer Staat. Darin sind sich viele einig – auch Leute, die einiges am deutschen Staat zu kritisieren und politisch ansonsten eher wenig Schnittmengen haben. Linksliberale, Gewerkschaftler, Anarchisten, Grüne und Antifa-Gruppen – sie alle eint die Vorstellung, dass Chinas Kapitalismus extra-ausbeuterisch ist und der chinesische Staat besonders repressiv auftritt. Fallen dann noch die Stichworte „Uiguren“ bzw. „Hongkong“, weiss jeder – auch auf Basis einer ziemlich dürftigen Informationsgrundlage und ohne weitere Auseinanders…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Call: World Architecture Community 10+5+x Awards]]></title>
+        <id>15564-open-call-world-architecture-community-10-5-x-awards</id>
+        <link href="https://strelkamag.com/en/article/open-call-world-architecture-community-10-5-x-awards"/>
+        <updated>2021-06-22T12:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Apply by July 15, 2021.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mit Recht Krieg - eine Rede des Bundespräsidenten zum Unternehmen Barbarossa]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mit-recht-krieg-unternehmen-barbarossa-6492.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mit-recht-krieg-unternehmen-barbarossa-6492.html"/>
+        <updated>2021-06-22T07:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Anlässlich des 80. Jahrestages des "Unternehmen Barbarossa" getauften Krieges, den Deutschland am 22. Juni 1941 gegen die damalige Sowjetunion begann, hielt der deutsche Bundespräsident qua Amt und Würde am 18. Juni im Deutsch-Russischen Museum Berlin-Karlshorst, eine zentrale Gedenkrede[1], die zugleich die Ausstellung “Dimensionen eines Verbrechens. Sowjetische Kriegsgefangene im Zweiten Weltkrieg” eröffnete.
+
+Bild: Deutsche Soldaten marschieren neben einem Panzerspähwagen durch eine Ortschaft im Norden von Russland, Juni 1941. / Bundesarchiv, Bild 101I-208-0027-04A - Nägele (CC BY-SA 3.0 cropped)
+1. Eine staatlich inszenierte Rede
+ Protest gegen diesen Ort der Gedenkrede legte die Ukraine durch ihren Botschafter Andrij Melnyk ein, der verlautbarte, die Entscheidung für diesen Ort stelle…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corona: Delta Update]]></title>
+        <id>https://berthub.eu/articles/posts/corona-delta-update/</id>
+        <link href="https://berthub.eu/articles/posts/corona-delta-update/"/>
+        <updated>2021-06-22T07:00:45.000Z</updated>
+        <summary type="html"><![CDATA[In de vorige Corona update eind mei schreef ik over “delta”, toen nog bekend als de Indiase variant:
+ Het is helaas te vroeg om nu een eindoordeel te vellen over deze variant. Wat we wel weten is dat in de UK de vaccins prima standhouden - de overgrote meerderheid van de mensen in het ziekenhuis is ongevaccineerd.
+ Dit is nog steeds waar. Toch weten we nu een stuk meer.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Non-Exhaustive List of Bitfinex and Tether’s Misdeeds and Red Flags]]></title>
+        <id>http://bennettftomlin.com/?p=3063</id>
+        <link href="https://bennettftomlin.com/2021/06/21/a-non-exhaustive-list-of-bitfinex-and-tethers-misdeeds-and-red-flags/"/>
+        <updated>2021-06-22T01:30:04.000Z</updated>
+        <summary type="html"><![CDATA[This is a living document that I intend to continue to update as I continue to research Bitfinex and Tether. I hope it will serve as a useful reference material for anyone who needs to try to keep in mind their many inappropriate behaviors. If you find any I missed, feel free to leave a … Continue reading A Non-Exhaustive List of Bitfinex and Tether’s Misdeeds and Red Flags]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
         </author>
     </entry>
     <entry>
@@ -1978,6 +3662,16 @@ Specialization is for insects first appeared on Open Thinkering.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Episode 10 – This one weird trick will stop you from ever having a bank run!! (never let anyone redeem) — Crypto Critics’ Corner]]></title>
+        <id>http://bennettftomlin.com/?p=3073</id>
+        <link href="https://bennettftomlin.com/2021/06/21/episode-10-this-one-weird-trick-will-stop-you-from-ever-having-a-bank-run-never-let-anyone-redeem-crypto-critics-corner/"/>
+        <updated>2021-06-21T13:35:17.000Z</updated>
+        <summary type="html"><![CDATA[In this episode Cas and I discuss what is a Tether redemption, what’s a Bitfinex redemption, and why all this talk about redemptions even matters.  Anchor Spotify Apple Google Overcast RSS Feed]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Des riches plus riches, des pauvres plus pauvres]]></title>
         <id>https://www.monde-diplomatique.fr/1973/01/SPITZ/31288</id>
         <link href="https://www.monde-diplomatique.fr/1973/01/SPITZ/31288"/>
@@ -1989,6 +3683,45 @@ Specialization is for insects first appeared on Open Thinkering.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An Architect’s House]]></title>
+        <id>13184-dom-arkhitektora</id>
+        <link href="https://strelkamag.com/en/article/dom-arkhitektora"/>
+        <updated>2021-06-21T09:24:29.000Z</updated>
+        <summary type="html"><![CDATA[An airy wooden house in the suburbs.]]></summary>
+        <author>
+            <name>Strelka Mag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der Forst Kasten ist ab sofort wieder Besetzt!]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/der-forst-karsten-ist-ab-sofort-wieder-besetzt-6487.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/der-forst-karsten-ist-ab-sofort-wieder-besetzt-6487.html"/>
+        <updated>2021-06-21T08:23:36.000Z</updated>
+        <summary type="html"><![CDATA[In der Nacht 18.06./19.06.2021 haben unabhängige, Partei- und Organisationslose Aktivist:Innen im Forst Kasten bei München mit Baumhäusern eine Besetzung errichtet.
+
+Bild: Besetzer im Forst Kasten bei München. / kastibleibt.noblogs.org
+Damit soll eine geplante Rodung verhindert werden. Trotz des massiven öffentlichen Protests stimmte der Sozialausschuss des Rot/Grünen Stadtrats München am 20.05.2021 der Rodung des Forst Kasten zu. Dies zeigt, nicht zum ersten Mal, deutlich, dass auch Parteien, die sich „Grün“ oder „Sozial“ nennen, bereit sind, die Umwelt zu zerstören, sobald der finanzielle Anreiz gross genug ist. 
+ Die Rettung des Waldes wird nicht durch Parlamente oder andere Regierungsgremien möglich sein. 
+ Deswegen haben sich Aktivist:Innen dazu entschlossen, Strukturen in den Bäumen …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freiburg: Gartenstrasse 19/Bike Kitchen]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/freiburg-gartenstrasse-19-bike-kitchen-6488.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/freiburg-gartenstrasse-19-bike-kitchen-6488.html"/>
+        <updated>2021-06-21T06:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Eigentümer der G19 und Bike Kitchen kündigt den Kontakt auf und droht mit Räumung. Am Montag den 21.6. sind die Häuser also konkret bedroht. Wir bleiben!
+
+Bild: Das besetzte Gelände an der Gartenstrasse 19 in Freiburg. / g19freiburg.blackblogs.org
+Was bisher geschah: 11 Jahre nach der ersten Besetzung der G19, also nach 11 Jahren der Duldung, Nutzung, des Gestaltens und Geniessens und 10 Jahren der Fahrradwerkelei in der Bike Kitchen, haben wir vor gut einem Monat erfahren, dass der Eigentümer die Häuser abreissen will. Einer der letzten selbstverwalteten Räume in der Freiburger Innenstand soll weichen, aber -wofür eigentlich? Denn der Plan des Eigentümers geht erstmal nicht über den Abriss hinaus, der Stadt Freiburg liegen derzeit keine Bebauungspläne vor. 
+ Wir haben seit dem ersten ille…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quick Note: Deterioration of Speed]]></title>
         <id>http://pedestrianobservations.com/?p=6306</id>
         <link href="https://pedestrianobservations.com/2021/06/20/quick-note-deterioration-of-speed/"/>
@@ -1996,6 +3729,21 @@ Specialization is for insects first appeared on Open Thinkering.]]></summary>
         <summary type="html"><![CDATA[A regrettable feature of rail transport is that often, the speed of a line deteriorates over time after it opens or finishes a major upgrade. This can come from deferred maintenance or from proper maintenance that includes stricter speed limits or more timetable padding; in either case, it’s because maintaining the original schedule is not […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bio-Politik – Die Regulierung der Körper]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/bio-politik-die-regulierung-des-koerpers-6485.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/bio-politik-die-regulierung-des-koerpers-6485.html"/>
+        <updated>2021-06-20T17:39:06.000Z</updated>
+        <summary type="html"><![CDATA[„Politik ist die Fortsetzung des Krieges mit anderen Mitteln“ (Michel Foucault in Anlehnung an Carl von Clausewitz)
+
+Bild: U-Bahnstation mit Impfzentrum in Frankfurt am Main, März 2021. / 7C0 (CC BY 2.0 cropped)
+Michel Foucault verdiente es, derzeit stärker rezipiert zu werden. Foucault hat 1976 in seinem Buch „Der Wille zum Wissen“ (deutsch 1983; zugleich Band 1 seiner „Geschichte der Sexualität“) die Begriffe der Bio-Macht wie auch der Bio-Politik (beide Begriffe werden nicht exakt definiert und abgetrennt) geprägt. Foucaults Thesen wurden und werden bis in die Gegenwart umfassend diskutiert (für einen Überblick siehe Folkers/ Lemke 2014). 
+Macht + Gesellschaft = Normalisierungsgesellschaft
+ Zwar lässt sich seine historisch angelegte Analyse nicht umstandslos auf das Coronavirus beziehen…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -2031,6 +3779,30 @@ It is personally to me a disappointing issue and gives me the reason to stop col
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sunday Reads – Things I Found Interesting 2021-06-20]]></title>
+        <id>http://bennettftomlin.com/?p=3042</id>
+        <link href="https://bennettftomlin.com/2021/06/20/sunday-reads-things-i-found-interesting-2021-06-20/"/>
+        <updated>2021-06-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[El Salvador Cas Piancey writes about El Salvador making Bitcoin legal tender for Protos Media: Ruminations on Cryptocurrency Critics Ben Muenster writes a brilliant piece on the strangeness of cryptocurrency critics for Decrypt. How an eccentric astronomer took down a Russian spy ring Read the wild story about this man who stood opposed to the … Continue reading Sunday Reads – Things I Found Interesting 2021-06-20]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der Antisemitismusvorwurf in Aktion: Beim Staat Israel gilt ein Kritikverbot]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/europa/antisemitismusvorwurf-israel-kritik-6489.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/europa/antisemitismusvorwurf-israel-kritik-6489.html"/>
+        <updated>2021-06-20T12:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Wer sich als Deutscher mit Bedenken zum Staat Israel und dessen politisch-militärischen Aktivitäten äussert, läuft rasend schnell Gefahr, als Antisemit abgestempelt zu werden.
+
+Bild: Israelischer Luftangriff im Gazastreifen im Mai 2021. / Osama Eid (CC BY-SA 3.0 unported - cropped)
+Denn immer wieder wird die Kritik an Israel mit einer rassistischen Kritik an Juden, mit Judenhass, gleichgesetzt. 
+ Dann hören die Differenzierungen, die die Experten natürlich kennen, sofort auf. In der hiesigen Öffentlichkeit wird dann der Unterschied zwischen der generellen Verurteilung von Juden – gleich Antisemitismus – und einer kritischen Beurteilung israelischer Politik oder der Räson dieses Staates – gleich Antizionismus – zielstrebig zum Verschwinden gebracht. So gerade in den letzten Wochen, als der …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Global markets adapt to a change in the Federal Reserve’s tone]]></title>
         <id>/content/vihs90hlrbclb6ctihi6734if8iq14fi</id>
         <link href="https://www.economist.com/finance-and-economics/2021/06/20/global-markets-adapt-to-a-change-in-the-federal-reserves-tone"/>
@@ -2038,6 +3810,16 @@ It is personally to me a disappointing issue and gives me the reason to stop col
         <summary type="html"><![CDATA[After an unsettling week, investors have to retune]]></summary>
         <author>
             <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adventures in Writing Othello Software for iOS and macOS]]></title>
+        <id>https://nadim.computer/posts/2021-06-20-piccolo.html</id>
+        <link href="https://nadim.computer/posts/2021-06-20-piccolo.html"/>
+        <updated>2021-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How my weekend Othello board game project became the most-downloaded game on the Japan Mac App Store for three months running, with technical details about the journey.]]></summary>
+        <author>
+            <name>Nadim Kobeissi</name>
         </author>
     </entry>
     <entry>
@@ -2052,6 +3834,17 @@ Andy Warhol once said, “Art is what you can get away with.” I interpret the 
 The 2020’s equivalent of Warhol paintings are Non-Fungible-Tokens (NFTs). In this essay I’ll explain what NFTs are by motivating them with some interesting real-world problems. Then I’ll discuss why the NFT craze for digital art generates so much ideologically contentious debate. Finally, I’ll discuss some parallels between artistic and financial nihilism, and how this might …]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help, My Sin Is Slow and My FPU is Inaccurate]]></title>
+        <id>https://berthub.eu/articles/posts/help-my-sin-is-slow-and-my-fpu-is-inaccurate/</id>
+        <link href="https://berthub.eu/articles/posts/help-my-sin-is-slow-and-my-fpu-is-inaccurate/"/>
+        <updated>2021-06-19T12:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Afer 8 years, I have updated this this post for 2021-era Linux (and also to fix bitrotted links). I am extremely joyful to report that the (hard) problem from 2013 appears to have been solved! There is a small addendum at the end to reflect this happy news.
+ Back in 2013, I started writing code to do a simulation of biological system, and I got stuck after 20 lines.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
         </author>
     </entry>
     <entry>
@@ -2086,6 +3879,33 @@ Weeknote 24/2021 first appeared on Open Thinkering.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mein Kampf und das Unternehmen Barbarossa – eine Lektüre]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mein-kampf-und-das-unternehmen-barbarossa-6483.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mein-kampf-und-das-unternehmen-barbarossa-6483.html"/>
+        <updated>2021-06-18T08:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Seit dem 2. Juni ist dem französischem Publikum und der französischen Öffentlichkeit in Form einer kritisch-kommentierten Neuauflage von Hitlers «Mein Kampf» unter dem Titel «Das Böse historisieren» zugänglich gemacht.
+
+Bild: Unternehmen Barbarossa in der Sowjetunion. Panzer der deutschen Wehrmacht auf einer Strasse ausserhalb eines Ortes, Juni 1941. / Bundesarchiv, Bild 101I-265-0003-18A - Moosdorf [Mossdorf] (CC BY-SA 3.0 cropped)
+1. Eine Neuerscheinung und ein Ereignis 
+ Dabei handelt es sich bei der vom Verlag Fayard veröffentlichten, 1000 Seiten umfassenden Neuauflage von "Mein Kampf" um ein 10 Jahre währendes Forschungsprojekt einer Gruppe französischer Historiker unter der Leitung von F. Brayard, dem Direktor des Instituts CNRS ("Team Geschichte und Historiographie der Shoa, Zentrum…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eröffnung des Lüneburger Klima Camps]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/klimacamp-lueneburg-eroeffnung-6486.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/klimacamp-lueneburg-eroeffnung-6486.html"/>
+        <updated>2021-06-18T06:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Das KlimaCamp im Kurpark wurde seit Mittwochmorgen gemeinsam mit vielen Unterstützer*innen aufgebaut. Am 17.06. startet das Programm und die solidarische Küche.
+
+Bild: Zeltplatz des diesjährigen Lüneburger Klimacamps, 29. Mai 2021. / KlimaCamp Lüneburg
+In den nächsten Tagen bietet das KlimaCamp Lüneburg im Kurpark, im Kontext der unzureichenden politischen Reaktion auf die Krisen des 21. Jahrhunderts, neben Austausch und Vernetzungsmöglichkeiten von 9:00-22:00 Uhr vielfältiges Programm an. Durch die grosse Diversität der Programmpunkte - von Kinderprogramm über Informationen der BI- unser Wasser bis hin zur kritischen Analyse von Klimamodellen - spricht das Camp Aktive, sowie Interessierte der Lüneburger Öffentlichkeit gleichermassen an. Zusätzlich zum Programm wird es zwischen dem 17. und…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Will America’s housing boom lead to another financial crisis?]]></title>
         <id>/content/okc3jr6skqg22nmdf7cs8hjamqq64udm</id>
         <link href="https://www.economist.com/finance-and-economics/2021/06/17/will-americas-housing-boom-lead-to-another-financial-crisis"/>
@@ -2116,6 +3936,33 @@ Weeknote 24/2021 first appeared on Open Thinkering.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sinnvolle Existenz als Massstab des eigenen Lebens und der Gesellschaft]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/sinn-und-gesellschaftskritik-6481.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/sinn-und-gesellschaftskritik-6481.html"/>
+        <updated>2021-06-17T08:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Immer wieder verlieren wir vor lauter dringlichen To-do-Listen die Frage „Was wollen wir eigentlich?“ aus den Augen. Dieser Artikel stellt Argumente vor, die „Sinn“ von Sonntagsreden, Religion und Esoterik unterscheiden.
+
+Bild: Denkmal in Marseille zu Gedenken der getöteten Kämpfer und Soldaten im Orient. / Tsar HD (PD)
+Wer eine sinnvolle Arbeit oder Tätigkeit will, kann sich nicht allein an den unmittelbaren Bezug von Mensch zu Mensch halten. Bspw. wird Lehrern deutlich, dass sie keinem Kind gerecht werden können, wenn die Schülergruppe zu gross ist. Beschäftigte im Gesundheitswesen bemerken, dass Personalknappheit und die herrschenden Vorgaben zur Vergütung medizinischer Leistungen ihnen häufig die Arbeit schwer machen. Für sinnvolle Arbeiten und Tätigkeiten bedarf es geeigneter gesellsc…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nach hinten nicht und nicht nach vorne]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/prosa/eckhard-mieder-nach-hinten-nicht-und-nicht-nach-vorne-6482.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/prosa/eckhard-mieder-nach-hinten-nicht-und-nicht-nach-vorne-6482.html"/>
+        <updated>2021-06-17T06:54:37.000Z</updated>
+        <summary type="html"><![CDATA[So unwahrscheinlich es ist, an einem Dienstag im März in Frankfurt am Main von einem Trupp Ausserirdische entführt und in einem entmaterialisierten Raumschiff auf einen Stern Letzter Ordnung gebracht zu werden -, so unwahrscheinlich ist es auch, den Zusammenbruch des Kapitalismus vor Weihnachten (dies Jahr, nächstes, das in zehn Jahren) erleben zu dürfen.
+
+Bild: Sprengung eines Schornsteins der ehemaligen Brauerei Henninger in Frankfurt/Main. / Heptagon (CC BY-SA 3.0 unported - cropped)
+1.
+ Der Main dagegen und indessen wird noch in hundert Jahren regungslos und langweilig in der Stadt liegen wie eine träge, altersgesättigte Riesenschlange. Beides wusste die Vagabundin, während sie den Kram der Nacht zusammenpackte, in zwei der IKEA-Tüten (blau, gelbe Griffe) und in einem derb-leinenen Ruc…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Uneven vaccination rates are creating a new economic divide]]></title>
         <id>/content/fgf6uta1h2jiqa7v7agd9lr1ssatfobq</id>
         <link href="https://www.economist.com/finance-and-economics/2021/06/17/uneven-vaccination-rates-are-creating-a-new-economic-divide"/>
@@ -2133,6 +3980,16 @@ Weeknote 24/2021 first appeared on Open Thinkering.]]></summary>
         <summary type="html"><![CDATA[Things happened that aren't in El Salvador!]]></summary>
         <author>
             <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An American Tragedy, by Theodore Dreiser]]></title>
+        <id>https://standardebooks.org/ebooks/theodore-dreiser/an-american-tragedy</id>
+        <link href="https://standardebooks.org/ebooks/theodore-dreiser/an-american-tragedy"/>
+        <updated>2021-06-16T19:08:29.000Z</updated>
+        <summary type="html"><![CDATA[A young man in a relationship with a young woman decides he wants someone else, of a higher social class.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
         </author>
     </entry>
     <entry>
@@ -2205,6 +4062,47 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Die Finck-Dynastie, Mäzene des deutschen Faschismus]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/august-von-finck-dynastie-afd-6362.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/august-von-finck-dynastie-afd-6362.html"/>
+        <updated>2021-06-16T08:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Im Jahr 2018 erschütterte ein Spendenskandal die Faschistenpartei AfD. Der Kreisverband von Alice Weidel hatte eine hohe Geldsumme aus unklaren Quellen erhalten.
+
+Bild: Auch die Werkzeugmaschinenfabrik Oerlikon-Bührle (hier zwischen 1918 und 1937) gehörte zum Portfolio der Finck-Dynastie. / Walter Mittelholzer (PD)
+132.000 Euro in mehreren Tranchen hatte ein Unternehmen aus der Schweiz überwiesen, 150.000 waren aus den Niederlanden zugeflossen. Es dauerte eine Weile, bis der Spiegel und die Schweizer WOZ die Vermutung präsentierten, wo die Kohle herkam. Die Spur führte zu August von Finck junior, einem der reichsten Deutschen, ansässig in der Schweiz. Der hatte, so steht zu vermuten, die Partei der Ausländer-, Arbeiter- und Frauenfeinde offenbar schon früher über eine in München gemeldete …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paula Irmschler: Superbusen]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/belletristik/paula-irmschler-superbusen-6413.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/belletristik/paula-irmschler-superbusen-6413.html"/>
+        <updated>2021-06-16T07:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Britney Spears und Antifa – wie passt das zusammen? Neue linke Popliteratur zeigt: Es passt erstaunlich gut.
+
+Bild: Universitätsbibliothek Chemnitz in der Alten Aktienspinnerei. / Jacob Müller (CC BY-SA 4.0 cropped)
+Über Paula Irmschlers im Februar 2020 erschienenen Debütroman „Superbusen“ ist schon manches geschrieben worden. Oft fiel dabei das Schlagwort ‚Popliteratur‘. Diese Assoziation ist einerseits passend, andererseits aber auch ganz falsch (was meist miterkannt wurde). Zur Erinnerung: Popliteratur war um die Jahrtausendwende das grosse Ding im dato eher schläfrigen deutschen Literaturbetrieb. Das war ein neuer, irgendwie cooler Sound von überwiegend jungen, überwiegend stylishen Männern, der sich an der Grenze zwischen Feuilleton, Diskursgefrickel und grosser Literatur bewegte. 
+ I…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der Mann mit dem goldenen Arm]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/kultur/film/der-mann-mit-dem-goldenen-arm-6382.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/kultur/film/der-mann-mit-dem-goldenen-arm-6382.html"/>
+        <updated>2021-06-16T05:56:34.000Z</updated>
+        <summary type="html"><![CDATA[„Der Mann mit dem goldenen Arm“ ist eine eindrucksvolle Studie über Sucht und ein bewegendes Drama über einen Menschen, der versucht, sich dieser Sucht zu entziehen.
+
+Bild: Frank Sinatra (hier 1960 in Florida) spielt im Film die Rolle des süchtigen Musikers Frankie Machine. / Autor unbekannt (PD)
+Dank des intensiven Spiels Frank Sinatras sowie einer gekonnten Inszenierung erhält der Zuschauer einen Einblick in diesen Kampf, die Träume und das Dilemma einer Figur, welche sich ihren inneren Dämonen stellen muss. Das ist mutiges Kino und gehört in jede Filmsammlung. 
+ Nach einer sechsmonatigen Haftstrafe, in deren Folge er auch von seiner Heroinsucht befreit wurde, kehrt Frankie Machine (Frank Sinatra) nach Chicago zurück, fest entschlossen, aus seinem Leben mehr zu machen, als er es vor der …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Origins of the Thornley/Oswald Manuscript]]></title>
         <id>http://historiadiscordia.com/?p=9680</id>
         <link href="http://historiadiscordia.com/the-origins-of-the-thornley-oswald-manuscript/"/>
@@ -2225,6 +4123,16 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My Appearance on Coffeezilla]]></title>
+        <id>http://bennettftomlin.com/?p=3049</id>
+        <link href="https://bennettftomlin.com/2021/06/15/my-appearance-on-coffeezilla/"/>
+        <updated>2021-06-15T21:41:41.000Z</updated>
+        <summary type="html"><![CDATA[I appeared during this video to discuss the history of Bitfinex and Tether executives. To read more about their history: If you would like an introduction to the history of Bitifnex and Tether:]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Foreign Policy:  El Salvador Is Printing Money With Bitcoin]]></title>
         <id>https://davidgerard.co.uk/blockchain/?p=19732</id>
         <link href="https://davidgerard.co.uk/blockchain/2021/06/15/foreign-policy-el-salvador-is-printing-money-with-bitcoin/"/>
@@ -2232,6 +4140,19 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[Bukele doesn't want to de-dollarize El Salvador — he just wants to print his own dollars as well.]]></summary>
         <author>
             <name>David Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corona als enwickelter Stamokap]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/theorie/corona-als-entwickelter-stamokap-6480.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/theorie/corona-als-entwickelter-stamokap-6480.html"/>
+        <updated>2021-06-15T15:47:18.000Z</updated>
+        <summary type="html"><![CDATA[„Aufgrund der im Ersten Weltkrieg in Deutschland zu beobachtenden Interessenverstrickung zwischen Staat und Wirtschaft sieht Lenin in seiner 1917 erschienenen Schrift "Staat und Revolution" das Wesen des Stamokap in der totalen Verschmelzung der Monopolmacht der Wirtschaft mit der Regierungsmacht zu einem sich wechselseitig bedingenden einheitlichen Machtkomplex.“[1]
+
+Bild: Impfstoff von Pfizer/BioNTech in einem Spital von Strasbourg, Januar 2021. / Claude Truong-Ngoc - Wikimedia Commons (CC BY-SA 4.0 cropped)
+(1) Dass das Finanzkapital das entwickelte kapitalistisch verfasste Wirtschaftssystem dominiert, ökonomische Monopolisierungs- und politisch-militärische Expansionsprozesse fördert, weiss man schon länger als hundert Jahre - etwa seit John A. Hobson: Der Imperialismus (1902), Rudolf …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -2280,6 +4201,39 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Europe's Software Problem]]></title>
+        <id>https://berthub.eu/articles/posts/europes-software-problem/</id>
+        <link href="https://berthub.eu/articles/posts/europes-software-problem/"/>
+        <updated>2021-06-15T07:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Europe’s communication needs are currently almost exclusively delivered by Chinese hardware that connects us to US-based platforms. For a variety of reasons, this is not a good idea.
+As stated recently by Charles Michel, President of the European Council, “Interdependence is natural, even desirable. Over-dependence, however, is not”.
+   Photo by Sara Kurfeß on Unsplash
+   At the core, the problem is that almost no consumer-oriented platforms or software products are being created in Europe, or more precisely, by European companies.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winesburg, Ohio, by Sherwood Anderson]]></title>
+        <id>https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio</id>
+        <link href="https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio"/>
+        <updated>2021-06-15T02:08:09.000Z</updated>
+        <summary type="html"><![CDATA[The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[King John, by William Shakespeare]]></title>
+        <id>https://standardebooks.org/ebooks/william-shakespeare/king-john</id>
+        <link href="https://standardebooks.org/ebooks/william-shakespeare/king-john"/>
+        <updated>2021-06-15T00:00:38.000Z</updated>
+        <summary type="html"><![CDATA[King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Best Practices Civil Service]]></title>
         <id>http://pedestrianobservations.com/?p=6278</id>
         <link href="https://pedestrianobservations.com/2021/06/14/best-practices-civil-service/"/>
@@ -2287,6 +4241,16 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[I propose that transportation agencies hire people whose job is to keep abreast of global developments in the field and report on best practices. Which agencies should do it? Ideally, all urban ones. Very small ones should piggyback on large ones, or participate in metropolitan planning to increase the scale. National agencies could aid this […]]]></summary>
         <author>
             <name>Alon Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 9 – Shillfluencers (and the unspoken financial epidemic) — Crypto Critics’ Corner]]></title>
+        <id>http://bennettftomlin.com/?p=3038</id>
+        <link href="https://bennettftomlin.com/2021/06/14/episode-9-shillfluencers-and-the-unspoken-financial-epidemic-crypto-critics-corner/"/>
+        <updated>2021-06-14T14:38:11.000Z</updated>
+        <summary type="html"><![CDATA[In this episode Cas and I discuss the epidemic of shills in crypto. People getting free tokens or paid to promote tokens in what effectively is a pump and dump scheme.  Anchor Spotify Apple Google Overcast RSS Feed I wrote about the reasons I dislike these tactics from venture capitalists here:]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
         </author>
     </entry>
     <entry>
@@ -2332,6 +4296,18 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Recensie: Een spoor van vernieuwing, door Arthur Docters van Leeuwen en Lars Kuipers]]></title>
+        <id>https://berthub.eu/articles/posts/recensie-een-spoor-van-vernieuwing-arthur-docters-van-leeuwen/</id>
+        <link href="https://berthub.eu/articles/posts/recensie-een-spoor-van-vernieuwing-arthur-docters-van-leeuwen/"/>
+        <updated>2021-06-14T06:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Reeds vorig jaar verschenen, maar zonder de aandacht gekregen te hebben die dit boek verdient.
+   Uitgeverij Prometheus, 460 pagina’s. bol.com, amazon.nl & kindle
+   “Een spoor van vernieuwing” laat zich lezen als memoires van een markante topambtenaar, maar ook als een interessante geschiedenis van de ontwikkeling van de rampenbestrijding, de inrichting van de politie en de opsporing, de BVD (voorloper AIVD) en de oprichting en ontwikkeling van wat we nu kennen als de AFM.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flock Stamps - Update]]></title>
         <id>tag:blogger.com,1999:blog-3218389485258956159.post-7060321873869621001</id>
         <link href="https://philaquelymoi.blogspot.com/2021/06/flock-stamps-update_13.html"/>
@@ -2351,6 +4327,37 @@ Flock Stamps 
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned. The picture is scanned from my collection.]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunday Reads – Things I Found Interesting 2021-06-13]]></title>
+        <id>http://bennettftomlin.com/?p=2965</id>
+        <link href="https://bennettftomlin.com/2021/06/13/sunday-reads-things-i-found-interesting-2021-06-13/"/>
+        <updated>2021-06-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Books I Read Insomnia – This book by Stephen King is a supernatural thriller (like many of King’s books). If you are a fan of King you will likely enjoy this, especially with the references back to Dark Tower and to Derry more broadly. If you are not a fan of King, I think he … Continue reading Sunday Reads – Things I Found Interesting 2021-06-13]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Reed-Solomon for Programmers]]></title>
+        <id>https://berthub.eu/articles/posts/reed-solomon-for-programmers/</id>
+        <link href="https://berthub.eu/articles/posts/reed-solomon-for-programmers/"/>
+        <updated>2021-06-13T04:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Recently I was doing some work decoding the new Galileo High Accuracy Service data. In short, this new service will allow Galileo (“European GPS”) users to achieve decimeter-level accuracy, which is nice. This “HAS” data is transmitted highly redundantly by making good use of Reed-Solomon encoding.
+To work with this data, I attempted to learn more about Reed-Solomon and I found almost all explanations were useless to me - oodles of advanced math, but no guidance of how to use R-S in practice.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Have Zero Faith in Crypto Venture Capitalists]]></title>
+        <id>http://bennettftomlin.com/?p=2517</id>
+        <link href="https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/"/>
+        <updated>2021-06-12T19:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Mostly the reason I have zero faith in crypto venture capitalists as an institution is that their primary value add is marketing, their due diligence is a joke, and they are functionally equivalent to the shills we all mock. One of the very first whitepapers I ever analyzed was for the Basis protocol. This protocol … Continue reading Why I Have Zero Faith in Crypto Venture Capitalists]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
         </author>
     </entry>
     <entry>
@@ -2375,6 +4382,48 @@ Weeknote 23/2021 first appeared on Open Thinkering.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Franz Sternbald: Ausgesetzt zur Existenz]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/franz-sternbald-ausgesetzt-zur-existenz-6469.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/franz-sternbald-ausgesetzt-zur-existenz-6469.html"/>
+        <updated>2021-06-11T12:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Zu welchem Zweck behaupten wir ein subjektives Ego, und worin besteht ein objektiv legitmierender Sinn für die Forderung nach Anerkennung eines unbezähmbaren Geistes der uneingeschränkten Subjektivität. (J.J. Rousseau, Bekenntnisse)
+
+Bild: jurvetson (CC BY 2.0 cropped)
+Eine exponentiell steigende Verdichtung von digitalen Speichern bei schnellerem Zugriff, hat die erforderliche Raum- und Energie- und vorallem Zeitersparnis erbracht, die die Voraussetzung für den Bau von intelligenten Netzwerken absehbar auch praktisch mit Bewusstseinspotential möglich macht. 
+ Mit Hilfe der Nano-Technologie wird es künftig möglich sein, zelluläre digitale Automaten (Naniten) zu erzeugen, und mit dem quasi ‚lebendigen’ Potential der Eigen-Reproduktivität auf der Molekularebene der Genetik auszustatten, soda…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanft und entschlossen gegen die Staatsgewalt]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-wald-a49-prozess-gegen-aktivistin-6470.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-wald-a49-prozess-gegen-aktivistin-6470.html"/>
+        <updated>2021-06-11T10:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Nach sechsmonatiger Beugehaft startete der Prozess gegen die Aktivistin "Ella" vor dem Alsfelder Landgericht. Wir veröffentlichen hier eine längere Passage des Statements der Frau, deren Identität weiterhin unbekannt ist.
+
+Bild: Gebäude des Amtsgerichts Alsfeld, Landgraf-Hermann-Strasse 1 in Alsfeld. / Bubo (CC BY-SA 3.0 cropped)
+Der Gerichtssaal ist voll mit Kameras, Sat 1, HR, ZDF, verschiedene Sender sind vertreten. Als die junge Aktivistin den Gerichtssaal betritt, ruft eine Besucherin: „Klimaschutz ist kein Verbrechen!“. Später ist in den Medien dazu nichts zu hören. 
+ Wenn man der Anklage der Staatsanwältin zuhört, hat man das Gefühl, man habe es mit einer Schwerverbrecherin zu tun. Auf 15 m Höhe soll die kleine Person zwei SEK-Beamten schwere Körperverletzung zugefügt haben. Sie sel…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johannes Bellermann: Gramscis politisches Denken. Eine Einführung.]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/johannes-bellermann-gramscis-politisches-denken-eine-einfuehrung-6478.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/johannes-bellermann-gramscis-politisches-denken-eine-einfuehrung-6478.html"/>
+        <updated>2021-06-11T09:40:43.000Z</updated>
+        <summary type="html"><![CDATA[Beim Schmetterling Verlag ist ein neuer Einführungsband von Johannes Bellermann zum Denken des kommunistischen Theoretikers Antonio Gramscis erschienen.
+
+Bild: Notizbücher von Antonio Gramsci, circa 1930. / Gramsci (PD)
+Eine gelungene Annäherung für jene, die anfangen wollen, sich mit seinen Überlegungen zu beschäftigen. Ein „Wegweiser für alle, die Gramscis bedeutendes Werk wirklich verstehen möchten“, wie es im Klappentext heisst. Aber eben auch nicht mehr. 
+ Ich kenne den Autoren Johannes Bellermann nicht. Wenn ich nun etwas über ihn sagen könnte, ist es, dass er seinen Gramsci gelesen hat. Ihm gelingt eine fundierte Einführung in das verworrene, fragmentarische Werk eines der bedeutendsten kommunistischen Vordenker, der seine Innovationsfähigkeit daraus zog, zwischen unkonventionellen …]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flock Stamps - Update]]></title>
         <id>tag:blogger.com,1999:blog-3218389485258956159.post-5429758672253475628</id>
         <link href="https://philaquelymoi.blogspot.com/2021/06/flock-stamps-update.html"/>
@@ -2394,6 +4443,16 @@ Flock Stamps 
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned. The picture is scanned from my collection.]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Big is Tether?]]></title>
+        <id>http://bennettftomlin.com/?p=2997</id>
+        <link href="https://bennettftomlin.com/2021/06/10/how-big-is-tether/"/>
+        <updated>2021-06-10T16:32:21.000Z</updated>
+        <summary type="html"><![CDATA[I have been following Tether for about three and a half years and still I struggle to really grasp how large it is. It is so absurdly large that it has started warping my perception of other huge amounts of money. I hear a million dollar fraud now and my first thought is “that’s it”, … Continue reading How Big is Tether?]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
         </author>
     </entry>
     <entry>
@@ -2424,6 +4483,19 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         <summary type="html"><![CDATA[Look beyond the tepid headline numbers, and hiring seems robust]]></summary>
         <author>
             <name>Finance &amp; economics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[«Revolutionärer Tourismus» auf Gran Canaria]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/europa/spanien-cran-canaria-tourismus-anarchistische-foederation-6479.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/europa/spanien-cran-canaria-tourismus-anarchistische-foederation-6479.html"/>
+        <updated>2021-06-10T13:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Eine bittere Tatsache: Sich als Anarchisten verstehende Touristen reisen trotz wiederholter Bitten, dies nicht zu tun, auf die Kanaren, um dort in besetzten und selbstverwalteten Räumen Lebenden Vorträge über Fleischkonsum, Umweltschutz und den reaktionären Fussball zu halten.
+
+Bild: Die Anarchistische Föderation Gran Canaria (FAGC ). / anarchistischefoderation.de
+Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarzen Kapuzis bei Kundgebungen - und änderte dann ihre Herangehensweise komplett. Das Ergebnis: Die "Kleintruppe" und die von ihr initierte Mieter*innengewerkschaft förderte seitdem die Enteignung von 400 Liegenschaften, half bei der Wohnraumbeschaffung für hunderte Familien, intervenierte in 1.000 Zwangsräumungen, stellte 10 selbstverwaltete Gemeinschaf…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -2467,6 +4539,29 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Theory of the Leisure Class, by Thorstein Veblen]]></title>
+        <id>https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class</id>
+        <link href="https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class"/>
+        <updated>2021-06-09T21:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dasselbe in Grün, bitte!]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/climate-justice-green-new-deal-6466.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/climate-justice-green-new-deal-6466.html"/>
+        <updated>2021-06-09T08:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Annalena Baerbock wurde jüngst zur Kanzlerkandidatin der Grünen gekürt. Zeitgleich entwickelt ihre Partei sich mit aktuell 28 Prozent zur umfragestärksten Kraft. Das mag bei manchen Hoffnung auf eine ökologische Wende wecken. Berechtigt ist diese allerdings nicht.
+
+Bild: Annalena Baerbock an der Veranstaltung «Europa im Aufbruch?», Mai 2018 . / stephan-roehl.de - Heinrich-Böll-Stiftung (CC BY-SA 2.0 cropped)
+Weltweit sympathisieren Linke mit Fridays for Future – einer jungen, grünen Graswurzelbewegung, der, so die Hoffnung vieler, das Potenzial innewohnt, die global fortschreitende Umweltzerstörung aufzuhalten. Der aktuelle Erfolg von Bündnis 90/ Die Grünen in Deutschland könnte als Übersetzung der kollektiven Artikulation grüner Forderungen auf der Strasse in den politischen Betrieb gedeu…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wood and Wood Paper Stamps - Update]]></title>
         <id>tag:blogger.com,1999:blog-3218389485258956159.post-4242232659707788199</id>
         <link href="https://philaquelymoi.blogspot.com/2021/06/wood-and-wood-paper-stamps-update_9.html"/>
@@ -2501,6 +4596,19 @@ Disclaimer - Information about the stamp issues on this page has been taken from
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Veronika Kracher: Incels. Geschichte, Sprache und Ideologie eines Online-Kults.]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/veronika-kracher-incels-geschichte-sprache-und-ideologie-eines-online-kults-6412.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/veronika-kracher-incels-geschichte-sprache-und-ideologie-eines-online-kults-6412.html"/>
+        <updated>2021-06-09T05:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Der Weg vom misogynen Shit-Post zu realer Gewalt kann ein ganz kurzer sein.
+
+Bild: Gedenkveranstaltung von Incels-Anhänger zu Ehren von Elliot Rodger (einem radikalen Incel, welcher 2014 in Kalifornien sechs Menschen ermordete) im Harder Stadion von Santa Barbara, Kalifornien, Mai 2014. / Jerelconstantino (CC BY-SA 3.0 unported - cropped)
+Frustrierte, vorwiegend weisse, heterosexuelle Männer, die sich als Verlierer der Gesellschaft sehen: Auf diese groben Kategorien vereinfacht lässt sich die Incel-Community beschreiben, deren Name im Englischen als Abkürzung für „involuntary celibates“ steht, also unfreiwillige Zölibatäre. Sie glauben, dass Frauen ihnen Sex verwehren, weil sie unattraktiv zur Welt gekommen sind. Deshalb ziehen sie sich gegenseitig in Online-Foren runter und verlieren sich…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UFOs: The Silly Season Comes Early]]></title>
         <id>https://gwynnedyer.com/?p=4971</id>
         <link href="https://gwynnedyer.com/2021/ufos-the-silly-season-comes-early/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ufos-the-silly-season-comes-early"/>
@@ -2510,6 +4618,40 @@ Disclaimer - Information about the stamp issues on this page has been taken from
 The post UFOs: The Silly Season Comes Early first appeared on Gwynne Dyer.]]></summary>
         <author>
             <name>Gwynne Dyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twelfth Night, by William Shakespeare]]></title>
+        <id>https://standardebooks.org/ebooks/william-shakespeare/twelfth-night</id>
+        <link href="https://standardebooks.org/ebooks/william-shakespeare/twelfth-night"/>
+        <updated>2021-06-08T18:43:42.000Z</updated>
+        <summary type="html"><![CDATA[A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Appearance on The Deep Dive]]></title>
+        <id>http://bennettftomlin.com/?p=2990</id>
+        <link href="https://bennettftomlin.com/2021/06/08/my-appearance-on-the-deep-dive/"/>
+        <updated>2021-06-08T18:37:25.000Z</updated>
+        <summary type="html"><![CDATA[I recently appeared on ‘The Deep Dive’ show to discuss Bitfinex and Tether. We discuss the NYAG investigation, the history of Bitfinex and Tether, and more.]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14. Juni 2021: Auf zum Feministischen Streik!]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/schweiz/basel-feministischer-streik-2021-6468.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/schweiz/basel-feministischer-streik-2021-6468.html"/>
+        <updated>2021-06-08T16:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Auch 30 Jahre später: Wir streiken weiter! Die Schweizer Kollektive des Feministischen Streik/Frauenstreik Schweiz rufen am 14. Juni zum Streik auf.
+
+Bild: Frauenstreiktag in Zürich 2019. / xediitzxx
+In Basel erwartet mensch tagsüber bei der Kaserne ein Streikprogramm, eine bewilligte Demonstration beginnt beim DeWette-Park um 17:30 Uhr. 
+ Am 14. Juni 2021 rufen die feministischen Streikkollektive der ganzen Schweiz zum Streik auf. Neben zahlreichen dezentralen Aktionen wird es schweizweit drei gemeinsame Zeitpunkte geben. Die Streikgründe sind nach wie vor vielfältig: Zunahme von geschlechts-spezifischer Gewalt, AHV Rentenreform zu Lasten der Frauen und erdrückende Bedingungen der bezahlten und unbezahlten Care-Arbeit. Die Schweiz hat noch einen langen Weg vor sich, bis die Gleichstellung…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
     <entry>
@@ -2536,6 +4678,19 @@ Wood and Wood Paper Stamps
 Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned]]></summary>
         <author>
             <name>noreply@blogger.com (kcsquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der Sozialstaat als Erziehungsanstalt]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/sozialstaat-arbeitslosigkeit-hartz-iv-6467.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/sozialstaat-arbeitslosigkeit-hartz-iv-6467.html"/>
+        <updated>2021-06-08T08:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Das Vorhandensein von Arbeitslosigkeit ist in kapitalistischen Gesellschaften eigentlich der Normalzustand.
+
+Bild:  Das ultimative Hartz IV-Symbolfoto. Damit bleibt keine Frage zum Erfolg der Arbeitsmarktreform offen. Das komplexe Chaos versinnbildlicht in nur einer Aufnahme. Hartz IV ist ein so grosser deutscher Clusterfuck, dass es dafür fast mehr unpassende Symbolbilder als richtige Hilfe für Arbeitslose gibt. Daher darf ab heute nur noch dieses einzig wahre Hartz IV-Symbolbild verwendet werden. / ZDF Magazin Royale - Jan Böhmermann (CC BY 4.0 unported - cropped)
+Während des 70-jährigen Bestehens der Bundesrepublik Deutschland betrug die Zeit der Vollbeschäftigung gerade einmal zwölf Jahre. Das war von 1961 bis 1973, ist also schon sehr lange her. Danach nahm die Arbeitslosigkeit in Deu…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
 </feed>

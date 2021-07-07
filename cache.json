@@ -1967,6 +1967,2030 @@
           "itunes": {}
         }
       ]
+    },
+    {
+      "title": "Standard Ebooks - New Releases",
+      "feedUrl": "https://standardebooks.org/rss/new-releases",
+      "siteUrl": "https://standardebooks.org",
+      "articles": [
+        {
+          "id": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
+          "author": null,
+          "description": "The rebel forces plan another assault against King Henry’s forces after losing at the Battle of Shrewsbury.",
+          "link": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-ii",
+          "publishedOn": "2021-07-05T17:25:11.000Z",
+          "wordCount": 660,
+          "title": "Henry IV, Part II, by William Shakespeare"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/willa-cather/one-of-ours",
+          "author": null,
+          "description": "A young man struggles with finding his purpose in life until the breakout of World War I prompts him to volunteer for the Army.",
+          "link": "https://standardebooks.org/ebooks/willa-cather/one-of-ours",
+          "publishedOn": "2021-07-03T18:45:52.000Z",
+          "wordCount": 640,
+          "title": "One of Ours, by Willa Cather"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+          "author": null,
+          "description": "King Henry IV faces Welsh and Scottish rebels while English royals plot to betray their own king.",
+          "link": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+          "publishedOn": "2021-06-29T23:48:19.000Z",
+          "wordCount": 607,
+          "title": "Henry IV, Part I, by William Shakespeare"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/jules-verne/ticket-no-9672/laura-e-kendall",
+          "author": null,
+          "description": "The wife of a lost fisherman finds his last message to her: a lottery ticket in a bottle.",
+          "link": "https://standardebooks.org/ebooks/jules-verne/ticket-no-9672/laura-e-kendall",
+          "publishedOn": "2021-06-29T23:29:48.000Z",
+          "wordCount": 547,
+          "title": "Ticket No. 9672, by Jules Verne"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii",
+          "author": null,
+          "description": "King Richard II’s wasteful spending habits drive his supporters to revolt.",
+          "link": "https://standardebooks.org/ebooks/william-shakespeare/richard-ii",
+          "publishedOn": "2021-06-22T17:39:00.000Z",
+          "wordCount": 637,
+          "title": "Richard II, by William Shakespeare"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/theodore-dreiser/an-american-tragedy",
+          "author": null,
+          "description": "A young man in a relationship with a young woman decides he wants someone else, of a higher social class.",
+          "link": "https://standardebooks.org/ebooks/theodore-dreiser/an-american-tragedy",
+          "publishedOn": "2021-06-16T19:08:29.000Z",
+          "wordCount": 762,
+          "title": "An American Tragedy, by Theodore Dreiser"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio",
+          "author": null,
+          "description": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
+          "link": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio",
+          "publishedOn": "2021-06-15T02:08:09.000Z",
+          "wordCount": 771,
+          "title": "Winesburg, Ohio, by Sherwood Anderson"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/william-shakespeare/king-john",
+          "author": null,
+          "description": "King John is commanded to hand over his throne to Arthur of Bretagne or face war with the French.",
+          "link": "https://standardebooks.org/ebooks/william-shakespeare/king-john",
+          "publishedOn": "2021-06-15T00:00:38.000Z",
+          "wordCount": 580,
+          "title": "King John, by William Shakespeare"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class",
+          "author": null,
+          "description": "Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.",
+          "link": "https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class",
+          "publishedOn": "2021-06-09T21:56:07.000Z",
+          "wordCount": 810,
+          "title": "The Theory of the Leisure Class, by Thorstein Veblen"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+          "author": null,
+          "description": "A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.",
+          "link": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+          "publishedOn": "2021-06-08T18:43:42.000Z",
+          "wordCount": 550,
+          "title": "Twelfth Night, by William Shakespeare"
+        }
+      ]
+    },
+    {
+      "title": "Augen geradeaus!",
+      "feedUrl": "https://augengeradeaus.net/feed/",
+      "siteUrl": "https://augengeradeaus.net",
+      "articles": [
+        {
+          "id": "https://augengeradeaus.net/?p=57452",
+          "author": "T.Wiegold",
+          "description": "Nach ein paar Tagen low ops-Versuch und, natürlich heute im ARD-Presseclub, mache ich jetzt eine Weile richtig Urlaub. Und ich bitte um Verständnis, dass ich auch die Kommentarfunktion für die Zeit deaktiviere. Weiterhin: schöne Sommertage!",
+          "link": "https://augengeradeaus.net/2021/07/und-jetzt-mal-urlaub/",
+          "publishedOn": "2021-07-04T16:47:06.000Z",
+          "wordCount": 402,
+          "title": "Und jetzt mal Urlaub."
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=56862",
+          "author": "T.Wiegold",
+          "description": "Low ops auf Augen geradeaus! ist ja (noch) nicht richtig Urlaub, deshalb mache ich etwas, was wichtig ist: Am (morgigen) Sonntag spreche ich im ARD-Presseclub über den Bundeswehreinsatz über Afghanistan, die Bundeswehr in diesem Einsatz – und die Folgen, die das für die deutschen Streitkräfte auch in anderen Missionen hat. In der Sendung sind die Kolleg:innen Sandra Petersmann, Julia Weigelt und Hasnain Kazim dabei. Und zur Einstimmung auf das Gespräch habe ich mir noch ein paar wesentliche Papiere und Veröffentlichungen",
+          "link": "https://augengeradeaus.net/2021/07/trotz-low-ops-reden-wir-ueber-die-bundeswehr-in-afghanistan/",
+          "publishedOn": "2021-07-03T09:03:38.000Z",
+          "wordCount": 6215,
+          "title": "Trotz low ops: Reden wir über die Bundeswehr in Afghanistan (m. Video)"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57437",
+          "author": "T.Wiegold",
+          "description": "Die Urlaubszeit ist angebrochen, und ich gehe zwar noch nicht richtig in Urlaub, mache aber schon mal intensiv low ops. Das wird sich auch auf die Freischaltung von Kommentaren auswirken. Schöne Sommertage!",
+          "link": "https://augengeradeaus.net/2021/06/jetzt-mal-extended-low-ops/",
+          "publishedOn": "2021-06-30T14:21:54.000Z",
+          "wordCount": 401,
+          "title": "Jetzt mal extended low ops"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57433",
+          "author": "T.Wiegold",
+          "description": "Sicherheitshalber ist der Podcast zur sicherheitspolitischen Lage in Deutschland, Europa und der Welt. In Folge 45 sprechen Ulrike Franke, Frank Sauer, Carlo Masala und ich zuerst über die Situation rund um Taiwan. Das aggressive chinesische Vorgehen gegen Hongkong legt die Frage nahe, ob die Republik China auf Taiwan, deren politischer Status umstritten ist, womöglich ein ähnliches Schicksal droht. Könnte China gar versuchen, sich den selbsterklärten demokratischen Inselstaat mit militärischen Mitteln einzuverleiben? Greifen dann die USA ein? Welche Konsequenzen hätte das",
+          "link": "https://augengeradeaus.net/2021/06/sicherheitshalber-der-podcast-folge-45-taiwan-kriegsgefahr-zwischen-china-und-den-usa-zehn-jahre-aussetzung-der-wehrpflicht/",
+          "publishedOn": "2021-06-30T14:12:28.000Z",
+          "wordCount": 2179,
+          "title": "Sicherheitshalber der Podcast Folge 45: Taiwan: Kriegsgefahr zwischen China und den USA? | Zehn Jahre Aussetzung der Wehrpflicht"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57429",
+          "author": "T.Wiegold",
+          "description": "Die deutschen Soldaten, die in der vergangenen Woche in Mali bei ihrer Aufklärungsmission von einem Selbstmordattentäter angegriffen wurden, sind möglicherweise nur knapp einer noch größeren Katastrophe entgangen: Die Autobombe des Angreifers explodierte wenige Meter vor einem Tanklaster, dessen Ladung aber nicht in Brand geriet. Bei dem Anschlag wurden zwölf deutsche und ein belgischer Soldat verwundet. In einer Sondersitzung des Verteidigungs- und später des Auswärtigen Ausschusses informierte der Parlamentarische Staatssekretär Thomas Silberhorn am (heutigen) Mittwoch die Abgeordneten über die bisherigen Erkenntnisse",
+          "link": "https://augengeradeaus.net/2021/06/angriff-auf-deutsche-patroulle-in-mali-explosion-20-meter-vor-dem-tanklaster/",
+          "publishedOn": "2021-06-30T10:54:15.000Z",
+          "wordCount": 8103,
+          "title": "Angriff auf deutsche Patrouille in Mali: Explosion 20 Meter vor dem Tanklaster"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57231",
+          "author": "T.Wiegold",
+          "description": "Die Bundeswehr hat den verlustreichsten Auslandseinsatz ihrer Geschichte beendet. In Afghanistan fielen seit 2003 insgesamt 35 deutsche Soldaten. Nach offiziellen Zahlen der Bundeswehr kamen in den Missionen am Hindukusch 59 Soldaten um; in dieser Statistik sind allerdings auch Unfälle oder natürliche Todesfälle enthalten. Die Übersicht über die Gefallenen, also die Toten durch Feindeinwirkung: 2003  29.05.03 – Kabul, Stabsgefreiter Stephan Kamins, Mine 07.06.2003 – Kabul, Selbstmordanschlag auf Bus: Oberfeldwebel Carsten Kühlmorgen; Oberfähnrich Andreas Beljo; Feldwebel Helmi Jimenez-Paradis; Stabsunteroffizier Jörg Baasch 2005",
+          "link": "https://augengeradeaus.net/2021/06/die-deutschen-gefallenen-im-einsatz-in-afghanistan/",
+          "publishedOn": "2021-06-29T20:04:20.000Z",
+          "wordCount": 994,
+          "title": "Die deutschen Gefallenen im Einsatz in Afghanistan"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57412",
+          "author": "T.Wiegold",
+          "description": "Die Bundeswehr hat ihren Einsatz in Afghanistan beendet und ihre Soldaten vom Hindukusch abgezogen. Am (heutigen) Dienstag verließ das letzte Flugzeug mit deutschen Soldatinnen und Soldaten Mazar-e Sharif im Norden des Landes. Aus dem Hauptquartier der NATO-geführten Resolute Support Mission waren die letzten deutschen Soldaten bereits in der vergangenen Woche abgezogen worden. Die letzte Maschine verließ um 23:54 Uhr Ortszeit (21.24 MESZ) den afghanischen Luftraum. (KORREKTUR: nicht Start in Mazar-e Sharif). Das Verteidigungsministerium meldete das Ende der deutschen Beteiligung am",
+          "link": "https://augengeradeaus.net/2021/06/bundeswehr-hat-afghanistan-verlassen-deutscher-einsatz-am-hindukusch-endet-nach-fast-20-jahren/",
+          "publishedOn": "2021-06-29T19:57:01.000Z",
+          "wordCount": 5543,
+          "title": "Bundeswehr hat Afghanistan verlassen – Deutscher Einsatz am Hindukusch endet nach fast 20 Jahren (m. Korrektur)"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57409",
+          "author": "T.Wiegold",
+          "description": "Die Bundeswehr wird ihr Kontingent zur Unterstützung ziviler Behörden in der Coronavirus-Pandemie ab dem 1. Juli auf 15.000 Soldatinnen und Soldaten reduzieren, aber für weitere Unterstützung in hoher Bereitschaft bleiben. Aktuell ist die Truppe noch mit rund 8.400 Soldaten in der Amtshilfe zur Unterstützung tätig. Die Verringerung der Zahl von Soldatinnen und Soldaten, die die Bundeswehr in der Pandemie vorhält, hatte Verteidigungsministerin Annegret Kramp-Karrenbauer bereits vor gut drei Wochen angekündigt. Angesichts sinkender Fallzahlen und Inzidendenzen sollte das Corona-Kontigent, das im",
+          "link": "https://augengeradeaus.net/2021/06/bundeswehr-verkleinert-kontingent-fuer-corona-amtshilfe-aber-mit-hoher-einsatzbereitschaft/",
+          "publishedOn": "2021-06-29T15:10:13.000Z",
+          "wordCount": 867,
+          "title": "Bundeswehr verkleinert Kontingent für Corona-Amtshilfe – Aber mit hoher Einsatzbereitschaft"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57405",
+          "author": "T.Wiegold",
+          "description": "Die Bundeswehr hat die Bestimmungen für eine Covid-Quarantäne der aus Afghanistan zurück verlegten Soldaten abgeschwächt. Die Soldatinnen und Soldaten, die bereits einen vollständigen Impfschutz haben, müssen nun doch nicht in Quarantäne – so lange es keinen erneuten positiven Coronavirus-Test im Kontingent gibt. Am (gestrigen) Montag war bekannt geworden, dass die Bundeswehr ihr Camp in Mazar-e Sharif im Norden Afghanistans zum so genannten Virusvariantengebiet erklärt hatte. Damit galt für alle Soldatinnen und Soldaten die Regel, nach der Heimkehr nach Deutschland zunächst",
+          "link": "https://augengeradeaus.net/2021/06/bundeswehr-aendert-covid-regeln-fuer-afghanistan-rueckkehrer-nun-doch-keine-zwingende-quarantaene/",
+          "publishedOn": "2021-06-29T07:22:36.000Z",
+          "wordCount": 761,
+          "title": "Bundeswehr ändert Covid-Regeln für Afghanistan-Rückkehrer: Nun doch keine zwingende Quarantäne"
+        },
+        {
+          "id": "https://augengeradeaus.net/?p=57399",
+          "author": "T.Wiegold",
+          "description": "Eine Überraschung ist es nicht: Der Streit, wer das neue Sturmgewehr der Bundeswehr liefern wird, geht jetzt vor Gericht. Nach der Entscheidung der Vergabekammer beim Bundeskartellamt, die einen Ausschluss der Suhler Firma C.G. Haenel bestätigt hatte, reichte das Unternehmen dagegen Beschwerde beim Oberlandesgericht (OLG) Düsseldorf ein. Damit verzögert sich die Beschaffung der neuen Standardwaffe der Streitkräfte weiter. Die Vergabekammer hatte am 10. Juni entschieden, dass das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAInBw) korrekt entschieden habe, Haenel von",
+          "link": "https://augengeradeaus.net/2021/06/streit-um-neues-sturmgewehr-fuer-die-bundeswehr-geht-in-die-naechste-runde/",
+          "publishedOn": "2021-06-28T15:42:25.000Z",
+          "wordCount": 7845,
+          "title": "Streit um neues Sturmgewehr für die Bundeswehr geht in die nächste Runde"
+        }
+      ]
+    },
+    {
+      "title": "Strelka Mag",
+      "feedUrl": "https://strelkamag.com/en/rss",
+      "siteUrl": "https://strelkamag.com",
+      "articles": [
+        {
+          "id": "15556-peter-polack-diagram",
+          "author": null,
+          "description": "Interrogating how algorithms are designed to generate narratives about law enforcement, criminal justice, and incarceration.",
+          "link": "https://strelkamag.com/en/article/peter-polack-diagram",
+          "publishedOn": "2021-07-02T08:58:26.000Z",
+          "wordCount": 622,
+          "title": "Peter Polack: Diagram",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/c19ee112-28ad-4365-bf36-139aef849966/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "14780-alyona-shapovalova-and-alisa-smorodina",
+          "author": null,
+          "description": "Subverting means of control with non-human ecological strategies.",
+          "link": "https://strelkamag.com/en/article/alyona-shapovalova-and-alisa-smorodina",
+          "publishedOn": "2021-07-02T08:58:08.000Z",
+          "wordCount": 689,
+          "title": "Alyona Shapovalova & Alisa Smorodina: Testing the Ability to Deanthropocentralise. Insect",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/8fb9b0f9-3a3f-4cac-a4d0-afdde5300574/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "15162-mariia-fedorova-pandemic-chronotope",
+          "author": null,
+          "description": "A collective fairy tale project expressing the experience of COVID-19 isolation.",
+          "link": "https://strelkamag.com/en/article/mariia-fedorova-pandemic-chronotope",
+          "publishedOn": "2021-07-02T08:55:55.000Z",
+          "wordCount": 590,
+          "title": "Mariia Fedorova: Pandemic Chronotope",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/7fa7d282-3d47-46c2-b2fc-d0c394a64de0/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "15672-electric-red-status-flag",
+          "author": null,
+          "description": "A flag that represents everyone.",
+          "link": "https://strelkamag.com/en/article/electric-red-status-flag",
+          "publishedOn": "2021-07-02T08:55:27.000Z",
+          "wordCount": 517,
+          "title": "Electric Red: Status Flag",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/b3d6570c-129f-4510-a27e-4e349571ae08/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "15642-the-shifting-fundamentals",
+          "author": null,
+          "description": "Markus Lähteenmäki reviews the 17th Venice Biennale of Architecture.",
+          "link": "https://strelkamag.com/en/article/the-shifting-fundamentals",
+          "publishedOn": "2021-06-29T10:12:46.000Z",
+          "wordCount": 2888,
+          "title": "The Shifting Fundamentals",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/ddb1b315-d19f-4d13-9514-966568b618d1/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "15618-seeking-sanctuary",
+          "author": null,
+          "description": "Apply by September 15, 2021.",
+          "link": "https://strelkamag.com/en/article/seeking-sanctuary",
+          "publishedOn": "2021-06-24T12:28:36.000Z",
+          "wordCount": 480,
+          "title": "‘Seeking Sanctuary’: Call for Papers from The Garage Journal",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/c592d7aa-ff88-4a58-944c-739968af1140/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "15594-kvartira-s-istoricheskim-kirpichom-na-karetnom-ryadu",
+          "author": null,
+          "description": "Custom-made furniture and textured surfaces.",
+          "link": "https://strelkamag.com/en/article/kvartira-s-istoricheskim-kirpichom-na-karetnom-ryadu",
+          "publishedOn": "2021-06-24T10:03:42.000Z",
+          "wordCount": 399,
+          "title": "Concrete Ceiling Apartment in Central Moscow",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/1ffd8c69-c1c4-441d-9b79-3586816428da/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "15588-premiya-archdaily-and-strelka-award-2021-otkryla-priyom-zayavok",
+          "author": null,
+          "description": "Submit your project by July 30.",
+          "link": "https://strelkamag.com/en/article/premiya-archdaily-and-strelka-award-2021-otkryla-priyom-zayavok",
+          "publishedOn": "2021-06-22T15:41:55.000Z",
+          "wordCount": 544,
+          "title": "Open Call: ArchDaily & Strelka Award 2021",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/e869200f-0326-4a9b-ba95-ded9e2d26e1d/w/1200",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "15564-open-call-world-architecture-community-10-5-x-awards",
+          "author": null,
+          "description": "Apply by July 15, 2021.",
+          "link": "https://strelkamag.com/en/article/open-call-world-architecture-community-10-5-x-awards",
+          "publishedOn": "2021-06-22T12:12:51.000Z",
+          "wordCount": 436,
+          "title": "Open Call: World Architecture Community 10+5+x Awards",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/2b85ae15-a222-438e-a362-e9e74dde6038/w/1200",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "13184-dom-arkhitektora",
+          "author": null,
+          "description": "An airy wooden house in the suburbs.",
+          "link": "https://strelkamag.com/en/article/dom-arkhitektora",
+          "publishedOn": "2021-06-21T09:24:29.000Z",
+          "wordCount": 471,
+          "title": "An Architect’s House",
+          "enclosure": {
+            "url": "https://storage.strelka.com/i/05057c40-0140-4ac2-84b7-a9cb485d80b3/w/1200",
+            "type": "image/jpeg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Decrypt",
+      "feedUrl": "https://decryptmedia.com/feed/",
+      "siteUrl": "https://decrypt.co/feed",
+      "articles": [
+        {
+          "id": "https://decrypt.co/?p=75402",
+          "author": "Jeff John Roberts",
+          "description": "The $15 million fine by New York state is the latest in a series of penalties to hit Robinhood. It also underscores the regulatory risk of operating in the crypto sphere.",
+          "link": "https://decrypt.co/75402/robinhood-crypto-nydfs-fine",
+          "publishedOn": "2021-07-07T19:00:19.000Z",
+          "wordCount": 503,
+          "title": "Robinhood Crypto to Pay $15M Fine Over Security, Anti-Money Laundering Issues",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/Robinhood-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75411",
+          "author": "Scott Chipolina",
+          "description": "Following Bitcoin's rough quarter, Tesla could face an impairment charge on its balance sheet.",
+          "link": "https://decrypt.co/75411/teslas-bitcoin-holdings-could-cost-the-company-100-million",
+          "publishedOn": "2021-07-07T17:38:04.000Z",
+          "wordCount": 436,
+          "title": "Elon Musk's Bitcoin Bet Could Cost Tesla $100 Million",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/musk_2021-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75403",
+          "author": "Liam Frost",
+          "description": "Payments giant Visa has revealed that over a billion dollars was spent using its crypto-linked cards during the first half of 2021.",
+          "link": "https://decrypt.co/75403/visa-more-than-1-billion-spent-using-crypto-linked-cards-in-2021",
+          "publishedOn": "2021-07-07T16:54:34.000Z",
+          "wordCount": 386,
+          "title": "Visa: More Than $1 Billion Spent Using Crypto-Linked Cards in 2021",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/bitcoin-visa-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75385",
+          "author": "Adriana Hamacher",
+          "description": "The world’s largest building society is the latest UK financial institution to ramp up its monitoring of consumers using crypto.",
+          "link": "https://decrypt.co/75385/uk-building-society-nationwide-to-review-crypto-policies-amid-wider-crackdown",
+          "publishedOn": "2021-07-07T14:03:52.000Z",
+          "wordCount": 741,
+          "title": "UK Building Society Nationwide To Review Crypto Policies Amid Wider Crackdown",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/shutterstock_1755832448-1-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75366",
+          "author": "Jeff John Roberts",
+          "description": "A tie-up between two significant Ethereum infrastructure providers could be a boon for the world of dapps.",
+          "link": "https://decrypt.co/75366/alchemy-polygon-dapps",
+          "publishedOn": "2021-07-07T13:59:11.000Z",
+          "wordCount": 593,
+          "title": "Alchemy and Polygon Partner on DeFi, Plan to Spur Ethereum Dapp Development",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/Screen-Shot-2021-04-27-at-10.07.09-PM-gID_6.png",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75378",
+          "author": "Andrew Asmakov",
+          "description": "Cathie Wood’s ARK Invest is reportedly the first Bitcoin ETF hopeful to clearly state fees for its proposed offering.",
+          "link": "https://decrypt.co/75378/ark-invest-becomes-first-asset-manager-to-reveal-fees-for-bitcoin-etf",
+          "publishedOn": "2021-07-07T12:33:47.000Z",
+          "wordCount": 479,
+          "title": "ARK Invest Becomes First Asset Manager to Reveal Fees for Bitcoin ETF",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/02/Webp.net-resizeimage24-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75377",
+          "author": "Scott Chipolina",
+          "description": "With Binance facing growing pressure from regulators, the crypto exchange's CEO Changpeng Zhao has said that \"compliance is a journey\".",
+          "link": "https://decrypt.co/75377/binance-ceo-calls-for-clear-regulation-amid-growing-pressure",
+          "publishedOn": "2021-07-07T12:13:06.000Z",
+          "wordCount": 799,
+          "title": "Binance CEO Calls For ‘Clear Regulations’ Amid Growing Pressure",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/12/changpeng-zhao-binance-ceo-11-e1587048619736-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75373",
+          "author": "Scott Chipolina",
+          "description": "Eric Adams has promised to make New York City into a “center of Bitcoins.”",
+          "link": "https://decrypt.co/75373/bitcoin-mayor-candidate-eric-adams-wins-new-yorks-democratic-primary",
+          "publishedOn": "2021-07-07T10:28:57.000Z",
+          "wordCount": 450,
+          "title": "‘Bitcoin Mayor’ Candidate Eric Adams Wins New York’s Democratic Primary",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/shutterstock_1963217887-Cropped-scaled-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75367",
+          "author": "Liam Frost",
+          "description": "Tokens powering crypto games such as Axie Infinity (AXS) and Decentraland (MANA) are seeing double-digit gains today.",
+          "link": "https://decrypt.co/75367/axie-infinitys-27-rise-leads-crypto-gaming-token-rally",
+          "publishedOn": "2021-07-07T09:23:05.000Z",
+          "wordCount": 362,
+          "title": "Axie Infinity's 27% Rise Leads Crypto Gaming Token Rally",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/blockchain-games-tokens-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75330",
+          "author": "Scott Chipolina",
+          "description": "Binance adds a new director of compliance following recent clashes with regulators in the UK, the Cayman Islands, and elsewhere.",
+          "link": "https://decrypt.co/75330/binance-hires-etoro-compliance-director",
+          "publishedOn": "2021-07-07T08:01:13.000Z",
+          "wordCount": 731,
+          "title": "Binance Beefs Up Compliance Team With New Hire From eToro",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/cz-ethereal-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75053",
+          "author": "Esat Dedezade",
+          "description": "Decentralized apps, or dapps, run on blockchains and do away with centralized middlemen. They're shaking up everything from finance to gaming.",
+          "link": "https://decrypt.co/75053/the-hottest-decentralized-apps-dapps-from-defi-to-games",
+          "publishedOn": "2021-07-07T03:31:09.000Z",
+          "wordCount": 1911,
+          "title": "The Hottest Decentralized Apps (Dapps): From DeFi to Games",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/abstract-blocks-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75359",
+          "author": "Jeff Benson",
+          "description": "Freshman Congressman Barry Moore purchased at least $5,000 in cryptocurrency from May to June.",
+          "link": "https://decrypt.co/75359/us-congressman-adds-dogecoin-ethereum-portfolio",
+          "publishedOn": "2021-07-07T01:04:02.000Z",
+          "wordCount": 453,
+          "title": "U.S. Congressman Adds Dogecoin, Ethereum to Portfolio",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/Hello-Pal-dogecoin-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75356",
+          "author": "Mathew Di Salvo",
+          "description": "Customers must instead rely on credit or debit card payments.",
+          "link": "https://decrypt.co/75356/binance-suspends-sepa-euro-bank-deposits",
+          "publishedOn": "2021-07-06T23:12:49.000Z",
+          "wordCount": 302,
+          "title": "Binance Suspends SEPA Euro Bank Deposits",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/Binancelogo-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75360",
+          "author": "Andrew Hayward",
+          "description": "The UNI native governance token is one of the market leaders of late, alongside AAVE.",
+          "link": "https://decrypt.co/75360/uniswap-gains-more-ground-up-25-over-past-week",
+          "publishedOn": "2021-07-06T22:58:51.000Z",
+          "wordCount": 525,
+          "title": "Uniswap Gains Another 9%, Now Up 25% Over Past Week",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/uniswap-uni-token-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75349",
+          "author": "Jeff Benson",
+          "description": "Pending approval from client teams, EIP-1559 should go live around the date of August 4.",
+          "link": "https://decrypt.co/75349/ethereum-update-reduce-eth-supply-likely-coming-august",
+          "publishedOn": "2021-07-06T21:07:23.000Z",
+          "wordCount": 569,
+          "title": "Ethereum Update to Reduce ETH Supply Likely Coming in August",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/ethereum-price-eth-investors-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75328",
+          "author": "Mathew Di Salvo",
+          "description": "Michele Korver previously worked for the Department of Justice.",
+          "link": "https://decrypt.co/75328/fincen-appoints-first-chief-advisor-crypto",
+          "publishedOn": "2021-07-06T18:40:16.000Z",
+          "wordCount": 418,
+          "title": "FinCEN Appoints First Chief Advisor for Crypto",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/FinCEN-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75337",
+          "author": "Andrew Hayward",
+          "description": "The crypto exchange racks up its third esports sponsorship this year.",
+          "link": "https://decrypt.co/75337/coinbase-extends-esports-push-with-esl-sponsorship",
+          "publishedOn": "2021-07-06T18:12:02.000Z",
+          "wordCount": 618,
+          "title": "Coinbase Extends Esports Push With ESL Sponsorship",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/coinbase-esl-esports-sponsorship-gID_6.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75301",
+          "author": "Adriana Hamacher",
+          "description": "Sales of NFTs have totaled 10,000 to 20,000 every week since March, with buyers still outnumbering sellers.",
+          "link": "https://decrypt.co/75301/nft-sales-volumes-hit-2-5-billion-for-first-half-of-2021",
+          "publishedOn": "2021-07-06T15:54:18.000Z",
+          "wordCount": 668,
+          "title": "NFT Sales Volumes Hit $2.5 Billion For First Half of 2021",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/The-Bored-Ape-Yacht-Club-gID_2.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75313",
+          "author": "Andrew Asmakov",
+          "description": "Authorities in China have reportedly closed down a software company over its alleged involvement in crypto trading activities.",
+          "link": "https://decrypt.co/75313/china-central-bank-closes-software-maker-over-alleged-cryptocurrency-trading",
+          "publishedOn": "2021-07-06T15:15:28.000Z",
+          "wordCount": 374,
+          "title": "China Central Bank Closes Software Maker Over Alleged Cryptocurrency Trading",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/china-bitcoin-market-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75302",
+          "author": "Scott Chipolina",
+          "description": "The London-based hedge fund holds over $55 billion in assets under management.",
+          "link": "https://decrypt.co/75302/55-billion-hedge-fund-firm-marshall-wace-plans-move-into-crypto",
+          "publishedOn": "2021-07-06T14:49:26.000Z",
+          "wordCount": 469,
+          "title": "$55 Billion UK Hedge Fund Marshall Wace Plans Move Into Crypto",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/bitcoin-city-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75297",
+          "author": "Scott Chipolina",
+          "description": "The crypto industry’s relationship with regulators has often been a difficult one, but in Australia, firms want clarity.",
+          "link": "https://decrypt.co/75297/australian-crypto-firms-lobby-for-better-regulation",
+          "publishedOn": "2021-07-06T13:34:56.000Z",
+          "wordCount": 457,
+          "title": "Australian Crypto Firms Lobby For Better Regulation",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/Australia-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75290",
+          "author": "Andrew Asmakov",
+          "description": "The price of Aave has shot up after the DeFi lending project confirmed that its institutional investor platform Aave Pro will launch in July.",
+          "link": "https://decrypt.co/75290/aave-up-16-on-news-of-aave-pro-launch",
+          "publishedOn": "2021-07-06T11:16:38.000Z",
+          "wordCount": 463,
+          "title": "Aave Up 16% On News of Aave Pro Launch",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/aave-price-up-scaled-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75285",
+          "author": "Liam Frost",
+          "description": "Decentralized finance (DeFi) tokens are seeing significant gains compared to the rest of the cryptocurrency market, led by Synthetix (SNX).",
+          "link": "https://decrypt.co/75285/synthetix-up-26-leading-double-digit-gains-for-defi-tokens",
+          "publishedOn": "2021-07-06T10:26:41.000Z",
+          "wordCount": 498,
+          "title": "Synthetix Up 26%, Leading Double-Digit Gains for DeFi Tokens",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/token-prices-up-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75275",
+          "author": "Jose Antonio Lanz",
+          "description": "Cláudio Oliveira was president of the Bitcoin Banco Group, a Brazilian financial management firm that reported the disappearance of 7,000 BTC in 2019.",
+          "link": "https://decrypt.co/75275/brazilian-king-bitcoin-busted-alleged-300-million-fraud",
+          "publishedOn": "2021-07-06T00:01:02.000Z",
+          "wordCount": 418,
+          "title": "Brazilian ‘King of Bitcoin’ Busted for Alleged $300 Million Fraud",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Bitcoin-king-chess-gID_5.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75276",
+          "author": "Mathew Di Salvo",
+          "description": "Attackers have demanded a ransom of 0.5 Bitcoin, the site’s operator told Decrypt.",
+          "link": "https://decrypt.co/75276/bitcoin-org-reportedly-hit-ddos-attack-ransom-demand",
+          "publishedOn": "2021-07-05T22:09:25.000Z",
+          "wordCount": 383,
+          "title": "Bitcoin.org Reportedly Hit With DDoS Attack, Ransom Demand",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/shutterstock_11200197651-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75271",
+          "author": "Mathew Di Salvo",
+          "description": "The exchange is defunct after being hit by a major hack in 2019.",
+          "link": "https://decrypt.co/75271/ex-cryptopia-employee-admits-stealing-170000-exchange",
+          "publishedOn": "2021-07-05T21:01:04.000Z",
+          "wordCount": 345,
+          "title": "Ex-Cryptopia Employee Admits to Stealing $170,000 in Crypto From Exchange",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/money-hack-gID_1.png",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75068",
+          "author": "Walter Smith",
+          "description": "Thorchain is a Cosmos-based blockchain protocol for swapping crypto-assets like Bitcoin and Ethereum across blockchain networks.",
+          "link": "https://decrypt.co/75068/what-is-thorchain-defi-bitcoin-ethereum",
+          "publishedOn": "2021-07-05T18:47:47.000Z",
+          "wordCount": 1487,
+          "title": "What is Thorchain? The DeFi Bridge for Bitcoin, Ethereum and More",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/thorchain-gID_6-pID_3.png",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75256",
+          "author": "Adriana Hamacher",
+          "description": "Bitcoin mining operator Greenidge Generation is already planning another facility in South Carolina.",
+          "link": "https://decrypt.co/75256/bitcoin-mining-is-turning-new-york-lake-into-a-hot-tub-say-locals",
+          "publishedOn": "2021-07-05T16:58:35.000Z",
+          "wordCount": 598,
+          "title": "Bitcoin Mining Is Turning New York Lake Into a 'Hot Tub', Say Locals",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/shutterstock_721815157-1-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75254",
+          "author": "Andrew Asmakov",
+          "description": "Cryptocurrency exchange Coinbase is planning a hiring spree in India, with new engineers receiving a one-time payment of $1,000 in crypto.",
+          "link": "https://decrypt.co/75254/coinbase-luring-hundreds-of-indian-engineers-with-1000-crypto-bonuses",
+          "publishedOn": "2021-07-05T16:32:26.000Z",
+          "wordCount": 495,
+          "title": "Coinbase Luring 'Hundreds' of Indian Engineers With $1,000 Crypto Bonuses",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/Webp.net-resizeimage64-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75252",
+          "author": "Scott Chipolina",
+          "description": "Barclays has stopped customers from sending funds to Binance just days after the FCA cracked down on the company.",
+          "link": "https://decrypt.co/75252/barclays-stops-binance-payments-in-effort-to-protect-customer-funds",
+          "publishedOn": "2021-07-05T16:01:08.000Z",
+          "wordCount": 436,
+          "title": "Barclays Blocks Binance Payments To 'Keep Your Money Safe'",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/Binance-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75246",
+          "author": "Scott Chipolina",
+          "description": "The REvil gang has demanded $70 million in Bitcoin after attacking at least 200 US companies on Friday.",
+          "link": "https://decrypt.co/75246/what-the-revil-ransomware-attack-means-for-crypto",
+          "publishedOn": "2021-07-05T15:09:48.000Z",
+          "wordCount": 674,
+          "title": "What the REvil Ransomware Attack Means for Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/ransomware-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75238",
+          "author": "Liam Frost",
+          "description": "Swiss banking giant UBS has warned its clients about the risks that regulatory crackdowns pose to the crypto market.",
+          "link": "https://decrypt.co/75238/ubs-regulatory-crackdowns-could-pop-bubble-like-crypto-markets",
+          "publishedOn": "2021-07-05T14:37:18.000Z",
+          "wordCount": 527,
+          "title": "UBS: Regulatory Crackdowns Could Pop 'Bubble-like' Crypto Markets",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/bitcoin-bubble-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75230",
+          "author": "Andrew Asmakov",
+          "description": "A new law will impose an additional tax fee for the energy used by cryptocurrency mining operators in Kazakhstan.",
+          "link": "https://decrypt.co/75230/kazakhstan-introduces-additional-taxes-for-crypto-miners",
+          "publishedOn": "2021-07-05T13:25:21.000Z",
+          "wordCount": 462,
+          "title": "Kazakhstan Introduces Additional Taxes for Crypto Miners",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/kazakhstan-bitcoin-map-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75222",
+          "author": "Adriana Hamacher",
+          "description": "Decentralized autonomous organizations, or DAOs, are recognized as a new form of company in the crypto-friendly state.",
+          "link": "https://decrypt.co/75222/americas-first-dao-approved-in-wyoming",
+          "publishedOn": "2021-07-05T12:18:22.000Z",
+          "wordCount": 716,
+          "title": "America’s First Legal DAO Approved in Wyoming",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/shutterstock_654675091-1-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75213",
+          "author": "Liam Frost",
+          "description": "Elon Musk's Twitter mention of Baby Doge has seen its price surge by over 300% in a week, while other meme coins falter.",
+          "link": "https://decrypt.co/75213/meme-coin-pack-flocks-to-baby-doge-as-dogecoin-safemoon-and-shib-slip",
+          "publishedOn": "2021-07-05T11:04:18.000Z",
+          "wordCount": 443,
+          "title": "Meme Coin Pack Flocks to Baby Doge as Dogecoin, SafeMoon, SHIB Slip",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/shiba-inu-puppies-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75208",
+          "author": "Scott Chipolina",
+          "description": "Vietnam’s prime minister, Phạm Minh Chính, has reportedly asked the country’s central bank for a study and pilot implementation of cryptocurrency.",
+          "link": "https://decrypt.co/75208/vietnams-central-bank-to-pilot-use-of-crypto",
+          "publishedOn": "2021-07-05T10:25:49.000Z",
+          "wordCount": 412,
+          "title": "Vietnam’s Central Bank To Pilot Use of Crypto",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Vietnam-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75202",
+          "author": "Tim Hakki",
+          "description": "Coinbase has addressed its checkered history of customer service complaints in a new blog post.",
+          "link": "https://decrypt.co/75202/coinbase-has-hired-an-army-of-support-staff-to-keep-customers-happy",
+          "publishedOn": "2021-07-04T16:15:44.000Z",
+          "wordCount": 426,
+          "title": "Coinbase Has Hired an Army of Support Staff to Keep Customers Happy",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/coinbase-app-bitcoin-transactions-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75191",
+          "author": "Tim Hakki",
+          "description": "EY releases Nightfall 3 to help make the Ethereum blockchain cheaper to use.",
+          "link": "https://decrypt.co/75191/ey-takes-crack-at-ethereums-gas-fee-problem-with-new-protocol",
+          "publishedOn": "2021-07-04T14:46:22.000Z",
+          "wordCount": 548,
+          "title": "EY Takes Crack At Ethereum’s Gas Fee Problem With New Protocol",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/ethereum-tether-gas-fees-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75186",
+          "author": "Tim Hakki",
+          "description": "The Million Doge Disco launched yesterday and thousands across the globe have already joined the party.",
+          "link": "https://decrypt.co/75186/dogecoin-partygoers-dance-for-free-doge-at-million-doge-disco",
+          "publishedOn": "2021-07-04T14:19:20.000Z",
+          "wordCount": 478,
+          "title": "Dogecoin Partygoers Dance For Free DOGE at Million Doge Disco",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Webp.net-resizeimage-3-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75188",
+          "author": "Ekin Genç",
+          "description": "Computer security experts were baffled by the suggestion promoted by a major industry conference.",
+          "link": "https://decrypt.co/75188/rsa-conference-takes-heat-for-suggesting-that-blockchain-replace-the-internets-most-important-protocol",
+          "publishedOn": "2021-07-04T14:14:26.000Z",
+          "wordCount": 491,
+          "title": "RSA Conference Takes Heat For Suggesting That Blockchain Replace the Internet's Most Important Protocol",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/crypto-adoption-early-internet-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hacker News: Front Page",
+      "feedUrl": "https://hnrss.org/frontpage?points=10&comments=2",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://news.ycombinator.com/item?id=27763834",
+          "author": "cratermoon",
+          "description": "Article URL: http://www.minimizedistraction.com/\nComments URL: https://news.ycombinator.com/item?id=27763834\nPoints: 94\n# Comments: 35",
+          "link": "http://www.minimizedistraction.com/",
+          "publishedOn": "2021-07-07T17:47:09.000Z",
+          "wordCount": 7,
+          "title": "A Call to Minimize Distraction and Respect Users’ Attention"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27763763",
+          "author": "tectonic",
+          "description": "Article URL: https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed\nComments URL: https://news.ycombinator.com/item?id=27763763\nPoints: 40\n# Comments: 12",
+          "link": "https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed",
+          "publishedOn": "2021-07-07T17:39:35.000Z",
+          "wordCount": 1439,
+          "title": "The first on-orbit fuel depot has been deployed"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27763598",
+          "author": "guerrilla",
+          "description": "Article URL: https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp\nComments URL: https://news.ycombinator.com/item?id=27763598\nPoints: 100\n# Comments: 38",
+          "link": "https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp",
+          "publishedOn": "2021-07-07T17:26:19.000Z",
+          "wordCount": 1029,
+          "title": "The James Webb Space Telescope has passed the final mission analysis review"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27763031",
+          "author": "zdw",
+          "description": "Article URL: https://lupyuen.github.io/articles/wifi\nComments URL: https://news.ycombinator.com/item?id=27763031\nPoints: 80\n# Comments: 6",
+          "link": "https://lupyuen.github.io/articles/wifi",
+          "publishedOn": "2021-07-07T16:37:31.000Z",
+          "wordCount": 5812,
+          "title": "Reverse Engineer the BL602 WiFi Driver"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762986",
+          "author": "zdw",
+          "description": "Article URL: https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html\nComments URL: https://news.ycombinator.com/item?id=27762986\nPoints: 17\n# Comments: 10",
+          "link": "https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html",
+          "publishedOn": "2021-07-07T16:33:48.000Z",
+          "wordCount": 552,
+          "title": "The Old Computer Challenge"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762970",
+          "author": "feross",
+          "description": "Article URL: https://austingil.com/svg-favicons/\nComments URL: https://news.ycombinator.com/item?id=27762970\nPoints: 46\n# Comments: 22",
+          "link": "https://austingil.com/svg-favicons/",
+          "publishedOn": "2021-07-07T16:32:07.000Z",
+          "wordCount": 1328,
+          "title": "SVG favicons have some cool benefits"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762500",
+          "author": "gmays",
+          "description": "Article URL: https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram\nComments URL: https://news.ycombinator.com/item?id=27762500\nPoints: 82\n# Comments: 65",
+          "link": "https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram",
+          "publishedOn": "2021-07-07T15:53:28.000Z",
+          "wordCount": 1876,
+          "title": "The Cost of the “New Way to Message on Instagram” (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762350",
+          "author": "saharhash",
+          "description": "Article URL: https://github.com/saharmor/realtime-transcription-playground\nComments URL: https://news.ycombinator.com/item?id=27762350\nPoints: 33\n# Comments: 6",
+          "link": "https://github.com/saharmor/realtime-transcription-playground",
+          "publishedOn": "2021-07-07T15:41:49.000Z",
+          "wordCount": 747,
+          "title": "Show HN: Open-source real-time transcription playground (React, Python, GCP)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762347",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html\nComments URL: https://news.ycombinator.com/item?id=27762347\nPoints: 34\n# Comments: 14",
+          "link": "https://blog.lojic.com/2020/12/26/comprehensions-in-julia.html",
+          "publishedOn": "2021-07-07T15:41:43.000Z",
+          "wordCount": 435,
+          "title": "Comparison of Haskell and Julia List Comprehensions"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762201",
+          "author": "chmaynard",
+          "description": "Part of the workflow for building my website is the generation of a table in\ntab-separated column format (.tsv). The source data is found in four other .tsv\nfiles. I use an SQLite query to perform a 4-way join and write out the new table. For\nconvenience, I wrote a script that encapsulates the query inside a Bash function.\nThe example below illustrates this technique.\n    repertoire() {\n      pushd $CMM_SOURCES/_data\n      sqlite3 \n\n\nComments URL: https://news.ycombinator.com/item?id=27762201\nPoints: 86\n# Comments: 32",
+          "link": "https://news.ycombinator.com/item?id=27762201",
+          "publishedOn": "2021-07-07T15:28:23.000Z",
+          "wordCount": 1927,
+          "title": "Show HN: SQLite query inside a Bash function"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762145",
+          "author": "amadeuspagel",
+          "description": "Article URL: https://www2.law.ucla.edu/volokh/carrier.pdf\nComments URL: https://news.ycombinator.com/item?id=27762145\nPoints: 76\n# Comments: 44",
+          "link": "https://www2.law.ucla.edu/volokh/carrier.pdf",
+          "publishedOn": "2021-07-07T15:23:14.000Z",
+          "wordCount": 14416,
+          "title": "Social Media Platforms as Common Carriers? [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762109",
+          "author": "patternexon",
+          "description": "Article URL: https://janusgraph.org/\nComments URL: https://news.ycombinator.com/item?id=27762109\nPoints: 43\n# Comments: 21",
+          "link": "https://janusgraph.org/",
+          "publishedOn": "2021-07-07T15:19:57.000Z",
+          "wordCount": 463,
+          "title": "JanusGraph – Distributed, open source, scalable graph database"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27762072",
+          "author": "Wolfr_",
+          "description": "Article URL: https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/\nComments URL: https://news.ycombinator.com/item?id=27762072\nPoints: 104\n# Comments: 88",
+          "link": "https://johanronsse.be/2021/07/07/coming-to-terms-with-tailwind/",
+          "publishedOn": "2021-07-07T15:16:44.000Z",
+          "wordCount": 1636,
+          "title": "Coming to Terms with Tailwind"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27761881",
+          "author": "eric_khun",
+          "description": "Article URL: https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma\nComments URL: https://news.ycombinator.com/item?id=27761881\nPoints: 71\n# Comments: 5",
+          "link": "https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma",
+          "publishedOn": "2021-07-07T14:59:10.000Z",
+          "wordCount": 2273,
+          "title": "Designing Our Serverless Engine: From Kubernetes to Nomad, Firecracker, and Kuma"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27761706",
+          "author": "theafh",
+          "description": "Article URL: https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/\nComments URL: https://news.ycombinator.com/item?id=27761706\nPoints: 117\n# Comments: 47",
+          "link": "https://www.quantamagazine.org/a-new-kind-of-information-coding-seen-in-the-human-brain-20210707/",
+          "publishedOn": "2021-07-07T14:47:51.000Z",
+          "wordCount": 1419,
+          "title": "Neurons Unexpectedly Encode Information in the Timing of Their Firing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27761334",
+          "author": "wongmjane",
+          "description": "Article URL: https://overreacted.io/npm-audit-broken-by-design/\nComments URL: https://news.ycombinator.com/item?id=27761334\nPoints: 543\n# Comments: 135",
+          "link": "https://overreacted.io/npm-audit-broken-by-design/",
+          "publishedOn": "2021-07-07T14:13:07.000Z",
+          "wordCount": 2676,
+          "title": "Npm audit: Broken by Design"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27760919",
+          "author": "MAXPOOL",
+          "description": "Article URL: https://news.columbia.edu/news/top-10-ideas-statistics-ai\nComments URL: https://news.ycombinator.com/item?id=27760919\nPoints: 116\n# Comments: 42",
+          "link": "https://news.columbia.edu/news/top-10-ideas-statistics-ai",
+          "publishedOn": "2021-07-07T13:33:05.000Z",
+          "wordCount": 1845,
+          "title": "Ideas in statistics that have powered AI"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27760863",
+          "author": "davegauer",
+          "description": "Article URL: https://egamebook.com/blog/complex-systems-simple-interface/\nComments URL: https://news.ycombinator.com/item?id=27760863\nPoints: 86\n# Comments: 8",
+          "link": "https://egamebook.com/blog/complex-systems-simple-interface/",
+          "publishedOn": "2021-07-07T13:27:35.000Z",
+          "wordCount": 1528,
+          "title": "Complex game worlds, simple text interfaces (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27760627",
+          "author": "elenasamuylova",
+          "description": "Hi HN, we are Elena and Emeli, co-founders of Evidently AI http://evidentlyai.com. We're building monitoring for machine learning models in production. The tool is open source and available on GitHub: https://github.com/evidentlyai/evidently. You can use it locally in a Jupyter notebook or in a Bash shell. There’s a video showing how it works in Jupyter here: https://www.youtube.com/watch?v=NPtTKYxm524.\nMachine learning models can stop working as expected, often for non-obvious reasons. If this happens to a marketing personalization model, you might spam your customers by mistake. If this happens to credit scoring models, you might face legal and reputational risks. And so on. To catch issues with the model, it is not enough to just look at service metrics like latency. You have to track d…",
+          "link": "https://news.ycombinator.com/item?id=27760627",
+          "publishedOn": "2021-07-07T13:02:26.000Z",
+          "wordCount": 1570,
+          "title": "Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27760396",
+          "author": "pjmlp",
+          "description": "Article URL: https://schierlm.github.io/OberonEmulator/\nComments URL: https://news.ycombinator.com/item?id=27760396\nPoints: 112\n# Comments: 21",
+          "link": "https://schierlm.github.io/OberonEmulator/",
+          "publishedOn": "2021-07-07T12:37:53.000Z",
+          "wordCount": 632,
+          "title": "Project Oberon Emulator in JavaScript and Java"
+        }
+      ]
+    },
+    {
+      "title": "The Drive",
+      "feedUrl": "https://www.thedrive.com/rss/all",
+      "siteUrl": "https://www.thedrive.com",
+      "articles": [
+        {
+          "id": "https://www.thedrive.com/the-war-zone/41401/marines-had-an-aircraft-carrier-on-land-with-catapults-and-arresting-gear-in-vietnam",
+          "author": "Thomas Newdick",
+          "description": "During the long conflict in Southeast Asia, U.S. Marines Corps jets regularly flew from bases on land in direct support of troops on the ground. However, only one of the airbases that the service operated from in South Vietnam was actually outfitted with arrester wires and even catapult launch gear. This was at Chu Lai, […]",
+          "link": "https://www.thedrive.com/the-war-zone/41401/marines-had-an-aircraft-carrier-on-land-with-catapults-and-arresting-gear-in-vietnam",
+          "publishedOn": "2021-07-07T18:27:15.000Z",
+          "wordCount": 2889,
+          "title": "Marines Had An “Aircraft Carrier On Land” With Catapults And Arresting Gear In Vietnam"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41438/new-jeep-grand-cherokee-trackhawk-wont-have-hellcat-v8-report",
+          "author": "Peter Holderith",
+          "description": "With the lineups of every automaker gradually getting electrified, Hellcat V8-equipped cars seem old-fashioned, despite being sold as we speak. The latest Hellcat V8s boast over 700 horsepower—nearly 800, in fact—and have made their way into everything from Chargers, Challengers, Durangos, and of course, the Jeep Grand Cherokee. The Grand Cherokee Trackhawk has been on […]",
+          "link": "https://www.thedrive.com/news/41438/new-jeep-grand-cherokee-trackhawk-wont-have-hellcat-v8-report",
+          "publishedOn": "2021-07-07T18:09:23.000Z",
+          "wordCount": 698,
+          "title": "New Jeep Grand Cherokee Trackhawk Won't Have Hellcat V8: Report"
+        },
+        {
+          "id": "https://www.thedrive.com/the-war-zone/41437/israel-might-ditch-its-new-air-force-one-jet-before-it-even-enters-service",
+          "author": "Thomas Newdick",
+          "description": "Before it has even entered service, Israel’s “Air Force One” could be abandoned, and the adapted Boeing 767 airframe sold off. That, at least, is the plan of at least one prominent Israeli lawmaker, although the proposal will likely face opposition from the Israeli Ministry of Defense, which wants the jet to transport the prime […]",
+          "link": "https://www.thedrive.com/the-war-zone/41437/israel-might-ditch-its-new-air-force-one-jet-before-it-even-enters-service",
+          "publishedOn": "2021-07-07T17:10:21.000Z",
+          "wordCount": 1322,
+          "title": "Israel Might Ditch Its New Air Force One Jet Before It Even Enters Service"
+        },
+        {
+          "id": "https://www.thedrive.com/deals/41431/road-trip-deals-auto-rv",
+          "author": "Jon Langston",
+          "description": "With summer in full swing, chances are pretty good we've all got our summer travel plans cemented. But just because we know when and where we're headed doesn't mean we have all the gear, tools, and accessories we need to ensure the perfect summer road trip.  To that end, we've got dozens of deals below […]",
+          "link": "https://www.thedrive.com/deals/41431/road-trip-deals-auto-rv",
+          "publishedOn": "2021-07-07T17:00:31.000Z",
+          "wordCount": 1112,
+          "title": "Great Deals on Summer Road Trip Gear and More from Amazon, eBay, Walmart, Cabela's, and Aukey"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41436/ram-1500-g-t-pack-the-new-mild-hybrid-street-truck",
+          "author": "Caleb Jacobs",
+          "description": "The late '90s and early '00s street truck fad was great; I miss it. There are still high-performance pickups, of course, though they're Baja blasters instead of pavement pounders. Cheesy alliteration aside, there are plenty of folks out there who want to see more muscle trucks on the road—and apparently, some of them work at […]",
+          "link": "https://www.thedrive.com/news/41436/ram-1500-g-t-pack-the-new-mild-hybrid-street-truck",
+          "publishedOn": "2021-07-07T16:02:49.000Z",
+          "wordCount": 631,
+          "title": "Ram 1500 G/T Pack: The New Mild-Hybrid Street Truck"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41432/why-the-hummer-ev-doesnt-have-removable-doors",
+          "author": "Peter Holderith",
+          "description": "Removable doors have become a staple on off-roaders like the Jeep Wrangler and Ford Bronco. GM doesn't have a direct competitor to these vehicles as such, but it did just release a brand new truck that should perform pretty well off the beaten path—the 2022 GMC Hummer EV. The new Hummer is technically a convertible […]",
+          "link": "https://www.thedrive.com/news/41432/why-the-hummer-ev-doesnt-have-removable-doors",
+          "publishedOn": "2021-07-07T15:01:12.000Z",
+          "wordCount": 601,
+          "title": "Why the Hummer EV Doesn't Have Removable Doors"
+        },
+        {
+          "id": "https://www.thedrive.com/cars-101/41411/does-my-car-have-active-recall",
+          "author": "Tony Markovich",
+          "description": "Aside from the folks who regularly read automotive enthusiasts and news websites like The Drive and Car Bibles (Ed. Note: Hello, we appreciate you.), most people hear about recalls strictly from the news or a viral story on social media. You might hear about the Mercedes-Benz cars that might lose power steering, Chevrolet Bolt EVs […]",
+          "link": "https://www.thedrive.com/cars-101/41411/does-my-car-have-active-recall",
+          "publishedOn": "2021-07-07T11:00:47.000Z",
+          "wordCount": 1608,
+          "title": "How To Know if Your Car Has an Active Recall"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41430/lamborghini-aventador-ultimae-will-be-last-edition-built",
+          "author": "Lewin Day",
+          "description": "The Lamborghini Aventador has been the company's flagship model since its launch in 2011. Taking over from the Murciélago, it carried on the tradition of naturally aspirated V12 power in a mid-engined chassis with all-wheel drive.  After a long innings and innumerable variants over the years, production is wrapping up with a final special edition: […]",
+          "link": "https://www.thedrive.com/news/41430/lamborghini-aventador-ultimae-will-be-last-edition-built",
+          "publishedOn": "2021-07-07T10:00:13.000Z",
+          "wordCount": 761,
+          "title": "The Lamborghini Aventador Ultimae Is the Raging Bull's Last Stand"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41429/tesla-cybertruck-will-get-rear-wheel-steering-musk-says",
+          "author": "Lewin Day",
+          "description": "The Tesla Cybertruck has been a polarizing vehicle since it was first revealed back in 2019. Known for its distinctive angular styling, shattering windows, and  stainless steel exterior, it's drawn great admiration from its fans and ridicule from its detractors. We've heard precious little about the upcoming vehicle since then. However, in response to a […]",
+          "link": "https://www.thedrive.com/news/41429/tesla-cybertruck-will-get-rear-wheel-steering-musk-says",
+          "publishedOn": "2021-07-07T00:17:57.000Z",
+          "wordCount": 574,
+          "title": "Tesla Cybertruck Will Get Rear-Wheel Steering, Musk Says"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41428/coyote-engined-1979-ford-bronco-sells-for-213000",
+          "author": "Lewin Day",
+          "description": "The last 18 months or so has seen a pandemic ravage the world, the ocean catch fire, and used car prices reaching stellar heights, particularly in the collector scene. A great example of this bullish market sentiment is this heavily-modified 1979 Ford Bronco, which sold for the lofty price of $213,000 on Bring a Trailer […]",
+          "link": "https://www.thedrive.com/news/41428/coyote-engined-1979-ford-bronco-sells-for-213000",
+          "publishedOn": "2021-07-06T23:05:31.000Z",
+          "wordCount": 746,
+          "title": "Coyote-Engined 1979 Ford Bronco Sells for $213,000"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41413/2022-bmw-2-series-bmws-best-coupe-gets-a-bold-new-design-more-power",
+          "author": "Chris Tsui",
+          "description": "While most of its competitors choose to fill this space with front-biased fare, BMW is keeping the rear-drive luxury compact coupe alive with the second-generation 2022 BMW 2 Series. Featuring more power, a roomier interior, and apparently better handling than before, BMW says its new 2 aims to offer \"maximum driving enjoyment.\" Sporting a slightly […]",
+          "link": "https://www.thedrive.com/news/41413/2022-bmw-2-series-bmws-best-coupe-gets-a-bold-new-design-more-power",
+          "publishedOn": "2021-07-06T22:01:56.000Z",
+          "wordCount": 818,
+          "title": "2022 BMW 2 Series: BMW’s Best Coupe Gets a Bold New Design, More Power"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41427/biden-to-sign-order-protecting-farmers-right-to-repair-tractors",
+          "author": "Rob Stumpf",
+          "description": "United States President Joe Biden will sign an executive order that restricts manufacturers from limiting farmers' ability to repair their own property. News of the impending order was given by White House Press Secretary Jen Psaki during a news conference on Tuesday. Psaki noted that the U.S. Department of Agriculture (USDA) and the Federal Trade […]",
+          "link": "https://www.thedrive.com/news/41427/biden-to-sign-order-protecting-farmers-right-to-repair-tractors",
+          "publishedOn": "2021-07-06T21:37:13.000Z",
+          "wordCount": 744,
+          "title": "Biden to Sign Order Protecting Farmers’ Right to Repair Tractors"
+        },
+        {
+          "id": "https://www.thedrive.com/deals/41424/advance-gearwrench-deal",
+          "author": "Jon Langston",
+          "description": "Deals and sales on automotive tools can often be a crapshoot. With so many brands out there, it can be tough to know whether you're getting your money's worth. Can you afford to spend a lot on a trusted name that you know will last for years? Or do you roll the dice with a […]",
+          "link": "https://www.thedrive.com/deals/41424/advance-gearwrench-deal",
+          "publishedOn": "2021-07-06T21:03:44.000Z",
+          "wordCount": 782,
+          "title": "Deal Spotlight: This Advance Auto Parts GearWrench Sale Is Seriously Tantalizing"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41423/jaguar-land-rover-promises-to-fix-unacceptable-quality-issues",
+          "author": "James Gilboy",
+          "description": "Jaguar and Land Rover aren't chided for their reliability without reason—J.D. Power respectively ranked them the third and absolute least-dependable makes in a 2020 study. In what may already be the post-peak car era, where automakers must choose conglomerating or crumbling, the troubled JLR must fix that or face the gallows. And if its CEO […]",
+          "link": "https://www.thedrive.com/news/41423/jaguar-land-rover-promises-to-fix-unacceptable-quality-issues",
+          "publishedOn": "2021-07-06T20:35:08.000Z",
+          "wordCount": 658,
+          "title": "Jaguar Land Rover Promises to Fix ‘Unacceptable’ Quality Issues"
+        },
+        {
+          "id": "https://www.thedrive.com/the-war-zone/41425/new-b-21-raider-stealth-bomber-rendering-released-by-the-air-force",
+          "author": "Joseph Trevithick and Tyler Rogoway",
+          "description": "The U.S. Air Force has released what is only the third official rendering of its future B-21 Raider stealth bomber, which shows a previously unseen and extremely curious cockpit windscreen configuration. The latest image depicts one of the aircraft flying over Edwards Air Force Base in California, where initial testing of these bombers is set […]",
+          "link": "https://www.thedrive.com/the-war-zone/41425/new-b-21-raider-stealth-bomber-rendering-released-by-the-air-force",
+          "publishedOn": "2021-07-06T19:27:57.000Z",
+          "wordCount": 1821,
+          "title": "New B-21 Raider Stealth Bomber Rendering Released By The Air Force (Updated)"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41399/2022-lotus-emira-the-last-gas-lotus-packs-an-amg-engine-in-a-mini-evija-form",
+          "author": "James Gilboy",
+          "description": "Long-troubled Lotus has always had the engineering chops—if not quite the capital or brand recognition—to go toe-to-toe with Porsche. Now backed by China's well-financed Geely, Lotus may at last have what it needs to take the fight to Stuttgart, which it will do with its first new mortally attainable road car since the third-gen Exige. […]",
+          "link": "https://www.thedrive.com/news/41399/2022-lotus-emira-the-last-gas-lotus-packs-an-amg-engine-in-a-mini-evija-form",
+          "publishedOn": "2021-07-06T18:59:47.000Z",
+          "wordCount": 957,
+          "title": "2022 Lotus Emira: The Last Gas Lotus Packs an AMG Engine"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41420/ford-secures-chips-to-finally-finish-thousands-of-incomplete-f-150-pickups",
+          "author": "Caleb Jacobs",
+          "description": "Have you been waiting to buy a new pickup truck? You aren't alone. Ford would love to sell you a freshly built, 14th-generation F-150, but as we've written about already, it's not always that simple. Luckily, after months of watching stockpiles of unfinished trucks grow with no semiconductors available, the story is about to change. […]",
+          "link": "https://www.thedrive.com/news/41420/ford-secures-chips-to-finally-finish-thousands-of-incomplete-f-150-pickups",
+          "publishedOn": "2021-07-06T18:46:32.000Z",
+          "wordCount": 653,
+          "title": "Ford Secures Chips to Finally Finish Thousands of Incomplete F-150 Pickups"
+        },
+        {
+          "id": "https://www.thedrive.com/the-war-zone/41418/the-onion-predicted-americas-pullout-from-bagram-in-afghanistan-in-the-middle-of-the-night",
+          "author": "Joseph Trevithick",
+          "description": "New details about the U.S. military's sudden, nighttime departure from Bagram Airfield in Afghanistan, which had been a major hub for the United States and the NATO-led coalition in the country for nearly 20 years, emerged over the weekend. The last Americans reportedly left unannounced, ostensibly for operational security reasons, but they turned off the […]",
+          "link": "https://www.thedrive.com/the-war-zone/41418/the-onion-predicted-americas-pullout-from-bagram-in-afghanistan-in-the-middle-of-the-night",
+          "publishedOn": "2021-07-06T18:37:09.000Z",
+          "wordCount": 2621,
+          "title": "The Onion Predicted America's Middle Of The Night Pullout From Bagram In Afghanistan"
+        },
+        {
+          "id": "https://www.thedrive.com/the-war-zone/41419/the-royal-navy-will-add-50-percent-more-surface-to-air-missiles-to-its-existing-destroyers",
+          "author": "Thomas Newdick",
+          "description": "The Royal Navy’s Type 45, or Daring class, destroyers will receive additional surface-to-air missiles as part of a weapons refit, marking a major increase in firepower for the warships. Once the new Sea Ceptor weapons are fitted, the six Type 45s, which provide area defense for the U.K.’s Carrier Strike Group, among other duties, will […]",
+          "link": "https://www.thedrive.com/the-war-zone/41419/the-royal-navy-will-add-50-percent-more-surface-to-air-missiles-to-its-existing-destroyers",
+          "publishedOn": "2021-07-06T18:26:44.000Z",
+          "wordCount": 1851,
+          "title": "The Royal Navy Will Add 50 Percent More Surface-To-Air Missiles To Its Existing Destroyers"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41422/chevy-camaro-sales-are-in-a-death-spiral",
+          "author": "Peter Holderith",
+          "description": "There hasn't been much good news for the Chevy Camaro in what seems like a few years. In fact, we just had some more bad news today and it looks like that trend is set to continue as second-quarter sales numbers are in for Chevy's pony car.  Remember when, exactly a year ago today, we […]",
+          "link": "https://www.thedrive.com/news/41422/chevy-camaro-sales-are-in-a-death-spiral",
+          "publishedOn": "2021-07-06T17:07:15.000Z",
+          "wordCount": 704,
+          "title": "Chevy Camaro Sales Are in a Death Spiral"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41417/2022-bentley-flying-spur-hybrid-536-hp-combined-from-an-electrified-v6",
+          "author": "Hazel Southwell",
+          "description": "Bentley's second plug-in hybrid will be a version of the Flying Spur, which is being billed as its most environmentally friendly car yet and part of the brand's overall journey towards carbon neutrality. With a gasoline V6 hybrid powertrain, it promises plenty of horsepower (536, precisely) and to be the big, Bentley-shaped car you expect […]",
+          "link": "https://www.thedrive.com/news/41417/2022-bentley-flying-spur-hybrid-536-hp-combined-from-an-electrified-v6",
+          "publishedOn": "2021-07-06T16:20:46.000Z",
+          "wordCount": 1182,
+          "title": "2022 Bentley Flying Spur Hybrid: 536 HP Combined From an Electrified V6"
+        },
+        {
+          "id": "https://www.thedrive.com/tech/41414/rimac-just-bought-bugatti-heres-why-its-a-huge-ev-bet-for-vw",
+          "author": "Rob Stumpf",
+          "description": "After months of rumors, electric hypercar manufacturer Rimac will officially assume the majority stake in Volkswagen's artsy-performance automaker, Bugatti. The two companies, along with buy-in from Porsche, will form a fresh brand under the new ownership model aptly called Bugatti-Rimac. The brand will be headed up by Mate Rimac, the 33-year-old Croatian CEO, and be […]",
+          "link": "https://www.thedrive.com/tech/41414/rimac-just-bought-bugatti-heres-why-its-a-huge-ev-bet-for-vw",
+          "publishedOn": "2021-07-06T15:38:37.000Z",
+          "wordCount": 819,
+          "title": "Rimac Just Bought Bugatti. Here's Why It's a Huge EV Bet for VW"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41416/chevy-killed-a-flat-plane-crank-z06-v8-powered-camaro-z-28",
+          "author": "Peter Holderith",
+          "description": "There's a lot to be said for General Motors often failing to get out of its own way. There are exceptions, sure, plenty of exceptions. However, the automaker's decisions often reek of design by committee, pencil-pushing at a biblical scale, and serious strategetic missteps leading to cars like the current Chevrolet Camaro. The Chevrolet Camaro […]",
+          "link": "https://www.thedrive.com/news/41416/chevy-killed-a-flat-plane-crank-z06-v8-powered-camaro-z-28",
+          "publishedOn": "2021-07-06T15:15:34.000Z",
+          "wordCount": 805,
+          "title": "Chevy Killed a Flat-Plane Crank, Z06 V8-Powered Camaro Z/28"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41415/gm-just-killed-the-cd-player",
+          "author": "Caleb Jacobs",
+          "description": "CDs are going the way of the cassette and eight-track before them, and that's been true for a while already. Best Buy stopped selling 'em in 2018 and few cars these days can even play them, probably because Apple CarPlay and Android Auto exist. As further proof, General Motors no longer sells any normal passenger […]",
+          "link": "https://www.thedrive.com/news/41415/gm-just-killed-the-cd-player",
+          "publishedOn": "2021-07-06T13:56:53.000Z",
+          "wordCount": 554,
+          "title": "GM Just Killed the CD Player"
+        },
+        {
+          "id": "https://www.thedrive.com/motorcycles/41402/how-to-choose-the-right-motorcycle-boots",
+          "author": "Jonathon Klein",
+          "description": "Few pieces of motorcycle kit are as important to your riding safety as your footwear. At the same time, few pieces are as overlooked. You wouldn’t believe how many people I’ve come across who drop thousands on the best helmet, jacket, and jeans, and then just run Adidas Sambas or Jordans — it’s wildly shortsighted.  […]",
+          "link": "https://www.thedrive.com/motorcycles/41402/how-to-choose-the-right-motorcycle-boots",
+          "publishedOn": "2021-07-06T11:00:05.000Z",
+          "wordCount": 1955,
+          "title": "Here’s How To Buy the Right Motorcycle Boots for Riding"
+        }
+      ]
+    },
+    {
+      "title": "Nintil",
+      "feedUrl": "https://nintil.com/rss.xml",
+      "siteUrl": "https://nintil.com",
+      "articles": [
+        {
+          "id": "https://nintil.com/wildfires-california/",
+          "author": null,
+          "description": "California has a habit of going up in flames on a yearly basis, leaving Cyberpunk-worthy scenes as a result. Why does this happen and where is it going is the topic of this post.\nHow many acres burn every year? Is it getting worse?\nThere is broad consensus in the scientific community that wildfire behavior is changing across the American West in general, and in California in particular. Figure 2.3 highlights trends in wildfire activity in California since 1990. All indicators shown—wildfire occurrence, total area burned, and average fire size—display an upward trend in the last several decades across the state (The Costs of Wildfire in California)\nFrom the chart below, it seems clear that there is an increasing trend in burned yearly acreage.  Taking for example the worst 5 years in the pe…",
+          "link": "https://nintil.com/wildfires-california/",
+          "publishedOn": "2021-06-28T00:00:00.000Z",
+          "wordCount": 10739,
+          "title": "Wildfires in California (I)"
+        }
+      ]
+    },
+    {
+      "title": "Bennett's Blog",
+      "feedUrl": "https://bennettftomlin.com/feed/",
+      "siteUrl": "https://bennettftomlin.com",
+      "articles": [
+        {
+          "id": "http://bennettftomlin.com/?p=3176",
+          "author": "Bennett Tomlin",
+          "description": "This was a Twitter Spaces that I did a couple weeks ago with chadsgx, Wolf_Financial, Cas Piancey, and Frances Coppola. We discuss Tether and Bitfinex and take a few (heated) questions at the end.",
+          "link": "https://bennettftomlin.com/2021/07/06/my-twitter-spaces-with-frances-coppola-and-cas-piancey/",
+          "publishedOn": "2021-07-07T00:44:50.000Z",
+          "wordCount": 600,
+          "title": "My Twitter Spaces with Frances Coppola and Cas Piancey"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3170",
+          "author": "Bennett Tomlin",
+          "description": "In this episode Cas and I are joined by David Canellis of Protos Media to discuss the controversial cryptocurrency BitClout. Anchor Spotify Apple Google Overcast RSS Feed",
+          "link": "https://bennettftomlin.com/2021/07/05/episode-13-bitclout-is-bad-crypto-critics-corner/",
+          "publishedOn": "2021-07-05T17:30:08.000Z",
+          "wordCount": 614,
+          "title": "Episode 13 – BitClout is Bad — Crypto Critics’ Corner"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3127",
+          "author": "Bennett Tomlin",
+          "description": "Fraud in the art world Vulture had a fantastic article about a fraudulent art dealer. See if you can find analogies to crypto and especially NFTs. Read it here. ICYMI In this article I attempt to challenge those who malign Tether researchers and journalists covering Tether as ‘conspiratorial truthers’. In this episode Cas and I … Continue reading Sunday Reads – Things I Found Interesting 2021-07-04",
+          "link": "https://bennettftomlin.com/2021/07/04/sunday-reads-things-i-found-interesting-2021-07-04/",
+          "publishedOn": "2021-07-04T14:00:00.000Z",
+          "wordCount": 705,
+          "title": "Sunday Reads – Things I Found Interesting 2021-07-04"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3149",
+          "author": "Bennett Tomlin",
+          "description": "There is a reflexive tendency among those who defend Tether to categorise those who criticize Tether as ‘truthers’, akin to those who spread ‘Jet Fuel Doesn’t Melt Steel Beams’ in their Facebook group about how the earth is flat. This tendency is absurd when you consider the history of the accusations made by ‘truthers’ and … Continue reading Tether Truthers and the Inconvenient Conspiracy Theories",
+          "link": "https://bennettftomlin.com/2021/07/03/tether-truthers-and-the-inconvenient-conspiracy-theories/",
+          "publishedOn": "2021-07-03T13:36:57.000Z",
+          "wordCount": 978,
+          "title": "Tether Truthers and the Inconvenient Conspiracy Theories"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3138",
+          "author": "Bennett Tomlin",
+          "description": "In this episode Cas and I discuss the new tendency for cryptocurrency businesses to hire regulators and the old tendency to try to avoid regulation at any cost. Anchor Spotify Apple Google Overcast RSS Feed",
+          "link": "https://bennettftomlin.com/2021/06/30/episode-12-regulatory-capture-and-regulatory-arbitrage-sleeping-with-your-enemy-crypto-critics-corner/",
+          "publishedOn": "2021-06-30T18:22:49.000Z",
+          "wordCount": 672,
+          "title": "Episode 12 – Regulatory Capture and Regulatory Arbitrage: Sleeping with your Enemy — Crypto Critics’ Corner"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3131",
+          "author": "Bennett Tomlin",
+          "description": "In this episode Cas and I discuss the politically, economically, and historically impactful news that El Salvador is adopting Bitcoin as legal tender. Anchor Spotify Apple Google Overcast RSS Feed Cas Piancey provided some additional context on this issue through his reporting at Protos that can be found here: Read this before criticizing El Salvador’s … Continue reading Episode 11 – El Salvador and Bitcoin — Crypto Critics’ Corner",
+          "link": "https://bennettftomlin.com/2021/06/28/episode-11-el-salvador-and-bitcoin-crypto-critics-corner/",
+          "publishedOn": "2021-06-28T14:26:01.000Z",
+          "wordCount": 694,
+          "title": "Episode 11 – El Salvador and Bitcoin — Crypto Critics’ Corner"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3061",
+          "author": "Bennett Tomlin",
+          "description": "Summary of Bitfinex and Tether Grant Williams wrote the best summary of Bitfinex and Tether I have yet read, it is unfortunately paywalled, but if you would like to subscribe to get access you can go here. (Note: I was given a free copy) If instead you would like to read my introduction you can … Continue reading Sunday Reads – Things I Found Interesting 2021-06-27",
+          "link": "https://bennettftomlin.com/2021/06/27/sunday-reads-things-i-found-interesting-2021-06-27/",
+          "publishedOn": "2021-06-27T14:00:00.000Z",
+          "wordCount": 750,
+          "title": "Sunday Reads – Things I Found Interesting 2021-06-27"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3063",
+          "author": "Bennett Tomlin",
+          "description": "This is a living document that I intend to continue to update as I continue to research Bitfinex and Tether. I hope it will serve as a useful reference material for anyone who needs to try to keep in mind their many inappropriate behaviors. If you find any I missed, feel free to leave a … Continue reading A Non-Exhaustive List of Bitfinex and Tether’s Misdeeds and Red Flags",
+          "link": "https://bennettftomlin.com/2021/06/21/a-non-exhaustive-list-of-bitfinex-and-tethers-misdeeds-and-red-flags/",
+          "publishedOn": "2021-06-22T01:30:04.000Z",
+          "wordCount": 1883,
+          "title": "A Non-Exhaustive List of Bitfinex and Tether’s Misdeeds and Red Flags"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3073",
+          "author": "Bennett Tomlin",
+          "description": "In this episode Cas and I discuss what is a Tether redemption, what’s a Bitfinex redemption, and why all this talk about redemptions even matters.  Anchor Spotify Apple Google Overcast RSS Feed",
+          "link": "https://bennettftomlin.com/2021/06/21/episode-10-this-one-weird-trick-will-stop-you-from-ever-having-a-bank-run-never-let-anyone-redeem-crypto-critics-corner/",
+          "publishedOn": "2021-06-21T13:35:17.000Z",
+          "wordCount": 703,
+          "title": "Episode 10 – This one weird trick will stop you from ever having a bank run!! (never let anyone redeem) — Crypto Critics’ Corner"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3042",
+          "author": "Bennett Tomlin",
+          "description": "El Salvador Cas Piancey writes about El Salvador making Bitcoin legal tender for Protos Media: Ruminations on Cryptocurrency Critics Ben Muenster writes a brilliant piece on the strangeness of cryptocurrency critics for Decrypt. How an eccentric astronomer took down a Russian spy ring Read the wild story about this man who stood opposed to the … Continue reading Sunday Reads – Things I Found Interesting 2021-06-20",
+          "link": "https://bennettftomlin.com/2021/06/20/sunday-reads-things-i-found-interesting-2021-06-20/",
+          "publishedOn": "2021-06-20T14:00:00.000Z",
+          "wordCount": 773,
+          "title": "Sunday Reads – Things I Found Interesting 2021-06-20"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3049",
+          "author": "Bennett Tomlin",
+          "description": "I appeared during this video to discuss the history of Bitfinex and Tether executives. To read more about their history: If you would like an introduction to the history of Bitifnex and Tether:",
+          "link": "https://bennettftomlin.com/2021/06/15/my-appearance-on-coffeezilla/",
+          "publishedOn": "2021-06-15T21:41:41.000Z",
+          "wordCount": 610,
+          "title": "My Appearance on Coffeezilla"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=3038",
+          "author": "Bennett Tomlin",
+          "description": "In this episode Cas and I discuss the epidemic of shills in crypto. People getting free tokens or paid to promote tokens in what effectively is a pump and dump scheme.  Anchor Spotify Apple Google Overcast RSS Feed I wrote about the reasons I dislike these tactics from venture capitalists here:",
+          "link": "https://bennettftomlin.com/2021/06/14/episode-9-shillfluencers-and-the-unspoken-financial-epidemic-crypto-critics-corner/",
+          "publishedOn": "2021-06-14T14:38:11.000Z",
+          "wordCount": 642,
+          "title": "Episode 9 – Shillfluencers (and the unspoken financial epidemic) — Crypto Critics’ Corner"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=2965",
+          "author": "Bennett Tomlin",
+          "description": "Books I Read Insomnia – This book by Stephen King is a supernatural thriller (like many of King’s books). If you are a fan of King you will likely enjoy this, especially with the references back to Dark Tower and to Derry more broadly. If you are not a fan of King, I think he … Continue reading Sunday Reads – Things I Found Interesting 2021-06-13",
+          "link": "https://bennettftomlin.com/2021/06/13/sunday-reads-things-i-found-interesting-2021-06-13/",
+          "publishedOn": "2021-06-13T14:00:00.000Z",
+          "wordCount": 951,
+          "title": "Sunday Reads – Things I Found Interesting 2021-06-13"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=2517",
+          "author": "Bennett Tomlin",
+          "description": "Mostly the reason I have zero faith in crypto venture capitalists as an institution is that their primary value add is marketing, their due diligence is a joke, and they are functionally equivalent to the shills we all mock. One of the very first whitepapers I ever analyzed was for the Basis protocol. This protocol … Continue reading Why I Have Zero Faith in Crypto Venture Capitalists",
+          "link": "https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/",
+          "publishedOn": "2021-06-12T19:24:40.000Z",
+          "wordCount": 1241,
+          "title": "Why I Have Zero Faith in Crypto Venture Capitalists"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=2997",
+          "author": "Bennett Tomlin",
+          "description": "I have been following Tether for about three and a half years and still I struggle to really grasp how large it is. It is so absurdly large that it has started warping my perception of other huge amounts of money. I hear a million dollar fraud now and my first thought is “that’s it”, … Continue reading How Big is Tether?",
+          "link": "https://bennettftomlin.com/2021/06/10/how-big-is-tether/",
+          "publishedOn": "2021-06-10T16:32:21.000Z",
+          "wordCount": 941,
+          "title": "How Big is Tether?"
+        },
+        {
+          "id": "http://bennettftomlin.com/?p=2990",
+          "author": "Bennett Tomlin",
+          "description": "I recently appeared on ‘The Deep Dive’ show to discuss Bitfinex and Tether. We discuss the NYAG investigation, the history of Bitfinex and Tether, and more.",
+          "link": "https://bennettftomlin.com/2021/06/08/my-appearance-on-the-deep-dive/",
+          "publishedOn": "2021-06-08T18:37:25.000Z",
+          "wordCount": 611,
+          "title": "My Appearance on The Deep Dive"
+        }
+      ]
+    },
+    {
+      "title": "Nadim Kobeissi",
+      "feedUrl": "https://nadim.computer/rss.xml",
+      "siteUrl": "https://nadim.computer",
+      "articles": [
+        {
+          "id": "https://nadim.computer/posts/2021-06-20-piccolo.html",
+          "author": "Nadim Kobeissi",
+          "description": "How my weekend Othello board game project became the most-downloaded game on the Japan Mac App Store for three months running, with technical details about the journey.",
+          "link": "https://nadim.computer/posts/2021-06-20-piccolo.html",
+          "publishedOn": "2021-06-20T00:00:00.000Z",
+          "wordCount": 2441,
+          "title": "Adventures in Writing Othello Software for iOS and macOS"
+        }
+      ]
+    },
+    {
+      "title": "Bert Hubert's writings",
+      "feedUrl": "https://berthub.eu/articles/index.xml",
+      "siteUrl": "https://berthub.eu/articles/",
+      "articles": [
+        {
+          "id": "https://berthub.eu/articles/posts/corona-newsflash/",
+          "author": null,
+          "description": "Een extra update, twee weken na de vorige, want er is al weer voldoende te vertellen.\nDeze keer weer een aantal vragen op verzoek: De cijfers stijgen ineens heel hard, wat betekent dat? Is het veilig om naar evenementen te gaan? Zou mijn dochter/zoon zich moeten laten vaccineren? Werken de vaccins nog wel?\nWat de f is er aan de hand met de cijfers ineens Goeie vraag. Ze gaan omhoog en hard ook.",
+          "link": "https://berthub.eu/articles/posts/corona-newsflash/",
+          "publishedOn": "2021-07-05T19:30:13.000Z",
+          "wordCount": 1323,
+          "title": "Corona Newsflash: Help, stijging! En: kinderen vaccineren?"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/eneco-moet-dit-nou/",
+          "author": null,
+          "description": "UPDATE: Zoals gezegd had ik Eneco om een reactie gevraagd en die is gekomen. In het kort, Eneco vertelt me dat de website een onjuiste weergave van zaken gaf. De teksten zullen aangepast worden. Het niet instemmen met ieder kwartier meten & analyse van gebruik zal geen effect hebben op het automatisch doorgeven van meterstanden voor de rekening en het online overzicht.\nWel is het dan zo dat de Eneco App minder inzicht kan verschaffen zonder ieder kwartier verse data, maar dat is natuurlijk niet anders.",
+          "link": "https://berthub.eu/articles/posts/eneco-moet-dit-nou/",
+          "publishedOn": "2021-07-02T18:45:37.000Z",
+          "wordCount": 1237,
+          "title": "Eneco: moet dit nou? (update!)"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/tracking-free-audience-statistics/",
+          "author": null,
+          "description": "As regular readers of this blog will know, I am no friend of the surveillance capitalism that currently powers the web. It is becoming well-neigh impossible to develop any software or host any content without some component tracking your users & sending data to third parties.\nEven though I try very hard not to fall for this, periodically I discover that my sites also embed things that embed things that potentially leak your details to third parties.",
+          "link": "https://berthub.eu/articles/posts/tracking-free-audience-statistics/",
+          "publishedOn": "2021-06-27T11:46:27.000Z",
+          "wordCount": 846,
+          "title": "Tracking-free audience statistics"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/corona-delta-update/",
+          "author": null,
+          "description": "In de vorige Corona update eind mei schreef ik over “delta”, toen nog bekend als de Indiase variant:\n Het is helaas te vroeg om nu een eindoordeel te vellen over deze variant. Wat we wel weten is dat in de UK de vaccins prima standhouden - de overgrote meerderheid van de mensen in het ziekenhuis is ongevaccineerd.\n Dit is nog steeds waar. Toch weten we nu een stuk meer.",
+          "link": "https://berthub.eu/articles/posts/corona-delta-update/",
+          "publishedOn": "2021-06-22T07:00:45.000Z",
+          "wordCount": 2282,
+          "title": "Corona: Delta Update"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/help-my-sin-is-slow-and-my-fpu-is-inaccurate/",
+          "author": null,
+          "description": "Afer 8 years, I have updated this this post for 2021-era Linux (and also to fix bitrotted links). I am extremely joyful to report that the (hard) problem from 2013 appears to have been solved! There is a small addendum at the end to reflect this happy news.\n Back in 2013, I started writing code to do a simulation of biological system, and I got stuck after 20 lines.",
+          "link": "https://berthub.eu/articles/posts/help-my-sin-is-slow-and-my-fpu-is-inaccurate/",
+          "publishedOn": "2021-06-19T12:53:25.000Z",
+          "wordCount": 1609,
+          "title": "Help, My Sin Is Slow and My FPU is Inaccurate"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/europes-software-problem/",
+          "author": null,
+          "description": "Europe’s communication needs are currently almost exclusively delivered by Chinese hardware that connects us to US-based platforms. For a variety of reasons, this is not a good idea.\nAs stated recently by Charles Michel, President of the European Council, “Interdependence is natural, even desirable. Over-dependence, however, is not”.\n   Photo by Sara Kurfeß on Unsplash\n   At the core, the problem is that almost no consumer-oriented platforms or software products are being created in Europe, or more precisely, by European companies.",
+          "link": "https://berthub.eu/articles/posts/europes-software-problem/",
+          "publishedOn": "2021-06-15T07:56:07.000Z",
+          "wordCount": 1502,
+          "title": "Europe's Software Problem"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/recensie-een-spoor-van-vernieuwing-arthur-docters-van-leeuwen/",
+          "author": null,
+          "description": "Reeds vorig jaar verschenen, maar zonder de aandacht gekregen te hebben die dit boek verdient.\n   Uitgeverij Prometheus, 460 pagina’s. bol.com, amazon.nl & kindle\n   “Een spoor van vernieuwing” laat zich lezen als memoires van een markante topambtenaar, maar ook als een interessante geschiedenis van de ontwikkeling van de rampenbestrijding, de inrichting van de politie en de opsporing, de BVD (voorloper AIVD) en de oprichting en ontwikkeling van wat we nu kennen als de AFM.",
+          "link": "https://berthub.eu/articles/posts/recensie-een-spoor-van-vernieuwing-arthur-docters-van-leeuwen/",
+          "publishedOn": "2021-06-14T06:47:36.000Z",
+          "wordCount": 1252,
+          "title": "Recensie: Een spoor van vernieuwing, door Arthur Docters van Leeuwen en Lars Kuipers"
+        },
+        {
+          "id": "https://berthub.eu/articles/posts/reed-solomon-for-programmers/",
+          "author": null,
+          "description": "Recently I was doing some work decoding the new Galileo High Accuracy Service data. In short, this new service will allow Galileo (“European GPS”) users to achieve decimeter-level accuracy, which is nice. This “HAS” data is transmitted highly redundantly by making good use of Reed-Solomon encoding.\nTo work with this data, I attempted to learn more about Reed-Solomon and I found almost all explanations were useless to me - oodles of advanced math, but no guidance of how to use R-S in practice.",
+          "link": "https://berthub.eu/articles/posts/reed-solomon-for-programmers/",
+          "publishedOn": "2021-06-13T04:38:15.000Z",
+          "wordCount": 2841,
+          "title": "Practical Reed-Solomon for Programmers"
+        }
+      ]
+    },
+    {
+      "title": "Untergrund-Blättle - Aktuelle Artikel",
+      "feedUrl": "https://www.xn--untergrund-blttle-2qb.ch/rss/aktuelle_artikel.rss",
+      "siteUrl": "https://www.xn--untergrund-blttle-2qb.ch/rss/aktuelle_artikel.rss",
+      "articles": [
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/asien/iran-oelindustrie-gasindustrie-streiks-6539.html",
+          "author": null,
+          "description": "In diesen Tagen sind ein grosser Teil der Leih- und Werkvertragsarbeiter*innen (ab jetzt LWA) der iranischen Öl- und Gasindustrie im Streik.\n\nBild: Das vom Streik betroffene Gasfeld South Pars in der iranischen Provinz Bushehr. / Fars News Agency - Hossein Mersadi (CC BY 4.0 cropped)\nDie landesweiten Streiks wurden vor 16 Tagen (19. Juni) begonnen und jetzt sind mehr als 40 tausend LWA in mehr als 80 Industrieanlagen für Öl und Gas im Streik 1 (Siehe die Forderungen der LWA im 1. Anhang). Denjenigen, die die Nachrichten über weltweite Arbeitskämpfe folgen, ist schon bewusst, dass im Iran zumindest seit zehn Jahren tägliche Proteste und Streiks der Arbeiter*innen zu „normalen“ Ereignissen des Tages gehören. \n Die Verschärfung des Neoliberalismus2 wurde mit der strukturellen Ineffizienz und …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/asien/iran-oelindustrie-gasindustrie-streiks-6539.html",
+          "publishedOn": "2021-07-07T14:19:58.000Z",
+          "wordCount": 4541,
+          "title": "Von den Streiks der Werkvertragsarbeiter*innen in der Öl- und Gasindustrie im Iran"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/herausgeber-innenkollektiv-wir-wissen-was-wir-wollen-frauenrevolution-in-nord-und-ostsyrien-6511.html",
+          "author": null,
+          "description": "Die Geschichte der Frauenrevolution Rojavas wird von Frauen gemacht – und geschrieben.\n\nBild: Frauen der YPJ in einem genossenschaftlichen Gewächshaus in Rojava. / Kurdishstruggle (CC BY 2.0 cropped)\nEndlich ist sie da: eine detaillierte Beschreibung der Frauenrevolution Rojavas. Wer sich damit beschäftigen will, wie eine der grössten feministischen Bewegungen weltweit Befreiung nicht nur theoretisch konzipiert, sondern praktisch realisiert, muss dieses Buch lesen. \n Seine Stärke liegt vor allem in den Stimmen der Akteurinnen vor Ort, die der Motor der Revolution sind. Mehr als 150 Interviews führte eine Delegation der feministischen Kampagne „Gemeinsam kämpfen“, die sich über mehrere Monate in Rojava aufhielt. In Zusammenarbeit mit dem Andrea Wolf Institut und zahlreichen freiwilligen Übe…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/herausgeber-innenkollektiv-wir-wissen-was-wir-wollen-frauenrevolution-in-nord-und-ostsyrien-6511.html",
+          "publishedOn": "2021-07-07T06:44:21.000Z",
+          "wordCount": 2045,
+          "title": "Herausgeber_innenkollektiv (Hrsg.): Wir wissen, was wir wollen. Frauenrevolution in Nord-und Ostsyrien. Band II."
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/therese-raquin-du-sollst-nicht-ehebrechen-6386.html",
+          "author": null,
+          "description": "„Thérèse Raquin“ erzählt basierend auf dem gleichnamigen Roman, wie eine unglücklich verheiratete Frau eine Affäre beginnt.\n\nBild: Der französische Filmregisseur Marcel Carné (sitzend) verfilmte den Roman von Emile Zola 1953. / JJ Georges (CC BY-SA 3.0 unported - cropped)\nDie Adaption bewegt sich stärker in eine Krimirichtung, anstatt sich allein auf das Psychologische zu konzentrieren. Tragisch ist die Geschichte dennoch, arbeitet zudem mit sehr ambivalenten Figuren, bei denen nicht klar ist, ob man sie nun anfeuern soll oder nicht. \n Richtig glücklich war das Leben von Thérèse Raquin (Simone Signoret) nie. Schon früh hat sie ihre Eltern verloren, weshalb ihre Tante (Sylvie) sie bei sich aufnahm. Später verheiratete diese die junge Frau mit ihrem kränkelnden Sohn Camille (Jacques Duby). S…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/therese-raquin-du-sollst-nicht-ehebrechen-6386.html",
+          "publishedOn": "2021-07-06T16:21:26.000Z",
+          "wordCount": 1494,
+          "title": "Thérèse Raquin – Du sollst nicht ehebrechen"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/medien/journalismus-verfassungsschutz-junge-welt-6537.html",
+          "author": null,
+          "description": "Heimatschutz, Bundesamt und ein Staatssekretär definieren die aktuellen Herausforderungen der deutschen Staatssicherheit – und die NATO kennt die vaterlandslosen Gesellen.\n\nBild: Dienstsitz Berlin des Bundesamts für Verfassungsschutz. / © Boevaya mashina - via Wikimedia Commons (CC BY-SA 3.0 cropped)\nNachrichtendienste sammeln Information, „um frühzeitig“ – so heisst es in einem gängigen Politiklexikon (Schubert/Klein 2005) – „vor inneren oder äusseren Gefahren zu warnen“. Wobei gleich angemerkt wird, dass dies in Deutschland der parlamentarischen Kontrolle unterliegt, also kein Bürger sich wegen der meist im Geheimen stattfindenden Aktivitäten Sorgen machen muss. Und vor Gefahren zu warnen, ist ja überhaupt ein edles Anliegen! \n In der Tat: Jeder Staat verfügt über mehrere Geheimdienste, …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/medien/journalismus-verfassungsschutz-junge-welt-6537.html",
+          "publishedOn": "2021-07-06T13:11:25.000Z",
+          "wordCount": 2430,
+          "title": "Journalismus im Visier des Verfassungsschutzes"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/die-geschichte-des-autos-6534.html",
+          "author": null,
+          "description": "Ich, der ich in der Wohnung sitze, sage: „Ich stehe in der Ziegelofengasse.“ – Warum das?\n\nBild: Genfer Automobil-Salon 2019. / Matti Blume (CC BY-SA 4.0 cropped)\nDenn nicht ich stehe dort, sondern der Wagen, den ich fahre. Mit diesem „Ich“ identifiziere ich nicht nur das Auto als meines, mit diesem „Ich“ kategorisiere ich mich als das Auto selbst. Das Auto, das bin ich, denn sonst würde ich nicht mit dieser Selbstverständlichkeit „Ich“ sagen. Es hat mich. Wir, das Es und das Ich, sind eine Einheit. \n Keiner Maschine ist es je gelungen, mit ihrem Besitzer so verschmolzen zu werden wie dem Auto. Diese Überidentifikation ist nicht nur determiniert, sie ist überdeterminiert. Das Verhältnis zum Auto ist nicht pragmatisch und instrumentell, es ist paradigmatisch und emotionell. Direkt libidinös…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/die-geschichte-des-autos-6534.html",
+          "publishedOn": "2021-07-05T08:48:36.000Z",
+          "wordCount": 2023,
+          "title": "Getriebe und Gedärme"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/jan-hendrik-schulz-unbeugsam-hinter-gittern-die-hungerstreiks-der-raf-nach-dem-deutschen-herbst-6510.html",
+          "author": null,
+          "description": "Die letzten drei Hungerstreiks der RAF deckten zerstörerische Haftpraktiken auf und führten zu einer grossen gesellschaftlichen Solidarität.\n\nBild: Blick aus dem Hauptgebäude JVA Fuhlsbüttel. Hier starb der RAF-Gefangene Sigurd Debus im April 1981 an den Folgen der Zwangsernährung. / GeoTrinity (CC BY-SA 3.0 cropped)\nDie Rote-Armee-Fraktion (RAF) ist nun offiziell historisch. Primärquellen wie Haftunterlagen, archivierte Briefe oder Aufrufe sind der geschichtswissenschaftlichen Aufarbeitung zugänglich − Verfassungsschutz ausgenommen. \n Jan-Hendrik Schulz widmet sich in seinem 2019 erschienenen Buch den kollektiv geführten RAF-Hungerstreiks (HS) nach dem Deutschen Herbst von 1977 bis 1989. Er fragt, wie es den RAF-Gefangenen gelang, mit ihren HS-Kampagnen erhebliche gesellschaftliche Unters…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/jan-hendrik-schulz-unbeugsam-hinter-gittern-die-hungerstreiks-der-raf-nach-dem-deutschen-herbst-6510.html",
+          "publishedOn": "2021-07-05T06:32:03.000Z",
+          "wordCount": 1669,
+          "title": "Jan-Hendrik Schulz: Unbeugsam hinter Gittern. Die Hungerstreiks der RAF nach dem Deutschen Herbst."
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/mexiko-chiapas-zapatistas-der-surreale-kampf-6535.html",
+          "author": null,
+          "description": "Eine Delegation der ZapatistInnen segelt nach Europa. Nicht um zu erobern, sondern um Kontakte zu knüpfen und sich mit anderen Aufständischen zusammenzutun und gemeinsam mit ihnen zu kämpfen.\n\nBild: Territorium der EZLN in Chiapas, Mexico. / Matthew T Rader, MatthewTRader.com (CC BY-SA 4.0 cropped)\n„Im Namen der zapatistischen Frauen, Kinder, Männer, Alten und natürlich auch Anderer erkläre ich, dass der Name dieses Landes, das seine Eingeborenen jetzt ‚Europa‘ nennen, von nun an SLUMIL K’AJXEMK’OP heissen wird, was ‚Aufständisches Land‘ oder ‚Land, das nicht aufgibt, das nicht ohnmächtig wird‘ bedeutet. Und so wird es von den eigenen und anderen Menschen genannt werden, solange es hier jemanden gibt, der nicht aufgibt, der sich nicht verkauft und der sich nicht unterwirft.“ \n Das sind die…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/mexiko-chiapas-zapatistas-der-surreale-kampf-6535.html",
+          "publishedOn": "2021-07-04T16:27:35.000Z",
+          "wordCount": 2361,
+          "title": "Der surreale Kampf der ZapatistInnen für das Leben – und gegen den Kapitalismus"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wanda-film-1971-6475.html",
+          "author": null,
+          "description": "Barbara Lodens einziger Film – sie starb 1980 an Krebs im Alter von nur 48 Jahren, als sie gerade ihren nächsten Film plante – ist in Vergessenheit geraten, ebenso wie die Regisseurin und Schauspielerin selbst.\n\nBild: Julie Christie (hier 1997 in Mexiko) spielt im Film von Nicolas Roeg die Rolle der Laura Baxter. / Unknown author (PD)\n„Woman is symptom to man.”\n (Jacques Lacan) \n Eine alte Frau schaut zum Fenster hinaus. Ein Kind schreit. Ein Mann verlässt das Haus. Wanda (Barbara Loden) wacht auf. Ein Steinbruch – irgendwo in Amerika. Dort steht das Haus. Ganz in Weiss gekleidet verlässt Wanda diesen Ort, leiht sich bei einem alten Mann, den sie kennt, ein bisschen Geld und zockelt los. Szenenwechsel. In einem Gerichtssaal warten Wandas Mann (Jerome Thier), die Kinder und Miss Godek (Mari…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wanda-film-1971-6475.html",
+          "publishedOn": "2021-07-04T11:24:28.000Z",
+          "wordCount": 1560,
+          "title": "Wanda"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/rossana-rossanda-einmischung-6509.html",
+          "author": null,
+          "description": "Ende der 1970er Jahre diskutierten kommunistische und feministische Frauen über ihre Distanz zur Politik.\n\nBild: Rossana Rossanda, 1963. / dati.camera.it (CC BY 4.0 cropped)\nDer Auslöser zur Entstehung dieses Buches ist ein Störfall: Einige feministische Aktivist:innen stürmen die Bühnen eines kommunistischen Kongresses und unterbrechen die Diskussion mit einem Sprechchor. Dabei machen sie diese Unterbrechung selbst zum Thema der Debatte, indem sie rufen: „Wir verstehen euch nicht, wir hören euch nicht, ihr interessiert uns nicht, ihr redet Blabla, ihr habt nichts mit uns zu tun, wir haben nichts mit euch zu tun!“ (S. 30) \n Diese Aktion erschien der Kommunistin Rossana Rossanda zunächst nur als Störung der Diskussion – als Verhinderung der politischen Debatte, in der es galt, sich zu verst…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/rossana-rossanda-einmischung-6509.html",
+          "publishedOn": "2021-07-02T08:51:09.000Z",
+          "wordCount": 1719,
+          "title": "Rossana Rossanda: Einmischung"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wenn-die-gondeln-trauer-tragen-6474.html",
+          "author": null,
+          "description": "Unbeschwertheit steht am Anfang. Johnny (Nicholas Salter) und seine Schwester Christine (Sharon Williams) spielen auf einer Wiese nahe des Anwesens ihrer Eltern Laura (Julie Christie) und John Baxter (Donald Sutherland).\n\nBild: Julie Christie (hier 1997 in Mexiko) spielt im Film von Nicolas Roeg die Rolle der Laura Baxter. / Festival Internacional de Cine en Guadalajara (CC BY 2.0 cropped)\nDer Junge fährt mit dem Fahrrad, das Mädchen in ihrem roten Cape spielt mit einem Ball. John schaut Dias von einer Kirche an, Laura studiert ein Buch. So unbekümmert geht es in Nicolas Roegs Film nach einer Kurzgeschichte von Daphne du Maurier – die u.a. auch den Stoff für Hitchcocks „Die Vögel“, „Rebecca“ und „Jamaica Inn“ lieferte – nur noch einmal zu: in der berühmten Liebesszene zwischen John und Lau…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/wenn-die-gondeln-trauer-tragen-6474.html",
+          "publishedOn": "2021-07-02T06:23:50.000Z",
+          "wordCount": 1966,
+          "title": "Wenn die Gondeln Trauer tragen"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/duesseldorf-kundgebung-fuer-versammlungsfreiheit-6532.html",
+          "author": null,
+          "description": "Das Bündnis \"Versammlungsgesetz NRW stoppen - Grundrechte erhalten!\" wird am Donnerstag, den 1. Juli 2021 ab 11 Uhr eine Kundgebung vor dem nordrhein-westfälischen Landtag in Düsseldorf abhalten.\n\nBild: Demonstration am 26.06.2021 in Düsseldorf. / Presse VersGNRWStoppen\nDas Bündnis zeigt Präsenz anlässlich der von SPD und Grünen einberufenen Aktuellen Stunde zur Aufarbeitung des eskalativen Polizeieinsatzes gegen die Grossdemonstration gegen das geplante schwarz-gelbe Versammlungsgesetz vom Samstag, 26. Juni 2021. \n Das Bündnis \"Versammlungsgesetz NRW stoppen - Grundrechte erhalten!\" erneuert die Forderung nach einem Rücktritt von Innenminister Reul und nach der Beerdigung des autoritären und repressiven Gesetzentwurfs. Das von CDU und FDP geplante Versammlungsgesetz wird auch mit den mitt…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/duesseldorf-kundgebung-fuer-versammlungsfreiheit-6532.html",
+          "publishedOn": "2021-07-01T14:43:22.000Z",
+          "wordCount": 2253,
+          "title": "Kundgebung für Versammlungsfreiheit vor dem Landtag in Düsseldorf"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/kolumbien-korruption-proteste-revolte-6533.html",
+          "author": null,
+          "description": "Während viele Menschen hierzulande denken, man müsse alle Theorien kennen, viele Bücher lesen und jahrelange Debatten führen, wissen viele der Kämpfer an der Frontlinie, woher sie kommen.\n\nBild: Proteste in Bogotá, Mai 2021. / Jorge2mg (CC BY-SA 3.0 unported - cropped)\nSie sind es, die das Feuer der Revolte in Kolumbien am Brennen halten. Wir haben einen Beitrag von Víctor de Currea-Lugo übersetzt, Reflektionen eines Gesprächs mit einem jungen Mann der Primera Línea[1] in Kolumbien: \n Mein Name ist Martin, aber das spielt keine Rolle. Am Ende dieser Artikel wird man sich nicht einmal mehr daran erinnern, dass ich Martin heisse. Mein Alter spielt auch keine Rolle, ich bin zu alt, um weiterhin zu warten, und zu jung, um zu resignieren. \n Es ist möglich, dass ich heute Nacht durch das mörderi…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/lateinamerika/kolumbien-korruption-proteste-revolte-6533.html",
+          "publishedOn": "2021-07-01T08:37:54.000Z",
+          "wordCount": 1667,
+          "title": "Kolumbien: «Ich bin ein Vandale und Teil der Primera Linea»"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/europa/post-jugoslawische-erinnerungskultur-und-die-partisanische-geste-6526.html",
+          "author": null,
+          "description": "Wer den jugoslawischen Transitionsprozess verstehen will, darf sich nicht nur die Aneignungen durch das Kapital ansehen, sondern auch die staatliche Aneignung der antifaschistischen Erinnerung.\n\nBild: Slowenischer Partisan im Kampf gegen den deutschen Faschismus, 1944. / Unknown author (PD)\nMarx war im ersten Band seines Hauptwerkes „Das Kapital“ hauptsächlich daran interessiert, wie Kapital und Ware logisch erfasst werden können, um so zu seiner eigentlichen Problemstellung zu gelangen, nämlich der Produktion des Mehrwerts. Die historische Formierung von Kapital stand nicht im Fokus seiner Aufmerksamkeit und er widmete sich dieser Frage nur in wenigen Kapiteln am Ende des ersten Bandes. \n Marx’ historische Analyse spricht von einer Begegnung von Kapital und Arbeit, die nach einer ganz and…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/europa/post-jugoslawische-erinnerungskultur-und-die-partisanische-geste-6526.html",
+          "publishedOn": "2021-06-30T08:30:23.000Z",
+          "wordCount": 4227,
+          "title": "Post-Jugoslawische Erinnerungskultur und die partisanische Geste"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/captain-fantastic-einmal-wildnis-und-zurueck-6498.html",
+          "author": null,
+          "description": "Ein Road Trip durch die Emotionen. Natürlich, witzig und schmerzhaft ehrlich schleicht sich die im Wald lebende Familie ihren Weg in das Herz des Zuschauers.\n\nBild: Viggo Mortensen (hier am Toronto Film Festival, September 2008) spielt die Rolle des Aussteigers Ben. / christopherharte (CC BY-SA 2.0 cropped)\nDer interessante Einblick in die alternative Lebensweise ausserhalb der Norm ist eine willkommende Abwechslung und dürfte für viele der Jungdarsteller ein künstlerisches Sprungbrett für kommende Auftritte sein. Ein visuelles Nimmerland mit nachdenklichen Momenten, in dem Familie alles ist was zählt! \n Es war einmal ein Vater, der lebte mit seinen sechs Zwergen hinter den nördlichen Bergen im tiefen tiefen Wald. Dort lernten sie, wie man jagt, klettert, Shakespeare zitiert und über Atomp…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/captain-fantastic-einmal-wildnis-und-zurueck-6498.html",
+          "publishedOn": "2021-06-30T06:54:33.000Z",
+          "wordCount": 1589,
+          "title": "Captain Fantastic – Einmal Wildnis und zurück"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/alicia-garza-die-kraft-des-handelns-1922.html",
+          "author": null,
+          "description": "Identitätspolitik wird hierzulande von radikaleren Kreisen oft zu Unrecht geschmäht. Zugleich wird sie in Europa oftmals nur verkürzt rezipiert. Alicia Garza lädt uns in ihrem Buch dazu ein, einen tieferen Einblick in die Black Lives Matter-Bewegung und ein durch und durch aktivistisches Leben zu gewinnen.\n\nBild: Black Lives Matter Protest in Washington D.C., September 2020. / Elvert Barnes (CC BY-SA 2.0 cropped)\nStrukturelle Diskriminierung und Unterdrückung als Ausgangspunkt\n Mit Die Kraft des Handelns publizierte die bekannte schwarze und queerfeministische Aktivistin Alicia Garza ein Werk, in welchem es weniger darum geht, die Welt besser zu verstehen, sondern zu ihrer grundlegenden Veränderung beizutragen. Bekanntheit erlangte die Autorin als Mitbegründerin der Black Lives Matter-Bewe…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/alicia-garza-die-kraft-des-handelns-1922.html",
+          "publishedOn": "2021-06-29T14:17:54.000Z",
+          "wordCount": 2179,
+          "title": "Alicia Garza: Die Kraft des Handelns. Wie wir Bewegungen für das 21. Jahrhundert bilden."
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/nordamerika/mutiert-der-trumpismus-zu-einer-radikalen-weltreligion-6508.html",
+          "author": null,
+          "description": "Im Leben eines jeden Journalisten gibt es bisweilen (wenn auch nicht so häufig) journalistische Sternstunden, deren historische und politische Bedeutung man nicht immer gleich zu erkennen und dort einzuordnen vermag, wohin sie gehören.\n\nBild: Donald J. Trump bei einem Besuch auf einer Farm in Georgia, Oktober 2018. /  \tTrump White House Archived (PD)\nEine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil. \n Es begann damit, dass ein amerikanischer Freund (mit dem ich einst auf der Schulbank sass und der heute zum engeren Zirkel von Donald Trump gehört und dessen Namen ich aus naheliegenden Gründen daher auch nicht nennen werde) mich über ein „Geheimtreffen“ informierte, zu dem der grösste aller Präsidenten in der 233jährigen Geschichte der Vereinigten Staaten von Amerika …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/nordamerika/mutiert-der-trumpismus-zu-einer-radikalen-weltreligion-6508.html",
+          "publishedOn": "2021-06-29T09:13:18.000Z",
+          "wordCount": 2309,
+          "title": "Mutiert der Trumpismus zu einer radikalen Weltreligion?"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/reimann-dynastie-6365.html",
+          "author": null,
+          "description": "Wer sich auf Spurensuche nach den reichsten Deutschen begibt, der muss ein paar Klippen umschiffen.\n\nBild: Zwangsarbeiter aus Frankreich in Berliner Siemenswerke, 1943. / Bundesarchiv, Bild 183-S68029 (CC BY-SA 3.0 cropped)\nDie Reimanns haben in diesem Jahr mit einem Familienvermögen von 32 Milliarden Euro die Spitzenposition im Milliardärs-Ranking des Manager-Magazins erobert und sind trotzdem nur schwer zu finden. Keine Fotos. Keine Videos. Keine näheren Angaben zu den Personen hinter den Milliarden. Stattdessen „Die Reimanns“ eine deutsche Auswandererfamilie in Texas und Personal einer Vorabendserie auf RTL II. Was? Das sollen die reichsten Deutschen sein? Natürlich nicht. Erst mit dem Zusatz „Unternehmerfamilie“ kommt man der Sache näher und stösst in diesem Zusammenhang dann auch auf …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/reimann-dynastie-6365.html",
+          "publishedOn": "2021-06-28T08:42:43.000Z",
+          "wordCount": 3039,
+          "title": "Vom Hakenkreuz zum Bundesverdienstkreuz: Das „rein arische Familienunternehmen“ der Reimanns"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/ernst-hubeli-die-neue-krise-der-staedte-6507.html",
+          "author": null,
+          "description": "Elegant geschrieben, kämpferisch und brandaktuell: Eine Streitschrift fragt nach der Gerechtigkeit der Wohnungsversorgung.\n\nBild: Demonstration für einen für einen bundesweiten Mietendeckel nachdem das Bundesverfassungsgericht das Berliner Gesetz wegen Unzuständigkeit für nichtig erklärt hatte, am 15. April 2021 vom Hermannplatz zu Kottbusser Tor, mit einer Runde über der Moritzplatz. / Leonhard Lenz (PD)\nIn diesem Jahr geht die Berliner Initiative „Deutsche Wohnen & Co. enteignen“ in ihre entscheidende Phase. Damit es im September 2021 zu einem Volksentscheid kommt, müssen in Berlin 175.000 Unterschriften gesammelt werden. Das Ziel: die Enteignung von Immobilienkonzernen mit 3.000 Wohnungen und mehr und anschliessender Vergesellschaftung der insgesamt 243.000 Wohnungen durch die Überführu…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/ernst-hubeli-die-neue-krise-der-staedte-6507.html",
+          "publishedOn": "2021-06-28T07:50:03.000Z",
+          "wordCount": 1691,
+          "title": "Ernst Hubeli: Die neue Krise der Städte"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/arac-attack-angriff-der-achtbeinigen-monster-6476.html",
+          "author": null,
+          "description": "Riesenspinnen – na ja, was Neues ist das nicht im einschlägigen Genre. Und was die hiesige Filmkritik dazu zu sagen hat, ist nicht erwähnenswert.\n\nBild: Der neuseeländische Filmregisseur Ellory Elkayem, Februar 2009. / Cooltv (PD)\n„Und was die hiesige Filmkritik dazu zu sagen hat, ist nicht erwähnenswert. Jedenfalls werden Spinnen – wenn sie eine bestimmte Grösse überschreiten – zu mörderischen Monstern. Der Originaltitel des Films ist angeblich geändert worden in „Eight Legged Freaks“, weil „Arac Attack“ so ähnlich wie „Iraq Attack“ klingt. Na ja. Hatte Saddam Hussein Mörderspinnen? \n Den Ernst der Lage müssen jedenfalls auch die Einwohner von Prosperity in Arizona erfahren, einer Stadt, in der Prosperität allerdings schon lange ein Fremdwort ist. Das Städtchen kränkelt vor sich hin. Bürg…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/arac-attack-angriff-der-achtbeinigen-monster-6476.html",
+          "publishedOn": "2021-06-28T06:43:33.000Z",
+          "wordCount": 1538,
+          "title": "Arac Attack – Angriff der achtbeinigen Monster"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/antisemitismus/antisemitismus-nationalismus-2972.html",
+          "author": null,
+          "description": "Immer wieder sind Linke und Liberale erstaunt und entsetzt, dass so viele[1] Leute im 21. Jahrhundert noch Antisemit*innen sind.\n\nBild: Mahnwache gegen Antisemitismus nach Anschlag in Halle, Hannover, Oktober 2019. / Stobaios (CC BY-SA 4.0 cropped)\nHäufig wird dann weit in die Geschichte ausgeholt, um zu erklären, dass der Antisemitismus irgendwie schon immer da gewesen sei – was übrigens, selbst wenn es stimmen würde, auch keine Erklärung wäre. Auch dann wäre ja zu begründen, warum er sich bis heute halten konnte, anders als beispielsweise die Hexenverfolgung. Gerne werden Antisemit*innen auch sozialpsychologisch als Mängelwesen pathologisiert: Sozialneid, Sexualnöte, Versagensängste, Probleme mit dem Über-Ich, magisches Weltbild usw.[2] Und so unsympathisch Antisemit*innen auch zumeist s…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/antisemitismus/antisemitismus-nationalismus-2972.html",
+          "publishedOn": "2021-06-26T14:55:12.000Z",
+          "wordCount": 2033,
+          "title": "Warum kommen so viele Nationalist*innen auf antisemitische Urteile?"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/johannes-paul-der-papstbesuch-in-den-niederlanden-6506.html",
+          "author": null,
+          "description": "Im Mai 1985 kam der Papst in die Niederlande, es sollte ein Desaster werden.\n\nBild: Demonstration in Utrecht gegen den Besuch von Papst Johannes Paul II, 12. Mai 1985. / Het Utrechts Archief (CC BY-SA 4.0 cropped)\nBis in die sechziger Jahre waren die Niederlande ein Musterland für Katholiken. Die ‘Verzuiling‘ (Versäulung’), ein typisch holländisches Gesellschaftsmodell, in dem jeder Glaube seine eigene Zeitung, politische Partei, Rundfunkanstalt, Vereine und Schulen hatte, machte die holländischen Katholiken zu einer engen, loyalen Gruppe von Glaubensgenoss*innen. Doch das begann sich in den 1960er Jahren zu ändern. \n In 1966 antworteten die Niederlande auf das Zweite Vatikanische Konzil mit einem Pastoralrat. Rom hatte den Grundstein für das religiöses Leben im 21. Jahrhundert gelegt, ein…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/johannes-paul-der-papstbesuch-in-den-niederlanden-6506.html",
+          "publishedOn": "2021-06-25T08:33:03.000Z",
+          "wordCount": 2169,
+          "title": "Papst Johannes Paulus II in den Niederlanden"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/mathias-woersching-faschismustheorien-6408.html",
+          "author": null,
+          "description": "Ein grossartiges Einführungswerk in die historischen und aktuellen Tendenzen des Faschismus.\n\nBild: Jair Bolsonaro während einer Fernsehansprache, März 2021. / Isac Nóbrega - Palácio do Planalto (CC BY 2.0 cropped)\nVon der AfD bis nach Halle, von Bolsonaro bis Erdogan: Autoritäre und reaktionäre Welterklärungen haben Hochkonjunktur. Die Antworten, die fraglos als Reaktionen auf die Krisenhaftigkeit des globalen Kapitalismus zu verstehen sind, müssen als Ausdruck der gesellschaftlichen Zurichtungen von Konkurrenz, Vernutzung und Entfremdung betrachtet werden. Einen Zusammenhang zwischen Kapitalismus und Faschismus zu sehen, ist keine Neuigkeit. Wie genau dieser Zusammenhang aussieht, was Faschismus ist und was nicht, darüber gibt dieses Überblickswerk Auskunft. \n Mathias Wörschings „Faschis…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/mathias-woersching-faschismustheorien-6408.html",
+          "publishedOn": "2021-06-25T06:34:19.000Z",
+          "wordCount": 1392,
+          "title": "Mathias Wörsching: Faschismustheorien"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/platoon-film-6473.html",
+          "author": null,
+          "description": "Merkwürdige Kritiken hat Oliver Stones „Platoon“ bewirkt.\n\nBild: Eine US-Platoon-Einheit beim Quang Tri Fluss in Vietnam, 1967. / Russell Jewett (CC BY-SA 4.0 cropped)\nSo schrieb „Cinema“, „[...] gerade aus der blossen Beschränkung auf die Oberfläche des Krieges“ resultiere „die Fragwürdigkeit des Films. Hinter dem schockierenden Dokumentarismus von ›Platoon‹ dräuen still und unauffällig patriotische Rehabilitation und konservativ-katholische Rückendeckung. Oliver Stone erteilt dem schlechten Gewissen der Amerikaner eine nachträgliche Absolution.“ In welchem Film war der Autor dieser Zeilen? Das Lexikon des internationalen Films sieht in „Platoon“ eine Heroisierung der gefallenen Opfer“ (freilich nur der amerikanischen!)“. Die „Frankfurter Allgemeine Zeitung“ fragt sich und uns, ob Stones …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/platoon-film-6473.html",
+          "publishedOn": "2021-06-25T06:23:29.000Z",
+          "wordCount": 1789,
+          "title": "Platoon"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-forst-ella-up1-urteil-6505.html",
+          "author": null,
+          "description": "Ella/UP1 war bei den Protesten im Dannenröder Forst wie tausende andere Menschen aktiv und wurde gestern, am Mittwoch, den 23. Juni, überraschend vor angesetztem Prozessende in Alsfeld zu 2 Jahren und 3 Monaten Haft verurteilt.\n\nBild: Protest-Camp im Dannenröder Wald, August 2020. / Leonhard Lenz (PD)\nDie Staatsanwaltschaft forderte noch drei Monate mehr Haft, für den Vorwurf des tätlichen Angriffs auf Vollstreckungsbeamte, basierend allein auf den Aussagen der ohne Identitätsnachweis aufgetretenen SEK-Beamten. \n Ella gehörte zu den vielen, die bei den Protesten im Danni von der Polizei von den Bäumen geholt und mitgenommen wurden, aber nur zu den wenigen, die nicht zurückgekehrt sind. \n \"Wir sind alle geschockt, wütend und fassungslos. Das ist eine politisch beziehungsweise wirtschaftspol…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-forst-ella-up1-urteil-6505.html",
+          "publishedOn": "2021-06-24T07:32:28.000Z",
+          "wordCount": 1118,
+          "title": "Dannenröder Forst: Ella/UP1 wird verurteilt zu 2 Jahren, 3 Monaten Haft"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/flensburg-akademie-engelsburg-6493.html",
+          "author": null,
+          "description": "Bundesweit bildeten sich im letzten Monat mehrere hundert Regionalgruppen der Akademie Engelsburg, nachdem deren Gründer Martin Laker per telegram dazu aufgerufen hatte.\n\nBild: Rezept für eine Eso-Fascho-SexismusVerschwörungsSekten-Suppe. / subtilus.info\nLaker wirkt auf den ersten Blick wie ein anstrengender Ökoguru, ein in einem anderen Jahrtausend steckengebliebener Sektenprophet. Aber was er sagt ist nicht ausschliesslich phrasenhafte Esoterik. Er vertritt vielmehr zutiefst sexistische und rassistische Positionen, verbreitet Reichsbürger-Ideologie und Q-Anon-Mythen. Über allem sieht er Anastasia – jene strahlende Romanheldin des russischen Autors Wladimir Megre, die heute Vorbild für eine religiöse, antisemitische, völkische Siedlungsbewegung ist. Auch in Deutschland gibt es rund 20 sol…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/flensburg-akademie-engelsburg-6493.html",
+          "publishedOn": "2021-06-23T08:38:01.000Z",
+          "wordCount": 1918,
+          "title": "Hunderte Gruppengründungen der esoterisch-neurechten Akademie Engelsburg bundesweit"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/laerm-und-wut-6384.html",
+          "author": null,
+          "description": "„Lärm und Wut“ erzählt von zwei vernachlässigten Jungen in einer Pariser Vorstadt, die Freundschaft schliessen.\n\nBild: Banlieue in Paris. / matelo971 (CC BY-NC-SA 2.0 cropped)\nDiese wird jedoch nicht zu einem Ausweg aus Trost- und Perspektivlosigkeit. Vielmehr ist die eigenwillige Mischung aus Fantastereien und ungeschminkten Realismus ein noch immer wirkungsvolles Porträt sinnloser Gewalt und eines bitteren Fatalismus. \n Ein intaktes Familienleben hat der 14-jährige Bruno (Vincent Gasperitsch) nicht gerade. Zusammen mit seiner Mutter lebt er in einem trostlosen Plattenbau in der Pariser Vorstadt. Die meiste Zeit ist er dabei allein, da seine Mutter viel arbeiten muss. Zudem tut er sich etwas schwer damit, an seiner neuen Schule Anschluss zu finden. Lediglich sein Vogel, dem er den Namen S…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/laerm-und-wut-6384.html",
+          "publishedOn": "2021-06-23T06:01:11.000Z",
+          "wordCount": 1371,
+          "title": "Lärm und Wut"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/asien/china-einfach-indiskutabel-6484.html",
+          "author": null,
+          "description": "China: Besonders üble Ausbeutung, repressiver Staat, Neokolonialismus, Uiguren, Hongkong – ist damit alles gesagt?\n\nBild: Polizeieinsatz in Hong Kong während den #OathGate-Protesten, November 2016. / Mario Sixtus (CC BY-NC-SA 2.0 cropped)\nChina ist indiskutabel, ein schlimmer Staat. Darin sind sich viele einig – auch Leute, die einiges am deutschen Staat zu kritisieren und politisch ansonsten eher wenig Schnittmengen haben. Linksliberale, Gewerkschaftler, Anarchisten, Grüne und Antifa-Gruppen – sie alle eint die Vorstellung, dass Chinas Kapitalismus extra-ausbeuterisch ist und der chinesische Staat besonders repressiv auftritt. Fallen dann noch die Stichworte „Uiguren“ bzw. „Hongkong“, weiss jeder – auch auf Basis einer ziemlich dürftigen Informationsgrundlage und ohne weitere Auseinanders…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/asien/china-einfach-indiskutabel-6484.html",
+          "publishedOn": "2021-06-22T14:06:41.000Z",
+          "wordCount": 5874,
+          "title": "China - einfach indiskutabel?"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mit-recht-krieg-unternehmen-barbarossa-6492.html",
+          "author": null,
+          "description": "Anlässlich des 80. Jahrestages des \"Unternehmen Barbarossa\" getauften Krieges, den Deutschland am 22. Juni 1941 gegen die damalige Sowjetunion begann, hielt der deutsche Bundespräsident qua Amt und Würde am 18. Juni im Deutsch-Russischen Museum Berlin-Karlshorst, eine zentrale Gedenkrede[1], die zugleich die Ausstellung “Dimensionen eines Verbrechens. Sowjetische Kriegsgefangene im Zweiten Weltkrieg” eröffnete.\n\nBild: Deutsche Soldaten marschieren neben einem Panzerspähwagen durch eine Ortschaft im Norden von Russland, Juni 1941. / Bundesarchiv, Bild 101I-208-0027-04A - Nägele (CC BY-SA 3.0 cropped)\n1. Eine staatlich inszenierte Rede\n Protest gegen diesen Ort der Gedenkrede legte die Ukraine durch ihren Botschafter Andrij Melnyk ein, der verlautbarte, die Entscheidung für diesen Ort stelle…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mit-recht-krieg-unternehmen-barbarossa-6492.html",
+          "publishedOn": "2021-06-22T07:15:50.000Z",
+          "wordCount": 2121,
+          "title": "Mit Recht Krieg - eine Rede des Bundespräsidenten zum Unternehmen Barbarossa"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/der-forst-karsten-ist-ab-sofort-wieder-besetzt-6487.html",
+          "author": null,
+          "description": "In der Nacht 18.06./19.06.2021 haben unabhängige, Partei- und Organisationslose Aktivist:Innen im Forst Kasten bei München mit Baumhäusern eine Besetzung errichtet.\n\nBild: Besetzer im Forst Kasten bei München. / kastibleibt.noblogs.org\nDamit soll eine geplante Rodung verhindert werden. Trotz des massiven öffentlichen Protests stimmte der Sozialausschuss des Rot/Grünen Stadtrats München am 20.05.2021 der Rodung des Forst Kasten zu. Dies zeigt, nicht zum ersten Mal, deutlich, dass auch Parteien, die sich „Grün“ oder „Sozial“ nennen, bereit sind, die Umwelt zu zerstören, sobald der finanzielle Anreiz gross genug ist. \n Die Rettung des Waldes wird nicht durch Parlamente oder andere Regierungsgremien möglich sein. \n Deswegen haben sich Aktivist:Innen dazu entschlossen, Strukturen in den Bäumen …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/der-forst-karsten-ist-ab-sofort-wieder-besetzt-6487.html",
+          "publishedOn": "2021-06-21T08:23:36.000Z",
+          "wordCount": 1121,
+          "title": "Der Forst Kasten ist ab sofort wieder Besetzt!"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/freiburg-gartenstrasse-19-bike-kitchen-6488.html",
+          "author": null,
+          "description": "Eigentümer der G19 und Bike Kitchen kündigt den Kontakt auf und droht mit Räumung. Am Montag den 21.6. sind die Häuser also konkret bedroht. Wir bleiben!\n\nBild: Das besetzte Gelände an der Gartenstrasse 19 in Freiburg. / g19freiburg.blackblogs.org\nWas bisher geschah: 11 Jahre nach der ersten Besetzung der G19, also nach 11 Jahren der Duldung, Nutzung, des Gestaltens und Geniessens und 10 Jahren der Fahrradwerkelei in der Bike Kitchen, haben wir vor gut einem Monat erfahren, dass der Eigentümer die Häuser abreissen will. Einer der letzten selbstverwalteten Räume in der Freiburger Innenstand soll weichen, aber -wofür eigentlich? Denn der Plan des Eigentümers geht erstmal nicht über den Abriss hinaus, der Stadt Freiburg liegen derzeit keine Bebauungspläne vor. \n Wir haben seit dem ersten ille…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/freiburg-gartenstrasse-19-bike-kitchen-6488.html",
+          "publishedOn": "2021-06-21T06:42:46.000Z",
+          "wordCount": 1184,
+          "title": "Freiburg: Gartenstrasse 19/Bike Kitchen"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/bio-politik-die-regulierung-des-koerpers-6485.html",
+          "author": null,
+          "description": "„Politik ist die Fortsetzung des Krieges mit anderen Mitteln“ (Michel Foucault in Anlehnung an Carl von Clausewitz)\n\nBild: U-Bahnstation mit Impfzentrum in Frankfurt am Main, März 2021. / 7C0 (CC BY 2.0 cropped)\nMichel Foucault verdiente es, derzeit stärker rezipiert zu werden. Foucault hat 1976 in seinem Buch „Der Wille zum Wissen“ (deutsch 1983; zugleich Band 1 seiner „Geschichte der Sexualität“) die Begriffe der Bio-Macht wie auch der Bio-Politik (beide Begriffe werden nicht exakt definiert und abgetrennt) geprägt. Foucaults Thesen wurden und werden bis in die Gegenwart umfassend diskutiert (für einen Überblick siehe Folkers/ Lemke 2014). \nMacht + Gesellschaft = Normalisierungsgesellschaft\n Zwar lässt sich seine historisch angelegte Analyse nicht umstandslos auf das Coronavirus beziehen…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/panorama/bio-politik-die-regulierung-des-koerpers-6485.html",
+          "publishedOn": "2021-06-20T17:39:06.000Z",
+          "wordCount": 2580,
+          "title": "Bio-Politik – Die Regulierung der Körper"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/europa/antisemitismusvorwurf-israel-kritik-6489.html",
+          "author": null,
+          "description": "Wer sich als Deutscher mit Bedenken zum Staat Israel und dessen politisch-militärischen Aktivitäten äussert, läuft rasend schnell Gefahr, als Antisemit abgestempelt zu werden.\n\nBild: Israelischer Luftangriff im Gazastreifen im Mai 2021. / Osama Eid (CC BY-SA 3.0 unported - cropped)\nDenn immer wieder wird die Kritik an Israel mit einer rassistischen Kritik an Juden, mit Judenhass, gleichgesetzt. \n Dann hören die Differenzierungen, die die Experten natürlich kennen, sofort auf. In der hiesigen Öffentlichkeit wird dann der Unterschied zwischen der generellen Verurteilung von Juden – gleich Antisemitismus – und einer kritischen Beurteilung israelischer Politik oder der Räson dieses Staates – gleich Antizionismus – zielstrebig zum Verschwinden gebracht. So gerade in den letzten Wochen, als der …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/europa/antisemitismusvorwurf-israel-kritik-6489.html",
+          "publishedOn": "2021-06-20T12:15:49.000Z",
+          "wordCount": 3345,
+          "title": "Der Antisemitismusvorwurf in Aktion: Beim Staat Israel gilt ein Kritikverbot"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mein-kampf-und-das-unternehmen-barbarossa-6483.html",
+          "author": null,
+          "description": "Seit dem 2. Juni ist dem französischem Publikum und der französischen Öffentlichkeit in Form einer kritisch-kommentierten Neuauflage von Hitlers «Mein Kampf» unter dem Titel «Das Böse historisieren» zugänglich gemacht.\n\nBild: Unternehmen Barbarossa in der Sowjetunion. Panzer der deutschen Wehrmacht auf einer Strasse ausserhalb eines Ortes, Juni 1941. / Bundesarchiv, Bild 101I-265-0003-18A - Moosdorf [Mossdorf] (CC BY-SA 3.0 cropped)\n1. Eine Neuerscheinung und ein Ereignis \n Dabei handelt es sich bei der vom Verlag Fayard veröffentlichten, 1000 Seiten umfassenden Neuauflage von \"Mein Kampf\" um ein 10 Jahre währendes Forschungsprojekt einer Gruppe französischer Historiker unter der Leitung von F. Brayard, dem Direktor des Instituts CNRS (\"Team Geschichte und Historiographie der Shoa, Zentrum…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/mein-kampf-und-das-unternehmen-barbarossa-6483.html",
+          "publishedOn": "2021-06-18T08:32:03.000Z",
+          "wordCount": 4620,
+          "title": "Mein Kampf und das Unternehmen Barbarossa – eine Lektüre"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/klimacamp-lueneburg-eroeffnung-6486.html",
+          "author": null,
+          "description": "Das KlimaCamp im Kurpark wurde seit Mittwochmorgen gemeinsam mit vielen Unterstützer*innen aufgebaut. Am 17.06. startet das Programm und die solidarische Küche.\n\nBild: Zeltplatz des diesjährigen Lüneburger Klimacamps, 29. Mai 2021. / KlimaCamp Lüneburg\nIn den nächsten Tagen bietet das KlimaCamp Lüneburg im Kurpark, im Kontext der unzureichenden politischen Reaktion auf die Krisen des 21. Jahrhunderts, neben Austausch und Vernetzungsmöglichkeiten von 9:00-22:00 Uhr vielfältiges Programm an. Durch die grosse Diversität der Programmpunkte - von Kinderprogramm über Informationen der BI- unser Wasser bis hin zur kritischen Analyse von Klimamodellen - spricht das Camp Aktive, sowie Interessierte der Lüneburger Öffentlichkeit gleichermassen an. Zusätzlich zum Programm wird es zwischen dem 17. und…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/oekologie/klimacamp-lueneburg-eroeffnung-6486.html",
+          "publishedOn": "2021-06-18T06:14:36.000Z",
+          "wordCount": 1197,
+          "title": "Eröffnung des Lüneburger Klima Camps"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/sinn-und-gesellschaftskritik-6481.html",
+          "author": null,
+          "description": "Immer wieder verlieren wir vor lauter dringlichen To-do-Listen die Frage „Was wollen wir eigentlich?“ aus den Augen. Dieser Artikel stellt Argumente vor, die „Sinn“ von Sonntagsreden, Religion und Esoterik unterscheiden.\n\nBild: Denkmal in Marseille zu Gedenken der getöteten Kämpfer und Soldaten im Orient. / Tsar HD (PD)\nWer eine sinnvolle Arbeit oder Tätigkeit will, kann sich nicht allein an den unmittelbaren Bezug von Mensch zu Mensch halten. Bspw. wird Lehrern deutlich, dass sie keinem Kind gerecht werden können, wenn die Schülergruppe zu gross ist. Beschäftigte im Gesundheitswesen bemerken, dass Personalknappheit und die herrschenden Vorgaben zur Vergütung medizinischer Leistungen ihnen häufig die Arbeit schwer machen. Für sinnvolle Arbeiten und Tätigkeiten bedarf es geeigneter gesellsc…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/gesellschaft/religion/sinn-und-gesellschaftskritik-6481.html",
+          "publishedOn": "2021-06-17T08:31:51.000Z",
+          "wordCount": 3375,
+          "title": "Sinnvolle Existenz als Massstab des eigenen Lebens und der Gesellschaft"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/prosa/eckhard-mieder-nach-hinten-nicht-und-nicht-nach-vorne-6482.html",
+          "author": null,
+          "description": "So unwahrscheinlich es ist, an einem Dienstag im März in Frankfurt am Main von einem Trupp Ausserirdische entführt und in einem entmaterialisierten Raumschiff auf einen Stern Letzter Ordnung gebracht zu werden -, so unwahrscheinlich ist es auch, den Zusammenbruch des Kapitalismus vor Weihnachten (dies Jahr, nächstes, das in zehn Jahren) erleben zu dürfen.\n\nBild: Sprengung eines Schornsteins der ehemaligen Brauerei Henninger in Frankfurt/Main. / Heptagon (CC BY-SA 3.0 unported - cropped)\n1.\n Der Main dagegen und indessen wird noch in hundert Jahren regungslos und langweilig in der Stadt liegen wie eine träge, altersgesättigte Riesenschlange. Beides wusste die Vagabundin, während sie den Kram der Nacht zusammenpackte, in zwei der IKEA-Tüten (blau, gelbe Griffe) und in einem derb-leinenen Ruc…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/prosa/eckhard-mieder-nach-hinten-nicht-und-nicht-nach-vorne-6482.html",
+          "publishedOn": "2021-06-17T06:54:37.000Z",
+          "wordCount": 11036,
+          "title": "Nach hinten nicht und nicht nach vorne"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/august-von-finck-dynastie-afd-6362.html",
+          "author": null,
+          "description": "Im Jahr 2018 erschütterte ein Spendenskandal die Faschistenpartei AfD. Der Kreisverband von Alice Weidel hatte eine hohe Geldsumme aus unklaren Quellen erhalten.\n\nBild: Auch die Werkzeugmaschinenfabrik Oerlikon-Bührle (hier zwischen 1918 und 1937) gehörte zum Portfolio der Finck-Dynastie. / Walter Mittelholzer (PD)\n132.000 Euro in mehreren Tranchen hatte ein Unternehmen aus der Schweiz überwiesen, 150.000 waren aus den Niederlanden zugeflossen. Es dauerte eine Weile, bis der Spiegel und die Schweizer WOZ die Vermutung präsentierten, wo die Kohle herkam. Die Spur führte zu August von Finck junior, einem der reichsten Deutschen, ansässig in der Schweiz. Der hatte, so steht zu vermuten, die Partei der Ausländer-, Arbeiter- und Frauenfeinde offenbar schon früher über eine in München gemeldete …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/unternehmen/august-von-finck-dynastie-afd-6362.html",
+          "publishedOn": "2021-06-16T08:47:07.000Z",
+          "wordCount": 2219,
+          "title": "Die Finck-Dynastie, Mäzene des deutschen Faschismus"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/belletristik/paula-irmschler-superbusen-6413.html",
+          "author": null,
+          "description": "Britney Spears und Antifa – wie passt das zusammen? Neue linke Popliteratur zeigt: Es passt erstaunlich gut.\n\nBild: Universitätsbibliothek Chemnitz in der Alten Aktienspinnerei. / Jacob Müller (CC BY-SA 4.0 cropped)\nÜber Paula Irmschlers im Februar 2020 erschienenen Debütroman „Superbusen“ ist schon manches geschrieben worden. Oft fiel dabei das Schlagwort ‚Popliteratur‘. Diese Assoziation ist einerseits passend, andererseits aber auch ganz falsch (was meist miterkannt wurde). Zur Erinnerung: Popliteratur war um die Jahrtausendwende das grosse Ding im dato eher schläfrigen deutschen Literaturbetrieb. Das war ein neuer, irgendwie cooler Sound von überwiegend jungen, überwiegend stylishen Männern, der sich an der Grenze zwischen Feuilleton, Diskursgefrickel und grosser Literatur bewegte. \n I…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/belletristik/paula-irmschler-superbusen-6413.html",
+          "publishedOn": "2021-06-16T07:09:58.000Z",
+          "wordCount": 2077,
+          "title": "Paula Irmschler: Superbusen"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/der-mann-mit-dem-goldenen-arm-6382.html",
+          "author": null,
+          "description": "„Der Mann mit dem goldenen Arm“ ist eine eindrucksvolle Studie über Sucht und ein bewegendes Drama über einen Menschen, der versucht, sich dieser Sucht zu entziehen.\n\nBild: Frank Sinatra (hier 1960 in Florida) spielt im Film die Rolle des süchtigen Musikers Frankie Machine. / Autor unbekannt (PD)\nDank des intensiven Spiels Frank Sinatras sowie einer gekonnten Inszenierung erhält der Zuschauer einen Einblick in diesen Kampf, die Träume und das Dilemma einer Figur, welche sich ihren inneren Dämonen stellen muss. Das ist mutiges Kino und gehört in jede Filmsammlung. \n Nach einer sechsmonatigen Haftstrafe, in deren Folge er auch von seiner Heroinsucht befreit wurde, kehrt Frankie Machine (Frank Sinatra) nach Chicago zurück, fest entschlossen, aus seinem Leben mehr zu machen, als er es vor der …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/kultur/film/der-mann-mit-dem-goldenen-arm-6382.html",
+          "publishedOn": "2021-06-16T05:56:34.000Z",
+          "wordCount": 1518,
+          "title": "Der Mann mit dem goldenen Arm"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/theorie/corona-als-entwickelter-stamokap-6480.html",
+          "author": null,
+          "description": "„Aufgrund der im Ersten Weltkrieg in Deutschland zu beobachtenden Interessenverstrickung zwischen Staat und Wirtschaft sieht Lenin in seiner 1917 erschienenen Schrift \"Staat und Revolution\" das Wesen des Stamokap in der totalen Verschmelzung der Monopolmacht der Wirtschaft mit der Regierungsmacht zu einem sich wechselseitig bedingenden einheitlichen Machtkomplex.“[1]\n\nBild: Impfstoff von Pfizer/BioNTech in einem Spital von Strasbourg, Januar 2021. / Claude Truong-Ngoc - Wikimedia Commons (CC BY-SA 4.0 cropped)\n(1) Dass das Finanzkapital das entwickelte kapitalistisch verfasste Wirtschaftssystem dominiert, ökonomische Monopolisierungs- und politisch-militärische Expansionsprozesse fördert, weiss man schon länger als hundert Jahre - etwa seit John A. Hobson: Der Imperialismus (1902), Rudolf …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/wirtschaft/theorie/corona-als-entwickelter-stamokap-6480.html",
+          "publishedOn": "2021-06-15T15:47:18.000Z",
+          "wordCount": 3358,
+          "title": "Corona als enwickelter Stamokap"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/franz-sternbald-ausgesetzt-zur-existenz-6469.html",
+          "author": null,
+          "description": "Zu welchem Zweck behaupten wir ein subjektives Ego, und worin besteht ein objektiv legitmierender Sinn für die Forderung nach Anerkennung eines unbezähmbaren Geistes der uneingeschränkten Subjektivität. (J.J. Rousseau, Bekenntnisse)\n\nBild: jurvetson (CC BY 2.0 cropped)\nEine exponentiell steigende Verdichtung von digitalen Speichern bei schnellerem Zugriff, hat die erforderliche Raum- und Energie- und vorallem Zeitersparnis erbracht, die die Voraussetzung für den Bau von intelligenten Netzwerken absehbar auch praktisch mit Bewusstseinspotential möglich macht. \n Mit Hilfe der Nano-Technologie wird es künftig möglich sein, zelluläre digitale Automaten (Naniten) zu erzeugen, und mit dem quasi ‚lebendigen’ Potential der Eigen-Reproduktivität auf der Molekularebene der Genetik auszustatten, soda…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/franz-sternbald-ausgesetzt-zur-existenz-6469.html",
+          "publishedOn": "2021-06-11T12:34:52.000Z",
+          "wordCount": 1485,
+          "title": "Franz Sternbald: Ausgesetzt zur Existenz"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-wald-a49-prozess-gegen-aktivistin-6470.html",
+          "author": null,
+          "description": "Nach sechsmonatiger Beugehaft startete der Prozess gegen die Aktivistin \"Ella\" vor dem Alsfelder Landgericht. Wir veröffentlichen hier eine längere Passage des Statements der Frau, deren Identität weiterhin unbekannt ist.\n\nBild: Gebäude des Amtsgerichts Alsfeld, Landgraf-Hermann-Strasse 1 in Alsfeld. / Bubo (CC BY-SA 3.0 cropped)\nDer Gerichtssaal ist voll mit Kameras, Sat 1, HR, ZDF, verschiedene Sender sind vertreten. Als die junge Aktivistin den Gerichtssaal betritt, ruft eine Besucherin: „Klimaschutz ist kein Verbrechen!“. Später ist in den Medien dazu nichts zu hören. \n Wenn man der Anklage der Staatsanwältin zuhört, hat man das Gefühl, man habe es mit einer Schwerverbrecherin zu tun. Auf 15 m Höhe soll die kleine Person zwei SEK-Beamten schwere Körperverletzung zugefügt haben. Sie sel…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-wald-a49-prozess-gegen-aktivistin-6470.html",
+          "publishedOn": "2021-06-11T10:40:13.000Z",
+          "wordCount": 1832,
+          "title": "Sanft und entschlossen gegen die Staatsgewalt"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/johannes-bellermann-gramscis-politisches-denken-eine-einfuehrung-6478.html",
+          "author": null,
+          "description": "Beim Schmetterling Verlag ist ein neuer Einführungsband von Johannes Bellermann zum Denken des kommunistischen Theoretikers Antonio Gramscis erschienen.\n\nBild: Notizbücher von Antonio Gramsci, circa 1930. / Gramsci (PD)\nEine gelungene Annäherung für jene, die anfangen wollen, sich mit seinen Überlegungen zu beschäftigen. Ein „Wegweiser für alle, die Gramscis bedeutendes Werk wirklich verstehen möchten“, wie es im Klappentext heisst. Aber eben auch nicht mehr. \n Ich kenne den Autoren Johannes Bellermann nicht. Wenn ich nun etwas über ihn sagen könnte, ist es, dass er seinen Gramsci gelesen hat. Ihm gelingt eine fundierte Einführung in das verworrene, fragmentarische Werk eines der bedeutendsten kommunistischen Vordenker, der seine Innovationsfähigkeit daraus zog, zwischen unkonventionellen …",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/johannes-bellermann-gramscis-politisches-denken-eine-einfuehrung-6478.html",
+          "publishedOn": "2021-06-11T09:40:43.000Z",
+          "wordCount": 2023,
+          "title": "Johannes Bellermann: Gramscis politisches Denken. Eine Einführung."
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/europa/spanien-cran-canaria-tourismus-anarchistische-foederation-6479.html",
+          "author": null,
+          "description": "Eine bittere Tatsache: Sich als Anarchisten verstehende Touristen reisen trotz wiederholter Bitten, dies nicht zu tun, auf die Kanaren, um dort in besetzten und selbstverwalteten Räumen Lebenden Vorträge über Fleischkonsum, Umweltschutz und den reaktionären Fussball zu halten.\n\nBild: Die Anarchistische Föderation Gran Canaria (FAGC ). / anarchistischefoderation.de\nBegonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarzen Kapuzis bei Kundgebungen - und änderte dann ihre Herangehensweise komplett. Das Ergebnis: Die \"Kleintruppe\" und die von ihr initierte Mieter*innengewerkschaft förderte seitdem die Enteignung von 400 Liegenschaften, half bei der Wohnraumbeschaffung für hunderte Familien, intervenierte in 1.000 Zwangsräumungen, stellte 10 selbstverwaltete Gemeinschaf…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/europa/spanien-cran-canaria-tourismus-anarchistische-foederation-6479.html",
+          "publishedOn": "2021-06-10T13:02:49.000Z",
+          "wordCount": 1437,
+          "title": "«Revolutionärer Tourismus» auf Gran Canaria"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/climate-justice-green-new-deal-6466.html",
+          "author": null,
+          "description": "Annalena Baerbock wurde jüngst zur Kanzlerkandidatin der Grünen gekürt. Zeitgleich entwickelt ihre Partei sich mit aktuell 28 Prozent zur umfragestärksten Kraft. Das mag bei manchen Hoffnung auf eine ökologische Wende wecken. Berechtigt ist diese allerdings nicht.\n\nBild: Annalena Baerbock an der Veranstaltung «Europa im Aufbruch?», Mai 2018 . / stephan-roehl.de - Heinrich-Böll-Stiftung (CC BY-SA 2.0 cropped)\nWeltweit sympathisieren Linke mit Fridays for Future – einer jungen, grünen Graswurzelbewegung, der, so die Hoffnung vieler, das Potenzial innewohnt, die global fortschreitende Umweltzerstörung aufzuhalten. Der aktuelle Erfolg von Bündnis 90/ Die Grünen in Deutschland könnte als Übersetzung der kollektiven Artikulation grüner Forderungen auf der Strasse in den politischen Betrieb gedeu…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/climate-justice-green-new-deal-6466.html",
+          "publishedOn": "2021-06-09T08:28:04.000Z",
+          "wordCount": 1629,
+          "title": "Dasselbe in Grün, bitte!"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/veronika-kracher-incels-geschichte-sprache-und-ideologie-eines-online-kults-6412.html",
+          "author": null,
+          "description": "Der Weg vom misogynen Shit-Post zu realer Gewalt kann ein ganz kurzer sein.\n\nBild: Gedenkveranstaltung von Incels-Anhänger zu Ehren von Elliot Rodger (einem radikalen Incel, welcher 2014 in Kalifornien sechs Menschen ermordete) im Harder Stadion von Santa Barbara, Kalifornien, Mai 2014. / Jerelconstantino (CC BY-SA 3.0 unported - cropped)\nFrustrierte, vorwiegend weisse, heterosexuelle Männer, die sich als Verlierer der Gesellschaft sehen: Auf diese groben Kategorien vereinfacht lässt sich die Incel-Community beschreiben, deren Name im Englischen als Abkürzung für „involuntary celibates“ steht, also unfreiwillige Zölibatäre. Sie glauben, dass Frauen ihnen Sex verwehren, weil sie unattraktiv zur Welt gekommen sind. Deshalb ziehen sie sich gegenseitig in Online-Foren runter und verlieren sich…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/veronika-kracher-incels-geschichte-sprache-und-ideologie-eines-online-kults-6412.html",
+          "publishedOn": "2021-06-09T05:55:30.000Z",
+          "wordCount": 1848,
+          "title": "Veronika Kracher: Incels. Geschichte, Sprache und Ideologie eines Online-Kults."
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/schweiz/basel-feministischer-streik-2021-6468.html",
+          "author": null,
+          "description": "Auch 30 Jahre später: Wir streiken weiter! Die Schweizer Kollektive des Feministischen Streik/Frauenstreik Schweiz rufen am 14. Juni zum Streik auf.\n\nBild: Frauenstreiktag in Zürich 2019. / xediitzxx\nIn Basel erwartet mensch tagsüber bei der Kaserne ein Streikprogramm, eine bewilligte Demonstration beginnt beim DeWette-Park um 17:30 Uhr. \n Am 14. Juni 2021 rufen die feministischen Streikkollektive der ganzen Schweiz zum Streik auf. Neben zahlreichen dezentralen Aktionen wird es schweizweit drei gemeinsame Zeitpunkte geben. Die Streikgründe sind nach wie vor vielfältig: Zunahme von geschlechts-spezifischer Gewalt, AHV Rentenreform zu Lasten der Frauen und erdrückende Bedingungen der bezahlten und unbezahlten Care-Arbeit. Die Schweiz hat noch einen langen Weg vor sich, bis die Gleichstellung…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/schweiz/basel-feministischer-streik-2021-6468.html",
+          "publishedOn": "2021-06-08T16:14:53.000Z",
+          "wordCount": 1334,
+          "title": "14. Juni 2021: Auf zum Feministischen Streik!"
+        },
+        {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/sozialstaat-arbeitslosigkeit-hartz-iv-6467.html",
+          "author": null,
+          "description": "Das Vorhandensein von Arbeitslosigkeit ist in kapitalistischen Gesellschaften eigentlich der Normalzustand.\n\nBild:  Das ultimative Hartz IV-Symbolfoto. Damit bleibt keine Frage zum Erfolg der Arbeitsmarktreform offen. Das komplexe Chaos versinnbildlicht in nur einer Aufnahme. Hartz IV ist ein so grosser deutscher Clusterfuck, dass es dafür fast mehr unpassende Symbolbilder als richtige Hilfe für Arbeitslose gibt. Daher darf ab heute nur noch dieses einzig wahre Hartz IV-Symbolbild verwendet werden. / ZDF Magazin Royale - Jan Böhmermann (CC BY 4.0 unported - cropped)\nWährend des 70-jährigen Bestehens der Bundesrepublik Deutschland betrug die Zeit der Vollbeschäftigung gerade einmal zwölf Jahre. Das war von 1961 bis 1973, ist also schon sehr lange her. Danach nahm die Arbeitslosigkeit in Deu…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/sozialstaat-arbeitslosigkeit-hartz-iv-6467.html",
+          "publishedOn": "2021-06-08T08:38:16.000Z",
+          "wordCount": 2396,
+          "title": "Der Sozialstaat als Erziehungsanstalt"
+        }
+      ]
+    },
+    {
+      "title": "Mitchell Stuart on ArtStation",
+      "feedUrl": "https://www.artstation.com/mitcharts.rss",
+      "siteUrl": "https://www.artstation.com/mitcharts",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

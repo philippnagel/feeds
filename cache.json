@@ -206,6 +206,12 @@
       "feedUrl": "https://rsbakker.wordpress.com/feed/",
       "siteUrl": "https://rsbakker.wordpress.com",
       "articles": []
+    },
+    {
+      "title": "Richard Price",
+      "feedUrl": "http://www.richardprice.io/rss",
+      "siteUrl": "https://www.richardprice.io/",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

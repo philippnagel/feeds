@@ -4037,6 +4037,31 @@
       "feedUrl": "https://www.karolabrede.de/feed/",
       "siteUrl": "https://www.karolabrede.de",
       "articles": []
+    },
+    {
+      "title": "Coordination Problem",
+      "feedUrl": "https://www.coordinationproblem.org/rss.xml",
+      "siteUrl": "https://www.coordinationproblem.org/",
+      "articles": [
+        {
+          "id": "https://www.coordinationproblem.org/2021/06/at-the-end-of-the-day-i-think-i-am-a-teacher-steve-horwitz.html",
+          "author": "Peter Boettke",
+          "description": "|Peter Boettke| My dear friend, co-author, partner in so many educational and scholarly efforts since the mid 1980s passed away early Sunday morning (June 27, 2021) after a long and courageous battle with an aggressive form of cancer that to...",
+          "link": "https://www.coordinationproblem.org/2021/06/at-the-end-of-the-day-i-think-i-am-a-teacher-steve-horwitz.html",
+          "publishedOn": "2021-06-28T16:10:41.000Z",
+          "wordCount": 1522,
+          "title": "\"At the end of the day I think I am a teacher\" -- Steve Horwitz (1964-2021)"
+        },
+        {
+          "id": "https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html",
+          "author": "Peter Boettke",
+          "description": "|Peter Boettke| Virgil Storr is one of the most perceptive and intellectually challenging social scientists I know. He also writes with grace and eloquence, but leave that aside at the moment. He has pushed an argument for many years now...",
+          "link": "https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html",
+          "publishedOn": "2021-06-09T19:15:55.000Z",
+          "wordCount": 2118,
+          "title": "The Market as a Social Space, and What Happens When The Firms that Occupy That Space Disappear Due to Economic Disruption"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

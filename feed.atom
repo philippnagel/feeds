@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-07T19:16:23.357Z</updated>
+    <updated>2021-07-07T19:17:12.644Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -3053,6 +3053,16 @@ Eine dieser seltenen Sternstunden wurde überraschend nun auch mir zuteil.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["At the end of the day I think I am a teacher" -- Steve Horwitz (1964-2021)]]></title>
+        <id>https://www.coordinationproblem.org/2021/06/at-the-end-of-the-day-i-think-i-am-a-teacher-steve-horwitz.html</id>
+        <link href="https://www.coordinationproblem.org/2021/06/at-the-end-of-the-day-i-think-i-am-a-teacher-steve-horwitz.html"/>
+        <updated>2021-06-28T16:10:41.000Z</updated>
+        <summary type="html"><![CDATA[|Peter Boettke| My dear friend, co-author, partner in so many educational and scholarly efforts since the mid 1980s passed away early Sunday morning (June 27, 2021) after a long and courageous battle with an aggressive form of cancer that to...]]></summary>
+        <author>
+            <name>Peter Boettke</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Streit um neues Sturmgewehr für die Bundeswehr geht in die nächste Runde]]></title>
         <id>https://augengeradeaus.net/?p=57399</id>
         <link href="https://augengeradeaus.net/2021/06/streit-um-neues-sturmgewehr-fuer-die-bundeswehr-geht-in-die-naechste-runde/"/>
@@ -4576,6 +4586,16 @@ Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarz
         <summary type="html"><![CDATA[Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.]]></summary>
         <author>
             <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Market as a Social Space, and What Happens When The Firms that Occupy That Space Disappear Due to Economic Disruption]]></title>
+        <id>https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html</id>
+        <link href="https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html"/>
+        <updated>2021-06-09T19:15:55.000Z</updated>
+        <summary type="html"><![CDATA[|Peter Boettke| Virgil Storr is one of the most perceptive and intellectually challenging social scientists I know. He also writes with grace and eloquence, but leave that aside at the moment. He has pushed an argument for many years now...]]></summary>
+        <author>
+            <name>Peter Boettke</name>
         </author>
     </entry>
     <entry>

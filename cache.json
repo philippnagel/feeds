@@ -200,6 +200,12 @@
       "feedUrl": "https://charles-upton.com/feed/",
       "siteUrl": "https://charles-upton.com",
       "articles": []
+    },
+    {
+      "title": "Three Pound Brain",
+      "feedUrl": "https://rsbakker.wordpress.com/feed/",
+      "siteUrl": "https://rsbakker.wordpress.com",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

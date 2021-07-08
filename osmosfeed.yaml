@@ -112,7 +112,7 @@ sources:
   - href: http://www.handelsblatt.com/contentexport/feed/wirtschaft
   - href: https://samzdat.com/feed/
   - href: https://api.quantamagazine.org/feed/
-  - href: https://aeon.co/feed.rss
+ # - href: https://aeon.co/feed.rss
  # - href: https://reaction.life/feed/
 
  

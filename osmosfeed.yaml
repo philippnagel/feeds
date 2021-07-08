@@ -105,7 +105,7 @@ sources:
   - href: https://capx.co/feed/
   - href: http://feeds.feedburner.com/TheIncidentalEconomist?format=xml
   - href: https://catalyst-journal.com/feed/
-  - href: https://collapseofindustrialcivilization.com/feed/
+ # - href: https://collapseofindustrialcivilization.com/feed/
  # - href: https://www.project-syndicate.org/rss
  # - href: http://feeds.feedburner.com/TechCrunch/
  # - href: http://jacobinmag.com/feed/

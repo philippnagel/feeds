@@ -4446,6 +4446,15 @@
       "siteUrl": "https://www.golem.de/",
       "articles": [
         {
+          "id": "https://www.golem.de/2107/157966-rss.html",
+          "author": null,
+          "description": "In den USA ist ein weiteres Kartellrechtsverfahren gegen Google gestartet, diesmal geht es um den Play Store. (Google Play, Google)",
+          "link": "https://www.golem.de/news/play-store-us-politik-wirft-google-unterdrueckung-der-konkurrenz-vor-2107-157966-rss.html",
+          "publishedOn": "2021-07-08T05:40:00.000Z",
+          "wordCount": 352,
+          "title": "Play Store: US-Politik wirft Google Unterdr�ckung der Konkurrenz vor"
+        },
+        {
           "id": "https://www.golem.de/2107/157963-rss.html",
           "author": null,
           "description": "Das Convercycle E-Cargo ist ein Elektro-Lastenrad, das zum Citybike verkleinert werden kann, wenn kein sperriges Gut transportiert wird. (E-Bike, Technologie)",
@@ -5690,15 +5699,6 @@
           "publishedOn": "2021-06-15T17:42:36.000Z",
           "wordCount": 5213,
           "title": "Vermont and Wyoming"
-        },
-        {
-          "id": "https://www.themoneyillusion.com/?p=34603",
-          "author": "ssumner",
-          "description": "In my previous post, I linked to a Tyler Cowen post that quoted Betsey Stevenson: The problem is that old jobs are long gone for the vast majority of those who remain unemployed. In a narrow technical sense that may be true. But according to Yahoo, this is also true: More signs of labor shortages […]",
-          "link": "http://feedproxy.google.com/~r/Themoneyillusion/~3/R1Ud5loHL-k/",
-          "publishedOn": "2021-06-08T17:40:00.000Z",
-          "wordCount": 5629,
-          "title": "Are the jobs gone forever?"
         }
       ]
     },
@@ -10806,6 +10806,313 @@
       "feedUrl": "https://catalyst-journal.com/feed/",
       "siteUrl": null,
       "articles": []
+    },
+    {
+      "title": "Project Syndicate",
+      "feedUrl": "https://www.project-syndicate.org/rss",
+      "siteUrl": "https://www.project-syndicate.org/rss",
+      "articles": [
+        {
+          "id": "https://www.project-syndicate.org/onpoint/civic-space-digital-technologies-activism-repression-by-koketso-moeti-2021-07",
+          "author": "Koketso Moeti",
+          "description": "Societies must address the distribution of political and economic power that drives efforts to use digital technologies for repressive ends. Otherwise, governments and corporations will continue to diminish digital citizenship to enhance their own powers or advance their private interests.",
+          "link": "https://www.project-syndicate.org/onpoint/civic-space-digital-technologies-activism-repression-by-koketso-moeti-2021-07",
+          "publishedOn": "2021-07-07T15:58:49.000Z",
+          "wordCount": null,
+          "title": "The Battle for Civic Space in the Digital Age",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/068c97a5a885744e619a12080213ddff.16-9-xlarge.1.jpg",
+            "length": "681291",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/donald-tusk-civic-platform-chairman-by-slawomir-sierakowski-2021-07",
+          "author": "Sławomir Sierakowski",
+          "description": "By reclaiming the leadership of Poland's liberal center-right party, former European Council President Donald Tusk has shaken up the Polish political scene and cast a shadow over some of its younger rising stars. To succeed, he will need to show that the Brussels technocracy didn't rub off on him.",
+          "link": "https://www.project-syndicate.org/commentary/donald-tusk-civic-platform-chairman-by-slawomir-sierakowski-2021-07",
+          "publishedOn": "2021-07-07T15:49:14.000Z",
+          "wordCount": null,
+          "title": "Donald Tusk Comes Home",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/67dee3dc859eed58e6532af44e5977b2.16-9-xlarge.1.jpg",
+            "length": "820689",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/renewing-the-fight-for-democracy-human-rights-open-societies-by-mark-malloch-brown-2021-07",
+          "author": "Mark Malloch-Brown",
+          "description": "For decades, democracy and human-rights advocates have operated on the assumption that a growing number of governments around the world were embracing freedom and its rules and norms. But the recent sharp reversal of a generation of progress is forcing advocates and activists to reconsider their models of change.",
+          "link": "https://www.project-syndicate.org/commentary/renewing-the-fight-for-democracy-human-rights-open-societies-by-mark-malloch-brown-2021-07",
+          "publishedOn": "2021-07-07T15:19:53.000Z",
+          "wordCount": null,
+          "title": "The Fight for Open Societies Begins Again",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/0cb2f4456f07ce9e8dfd83dbcba5dd4e.16-9-xlarge.1.jpg",
+            "length": "570532",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/videos/back-to-health-agnes-binagwaho",
+          "author": "Agnes Binagwaho",
+          "description": "",
+          "link": "https://www.project-syndicate.org/videos/back-to-health-agnes-binagwaho",
+          "publishedOn": "2021-07-07T14:37:15.000Z",
+          "wordCount": null,
+          "title": "Back to Health: Agnes Binagwaho",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/550e5d7d149f7fda11270695185fd16c.16-9-xlarge.1.png",
+            "length": "1329425",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/videos/back-to-health-seth-berkley",
+          "author": "Seth Berkley",
+          "description": "",
+          "link": "https://www.project-syndicate.org/videos/back-to-health-seth-berkley",
+          "publishedOn": "2021-07-07T14:35:21.000Z",
+          "wordCount": null,
+          "title": "Back to Health: Seth Berkley",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/550e5d7d149f7fda11270695185fd16c.16-9-xlarge.1.png",
+            "length": "1329425",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/videos/back-to-health-ann-aerts",
+          "author": "Ann Aerts",
+          "description": "",
+          "link": "https://www.project-syndicate.org/videos/back-to-health-ann-aerts",
+          "publishedOn": "2021-07-07T14:33:42.000Z",
+          "wordCount": null,
+          "title": "Back to Health: Ann Aerts",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/550e5d7d149f7fda11270695185fd16c.16-9-xlarge.1.png",
+            "length": "1329425",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/g20-finance-ministers-in-venice-must-adopt-covid19-vaccination-plan-by-jeffrey-d-sachs-and-juliana-bartels-2021-07",
+          "author": "Jeffrey D. Sachs",
+          "description": "It is imperative that the G20 finance ministers' meeting in Venice this week act to provide the COVID-19 vaccines needed to achieve worldwide comprehensive adult immunization by early 2022. Given current production, this should not be a problem, so long as a global plan is quickly implemented.",
+          "link": "https://www.project-syndicate.org/commentary/g20-finance-ministers-in-venice-must-adopt-covid19-vaccination-plan-by-jeffrey-d-sachs-and-juliana-bartels-2021-07",
+          "publishedOn": "2021-07-07T14:22:07.000Z",
+          "wordCount": null,
+          "title": "The G20 Must Act Now to Vaccinate the World",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/f66790ccb97ff45e357811f9082064b0.16-9-xlarge.1.jpg",
+            "length": "694566",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/did-biden-putin-geneva-meeting-advance-cybersecurity-by-joseph-s-nye-2021-07",
+          "author": "Joseph S. Nye, Jr.",
+          "description": "Even if formal cybersecurity treaties are unworkable, it may still be possible to set limits on certain types of civilian targets, and to negotiate rough rules of the road. Whether US President Joe Biden succeeded in launching such a process at his meeting last month with Russian President Vladimir Putin may become clear soon.",
+          "link": "https://www.project-syndicate.org/commentary/did-biden-putin-geneva-meeting-advance-cybersecurity-by-joseph-s-nye-2021-07",
+          "publishedOn": "2021-07-07T13:20:05.000Z",
+          "wordCount": null,
+          "title": "What Did Biden Achieve in Geneva?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/ee5da0781747dcaf5c05d75a2034637d.16-9-xlarge.1.jpg",
+            "length": "1212506",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/onpoint/covid19-shows-need-to-overhaul-public-health-data-systems-by-christopher-j-l-murray-2021-07",
+          "author": "Christopher J.L. Murray",
+          "description": "The COVID-19 crisis is far from over; in many countries, it is getting worse. By investing in digital technologies now and publishing anonymized data online, policymakers can strengthen their response to the ongoing pandemic, and act quickly when another public-health threat appears.",
+          "link": "https://www.project-syndicate.org/onpoint/covid19-shows-need-to-overhaul-public-health-data-systems-by-christopher-j-l-murray-2021-07",
+          "publishedOn": "2021-07-07T10:05:23.000Z",
+          "wordCount": null,
+          "title": "The Public-Health Data Systems We Need",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/3fba5db16283f5f4552a7847b60844ba.16-9-xlarge.1.jpg",
+            "length": "721542",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/making-the-oecd-global-corporate-tax-agreement-fairer-by-jose-antonio-ocampo-and-tommaso-faccio-2021-07",
+          "author": "José Antonio Ocampo",
+          "description": "The recent agreement by 131 countries to reform international corporate taxation is not the end of the road. But to bring about a more equitable outcome, developing countries must now push for a higher global minimum tax rate and a bigger reallocation of taxing rights, and refuse mandatory arbitration.",
+          "link": "https://www.project-syndicate.org/commentary/making-the-oecd-global-corporate-tax-agreement-fairer-by-jose-antonio-ocampo-and-tommaso-faccio-2021-07",
+          "publishedOn": "2021-07-07T08:34:55.000Z",
+          "wordCount": null,
+          "title": "How to Secure a Fairer Global Tax Deal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/476905819280b0d695ff1214d035c7e9.16-9-xlarge.1.jpg",
+            "length": "915099",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/onpoint/health-new-deal-after-covid-by-swee-kheng-khor-1-2021-07",
+          "author": "Swee Kheng Khor",
+          "description": "The post-pandemic rebuilding period must feature ambitious investments in the physical, organizational, and social infrastructure needed to ensure universal health coverage. Governments have a historic opportunity to place health at the center of all policymaking, where it belongs.",
+          "link": "https://www.project-syndicate.org/onpoint/health-new-deal-after-covid-by-swee-kheng-khor-1-2021-07",
+          "publishedOn": "2021-07-06T15:32:42.000Z",
+          "wordCount": null,
+          "title": "A Health New Deal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/c5b7964ab606a350d540a233b876dbff.16-9-xlarge.1.jpg",
+            "length": "765651",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/inflation-does-not-justify-derailing-recovery-for-workers-by-daron-acemoglu-2021-07",
+          "author": "Daron Acemoglu",
+          "description": "While the risk of sustained US inflation should not be ignored, nor should it cloud our view of what is really at stake in the current post-pandemic economy. American democracy is in trouble, and a robust, inclusive government-led recovery may offer the last best chance of putting it on a sounder footing.",
+          "link": "https://www.project-syndicate.org/commentary/inflation-does-not-justify-derailing-recovery-for-workers-by-daron-acemoglu-2021-07",
+          "publishedOn": "2021-07-06T14:54:21.000Z",
+          "wordCount": null,
+          "title": "The Real Inflation Risk",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/e10e8f5b8498ae0ef8d1b2ad6e95e58c.16-9-xlarge.1.jpg",
+            "length": "762323",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/afghanistan-taliban-implications-for-central-asia-china-russia-europe-by-djoomart-otorbaev-2021-07",
+          "author": "Djoomart Otorbaev",
+          "description": "With US and NATO troops on their way out and the Taliban making rapid territorial gains, Russia, China, and Central Asian governments are increasingly worried about what a destabilized Afghanistan will mean for the wider region. While all hope is not lost, the outlook is becoming bleaker by the day.",
+          "link": "https://www.project-syndicate.org/commentary/afghanistan-taliban-implications-for-central-asia-china-russia-europe-by-djoomart-otorbaev-2021-07",
+          "publishedOn": "2021-07-06T14:01:22.000Z",
+          "wordCount": null,
+          "title": "If Afghanistan Falls",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/a2b493a07bba2f86c4f34d9ce685b6a7.16-9-xlarge.1.jpg",
+            "length": "557280",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/onpoint/lessons-from-covid-for-drug-resistant-disease-by-muhammad-hamid-zaman-2021-07",
+          "author": "Muhammad Hamid Zaman",
+          "description": "Now that COVID-19 has illustrated the destruction that can be wrought by a single virus, there is no longer any excuse for delay in tackling the growing threat posed by antimicrobial resistance. There is still time to prevent a worst-case scenario, but the window is closing fast.",
+          "link": "https://www.project-syndicate.org/onpoint/lessons-from-covid-for-drug-resistant-disease-by-muhammad-hamid-zaman-2021-07",
+          "publishedOn": "2021-07-06T12:10:43.000Z",
+          "wordCount": null,
+          "title": "Learning from COVID to Fight Drug-Resistant Disease",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/5c8250ee7bedf8a416c4ddc1967a2fee.16-9-xlarge.1.jpg",
+            "length": "683218",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/when-should-fed-ecb-boe-end-stimulus-by-mohamed-a-el-erian-2021-07",
+          "author": "Mohamed A. El-Erian",
+          "description": "As the global economy emerges from the COVID-19 shock, systemically important central banks are faced with the unenviable task of deciding when and how quickly to phase out extraordinary stimulus measures. While there is no easy answer, there are clear criteria for maintaining policy credibility.",
+          "link": "https://www.project-syndicate.org/commentary/when-should-fed-ecb-boe-end-stimulus-by-mohamed-a-el-erian-2021-07",
+          "publishedOn": "2021-07-06T11:19:34.000Z",
+          "wordCount": null,
+          "title": "Central Banking, Fast and Slow",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/1055d5446d13fc54b97a42fc92f1091c.16-9-xlarge.1.jpg",
+            "length": "602431",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/podcasts/the-communist-party-of-china-at-100",
+          "author": "Rana Mitter",
+          "description": "The Communist Party of China, founded a century ago, has been in power for more than seven decades – and it has big plans for the future. What do those plans entail, and is the Party still strong enough to implement them?",
+          "link": "https://www.project-syndicate.org/podcasts/the-communist-party-of-china-at-100",
+          "publishedOn": "2021-07-06T10:07:51.000Z",
+          "wordCount": null,
+          "title": "The Communist Party of China at 100",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/d07ecc01afb19ae146de64859b6ae253.16-9-xlarge.1.jpg",
+            "length": "1321374",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/biden-nixon-strategy-open-russia-to-manage-china-by-melvyn-krauss-2021-07",
+          "author": "Melvyn B. Krauss",
+          "description": "Notwithstanding the predictable howls of protest from some Europeans, US President Joe Biden, French President Emmanuel Macron, and German Chancellor Angela Merkel are right to seek a thawing of ties with Russian President Vladimir Putin. If the main global threat is China, Putin has several compelling reasons to play ball.",
+          "link": "https://www.project-syndicate.org/commentary/biden-nixon-strategy-open-russia-to-manage-china-by-melvyn-krauss-2021-07",
+          "publishedOn": "2021-07-06T09:29:51.000Z",
+          "wordCount": null,
+          "title": "Joe Biden’s Nixon Strategy",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/017e3ba445444cd2157eddced4abc9c9.16-9-xlarge.1.jpg",
+            "length": "611424",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/problems-with-global-tax-reform-proposals-by-joseph-e-stiglitz-2021-07",
+          "author": "Joseph E. Stiglitz",
+          "description": "Under existing tax rules, multinational firms can escape paying their fair share of taxes by booking their income in low-tax jurisdictions, or by moving some parts of their business to these jurisdictions. Will proposed reforms deliver on their promise to boost government revenues, especially in developing countries?",
+          "link": "https://www.project-syndicate.org/commentary/problems-with-global-tax-reform-proposals-by-joseph-e-stiglitz-2021-07",
+          "publishedOn": "2021-07-06T08:40:28.000Z",
+          "wordCount": null,
+          "title": "The Global Tax Devil Is in the Details",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/32a55bbcd59f4de4434ca6445d41cf24.16-9-xlarge.1.jpg",
+            "length": "505280",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/european-household-savings-can-finance-green-digital-investments-by-ludovic-subran-1-2021-07",
+          "author": "Ludovic Subran",
+          "description": "What European households do with the cash buffers they have built up during the pandemic could have good, bad, or ugly consequences. The best option is for policymakers to help channel these savings into long-term investments that support the continent’s green and digital transformations.",
+          "link": "https://www.project-syndicate.org/commentary/european-household-savings-can-finance-green-digital-investments-by-ludovic-subran-1-2021-07",
+          "publishedOn": "2021-07-05T15:59:08.000Z",
+          "wordCount": null,
+          "title": "How to Use Europe’s Excess Savings",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/f5d21b9cf7976a39b4a6edf9b453d4d7.16-9-xlarge.1.jpg",
+            "length": "573014",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.project-syndicate.org/commentary/policies-to-mitigate-uneven-trade-impact-by-mari-pangestu-2021-07",
+          "author": "Mari Pangestu",
+          "description": "Nowadays, advocates of protectionism increasingly base their arguments on trade’s adverse distributional consequences. But governments must remember that the potential benefits of trade are far greater, provided they can put in place policies that deliver them more equitably.",
+          "link": "https://www.project-syndicate.org/commentary/policies-to-mitigate-uneven-trade-impact-by-mari-pangestu-2021-07",
+          "publishedOn": "2021-07-05T14:14:27.000Z",
+          "wordCount": null,
+          "title": "Making Trade Work for Everyone",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://webapi.project-syndicate.org/library/a316383019bb18a55692b21613ccb9aa.16-9-xlarge.1.jpg",
+            "length": "1040026",
+            "type": "image/jpeg"
+          }
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-08T05:39:18.479Z</updated>
+    <updated>2021-07-08T05:46:04.149Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Play Store: US-Politik wirft Google Unterdr�ckung der Konkurrenz vor]]></title>
+        <id>https://www.golem.de/2107/157966-rss.html</id>
+        <link href="https://www.golem.de/news/play-store-us-politik-wirft-google-unterdrueckung-der-konkurrenz-vor-2107-157966-rss.html"/>
+        <updated>2021-07-08T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[In den USA ist ein weiteres Kartellrechtsverfahren gegen Google gestartet, diesmal geht es um den Play Store. (Google Play, Google)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Convercycle E-Cargo: E-Bike als Formwandler zwischen Lastenrad und Citybike]]></title>
         <id>https://www.golem.de/2107/157963-rss.html</id>
@@ -1878,6 +1888,16 @@ Continue reading…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Battle for Civic Space in the Digital Age]]></title>
+        <id>https://www.project-syndicate.org/onpoint/civic-space-digital-technologies-activism-repression-by-koketso-moeti-2021-07</id>
+        <link href="https://www.project-syndicate.org/onpoint/civic-space-digital-technologies-activism-repression-by-koketso-moeti-2021-07"/>
+        <updated>2021-07-07T15:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Societies must address the distribution of political and economic power that drives efforts to use digital technologies for repressive ends. Otherwise, governments and corporations will continue to diminish digital citizenship to enhance their own powers or advance their private interests.]]></summary>
+        <author>
+            <name>Koketso Moeti</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Cost of the “New Way to Message on Instagram” (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27762500</id>
         <link href="https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram"/>
@@ -1888,6 +1908,16 @@ Points: 82
 # Comments: 65]]></summary>
         <author>
             <name>gmays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donald Tusk Comes Home]]></title>
+        <id>https://www.project-syndicate.org/commentary/donald-tusk-civic-platform-chairman-by-slawomir-sierakowski-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/donald-tusk-civic-platform-chairman-by-slawomir-sierakowski-2021-07"/>
+        <updated>2021-07-07T15:49:14.000Z</updated>
+        <summary type="html"><![CDATA[By reclaiming the leadership of Poland's liberal center-right party, former European Council President Donald Tusk has shaken up the Polish political scene and cast a shadow over some of its younger rising stars. To succeed, he will need to show that the Brussels technocracy didn't rub off on him.]]></summary>
+        <author>
+            <name>Sławomir Sierakowski</name>
         </author>
     </entry>
     <entry>
@@ -2045,6 +2075,16 @@ Points: 43
 # Comments: 21]]></summary>
         <author>
             <name>patternexon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fight for Open Societies Begins Again]]></title>
+        <id>https://www.project-syndicate.org/commentary/renewing-the-fight-for-democracy-human-rights-open-societies-by-mark-malloch-brown-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/renewing-the-fight-for-democracy-human-rights-open-societies-by-mark-malloch-brown-2021-07"/>
+        <updated>2021-07-07T15:19:53.000Z</updated>
+        <summary type="html"><![CDATA[For decades, democracy and human-rights advocates have operated on the assumption that a growing number of governments around the world were embracing freedom and its rules and norms. But the recent sharp reversal of a generation of progress is forcing advocates and activists to reconsider their models of change.]]></summary>
+        <author>
+            <name>Mark Malloch-Brown</name>
         </author>
     </entry>
     <entry>
@@ -2360,6 +2400,15 @@ Points: 117
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Back to Health: Agnes Binagwaho]]></title>
+        <id>https://www.project-syndicate.org/videos/back-to-health-agnes-binagwaho</id>
+        <link href="https://www.project-syndicate.org/videos/back-to-health-agnes-binagwaho"/>
+        <updated>2021-07-07T14:37:15.000Z</updated>
+        <author>
+            <name>Agnes Binagwaho</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grubhub will use Russian-made robots to deliver food on college campuses]]></title>
         <id>https://www.theverge.com/2021/7/7/22566652/grubhub-delivery-robot-yandex-college-campus-autonomous</id>
         <link href="https://www.theverge.com/2021/7/7/22566652/grubhub-delivery-robot-yandex-college-campus-autonomous"/>
@@ -2371,6 +2420,34 @@ Grubhub cited the cost...
 Continue reading…]]></summary>
         <author>
             <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to Health: Seth Berkley]]></title>
+        <id>https://www.project-syndicate.org/videos/back-to-health-seth-berkley</id>
+        <link href="https://www.project-syndicate.org/videos/back-to-health-seth-berkley"/>
+        <updated>2021-07-07T14:35:21.000Z</updated>
+        <author>
+            <name>Seth Berkley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to Health: Ann Aerts]]></title>
+        <id>https://www.project-syndicate.org/videos/back-to-health-ann-aerts</id>
+        <link href="https://www.project-syndicate.org/videos/back-to-health-ann-aerts"/>
+        <updated>2021-07-07T14:33:42.000Z</updated>
+        <author>
+            <name>Ann Aerts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The G20 Must Act Now to Vaccinate the World]]></title>
+        <id>https://www.project-syndicate.org/commentary/g20-finance-ministers-in-venice-must-adopt-covid19-vaccination-plan-by-jeffrey-d-sachs-and-juliana-bartels-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/g20-finance-ministers-in-venice-must-adopt-covid19-vaccination-plan-by-jeffrey-d-sachs-and-juliana-bartels-2021-07"/>
+        <updated>2021-07-07T14:22:07.000Z</updated>
+        <summary type="html"><![CDATA[It is imperative that the G20 finance ministers' meeting in Venice this week act to provide the COVID-19 vaccines needed to achieve worldwide comprehensive adult immunization by early 2022. Given current production, this should not be a problem, so long as a global plan is quickly implemented.]]></summary>
+        <author>
+            <name>Jeffrey D. Sachs</name>
         </author>
     </entry>
     <entry>
@@ -2543,6 +2620,16 @@ Points: 86
 # Comments: 8]]></summary>
         <author>
             <name>davegauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Did Biden Achieve in Geneva?]]></title>
+        <id>https://www.project-syndicate.org/commentary/did-biden-putin-geneva-meeting-advance-cybersecurity-by-joseph-s-nye-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/did-biden-putin-geneva-meeting-advance-cybersecurity-by-joseph-s-nye-2021-07"/>
+        <updated>2021-07-07T13:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Even if formal cybersecurity treaties are unworkable, it may still be possible to set limits on certain types of civilian targets, and to negotiate rough rules of the road. Whether US President Joe Biden succeeded in launching such a process at his meeting last month with Russian President Vladimir Putin may become clear soon.]]></summary>
+        <author>
+            <name>Joseph S. Nye, Jr.</name>
         </author>
     </entry>
     <entry>
@@ -3094,6 +3181,16 @@ The win by Adams, currently Brooklyn borough president, "permissions every Democ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Public-Health Data Systems We Need]]></title>
+        <id>https://www.project-syndicate.org/onpoint/covid19-shows-need-to-overhaul-public-health-data-systems-by-christopher-j-l-murray-2021-07</id>
+        <link href="https://www.project-syndicate.org/onpoint/covid19-shows-need-to-overhaul-public-health-data-systems-by-christopher-j-l-murray-2021-07"/>
+        <updated>2021-07-07T10:05:23.000Z</updated>
+        <summary type="html"><![CDATA[The COVID-19 crisis is far from over; in many countries, it is getting worse. By investing in digital technologies now and publishing anonymized data online, policymakers can strengthen their response to the ongoing pandemic, and act quickly when another public-health threat appears.]]></summary>
+        <author>
+            <name>Christopher J.L. Murray</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Haushalte geben im Schnitt 233 Euro monatlich fürs Auto aus, 33 für den ÖPNV]]></title>
         <id>https://www.heise.de/hintergrund/Haushalte-geben-im-Schnitt-233-Euro-monatlich-fuers-Auto-aus-33-fuer-den-OePNV-6130719.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/hintergrund/Haushalte-geben-im-Schnitt-233-Euro-monatlich-fuers-Auto-aus-33-fuer-den-OePNV-6130719.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -3330,6 +3427,16 @@ Imagine an octopus that can fit in the palm of your hand. Except you...]]></summ
         <summary type="html"><![CDATA[In den vergangenen Wochen wurden mehrere bedeutende Firmen Opfer von Ransomware. Die USA räumen nun dem Kampf gegen die Kriminellen höchste Priorität ein. Doch wie funktioniert Ransomware überhaupt, und wer steckt dahinter?]]></summary>
         <author>
             <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure a Fairer Global Tax Deal]]></title>
+        <id>https://www.project-syndicate.org/commentary/making-the-oecd-global-corporate-tax-agreement-fairer-by-jose-antonio-ocampo-and-tommaso-faccio-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/making-the-oecd-global-corporate-tax-agreement-fairer-by-jose-antonio-ocampo-and-tommaso-faccio-2021-07"/>
+        <updated>2021-07-07T08:34:55.000Z</updated>
+        <summary type="html"><![CDATA[The recent agreement by 131 countries to reform international corporate taxation is not the end of the road. But to bring about a more equitable outcome, developing countries must now push for a higher global minimum tax rate and a bigger reallocation of taxing rights, and refuse mandatory arbitration.]]></summary>
+        <author>
+            <name>José Antonio Ocampo</name>
         </author>
     </entry>
     <entry>
@@ -4459,6 +4566,16 @@ Sony's console business is by most accounts firing all on cylinders, with record
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Health New Deal]]></title>
+        <id>https://www.project-syndicate.org/onpoint/health-new-deal-after-covid-by-swee-kheng-khor-1-2021-07</id>
+        <link href="https://www.project-syndicate.org/onpoint/health-new-deal-after-covid-by-swee-kheng-khor-1-2021-07"/>
+        <updated>2021-07-06T15:32:42.000Z</updated>
+        <summary type="html"><![CDATA[The post-pandemic rebuilding period must feature ambitious investments in the physical, organizational, and social infrastructure needed to ensure universal health coverage. Governments have a historic opportunity to place health at the center of all policymaking, where it belongs.]]></summary>
+        <author>
+            <name>Swee Kheng Khor</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chevy Killed a Flat-Plane Crank, Z06 V8-Powered Camaro Z/28]]></title>
         <id>https://www.thedrive.com/news/41416/chevy-killed-a-flat-plane-crank-z06-v8-powered-camaro-z-28</id>
         <link href="https://www.thedrive.com/news/41416/chevy-killed-a-flat-plane-crank-z06-v8-powered-camaro-z-28"/>
@@ -4558,6 +4675,16 @@ The post China and the US race to dominate the ultimate strategic high ground: s
 The post When We Eat, We Are Eating the World appeared first on Dark Mountain.]]></summary>
         <author>
             <name>Mark Watson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Inflation Risk]]></title>
+        <id>https://www.project-syndicate.org/commentary/inflation-does-not-justify-derailing-recovery-for-workers-by-daron-acemoglu-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/inflation-does-not-justify-derailing-recovery-for-workers-by-daron-acemoglu-2021-07"/>
+        <updated>2021-07-06T14:54:21.000Z</updated>
+        <summary type="html"><![CDATA[While the risk of sustained US inflation should not be ignored, nor should it cloud our view of what is really at stake in the current post-pandemic economy. American democracy is in trouble, and a robust, inclusive government-led recovery may offer the last best chance of putting it on a sounder footing.]]></summary>
+        <author>
+            <name>Daron Acemoglu</name>
         </author>
     </entry>
     <entry>
@@ -4687,6 +4814,16 @@ The post Watch: The Dalai Lama shares 86th birthday message appeared first on Li
         <summary type="html"><![CDATA[Wind your way towards Sidewinders, the second installment in Robert V. S. Redick’s Fire Sacrament trilogy. Follow along in his Big Idea as he tells you of the genius that went into creating this novel. ROBERT V. S. REDICK: On the last page of my epic fantasy Master Assassins, everyone is laughing.  Everyone who isn’t dead, that […]]]></summary>
         <author>
             <name>Athena Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Afghanistan Falls]]></title>
+        <id>https://www.project-syndicate.org/commentary/afghanistan-taliban-implications-for-central-asia-china-russia-europe-by-djoomart-otorbaev-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/afghanistan-taliban-implications-for-central-asia-china-russia-europe-by-djoomart-otorbaev-2021-07"/>
+        <updated>2021-07-06T14:01:22.000Z</updated>
+        <summary type="html"><![CDATA[With US and NATO troops on their way out and the Taliban making rapid territorial gains, Russia, China, and Central Asian governments are increasingly worried about what a destabilized Afghanistan will mean for the wider region. While all hope is not lost, the outlook is becoming bleaker by the day.]]></summary>
+        <author>
+            <name>Djoomart Otorbaev</name>
         </author>
     </entry>
     <entry>
@@ -4887,6 +5024,16 @@ The post The US military needs to burn down its zero-tolerance weed policy appea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Learning from COVID to Fight Drug-Resistant Disease]]></title>
+        <id>https://www.project-syndicate.org/onpoint/lessons-from-covid-for-drug-resistant-disease-by-muhammad-hamid-zaman-2021-07</id>
+        <link href="https://www.project-syndicate.org/onpoint/lessons-from-covid-for-drug-resistant-disease-by-muhammad-hamid-zaman-2021-07"/>
+        <updated>2021-07-06T12:10:43.000Z</updated>
+        <summary type="html"><![CDATA[Now that COVID-19 has illustrated the destruction that can be wrought by a single virus, there is no longer any excuse for delay in tackling the growing threat posed by antimicrobial resistance. There is still time to prevent a worst-case scenario, but the window is closing fast.]]></summary>
+        <author>
+            <name>Muhammad Hamid Zaman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Only Genuine Compassion Will Do]]></title>
         <id>http://www.lionsroar.com/only-genuine-compassion-will-do/</id>
         <link href="https://www.lionsroar.com/only-genuine-compassion-will-do/"/>
@@ -5015,6 +5162,16 @@ Abolishing tenure is the least of my proposals]]></summary>
         <summary type="html"><![CDATA[Der TV-Sender Fox wird künftig nicht mehr bei Sky zu sehen sein: Disney stellt den Kanal nun auch in Deutschland ein.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Central Banking, Fast and Slow]]></title>
+        <id>https://www.project-syndicate.org/commentary/when-should-fed-ecb-boe-end-stimulus-by-mohamed-a-el-erian-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/when-should-fed-ecb-boe-end-stimulus-by-mohamed-a-el-erian-2021-07"/>
+        <updated>2021-07-06T11:19:34.000Z</updated>
+        <summary type="html"><![CDATA[As the global economy emerges from the COVID-19 shock, systemically important central banks are faced with the unenviable task of deciding when and how quickly to phase out extraordinary stimulus measures. While there is no easy answer, there are clear criteria for maintaining policy credibility.]]></summary>
+        <author>
+            <name>Mohamed A. El-Erian</name>
         </author>
     </entry>
     <entry>
@@ -5151,6 +5308,16 @@ The post The spectre of inflation is haunting Britain appeared first on CapX.]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Communist Party of China at 100]]></title>
+        <id>https://www.project-syndicate.org/podcasts/the-communist-party-of-china-at-100</id>
+        <link href="https://www.project-syndicate.org/podcasts/the-communist-party-of-china-at-100"/>
+        <updated>2021-07-06T10:07:51.000Z</updated>
+        <summary type="html"><![CDATA[The Communist Party of China, founded a century ago, has been in power for more than seven decades – and it has big plans for the future. What do those plans entail, and is the Party still strong enough to implement them?]]></summary>
+        <author>
+            <name>Rana Mitter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Did the Police Shoot Matthew Zadok Williams?]]></title>
         <id>608ae2add9873c5d7bcddf6f</id>
         <link href="https://www.newyorker.com/news/us-journal/why-did-the-police-shoot-matthew-zadok-williams"/>
@@ -5283,6 +5450,16 @@ Ransomware is rewriting the insurance rulebook. The rampant growth in digital ex
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Joe Biden’s Nixon Strategy]]></title>
+        <id>https://www.project-syndicate.org/commentary/biden-nixon-strategy-open-russia-to-manage-china-by-melvyn-krauss-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/biden-nixon-strategy-open-russia-to-manage-china-by-melvyn-krauss-2021-07"/>
+        <updated>2021-07-06T09:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Notwithstanding the predictable howls of protest from some Europeans, US President Joe Biden, French President Emmanuel Macron, and German Chancellor Angela Merkel are right to seek a thawing of ties with Russian President Vladimir Putin. If the main global threat is China, Putin has several compelling reasons to play ball.]]></summary>
+        <author>
+            <name>Melvyn B. Krauss</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RED-Umsetzung: Open-Source-Szene droht Ausschluss aus der Funktechnik]]></title>
         <id>https://www.heise.de/news/RED-Umsetzung-Open-Source-Szene-droht-Ausschluss-aus-der-Funktechnik-6129525.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/RED-Umsetzung-Open-Source-Szene-droht-Ausschluss-aus-der-Funktechnik-6129525.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -5300,6 +5477,16 @@ Ransomware is rewriting the insurance rulebook. The rampant growth in digital ex
         <summary type="html"><![CDATA[Apple hatte Pegatron wegen Verstößen auf Bewährung gesetzt. Nun erhält der Auftragsfertiger angeblich größere Aufträge für die Produktion des iPhone 13.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Global Tax Devil Is in the Details]]></title>
+        <id>https://www.project-syndicate.org/commentary/problems-with-global-tax-reform-proposals-by-joseph-e-stiglitz-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/problems-with-global-tax-reform-proposals-by-joseph-e-stiglitz-2021-07"/>
+        <updated>2021-07-06T08:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Under existing tax rules, multinational firms can escape paying their fair share of taxes by booking their income in low-tax jurisdictions, or by moving some parts of their business to these jurisdictions. Will proposed reforms deliver on their promise to boost government revenues, especially in developing countries?]]></summary>
+        <author>
+            <name>Joseph E. Stiglitz</name>
         </author>
     </entry>
     <entry>
@@ -5986,6 +6173,16 @@ The post The Life-Changing Words of Mary Oliver appeared first on Lion's Roar.]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Use Europe’s Excess Savings]]></title>
+        <id>https://www.project-syndicate.org/commentary/european-household-savings-can-finance-green-digital-investments-by-ludovic-subran-1-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/european-household-savings-can-finance-green-digital-investments-by-ludovic-subran-1-2021-07"/>
+        <updated>2021-07-05T15:59:08.000Z</updated>
+        <summary type="html"><![CDATA[What European households do with the cash buffers they have built up during the pandemic could have good, bad, or ugly consequences. The best option is for policymakers to help channel these savings into long-term investments that support the continent’s green and digital transformations.]]></summary>
+        <author>
+            <name>Ludovic Subran</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Power and Pervasiveness of Spontaneous Order]]></title>
         <id>https://www.econlib.org/library/columns/y2021/sternbergspontaneousorder.html</id>
         <link href="https://www.econlib.org/library/columns/y2021/sternbergspontaneousorder.html"/>
@@ -6144,6 +6341,16 @@ In the 21st century, the newspaper industry has lost advertising revenue to Inte
         <summary type="html"><![CDATA[Drei Monate nach der Ankündigung soll "Rust for Linux" jetzt für die Entwicklung von Linux-Treibern und Kernel-Modulen bereit sein.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Trade Work for Everyone]]></title>
+        <id>https://www.project-syndicate.org/commentary/policies-to-mitigate-uneven-trade-impact-by-mari-pangestu-2021-07</id>
+        <link href="https://www.project-syndicate.org/commentary/policies-to-mitigate-uneven-trade-impact-by-mari-pangestu-2021-07"/>
+        <updated>2021-07-05T14:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, advocates of protectionism increasingly base their arguments on trade’s adverse distributional consequences. But governments must remember that the potential benefits of trade are far greater, provided they can put in place policies that deliver them more equitably.]]></summary>
+        <author>
+            <name>Mari Pangestu</name>
         </author>
     </entry>
     <entry>
@@ -13045,16 +13252,6 @@ The post UFOs: The Silly Season Comes Early first appeared on Gwynne Dyer.]]></s
         <summary type="html"><![CDATA[I recently appeared on ‘The Deep Dive’ show to discuss Bitfinex and Tether. We discuss the NYAG investigation, the history of Bitfinex and Tether, and more.]]></summary>
         <author>
             <name>Bennett Tomlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are the jobs gone forever?]]></title>
-        <id>https://www.themoneyillusion.com/?p=34603</id>
-        <link href="http://feedproxy.google.com/~r/Themoneyillusion/~3/R1Ud5loHL-k/"/>
-        <updated>2021-06-08T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post, I linked to a Tyler Cowen post that quoted Betsey Stevenson: The problem is that old jobs are long gone for the vast majority of those who remain unemployed. In a narrow technical sense that may be true. But according to Yahoo, this is also true: More signs of labor shortages […]]]></summary>
-        <author>
-            <name>ssumner</name>
         </author>
     </entry>
 </feed>

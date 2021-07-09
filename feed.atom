@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-09T07:14:11.045Z</updated>
+    <updated>2021-07-09T07:21:13.122Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -47,6 +47,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft: Neuer Windows 11-Build mit vielen �nderungen ver�ffentlicht]]></title>
+        <id>https://www.golem.de/2107/158006-rss.html</id>
+        <link href="https://www.golem.de/news/microsoft-neuer-windows-11-build-mit-vielen-aenderungen-veroeffentlicht-2107-158006-rss.html"/>
+        <updated>2021-07-09T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Der neue Windows 11 Build 22000.65 f�r die Insider im Dev Channel bietet zahlreiche �nderungen und Verbesserungen. (Windows 11, Microsoft)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dawn raids are not the way to enforce our immigration rules]]></title>
         <id>https://capx.co/?p=213059</id>
         <link href="https://capx.co/dawn-raids-are-not-the-way-to-enforce-our-immigration-rules/"/>
@@ -58,6 +68,16 @@ The post Dawn raids are not the way to enforce our immigration rules appeared fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biontech/Pfizer: Dritte Corona-Impfung zur Auffrischung "wahrscheinlich"]]></title>
+        <id>https://www.heise.de/news/Biontech-Pfizer-Dritte-Corona-Impfung-zur-Auffrischung-wahrscheinlich-6132980.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Biontech-Pfizer-Dritte-Corona-Impfung-zur-Auffrischung-wahrscheinlich-6132980.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-09T07:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Sechs Monate nach der zweiten Impfung mit dem COVID-19-Vakzin von Biontech/Pifzer sollte eine dritte Impfung erfolgen, zeigen aktuelle Daten.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Trend - 09.07.21]]></title>
         <id>https://de.downmagaz.net/business_magazine_economics_deutsch/76303-trend-090721.html</id>
         <link href="https://de.downmagaz.net/business_magazine_economics_deutsch/76303-trend-090721.html"/>
@@ -65,6 +85,16 @@ The post Dawn raids are not the way to enforce our immigration rules appeared fi
         <summary type="html"><![CDATA[Trend - 09. Juli 2021Deutsch | 116 Seiten | PDF | 82.8 MBDie TREND unterteilt sich in sechs Hauptbereiche, die wiederum unterschiedliche Rubriken abdecken. Die Aufteilung sieht in jeder Ausgabe wie folgt aus:•Start: In dieser Rubrik finden vor allem aktuelle Themen Platz. Interviews, kurze Umfragen]]></summary>
         <author>
             <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euro/Dollar : Euro hält sich über 1,18 US-Dollar]]></title>
+        <id>https://www.handelsblatt.com/27406490.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/euro-dollar-euro-haelt-sich-ueber-1-18-us-dollar/27406490.html"/>
+        <updated>2021-07-09T07:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Der Euro hat sich etwas von seinen Verlusten der vergangenen Wochen erholt. Noch am Mittwoch war der Kurs auf einen dreimonatigen Tiefstand gefallen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
         </author>
     </entry>
     <entry>
@@ -118,6 +148,16 @@ The post Dawn raids are not the way to enforce our immigration rules appeared fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ölkartell-Treffen: Ölpreise steigen leicht – Starke Wochenverluste]]></title>
+        <id>https://www.handelsblatt.com/27406476.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelkartell-treffen-oelpreise-steigen-leicht-starke-wochenverluste/27406476.html"/>
+        <updated>2021-07-09T06:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Trotz der jüngsten Stabilisierung haben die Ölpreise in der laufenden Woche kräftig nachgegeben. In der Spitze betrugen die Verluste etwa sechs Dollar.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TV Hören und Sehen - 09.07.21]]></title>
         <id>https://de.downmagaz.net/film_magazine_deutsch/76299-tv-horen-und-sehen-090721.html</id>
         <link href="https://de.downmagaz.net/film_magazine_deutsch/76299-tv-horen-und-sehen-090721.html"/>
@@ -125,6 +165,16 @@ The post Dawn raids are not the way to enforce our immigration rules appeared fi
         <summary type="html"><![CDATA[TV Hören und Sehen - 09. Juli 2021Deutsch | 136 Seiten | PDF | 130.6 MBGroße Erlebnis-Reportagen international renommierter Autoren, Exklusiv-Interviews und fundierte Hintergrundberichte bieten einen anspruchsvollen Rahmen für den wöchentlichen Programmteil. tv Hören und Sehen unterscheidet sich]]></summary>
         <author>
             <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistisches Bundesamt: Bauen in Deutschland wird immer teurer]]></title>
+        <id>https://www.handelsblatt.com/27406480.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/statistisches-bundesamt-bauen-in-deutschland-wird-immer-teurer/27406480.html"/>
+        <updated>2021-07-09T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Kosten für das Eigenheim steigen und steigen. Zuletzt war der Finanzierungsprung 2007 höher. Dabei spielt Holz eine wichtige Rolle.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
         </author>
     </entry>
     <entry>
@@ -187,6 +237,16 @@ Sentences to ponder solve for the cycling equilibrium]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Interview: EU-Gesundheitskommissarin: „Müssen uns auf härtere Maßnahmen vorbereiten“]]></title>
+        <id>https://www.handelsblatt.com/27399540.html</id>
+        <link href="https://www.handelsblatt.com/politik/interview-eu-gesundheitskommissarin-muessen-uns-auf-haertere-massnahmen-vorbereiten/27399540.html"/>
+        <updated>2021-07-09T06:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Den Kampf gegen Corona sieht Stella Kyriakides in einer entscheidenden Phase. Die Regierungen müssten der Delta-Variante mit einem höheren Impftempo begegnen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nur Elektroautos: Opel verabschiedet sich 2028 vom Verbrenner]]></title>
         <id>https://www.golem.de/2107/158005-rss.html</id>
         <link href="https://www.golem.de/news/nur-e-autos-opel-verabschiedet-sich-2028-vom-verbrenner-2107-158005-rss.html"/>
@@ -194,6 +254,16 @@ Sentences to ponder solve for the cycling equilibrium]]></summary>
         <summary type="html"><![CDATA[Der Blitz im Logo bekommt eine neue Bedeutung: Ab 2028 gibt es nur noch E-Autos von Opel. (Opel, Technologie)]]></summary>
         <author>
             <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corona: Parkplätze, Jobcenter, Festivals: Länder planen neue Impf-Angebote]]></title>
+        <id>https://www.handelsblatt.com/27406426.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/corona-parkplaetze-jobcenter-festivals-laender-planen-neue-impf-angebote/27406426.html"/>
+        <updated>2021-07-09T06:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Im Kampf gegen Corona sollen möglichst viele für Impfungen gewonnen werden - und Termine sind nicht mehr so knapp. Deshalb sind jetzt vor Ort auch ungewöhnliche Aktionen geplant.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
         </author>
     </entry>
     <entry>
@@ -234,6 +304,26 @@ Sentences to ponder solve for the cycling equilibrium]]></summary>
         <summary type="html"><![CDATA[Harley-Davidson hat mit der Livewire One ein zweites Elektromotorrad vorgestellt. Es soll g�nstiger als das der Erstling sein. Ob das die Kunden lockt? (Harley-Davidson, Technologie)]]></summary>
         <author>
             <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agrarclaim: „Landwirte erhalten ihr Geld sofort“: Anwälte sammeln Forderungen gegen Pflanzenschutzkartell]]></title>
+        <id>https://www.handelsblatt.com/27404828.html</id>
+        <link href="https://www.handelsblatt.com/unternehmen/handel-konsumgueter/agrarclaim-landwirte-erhalten-ihr-geld-sofort-anwaelte-sammeln-forderungen-gegen-pflanzenschutzkartell/27404828.html"/>
+        <updated>2021-07-09T06:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Ein Rechtsdienstleister wirbt um Landwirte, die zu viel für Pflanzenschutzmittel bezahlt haben. Die könnten bis zu 20 Prozent der Mehrausgaben zurückbekommen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nikkei, Topix und Co.: Kursrutsch am Aktienmarkt setzt sich in Asien fort – Nikkei vor Korrektur]]></title>
+        <id>https://www.handelsblatt.com/27406130.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-und-co-kursrutsch-am-aktienmarkt-setzt-sich-in-asien-fort-nikkei-vor-korrektur/27406130.html"/>
+        <updated>2021-07-09T06:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Die sich ausbreitende Delta-Variante belastet die Stimmung an den asiatischen Börsen: Alle wichtige Indizes geben nach. Anleger setzen dafür auf andere Anlageklassen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
         </author>
     </entry>
     <entry>
@@ -492,6 +582,16 @@ Let’s all have a revisionist Fourth of July]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Börse am 9. Juli: Sieben Punkte, die für Anleger heute wichtig sind]]></title>
+        <id>https://www.handelsblatt.com/27034552.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-am-9-juli-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/27034552.html"/>
+        <updated>2021-07-09T04:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Die Achterbahnfahrt am deutschen Aktienindex geht weiter. Kann der Dax die Verluste vom Donnerstag aufholen? Die wichtigsten Punkte.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gewerkschaft Verdi: Lage der Lufthansa bleibt angespannt]]></title>
         <id>https://www.heise.de/news/Gewerkschaft-Verdi-Lage-der-Lufthansa-bleibt-angespannt-6132923.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Gewerkschaft-Verdi-Lage-der-Lufthansa-bleibt-angespannt-6132923.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -628,6 +728,26 @@ Congrats to all of our spellers. We're proud of everyone's poise and courage in 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Corona-Zahlen in Deutschland: RKI registriert 949 Corona-Neuinfektionen – Inzidenz bei 5,5]]></title>
+        <id>https://www.handelsblatt.com/26639082.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/corona-zahlen-in-deutschland-rki-registriert-949-corona-neuinfektionen-inzidenz-bei-5-5/26639082.html"/>
+        <updated>2021-07-09T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Im Vergleich zur Vorwoche ist die Zahl der Neuinfektionen leicht gestiegen. Auch die Inzidenz steigt den dritten Tag in Folge.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[+++ Corona-News +++: RKI meldet dritten Tag in Folge steigende Inzidenz – Dreyer: „Können Deutschland nicht abschließen“]]></title>
+        <id>https://www.handelsblatt.com/25471608.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/corona-news-rki-meldet-dritten-tag-in-folge-steigende-inzidenz-dreyer-koennen-deutschland-nicht-abschliessen/25471608.html"/>
+        <updated>2021-07-09T02:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Parkplätze, Jobcenter, Festivals: Länder planen neue Impf-Angebote +++ Auch Corona-Genesene erhalten nun digitalen Nachweis in der Apotheke +++ Der Newsblog.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chinas IT-Behörde erhält international mehr Einfluss]]></title>
         <id>https://www.heise.de/news/Bericht-Chinas-IT-Behoerde-erhaelt-international-mehr-Einfluss-6132903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
         <link href="https://www.heise.de/news/Bericht-Chinas-IT-Behoerde-erhaelt-international-mehr-Einfluss-6132903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
@@ -635,6 +755,66 @@ Congrats to all of our spellers. We're proud of everyone's poise and courage in 
         <summary type="html"><![CDATA[Chinas Digital-Aufsicht soll internationale Tätigkeiten chinesischer Firmen überwachen. Die Behörde könnte sogar Börsengänge im Ausland verhindern.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martin Kreienbaum, Achim Pross: Der eine Erfinder, der andere Architekt: Wie zwei Deutsche die globale Mindeststeuer auf den Weg brachten]]></title>
+        <id>https://www.handelsblatt.com/27403820.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/martin-kreienbaum-achim-pross-der-eine-erfinder-der-andere-architekt-wie-zwei-deutsche-die-globale-mindeststeuer-auf-den-weg-brachten/27403820.html"/>
+        <updated>2021-07-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In Venedig werden die G20-Finanzminister am Samstag eine globale Steuerreform beschließen. Zwei Deutsche haben das historische Projekt eingefädelt und vorangetrieben.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview : Nadia Calviño: „Es liegt auch im deutschen Interesse, dass Spanien stark wächst“]]></title>
+        <id>https://www.handelsblatt.com/27394606.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/interview-nadia-calvino-es-liegt-auch-im-deutschen-interesse-dass-spanien-stark-waechst/27394606.html"/>
+        <updated>2021-07-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spaniens Wirtschaftsministerin verteidigt die Transferzahlungen aus dem Wiederaufbaufonds und verspricht, die Regierung werde einen Strukturwandel umsetzen. Von Europa fordert sie mehr Emanzipation – auch gegenüber den USA.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serie: Das bessere Wachstum: Billionen-Investitionen für die globale Wirtschaft: Beispiellose Chance – und riskante Wette]]></title>
+        <id>https://www.handelsblatt.com/27402630.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/serie-das-bessere-wachstum-billionen-investitionen-fuer-die-globale-wirtschaft-beispiellose-chance-und-riskante-wette/27402630.html"/>
+        <updated>2021-07-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Weltweit wollen Staaten ihre Wirtschaft nach der Pandemie mit Rekordinvestitionen transformieren. Das Handelsblatt zeigt, wie Länder ihr Wachstum verbessern wollen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beschwerdebrief: Bafin-Personalrat fordert „angemessene, finanzielle Kompensation“ für verbotene Aktiengeschäfte]]></title>
+        <id>https://www.handelsblatt.com/27401198.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/beschwerdebrief-bafin-personalrat-fordert-angemessene-finanzielle-kompensation-fuer-verbotene-aktiengeschaefte/27401198.html"/>
+        <updated>2021-07-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Seit dem Wirecard-Skandal dürfen Bafin-Mitarbeiter kaum noch privat Aktien handeln. Der Personalrat warnt vor „erheblichen Einschränkungen beim Vermögensaufbau und der Altersvorsorge“.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infrastrukturpolitik: Späte Gegenoffensive: Außenminister der EU wollen europäische Antwort auf Chinas Seidenstraße vorlegen]]></title>
+        <id>https://www.handelsblatt.com/27404002.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/infrastrukturpolitik-spaete-gegenoffensive-aussenminister-der-eu-wollen-europaeische-antwort-auf-chinas-seidenstrasse-vorlegen/27404002.html"/>
+        <updated>2021-07-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Widerstand gegen Chinas Seidenstraße wächst, die EU will nun reagieren. Doch Mitgliedsstaaten und Kommission drohen sich in bürokratischen Scharmützeln zu verheddern.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandemiebekämpfung: Keine Strategie für den Herbst: Deutschland droht ein Corona-Déjà-vu]]></title>
+        <id>https://www.handelsblatt.com/27403268.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/pandemiebekaempfung-keine-strategie-fuer-den-herbst-deutschland-droht-ein-corona-deja-vu-/27403268.html"/>
+        <updated>2021-07-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Fallzahlen steigen, eine vierte Welle wird wahrscheinlicher. In Deutschland könnten sich die Fehler des vergangenen Sommers wiederholen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
         </author>
     </entry>
     <entry>
@@ -746,6 +926,16 @@ What he's saying: Biden set an Aug. 31 deadline to end U.S. military operations 
 He responded directly to critics, arguing that "the status quo is not an option" because the Taliban would resume attacks on U.S. troops, potentially necessitating deployments of additi…]]></summary>
         <author>
             <name>Dave Lawler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flugzeugbauer: Chinesische Luftfahrtbehörde erwägt Boeing 737 Max zu testen]]></title>
+        <id>https://www.handelsblatt.com/27406050.html</id>
+        <link href="https://www.handelsblatt.com/unternehmen/handel-konsumgueter/flugzeugbauer-chinesische-luftfahrtbehoerde-erwaegt-boeing-737-max-zu-testen/27406050.html"/>
+        <updated>2021-07-08T23:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Boeing plant ein Treffen mit China Ende des Monats. Spannungen zwischen den Handelsmächten hatten das bisher verhindert. Die Aktie reagiert positiv.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
         </author>
     </entry>
     <entry>
@@ -1043,6 +1233,16 @@ Continue reading…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[+++ Geschäftszahlen im Newsblog +++: Synlab wird noch optimistischer für 2021 – Levi Strauss profitiert von steigender Nachfrage]]></title>
+        <id>https://www.handelsblatt.com/24098412.html</id>
+        <link href="https://www.handelsblatt.com/unternehmen/industrie/-geschaeftszahlen-im-newsblog-synlab-wird-noch-optimistischer-fuer-2021-levi-strauss-profitiert-von-steigender-nachfrage/24098412.html"/>
+        <updated>2021-07-08T21:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Deliveroo wächst stark und erhöht die Prognose. Stellantis übertrifft die eigenen Ziele. Shell will wegen hoher Ölpreise mehr Dividende ausschütten.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Qualcomm’s $1,500 smartphone is for its biggest fans with more money than sense]]></title>
         <id>https://www.theverge.com/2021/7/8/22568641/qualcomm-asus-smartphone-snapdragon-insiders-technology</id>
         <link href="https://www.theverge.com/2021/7/8/22568641/qualcomm-asus-smartphone-snapdragon-insiders-technology"/>
@@ -1277,6 +1477,16 @@ Points: 67
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Brexit: Großbritannien muss offenbar über 47 Milliarden Euro für EU-Ausstieg zahlen]]></title>
+        <id>https://www.handelsblatt.com/27405970.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/brexit-grossbritannien-muss-offenbar-ueber-47-milliarden-euro-fuer-eu-ausstieg-zahlen/27405970.html"/>
+        <updated>2021-07-08T19:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Brexit kommt dem Vereinigten Königreich einem Medienbericht zufolge teuer zu stehen. Die Zahlen sind demnach im Haushaltsbericht für 2020 enthalten.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tenacity: Floss Audacity Fork]]></title>
         <id>https://news.ycombinator.com/item?id=27776771</id>
         <link href="https://github.com/tenacityteam/tenacity"/>
@@ -1367,6 +1577,16 @@ What they're saying: "Michael Avenatti used illegal and extortionate threats and
 "Not only did Avenatti attempt to weaponize his law license and celebrity to seek to extort payments for himself, he also defrauded his own client. Avenatti will now serve substantial time in prison for his criminal conduct," she added.]]></summary>
         <author>
             <name>Ivana Saric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finanzierung: Komplettübernahme der Media-Saturn-Holding durch Ceconomy stockt]]></title>
+        <id>https://www.handelsblatt.com/27405932.html</id>
+        <link href="https://www.handelsblatt.com/unternehmen/handel-konsumgueter/finanzierung-komplettuebernahme-der-media-saturn-holding-durch-ceconomy-stockt/27405932.html"/>
+        <updated>2021-07-08T19:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Konzern verweist auf die Entscheidung des Oberlandesgerichts Düsseldorf zur Freigabe einer geplanten Kaitalerhöhung. Anleger hatten gegen die Kapitalmaßnahme geklagt]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
         </author>
     </entry>
     <entry>
@@ -3773,6 +3993,19 @@ The Public Choice Outreach Conference!]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What does 100% mean in CSS? (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27769291</id>
+        <link href="https://wattenberger.com/blog/css-percents"/>
+        <updated>2021-07-08T07:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wattenberger.com/blog/css-percents
+Comments URL: https://news.ycombinator.com/item?id=27769291
+Points: 114
+# Comments: 30]]></summary>
+        <author>
+            <name>feross</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bundestagswahl: Parteien m�ssen ihre IT-Sicherheit st�rken]]></title>
         <id>https://www.golem.de/2107/157970-rss.html</id>
         <link href="https://www.golem.de/news/bundestagswahl-parteien-muessen-ihre-it-sicherheit-staerken-2107-157970-rss.html"/>
@@ -3780,6 +4013,19 @@ The Public Choice Outreach Conference!]]></summary>
         <summary type="html"><![CDATA[Gerade im Wahljahr sind politische Parteien attraktive Angriffsziele. Doch bei der IT-Sicherheit ist offenbar noch einiges zu tun. (Datensicherheit, Applikationen)]]></summary>
         <author>
             <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Connect your bank account to Google Sheets]]></title>
+        <id>https://news.ycombinator.com/item?id=27769266</id>
+        <link href="https://github.com/nordigen/GSheets-track-finances"/>
+        <updated>2021-07-08T07:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/nordigen/GSheets-track-finances
+Comments URL: https://news.ycombinator.com/item?id=27769266
+Points: 53
+# Comments: 58]]></summary>
+        <author>
+            <name>robertsbernans</name>
         </author>
     </entry>
     <entry>
@@ -17219,16 +17465,6 @@ Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarz
         <summary type="html"><![CDATA[From the lovely Minneapolis Fed website that computes probabilities from option prices.]]></summary>
         <author>
             <name>The Grumpy Economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Market as a Social Space, and What Happens When The Firms that Occupy That Space Disappear Due to Economic Disruption]]></title>
-        <id>https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html</id>
-        <link href="https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html"/>
-        <updated>2021-06-09T19:15:55.000Z</updated>
-        <summary type="html"><![CDATA[|Peter Boettke| Virgil Storr is one of the most perceptive and intellectually challenging social scientists I know. He also writes with grace and eloquence, but leave that aside at the moment. He has pushed an argument for many years now...]]></summary>
-        <author>
-            <name>Peter Boettke</name>
         </author>
     </entry>
 </feed>

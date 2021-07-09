@@ -3710,6 +3710,24 @@
           "title": "All public GitHub code was used in training Copilot"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27769291",
+          "author": "feross",
+          "description": "Article URL: https://wattenberger.com/blog/css-percents\nComments URL: https://news.ycombinator.com/item?id=27769291\nPoints: 114\n# Comments: 30",
+          "link": "https://wattenberger.com/blog/css-percents",
+          "publishedOn": "2021-07-08T07:47:03.000Z",
+          "wordCount": 10,
+          "title": "What does 100% mean in CSS? (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27769266",
+          "author": "robertsbernans",
+          "description": "Article URL: https://github.com/nordigen/GSheets-track-finances\nComments URL: https://news.ycombinator.com/item?id=27769266\nPoints: 53\n# Comments: 58",
+          "link": "https://github.com/nordigen/GSheets-track-finances",
+          "publishedOn": "2021-07-08T07:42:18.000Z",
+          "wordCount": 652,
+          "title": "Show HN: Connect your bank account to Google Sheets"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27768127",
           "author": "pseudolus",
           "description": "Article URL: https://www.npr.org/2021/07/07/1013934643/more-than-30-states-sue-google-over-extravagant-fees-in-google-play-store\nComments URL: https://news.ycombinator.com/item?id=27768127\nPoints: 66\n# Comments: 63",
@@ -5195,15 +5213,6 @@
           "publishedOn": "2021-06-28T16:10:41.000Z",
           "wordCount": 1522,
           "title": "\"At the end of the day I think I am a teacher\" -- Steve Horwitz (1964-2021)"
-        },
-        {
-          "id": "https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html",
-          "author": "Peter Boettke",
-          "description": "|Peter Boettke| Virgil Storr is one of the most perceptive and intellectually challenging social scientists I know. He also writes with grace and eloquence, but leave that aside at the moment. He has pushed an argument for many years now...",
-          "link": "https://www.coordinationproblem.org/2021/06/the-market-as-a-social-space-and-what-happens-when-the-firms-that-occupy-that-space-disappear-due-to.html",
-          "publishedOn": "2021-06-09T19:15:55.000Z",
-          "wordCount": 2118,
-          "title": "The Market as a Social Space, and What Happens When The Firms that Occupy That Space Disappear Due to Economic Disruption"
         }
       ]
     },
@@ -5271,6 +5280,15 @@
       "feedUrl": "https://rss.golem.de/rss.php?feed=RSS2.0",
       "siteUrl": "https://www.golem.de/",
       "articles": [
+        {
+          "id": "https://www.golem.de/2107/158006-rss.html",
+          "author": null,
+          "description": "Der neue Windows 11 Build 22000.65 f�r die Insider im Dev Channel bietet zahlreiche �nderungen und Verbesserungen. (Windows 11, Microsoft)",
+          "link": "https://www.golem.de/news/microsoft-neuer-windows-11-build-mit-vielen-aenderungen-veroeffentlicht-2107-158006-rss.html",
+          "publishedOn": "2021-07-09T07:15:00.000Z",
+          "wordCount": 352,
+          "title": "Microsoft: Neuer Windows 11-Build mit vielen �nderungen ver�ffentlicht"
+        },
         {
           "id": "https://www.golem.de/2107/158002-rss.html",
           "author": null,
@@ -8105,6 +8123,15 @@
       "feedUrl": "https://www.heise.de/newsticker/heise-atom.xml",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "https://www.heise.de/news/Biontech-Pfizer-Dritte-Corona-Impfung-zur-Auffrischung-wahrscheinlich-6132980.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Sechs Monate nach der zweiten Impfung mit dem COVID-19-Vakzin von Biontech/Pifzer sollte eine dritte Impfung erfolgen, zeigen aktuelle Daten.",
+          "link": "https://www.heise.de/news/Biontech-Pfizer-Dritte-Corona-Impfung-zur-Auffrischung-wahrscheinlich-6132980.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T07:07:00.000Z",
+          "wordCount": 1338,
+          "title": "Biontech/Pfizer: Dritte Corona-Impfung zur Auffrischung \"wahrscheinlich\""
+        },
         {
           "id": "https://www.heise.de/news/Polizei-Betrunkene-weichen-vom-Auto-zum-E-Stehroller-aus-6132967.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
           "author": null,
@@ -14306,6 +14333,293 @@
             "url": "https://webapi.project-syndicate.org/library/a316383019bb18a55692b21613ccb9aa.16-9-xlarge.1.jpg",
             "length": "1040026",
             "type": "image/jpeg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen",
+      "feedUrl": "http://www.handelsblatt.com/contentexport/feed/wirtschaft",
+      "siteUrl": "http://www.handelsblatt.com",
+      "articles": [
+        {
+          "id": "https://www.handelsblatt.com/27406490.html",
+          "author": null,
+          "description": "Der Euro hat sich etwas von seinen Verlusten der vergangenen Wochen erholt. Noch am Mittwoch war der Kurs auf einen dreimonatigen Tiefstand gefallen.",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/euro-dollar-euro-haelt-sich-ueber-1-18-us-dollar/27406490.html",
+          "publishedOn": "2021-07-09T07:02:27.000Z",
+          "wordCount": 646,
+          "title": "Euro/Dollar : Euro hält sich über 1,18 US-Dollar",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/euro-und-dollar/27217484/12-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "371568"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27406476.html",
+          "author": null,
+          "description": "Trotz der jüngsten Stabilisierung haben die Ölpreise in der laufenden Woche kräftig nachgegeben. In der Spitze betrugen die Verluste etwa sechs Dollar.",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelkartell-treffen-oelpreise-steigen-leicht-starke-wochenverluste/27406476.html",
+          "publishedOn": "2021-07-09T06:59:01.000Z",
+          "wordCount": 700,
+          "title": "Ölkartell-Treffen: Ölpreise steigen leicht – Starke Wochenverluste",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/erdoelfoerderung/20561782/171-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "113725"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27406480.html",
+          "author": null,
+          "description": "Die Kosten für das Eigenheim steigen und steigen. Zuletzt war der Finanzierungsprung 2007 höher. Dabei spielt Holz eine wichtige Rolle.",
+          "link": "https://www.handelsblatt.com/politik/deutschland/statistisches-bundesamt-bauen-in-deutschland-wird-immer-teurer/27406480.html",
+          "publishedOn": "2021-07-09T06:57:00.000Z",
+          "wordCount": 707,
+          "title": "Statistisches Bundesamt: Bauen in Deutschland wird immer teurer",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/neubaugebiet-in-deutschland/27406508/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "496151"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27399540.html",
+          "author": null,
+          "description": "Den Kampf gegen Corona sieht Stella Kyriakides in einer entscheidenden Phase. Die Regierungen müssten der Delta-Variante mit einem höheren Impftempo begegnen.",
+          "link": "https://www.handelsblatt.com/politik/interview-eu-gesundheitskommissarin-muessen-uns-auf-haertere-massnahmen-vorbereiten/27399540.html",
+          "publishedOn": "2021-07-09T06:45:05.000Z",
+          "wordCount": 1953,
+          "title": "Interview: EU-Gesundheitskommissarin: „Müssen uns auf härtere Maßnahmen vorbereiten“",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/stella-kyriakides/27399642/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "209545"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27406426.html",
+          "author": null,
+          "description": "Im Kampf gegen Corona sollen möglichst viele für Impfungen gewonnen werden - und Termine sind nicht mehr so knapp. Deshalb sind jetzt vor Ort auch ungewöhnliche Aktionen geplant.",
+          "link": "https://www.handelsblatt.com/politik/deutschland/corona-parkplaetze-jobcenter-festivals-laender-planen-neue-impf-angebote/27406426.html",
+          "publishedOn": "2021-07-09T06:43:29.000Z",
+          "wordCount": 1370,
+          "title": "Corona: Parkplätze, Jobcenter, Festivals: Länder planen neue Impf-Angebote",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/impfmobil/27406452/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "250623"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27404828.html",
+          "author": null,
+          "description": "Ein Rechtsdienstleister wirbt um Landwirte, die zu viel für Pflanzenschutzmittel bezahlt haben. Die könnten bis zu 20 Prozent der Mehrausgaben zurückbekommen.",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/agrarclaim-landwirte-erhalten-ihr-geld-sofort-anwaelte-sammeln-forderungen-gegen-pflanzenschutzkartell/27404828.html",
+          "publishedOn": "2021-07-09T06:28:36.000Z",
+          "wordCount": 1032,
+          "title": "Agrarclaim: „Landwirte erhalten ihr Geld sofort“: Anwälte sammeln Forderungen gegen Pflanzenschutzkartell",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/einsatz-von-pflanzenschutzmitteln/27405084/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "319382"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27406130.html",
+          "author": null,
+          "description": "Die sich ausbreitende Delta-Variante belastet die Stimmung an den asiatischen Börsen: Alle wichtige Indizes geben nach. Anleger setzen dafür auf andere Anlageklassen.",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-und-co-kursrutsch-am-aktienmarkt-setzt-sich-in-asien-fort-nikkei-vor-korrektur/27406130.html",
+          "publishedOn": "2021-07-09T06:23:23.000Z",
+          "wordCount": 1265,
+          "title": "Nikkei, Topix und Co.: Kursrutsch am Aktienmarkt setzt sich in Asien fort – Nikkei vor Korrektur",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/fallende-kurse/27406132/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "337874"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27034552.html",
+          "author": null,
+          "description": "Die Achterbahnfahrt am deutschen Aktienindex geht weiter. Kann der Dax die Verluste vom Donnerstag aufholen? Die wichtigsten Punkte.",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boerse-am-9-juli-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/27034552.html",
+          "publishedOn": "2021-07-09T04:49:43.000Z",
+          "wordCount": 682,
+          "title": "Börse am 9. Juli: Sieben Punkte, die für Anleger heute wichtig sind",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/dax-kurve/22874410/216-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "398433"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/26639082.html",
+          "author": null,
+          "description": "Im Vergleich zur Vorwoche ist die Zahl der Neuinfektionen leicht gestiegen. Auch die Inzidenz steigt den dritten Tag in Folge.",
+          "link": "https://www.handelsblatt.com/politik/deutschland/corona-zahlen-in-deutschland-rki-registriert-949-corona-neuinfektionen-inzidenz-bei-5-5/26639082.html",
+          "publishedOn": "2021-07-09T02:39:00.000Z",
+          "wordCount": 1539,
+          "title": "Corona-Zahlen in Deutschland: RKI registriert 949 Corona-Neuinfektionen – Inzidenz bei 5,5",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/corona-teststation/27398078/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "349267"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/25471608.html",
+          "author": null,
+          "description": "Parkplätze, Jobcenter, Festivals: Länder planen neue Impf-Angebote +++ Auch Corona-Genesene erhalten nun digitalen Nachweis in der Apotheke +++ Der Newsblog.",
+          "link": "https://www.handelsblatt.com/politik/deutschland/corona-news-rki-meldet-dritten-tag-in-folge-steigende-inzidenz-dreyer-koennen-deutschland-nicht-abschliessen/25471608.html",
+          "publishedOn": "2021-07-09T02:36:23.000Z",
+          "wordCount": 3340,
+          "title": "+++ Corona-News +++: RKI meldet dritten Tag in Folge steigende Inzidenz – Dreyer: „Können Deutschland nicht abschließen“",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/corona/27406244/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "523010"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27403820.html",
+          "author": null,
+          "description": "In Venedig werden die G20-Finanzminister am Samstag eine globale Steuerreform beschließen. Zwei Deutsche haben das historische Projekt eingefädelt und vorangetrieben.",
+          "link": "https://www.handelsblatt.com/politik/deutschland/martin-kreienbaum-achim-pross-der-eine-erfinder-der-andere-architekt-wie-zwei-deutsche-die-globale-mindeststeuer-auf-den-weg-brachten/27403820.html",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 1832,
+          "title": "Martin Kreienbaum, Achim Pross: Der eine Erfinder, der andere Architekt: Wie zwei Deutsche die globale Mindeststeuer auf den Weg brachten",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/venedig/27404884/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "388244"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27394606.html",
+          "author": null,
+          "description": "Spaniens Wirtschaftsministerin verteidigt die Transferzahlungen aus dem Wiederaufbaufonds und verspricht, die Regierung werde einen Strukturwandel umsetzen. Von Europa fordert sie mehr Emanzipation – auch gegenüber den USA.",
+          "link": "https://www.handelsblatt.com/politik/international/interview-nadia-calvino-es-liegt-auch-im-deutschen-interesse-dass-spanien-stark-waechst/27394606.html",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 731,
+          "title": "Interview : Nadia Calviño: „Es liegt auch im deutschen Interesse, dass Spanien stark wächst“",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/nadia-calvino/27399912/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "218337"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27402630.html",
+          "author": null,
+          "description": "Weltweit wollen Staaten ihre Wirtschaft nach der Pandemie mit Rekordinvestitionen transformieren. Das Handelsblatt zeigt, wie Länder ihr Wachstum verbessern wollen.",
+          "link": "https://www.handelsblatt.com/politik/international/serie-das-bessere-wachstum-billionen-investitionen-fuer-die-globale-wirtschaft-beispiellose-chance-und-riskante-wette/27402630.html",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 693,
+          "title": "Serie: Das bessere Wachstum: Billionen-Investitionen für die globale Wirtschaft: Beispiellose Chance – und riskante Wette",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/boris-johnson-joe-biden-ursula-von-der-leyen/27405362/2-format7.png?format=format7",
+            "type": "image/png",
+            "length": "451862"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27401198.html",
+          "author": null,
+          "description": "Seit dem Wirecard-Skandal dürfen Bafin-Mitarbeiter kaum noch privat Aktien handeln. Der Personalrat warnt vor „erheblichen Einschränkungen beim Vermögensaufbau und der Altersvorsorge“.",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/beschwerdebrief-bafin-personalrat-fordert-angemessene-finanzielle-kompensation-fuer-verbotene-aktiengeschaefte/27401198.html",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 1604,
+          "title": "Beschwerdebrief: Bafin-Personalrat fordert „angemessene, finanzielle Kompensation“ für verbotene Aktiengeschäfte",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/bafin-gebaeude-in-frankfurt/26781034/9-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "464107"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27404002.html",
+          "author": null,
+          "description": "Der Widerstand gegen Chinas Seidenstraße wächst, die EU will nun reagieren. Doch Mitgliedsstaaten und Kommission drohen sich in bürokratischen Scharmützeln zu verheddern.",
+          "link": "https://www.handelsblatt.com/politik/international/infrastrukturpolitik-spaete-gegenoffensive-aussenminister-der-eu-wollen-europaeische-antwort-auf-chinas-seidenstrasse-vorlegen/27404002.html",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 1824,
+          "title": "Infrastrukturpolitik: Späte Gegenoffensive: Außenminister der EU wollen europäische Antwort auf Chinas Seidenstraße vorlegen",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/strasse-ins-nichts/27404024/3-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "698222"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27403268.html",
+          "author": null,
+          "description": "Die Fallzahlen steigen, eine vierte Welle wird wahrscheinlicher. In Deutschland könnten sich die Fehler des vergangenen Sommers wiederholen.",
+          "link": "https://www.handelsblatt.com/politik/deutschland/pandemiebekaempfung-keine-strategie-fuer-den-herbst-deutschland-droht-ein-corona-deja-vu-/27403268.html",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 698,
+          "title": "Pandemiebekämpfung: Keine Strategie für den Herbst: Deutschland droht ein Corona-Déjà-vu",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/timmendorfer-strand/27406358/3-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "606499"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27406050.html",
+          "author": null,
+          "description": "Boeing plant ein Treffen mit China Ende des Monats. Spannungen zwischen den Handelsmächten hatten das bisher verhindert. Die Aktie reagiert positiv.",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/flugzeugbauer-chinesische-luftfahrtbehoerde-erwaegt-boeing-737-max-zu-testen/27406050.html",
+          "publishedOn": "2021-07-08T23:48:00.000Z",
+          "wordCount": 659,
+          "title": "Flugzeugbauer: Chinesische Luftfahrtbehörde erwägt Boeing 737 Max zu testen",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/boeing-/27406054/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "437167"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/24098412.html",
+          "author": null,
+          "description": "Deliveroo wächst stark und erhöht die Prognose. Stellantis übertrifft die eigenen Ziele. Shell will wegen hoher Ölpreise mehr Dividende ausschütten.",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/-geschaeftszahlen-im-newsblog-synlab-wird-noch-optimistischer-fuer-2021-levi-strauss-profitiert-von-steigender-nachfrage/24098412.html",
+          "publishedOn": "2021-07-08T21:22:33.000Z",
+          "wordCount": 3557,
+          "title": "+++ Geschäftszahlen im Newsblog +++: Synlab wird noch optimistischer für 2021 – Levi Strauss profitiert von steigender Nachfrage",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/file-photo-file-photo-people-pass-by-a-levi-strauss-store-in-new-york/27406010/1-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "225520"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27405970.html",
+          "author": null,
+          "description": "Der Brexit kommt dem Vereinigten Königreich einem Medienbericht zufolge teuer zu stehen. Die Zahlen sind demnach im Haushaltsbericht für 2020 enthalten.",
+          "link": "https://www.handelsblatt.com/politik/international/brexit-grossbritannien-muss-offenbar-ueber-47-milliarden-euro-fuer-eu-ausstieg-zahlen/27405970.html",
+          "publishedOn": "2021-07-08T19:51:00.000Z",
+          "wordCount": 619,
+          "title": "Brexit: Großbritannien muss offenbar über 47 Milliarden Euro für EU-Ausstieg zahlen",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/union-jack-/27405974/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "139381"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27405932.html",
+          "author": null,
+          "description": "Der Konzern verweist auf die Entscheidung des Oberlandesgerichts Düsseldorf zur Freigabe einer geplanten Kaitalerhöhung. Anleger hatten gegen die Kapitalmaßnahme geklagt",
+          "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/finanzierung-komplettuebernahme-der-media-saturn-holding-durch-ceconomy-stockt/27405932.html",
+          "publishedOn": "2021-07-08T19:12:00.000Z",
+          "wordCount": 633,
+          "title": "Finanzierung: Komplettübernahme der Media-Saturn-Holding durch Ceconomy stockt",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/saturn-filiale/27405942/3-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "193287"
           }
         }
       ]

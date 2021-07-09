@@ -22,6 +22,24 @@
       "siteUrl": "http://marginalrevolution.com",
       "articles": [
         {
+          "id": "https://marginalrevolution.com/?p=81465",
+          "author": "Tyler Cowen",
+          "description": "Your advice is most welcome!  I thank you in advance for your wisdom and counsel.  My first trip there is now about twenty-five years old, so time to go again.\n\r\nThe post Oaxaca bleg appeared first on Marginal REVOLUTION.\n\r\n      \nRelated Stories\n\nThe separating equilibrium (a ban by any other name?)\nVery good sentences\nSentences to ponder solve for the cycling equilibrium",
+          "link": "https://feeds.feedblitz.com/~/657048632/0/marginalrevolution~Oaxaca-bleg.html",
+          "publishedOn": "2021-07-09T06:51:23.000Z",
+          "wordCount": 251,
+          "title": "Oaxaca bleg"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=81398",
+          "author": "Tyler Cowen",
+          "description": "1. Barnaby Phillips, Loot: Britain and the Benin Bronzes.  Among its other virtues, this book is an excellent “in passing” way to learn about British imperialism and also West African economic collapse.  One thing I learned from this book is that Nigeria already has one of the very best collection of these bronzes in the […]\n\r\nThe post What I’ve been reading appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Todd K.   Eliminating “sludge” and pollution ... by M\nOne thing I learned from this book is that Nigeria already has ... by M\nIn reply to Hoover.   Sounds controversial. Maybe you should go ... by Huh\nHaving Amazon links open in a new window is the sort of thing ... by Associating with Bulletin is bearing fruit\nI was expecting Kathleen Stock's reviews to be highly ... by Hoover\nPlus 3 more...\n\nRelated Stories\n\nBook Review: Andy Slavitt’s Preventable\n*The Volga: A History of Russia’s Greatest River*\nLet’s all have a revisionist Fourth of July",
+          "link": "https://feeds.feedblitz.com/~/657038151/0/marginalrevolution~What-Ive-been-reading.html",
+          "publishedOn": "2021-07-09T04:52:53.000Z",
+          "wordCount": 515,
+          "title": "What I’ve been reading"
+        },
+        {
           "id": "https://marginalrevolution.com/?p=81462",
           "author": "Tyler Cowen",
           "description": "Five years ago, Marginal Revolution covered a new project, Stripe Atlas, to help founders incorporate their start-ups and thus make them successful realities.  There is a one-time fee of $500.  Here are the results: In 2016, we launched Stripe Atlas to help founders turn their ideas into startups, and in turn, collectively grow the GDP of […]\n\r\nThe post Stripe Atlas update appeared first on Marginal REVOLUTION.\n\r\n      \nRelated Stories\n\nThe economics of ransomware attacks\nWyoming fact of the day\nBulletin!",
@@ -2574,6 +2592,34 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=75520",
+          "author": "Jeff John Roberts",
+          "description": "Ripple makes a strong case for XRP's ledger as a natural place for creators to register their NFTs.",
+          "link": "https://decrypt.co/75520/ripple-xrp-nfts",
+          "publishedOn": "2021-07-09T03:31:09.000Z",
+          "wordCount": 693,
+          "title": "Can Ripple Be a Player in the NFT World?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/XRP-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75552",
+          "author": "Jeff Benson",
+          "description": "Perhaps the fintech firm can use its own wallet to store the 8,000+ BTC it owns.",
+          "link": "https://decrypt.co/75552/jack-dorsey-confirms-square-is-building-a-bitcoin-hard-wallet",
+          "publishedOn": "2021-07-09T00:32:54.000Z",
+          "wordCount": 393,
+          "title": "Jack Dorsey Confirms Square Is Building a Bitcoin Hard Wallet",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/jack-dorsey-twitter-square-bitcoin-gID_5.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://decrypt.co/?p=75545",
           "author": "Mathew Di Salvo",
           "description": "The Institute of Contemporary Art, Miami says CryptoPunk 5293 is the \"first NFT to enter a major art museum collection.\"",
@@ -3421,6 +3467,33 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27780854",
+          "author": "jocho12",
+          "description": "Article URL: https://www.instacart.com/company/blog/company-updates/a-letter-from-instacart-founder-apoorva-mehta/\nComments URL: https://news.ycombinator.com/item?id=27780854\nPoints: 34\n# Comments: 14",
+          "link": "https://www.instacart.com/company/blog/company-updates/a-letter-from-instacart-founder-apoorva-mehta/",
+          "publishedOn": "2021-07-09T06:02:19.000Z",
+          "wordCount": 1245,
+          "title": "Instacart CEO will be replaced by Facebook executive"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27779453",
+          "author": "balloob",
+          "description": "Article URL: https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202\nComments URL: https://news.ycombinator.com/item?id=27779453\nPoints: 143\n# Comments: 47",
+          "link": "https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202",
+          "publishedOn": "2021-07-09T00:57:06.000Z",
+          "wordCount": 661,
+          "title": "Home Assistant iOS app adds local push notification support"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27778774",
+          "author": "interlocutor",
+          "description": "Article URL: https://goomics.net/\nComments URL: https://news.ycombinator.com/item?id=27778774\nPoints: 330\n# Comments: 128",
+          "link": "https://goomics.net/",
+          "publishedOn": "2021-07-08T23:16:34.000Z",
+          "wordCount": 384,
+          "title": "Google Internal Comics"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27778484",
           "author": "gmays",
           "description": "Article URL: https://climate.copernicus.eu/surface-air-temperature-june-2021\nComments URL: https://news.ycombinator.com/item?id=27778484\nPoints: 23\n# Comments: 8",
@@ -3446,6 +3519,15 @@
           "publishedOn": "2021-07-08T21:36:13.000Z",
           "wordCount": 113,
           "title": "Video podcasting (RSS) as an alternative to YouTubes walled garden"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27777891",
+          "author": "MilnerRoute",
+          "description": "Article URL: https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php\nComments URL: https://news.ycombinator.com/item?id=27777891\nPoints: 202\n# Comments: 245",
+          "link": "https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php",
+          "publishedOn": "2021-07-08T21:36:04.000Z",
+          "wordCount": 1041,
+          "title": "California exodus is a myth, UC research project finds"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27777891",
@@ -3574,6 +3656,15 @@
           "title": "A community-maintained fork of Phabricator"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27773732",
+          "author": "el_duderino",
+          "description": "Article URL: https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor\nComments URL: https://news.ycombinator.com/item?id=27773732\nPoints: 192\n# Comments: 131",
+          "link": "https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor",
+          "publishedOn": "2021-07-08T15:58:12.000Z",
+          "wordCount": 1682,
+          "title": "A phone the FBI sold to criminals"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27773601",
           "author": "lnyan",
           "description": "Article URL: https://github.com/robhagemans/hoard-of-bitfonts\nComments URL: https://news.ycombinator.com/item?id=27773601\nPoints: 135\n# Comments: 25",
@@ -3599,6 +3690,24 @@
           "publishedOn": "2021-07-08T12:45:20.000Z",
           "wordCount": 3,
           "title": "You need Software Developers to believe in your project (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27771091",
+          "author": "brunovegreville",
+          "description": "Hi HN, we're Bruno and Louise, the founders of Hera (https://hera.so)! Over the past 5 months, we have built a MacOS desktop app to prepare, join, and run meetings without the grunt work. Basically, we try to help busy knowledge workers have good meetings without spending all day preparing or scrambling to find back that note in Apple Notes.\nWe were our first users. As a PM, I was spending an unreasonable amount of time preparing user research interviews and kick-off meetings and sharing summaries to the team. A good 45-min meeting would effectively cost me about 2 hours of mental bandwidth. The private beta we launched 4 months ago helped us find good ways to attack the problem:\nMeetings are broken partly because they are seen as isolated entities in calendar and note-taking tools. We wan…",
+          "link": "https://news.ycombinator.com/item?id=27771091",
+          "publishedOn": "2021-07-08T12:32:38.000Z",
+          "wordCount": 7628,
+          "title": "Launch HN: Hera (YC S21) – macOS app to prepare, join and take notes in meetings"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27769440",
+          "author": "fredley",
+          "description": "Article URL: https://twitter.com/NoraDotCodes/status/1412741339771461635\nComments URL: https://news.ycombinator.com/item?id=27769440\nPoints: 844\n# Comments: 612",
+          "link": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
+          "publishedOn": "2021-07-08T08:18:26.000Z",
+          "wordCount": 196,
+          "title": "All public GitHub code was used in training Copilot"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27768127",
@@ -3895,6 +4004,24 @@
       "feedUrl": "https://www.thedrive.com/rss/all",
       "siteUrl": "https://www.thedrive.com",
       "articles": [
+        {
+          "id": "https://www.thedrive.com/news/41471/gmc-canyon-at4x-pickup-coming-to-match-the-chevy-zr2-off-road-report",
+          "author": "Lewin Day",
+          "description": "GMC has, by and large, become an upmarket seller of SUVs and trucks, positioned as a premium option over and above the offerings from sister brand Chevrolet. That trend is set to continue, with the 2023 Chevrolet Colorado ZR2 likely to get a complementary model in the 2023 GMC Canyon AT4X, reports Muscle Cars and […]",
+          "link": "https://www.thedrive.com/news/41471/gmc-canyon-at4x-pickup-coming-to-match-the-chevy-zr2-off-road-report",
+          "publishedOn": "2021-07-09T01:23:21.000Z",
+          "wordCount": 578,
+          "title": "GMC Canyon AT4X Pickup Coming to Match the Chevy ZR2 Off-Road: Report"
+        },
+        {
+          "id": "https://www.thedrive.com/news/41470/transparent-carburetor-filmed-at-28546-fps-reveals-its-secrets",
+          "author": "Lewin Day",
+          "description": "Carburetors are complicated mechanical contrivances, and can be difficult to understand for the uninitiated. They're often explained with teaching resources like cutaway drawings and diagrams that reveal the magic going on inside. Even better would be to look inside as it's all happening, and with the transparent carburetor from YouTuber Smarter Every Day, you can […]",
+          "link": "https://www.thedrive.com/news/41470/transparent-carburetor-filmed-at-28546-fps-reveals-its-secrets",
+          "publishedOn": "2021-07-09T00:17:02.000Z",
+          "wordCount": 679,
+          "title": "Transparent Carburetor Filmed at 28,546 FPS Reveals Its Secrets"
+        },
         {
           "id": "https://www.thedrive.com/news/41469/2021-shelby-f-150-boasts-775-hp-and-a-107k-price-tag",
           "author": "Lewin Day",
@@ -4588,6 +4715,15 @@
       "siteUrl": "https://www.xn--untergrund-blttle-2qb.ch/rss/aktuelle_artikel.rss",
       "articles": [
         {
+          "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/lueneburg-jugend-braucht-freiraeume-juze-bleibt-6541.html",
+          "author": null,
+          "description": "Das Recht auf Stadt Bündnis begleitet heute vor der Ritterakademie kritisch die Sitzung des Jugendhilfeausschusses.\n\n\n\"Der Vorschlag der Hansestadt Lüneburg, allen voran Pia Steinrücke, das bald geschlossene Jugendzentrum Stadtmitte zusammen mit dem Träger A+A Ausbildung und Arbeit Plus GmbH in der Salzstrasse neu zu gestalten, halten wir als Recht auf Stadt Bündnis für sehr problematisch.\", bemängelt Bündnismitglied Anna. \n Nachdem „Die Finke“, wegen Platzmangel und mit christlicher Ausrichtung, richtigerweise als neues Juze nicht in Frage kommt, ist es zwar gut, dass es einen neuen Raum in Aussicht gibt. Allerdings ist der Rückzug der Stadt aus der Jugendzentrumsarbeit sehr beschämend und verschleppt nur ein selbstgemachtes Problem, dessen Lösung nun durch eine Privatisierung gefunden we…",
+          "link": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/lueneburg-jugend-braucht-freiraeume-juze-bleibt-6541.html",
+          "publishedOn": "2021-07-09T06:17:37.000Z",
+          "wordCount": 1046,
+          "title": "Lüneburg: Jugend braucht Freiräume - Juze bleibt!"
+        },
+        {
           "id": "https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/homberg-rechtmaessigkeit-a49-6538.html",
           "author": null,
           "description": "Der Weiterbau der A49 soll Thema sein bei der aktuellen Stadtverordnetenversammlung in Homberg, wobei die Nutzung von Feldwegen für den Bau bis jetzt ungeklärt ist und trotzdem weitergeführt wurde.\n\nBild: Blick auf den Bau der Brücke Frankenhain (Teilstück der Bundesautobahn 49), Dezember 2018. / 19lite93 (CC BY-SA 4.0 cropped)\nAktueller Kristallisationspunkt ist dabei der Meiserholzweg, der wegen sich gegenseitig im Weg stehender Arbeiten an einer Gasleitung als Umgehungsbaustrasse genutzt wird. Anwohnende Radfahrende, die den Weg täglich nutzen, sowie spontan am Weg bei Maulbach demonstrierende Menschen kamen dabei in Konflikt mit den Baufahrzeugführer*innen, obwohl ihre Wut sich eigentlich auf die politischen Verantwortlichen, allen voran Bürgermeisterin Blum, richtet. \n \"Das angesetzte…",
@@ -5135,6 +5271,60 @@
       "feedUrl": "https://rss.golem.de/rss.php?feed=RSS2.0",
       "siteUrl": "https://www.golem.de/",
       "articles": [
+        {
+          "id": "https://www.golem.de/2107/158002-rss.html",
+          "author": null,
+          "description": "Bei Netflix l�uft jetzt die Anime-Serie Resident Evil: Infinite Darkness. Mit ihren vier Folgen kann man aber wohl eher von einem neuen Film sprechen. Eine Rezension von Peter Osteried (Resident Evil, Netflix)",
+          "link": "https://www.golem.de/news/resident-evil-infinite-darkness-mehr-ein-film-als-eine-serie-2107-158002-rss.html",
+          "publishedOn": "2021-07-09T07:01:00.000Z",
+          "wordCount": 352,
+          "title": "Resident Evil: Infinite Darkness: Mehr ein Film als eine Serie"
+        },
+        {
+          "id": "https://www.golem.de/2107/157984-rss.html",
+          "author": null,
+          "description": "Bei der Container-Orchestrierung f�hrt kein Weg an Kubernetes vorbei. Um Entwicklern den Einstieg in das komplexe Thema zu erleichtern, bietet die Golem Akademie ihren Dive-in-Workshop in vier Modulen an. (Golem Akademie, Server-Applikationen)",
+          "link": "https://www.golem.de/news/anzeige-einstieg-in-kubernetes-in-ueberschaubaren-modulen-2107-157984-rss.html",
+          "publishedOn": "2021-07-09T07:01:00.000Z",
+          "wordCount": 352,
+          "title": "Anzeige: Einstieg in Kubernetes - in �berschaubaren Modulen"
+        },
+        {
+          "id": "https://www.golem.de/2107/158005-rss.html",
+          "author": null,
+          "description": "Der Blitz im Logo bekommt eine neue Bedeutung: Ab 2028 gibt es nur noch E-Autos von Opel. (Opel, Technologie)",
+          "link": "https://www.golem.de/news/nur-e-autos-opel-verabschiedet-sich-2028-vom-verbrenner-2107-158005-rss.html",
+          "publishedOn": "2021-07-09T06:44:00.000Z",
+          "wordCount": 352,
+          "title": "Nur Elektroautos: Opel verabschiedet sich 2028 vom Verbrenner"
+        },
+        {
+          "id": "https://www.golem.de/2107/158004-rss.html",
+          "author": null,
+          "description": "Harley-Davidson hat mit der Livewire One ein zweites Elektromotorrad vorgestellt. Es soll g�nstiger als das der Erstling sein. Ob das die Kunden lockt? (Harley-Davidson, Technologie)",
+          "link": "https://www.golem.de/news/elektromotorrad-harley-davidson-livewire-one-als-zweiter-versuch-2107-158004-rss.html",
+          "publishedOn": "2021-07-09T06:29:00.000Z",
+          "wordCount": 352,
+          "title": "Elektromotorrad: Harley-Davidson Livewire One als zweiter Versuch"
+        },
+        {
+          "id": "https://www.golem.de/2107/158003-rss.html",
+          "author": null,
+          "description": "Beschlossen war die Verl�ngerung der erh�hten Kaufpr�mie f�r Elektroautos schon l�nger. Aber umgesetzt war sie noch nicht. (Elektromobilit�t, Elektroauto)",
+          "link": "https://www.golem.de/news/innovationspraemie-fuer-e-autos-altmaier-kuendigt-neue-foerderrichtlinie-an-2107-158003-rss.html",
+          "publishedOn": "2021-07-09T06:14:00.000Z",
+          "wordCount": 352,
+          "title": "Innovationspr�mie f�r E-Autos: Altmaier k�ndigt neue F�rderrichtlinie an"
+        },
+        {
+          "id": "https://www.golem.de/2107/157994-rss.html",
+          "author": null,
+          "description": "Black Widow ist am 8. Juli in den deutschen Kinos gestartet. Ab 9. Juli gibt es den neuen Marvel-Film bei Disney+ - gegen Extrageb�hr. (Disney+, Disney)",
+          "link": "https://www.golem.de/news/kinopremiere-auf-disney-marvel-film-black-widow-startet-fuer-31-euro-2107-157994-rss.html",
+          "publishedOn": "2021-07-09T05:00:00.000Z",
+          "wordCount": 352,
+          "title": "Kinopremiere auf Disney+: Marvel-Film Black Widow startet f�r 31 Euro"
+        },
         {
           "id": "https://www.golem.de/2107/158001-rss.html",
           "author": null,
@@ -5872,6 +6062,24 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2021/7/9/22569690/mini-led-11-inch-ipad-pro-macbook-air-2022",
+          "author": null,
+          "description": "Photo by Vjeran Pavic / The Verge\n    \n\n  \nApple plans to add a Mini LED screen to the 11-inch iPad Pro in 2022, following the introduction of the technology on this year’s 12.9-inch model, according to a research note by analyst Ming-chi Kuo. The note was reported on by AppleInsider and MacRumors. \nApple released new versions of the 11-inch and 12.9-inch iPad Pro this year, both featuring M1 processors but only the larger model including a Mini LED display. Mini LED is a new screen technology that involves using thousands of tiny LEDs to create focused local dimming zones, allowing for better contrast and HDR performance. The 12.9-inch iPad Pro has 2,500 local dimming zones.\n\n\nKuo also says that Apple is planning to bring Mini LED screens to the MacBook line. 14-inch and 16-inch...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/9/22569690/mini-led-11-inch-ipad-pro-macbook-air-2022",
+          "publishedOn": "2021-07-09T05:44:11.000Z",
+          "wordCount": 574,
+          "title": "Mini LED display reportedly coming to 11-inch iPad Pro next year"
+        },
+        {
+          "id": "https://www.theverge.com/2021/7/8/22569387/zebra-windows-security-update-printer-spooler-microsoft",
+          "author": null,
+          "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nAs if an actively exploited critical flaw in the Windows Print Spooler that can allow someone to take over your computer remotely isn’t bad enough, some people who installed Microsoft’s security patch found out that the connection to their printer stopped working. In a near-repeat of a problem that occurred this spring with a different Windows 10 security update, system admins discovered that many PCs suddenly couldn’t connect to printers — most notably several models of Zebra label printers — after installing the KB5004945 patch.\nMicrosoft has acknowledged the problem as a known issue that can be solved by rolling back the patch or reinstalling the printer as an administrator.\nIn a statement to The Verge, Zebra acknowledged the problem...\nContinue reading…",
+          "link": "https://www.theverge.com/2021/7/8/22569387/zebra-windows-security-update-printer-spooler-microsoft",
+          "publishedOn": "2021-07-09T03:59:37.000Z",
+          "wordCount": 660,
+          "title": "The Windows update to fix ‘PrintNightmare’ made some printers stop working"
+        },
+        {
           "id": "https://www.theverge.com/2021/7/8/22569309/square-hardware-wallet-bitcoin-jack-dorsey",
           "author": null,
           "description": "Photo by Joe Raedle/Getty Images\n    \n\n  \nSquare is going to make a hardware wallet for bitcoin, the company’s hardware lead, Jesse Dorogusker, announced on Thursday. CEO Jack Dorsey, who is also the CEO of Twitter, had said in June (in a tweetstorm, naturally) that the company was considering making one, and now Square has made the decision to move forward. \n“We have decided to build a hardware wallet and service to make bitcoin custody more mainstream,” Dorogusker said. “We’ll continue to ask and answer questions in the open. This community’s response to our thread about this project has been awesome - encouraging, generous, collaborative, & inspiring.”\nWe’re doing it #Bitcoin https://t.co/IwbKuBoXGv\n— jack (@jack) July 8, 2021\n\n\n\nDorsey has made no secret of his interest in...\nContinue reading…",
@@ -6254,6 +6462,51 @@
       "feedUrl": "https://www.nzz.ch/wirtschaft.rss",
       "siteUrl": "https://www.nzz.ch/wirtschaft/",
       "articles": [
+        {
+          "id": "https://www.nzz.ch/wirtschaft/globale-mindeststeuer-zehn-fragen-und-antworten-zur-reform-ld.1634392",
+          "author": null,
+          "description": "131 Länder arbeiten an einer Harmonisierung der Firmensteuern. Im Zentrum stehen eine Mindeststeuer und die Umverteilung von Steuereinnahmen. Nun wartet man auf das Plazet der G-20.",
+          "link": "https://www.nzz.ch/wirtschaft/globale-mindeststeuer-zehn-fragen-und-antworten-zur-reform-ld.1634392",
+          "publishedOn": "2021-07-09T03:30:00.000Z",
+          "wordCount": 230,
+          "title": "ERKLÄRT - Die Furcht der Schweiz vor schwarzen Listen und der Druck der Hochsteuerländer: zehn Fragen und Antworten zur neuen Monsterreform der OECD"
+        },
+        {
+          "id": "https://www.nzz.ch/gesellschaft/der-zauberlehrling-ld.1633078",
+          "author": null,
+          "description": "Mit drei Jahren kam er aus dem Nordirak in die Schweiz, mit elf Jahren entdeckte er die Bitcoins, mit 21 ist er schwerreich und möchte Kryptos für alle zugänglich machen. Die wundersame Karriere des Dadvan Yousuf.",
+          "link": "https://www.nzz.ch/gesellschaft/der-zauberlehrling-ld.1633078",
+          "publishedOn": "2021-07-09T03:30:00.000Z",
+          "wordCount": 137,
+          "title": "Wie ein kurdischer Flüchtling als Kind Bitcoins zu kaufen begann – und heute als Multimillionär die Welt verändern will"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/schweiz-jeder-vierte-arbeitslose-sucht-ueber-einem-jahr-einen-job-ld.1634618",
+          "author": null,
+          "description": "Die Arbeitslosigkeit sinkt, aber viele Personen sind seit längerer Zeit auf Stellensuche. Drohen wirtschaftliche Langzeitschäden?",
+          "link": "https://www.nzz.ch/wirtschaft/schweiz-jeder-vierte-arbeitslose-sucht-ueber-einem-jahr-einen-job-ld.1634618",
+          "publishedOn": "2021-07-09T03:30:00.000Z",
+          "wordCount": 176,
+          "title": "Mehr als jeder vierte Arbeitslose in der Schweiz ist seit über einem Jahr auf Jobsuche"
+        },
+        {
+          "id": "https://www.nzz.ch/wirtschaft/crrc-chinas-zughersteller-beliefert-die-westbahn-ld.1634658",
+          "author": null,
+          "description": "Benedikt Weibel ist Aufsichtsratsvorsitzender des privaten österreichischen Bahnbetreibers Westbahn. Dieser versucht seit Jahren, den Staatsbetrieb ÖBB herauszufordern. Helfen soll dabei nun auch günstiges Zugmaterial aus China.",
+          "link": "https://www.nzz.ch/wirtschaft/crrc-chinas-zughersteller-beliefert-die-westbahn-ld.1634658",
+          "publishedOn": "2021-07-09T03:30:00.000Z",
+          "wordCount": 168,
+          "title": "Ex-SBB-Chef Weibel spielt für chinesischen Zughersteller in Westeuropa den Türöffner"
+        },
+        {
+          "id": "https://www.nzz.ch/pro-global/asien/xi-ist-besessen-davon-ein-betraechtliches-erbe-zu-hinterlassen-ld.1634445",
+          "author": null,
+          "description": "Die Journalisten und Publizisten Stefan Aust und Adrian Geiges haben eine Biografie über Chinas Staats- und Parteichef Xi Jinping geschrieben. Geiges spricht im Interview über die Quellenlage zu Xi, dessen Vorstellung von der künftigen Entwicklung Chinas und die prägenden Ereignisse während der Kindheit und Jugend.",
+          "link": "https://www.nzz.ch/pro-global/asien/xi-ist-besessen-davon-ein-betraechtliches-erbe-zu-hinterlassen-ld.1634445",
+          "publishedOn": "2021-07-09T03:30:00.000Z",
+          "wordCount": 167,
+          "title": "«Xi ist besessen davon, ein beträchtliches Erbe zu hinterlassen»"
+        },
         {
           "id": "https://www.nzz.ch/wirtschaft/titel-ld.1634582",
           "author": null,
@@ -7060,6 +7313,186 @@
       "siteUrl": "https://de.downmagaz.net/",
       "articles": [
         {
+          "id": "https://de.downmagaz.net/business_magazine_economics_deutsch/76303-trend-090721.html",
+          "author": "kis",
+          "description": "Trend - 09. Juli 2021Deutsch | 116 Seiten | PDF | 82.8 MBDie TREND unterteilt sich in sechs Hauptbereiche, die wiederum unterschiedliche Rubriken abdecken. Die Aufteilung sieht in jeder Ausgabe wie folgt aus:•Start: In dieser Rubrik finden vor allem aktuelle Themen Platz. Interviews, kurze Umfragen",
+          "link": "https://de.downmagaz.net/business_magazine_economics_deutsch/76303-trend-090721.html",
+          "publishedOn": "2021-07-09T07:03:00.000Z",
+          "wordCount": 724,
+          "title": "Trend - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/business_magazine_economics_deutsch/76302-news-090721.html",
+          "author": "kis",
+          "description": "News - 09. Juli 2021Deutsch | 100 Seiten | PDF | 59.3 MBDas Nachrichtenmagazin NEWS hat eine klare Struktur, alle Inhalte können einer der Rubriken „Fakten“, „Leben“ oder „Menschen“ zugeordnet werden. Die Rubrik „Fakten“ informiert über alle wichtigen Themen aus Politik, Wirtschaft, Chronik und",
+          "link": "https://de.downmagaz.net/business_magazine_economics_deutsch/76302-news-090721.html",
+          "publishedOn": "2021-07-09T07:01:42.000Z",
+          "wordCount": 690,
+          "title": "News - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/women_magazine_deutsch/76301-funk-uhr-090721.html",
+          "author": "kis",
+          "description": "Funk Uhr - 09. Juli 2021Deutsch | 96 Seiten | PDF | 95.6 MBDie Programmzeitschrift speziell für Frauen informiert rund um den ausführlichen Programmteil jede Woche über Themen wie Gesundheit, Partnerschaft, Mode und Reise. Funk Uhr ist die Programmzeitschrift, die auf acht seiten pro Tag umfassende",
+          "link": "https://de.downmagaz.net/women_magazine_deutsch/76301-funk-uhr-090721.html",
+          "publishedOn": "2021-07-09T07:00:20.000Z",
+          "wordCount": 598,
+          "title": "Funk Uhr - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/film_magazine_deutsch/76300-horzu-090721.html",
+          "author": "kis",
+          "description": "Hörzu - 09. Juli 2021Deutsch | 138 Seiten | PDF | 136.5 MBKernstück der Zeitschrift HÖRZU ist der ausführliche Programmteil, welcher eine klare Orientierung und Empfehlungen zu sehenswerten Sendungen bietet. - HÖRZU (auch als Einzelheft erhältlich) präsentiert spannende Unterhaltung, sowie aktuelle",
+          "link": "https://de.downmagaz.net/film_magazine_deutsch/76300-horzu-090721.html",
+          "publishedOn": "2021-07-09T06:59:21.000Z",
+          "wordCount": 572,
+          "title": "Hörzu - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/film_magazine_deutsch/76299-tv-horen-und-sehen-090721.html",
+          "author": "kis",
+          "description": "TV Hören und Sehen - 09. Juli 2021Deutsch | 136 Seiten | PDF | 130.6 MBGroße Erlebnis-Reportagen international renommierter Autoren, Exklusiv-Interviews und fundierte Hintergrundberichte bieten einen anspruchsvollen Rahmen für den wöchentlichen Programmteil. tv Hören und Sehen unterscheidet sich",
+          "link": "https://de.downmagaz.net/film_magazine_deutsch/76299-tv-horen-und-sehen-090721.html",
+          "publishedOn": "2021-07-09T06:58:00.000Z",
+          "wordCount": 586,
+          "title": "TV Hören und Sehen - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/hobbies_leisure_magazine_deutsch/76298-deutsche-briefmarken-zeitung-090721.html",
+          "author": "kis",
+          "description": "Deutsche Briefmarken Zeitung - 09. Juli 2021Deutsch | 68 Seiten | PDF | 70.9 MB https://novafile.com/uk9m5jd9aqkd https://turb.cc/nkpu34w309s6.html",
+          "link": "https://de.downmagaz.net/hobbies_leisure_magazine_deutsch/76298-deutsche-briefmarken-zeitung-090721.html",
+          "publishedOn": "2021-07-09T06:49:32.000Z",
+          "wordCount": 517,
+          "title": "Deutsche Briefmarken Zeitung - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/business_magazine_economics_deutsch/76297-tachles-090721.html",
+          "author": "kis",
+          "description": "Tachles - 09. Juli 2021Deutsch | 32 Seiten | PDF | 32.6 MB https://novafile.com/88t3d4f3k1bp https://turb.cc/cdr1jpu1kyi8.html",
+          "link": "https://de.downmagaz.net/business_magazine_economics_deutsch/76297-tachles-090721.html",
+          "publishedOn": "2021-07-09T06:47:06.000Z",
+          "wordCount": 510,
+          "title": "Tachles - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/film_magazine_deutsch/76296-tv-movie-090721.html",
+          "author": "kis",
+          "description": "TV Movie - 09. Juli 2021Deutsch | 220 Seiten | PDF | 154.5 MBTV Movie zeichnet sich dadurch aus, dass es die einzige Programmzeitschrift ihrer Art ist, welche neben einer 14 Tage Fernsehprogramm Vorschau auch ein Sender Listing pro Tag von 51 Sendern und auf zwei weiteren seiten Tipps und",
+          "link": "https://de.downmagaz.net/film_magazine_deutsch/76296-tv-movie-090721.html",
+          "publishedOn": "2021-07-09T06:46:05.000Z",
+          "wordCount": 640,
+          "title": "TV Movie - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/film_magazine_deutsch/76295-tv-digital-090721.html",
+          "author": "kis",
+          "description": "TV Digital - 09. Juli 2021Deutsch | 232 Seiten | PDF | 187.3 MB https://novafile.com/xgxgqk4egoc6 https://turb.cc/q5v1gs3u4y3d.html",
+          "link": "https://de.downmagaz.net/film_magazine_deutsch/76295-tv-digital-090721.html",
+          "publishedOn": "2021-07-09T06:43:26.000Z",
+          "wordCount": 517,
+          "title": "TV Digital - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/women_magazine_deutsch/76294-das-macht-spass-082021.html",
+          "author": "kis",
+          "description": "Das Macht Spass - August 2021Deutsch | 64 Seiten | PDF | 63.3 MB https://novafile.com/0jl9na2pkylt https://turb.cc/mimf2jmc2zn3.html",
+          "link": "https://de.downmagaz.net/women_magazine_deutsch/76294-das-macht-spass-082021.html",
+          "publishedOn": "2021-07-09T06:40:02.000Z",
+          "wordCount": 514,
+          "title": "Das Macht Spass - 08.2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/women_magazine_deutsch/76293-alles-fur-die-frau-090721.html",
+          "author": "kis",
+          "description": "Alles für die Frau - 09. Juli 2021Deutsch | 72 Seiten | PDF | 72.4 MBAlles für die Frau ist die jüngste wöchentliche Frauenzeitschrift aus der Bauer Verlagsgruppe. Durch ihre große Themenvielfalt sorgt Alles für die Frau für jede Menge gute Laune und gibt wertvolle Tipps für den Alltag. Kompakte",
+          "link": "https://de.downmagaz.net/women_magazine_deutsch/76293-alles-fur-die-frau-090721.html",
+          "publishedOn": "2021-07-09T06:37:00.000Z",
+          "wordCount": 652,
+          "title": "Alles für die Frau - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/comics_magazine_deutsch/76286-old-man-logan-1-9.html",
+          "author": "Abarita",
+          "description": "Old Man Logan 1 - 9Deutsch | CBR | 1.3 GB ZIP1-3:novafile.com | turb.cc 336.2 MB zip4-6:novafile.com | turb.cc 511.3 MB zip 7-9:novafile.com | turb.cc 450.4 MB zip",
+          "link": "https://de.downmagaz.net/comics_magazine_deutsch/76286-old-man-logan-1-9.html",
+          "publishedOn": "2021-07-09T05:21:06.000Z",
+          "wordCount": 458,
+          "title": "Old Man Logan 1 - 9"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76292-bild-090721.html",
+          "author": "kis",
+          "description": "Bild - 09. Juli 2021Deutsch | 24 Seiten | True PDF | 14.3 MB https://novafile.com/on0fto7kswek https://turb.cc/pm360sqyv49i.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76292-bild-090721.html",
+          "publishedOn": "2021-07-09T05:20:39.000Z",
+          "wordCount": 508,
+          "title": "Bild - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76291-handelsblatt-090721.html",
+          "author": "kis",
+          "description": "Handelsblatt - 09. Juli 2021Deutsch | 64 Seiten | True PDF | 11.4 MB https://novafile.com/8f74ym2njki9 https://turb.cc/lomgxcf5p2up.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76291-handelsblatt-090721.html",
+          "publishedOn": "2021-07-09T05:19:57.000Z",
+          "wordCount": 508,
+          "title": "Handelsblatt - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76290-faz-090721.html",
+          "author": "kis",
+          "description": "Frankfurter Allgemeine Zeitung F.A.Z. - 09. Juli 2021Deutsch | 32 Seiten | True PDF | 11.3 MB https://novafile.com/9hv8hsna0tpk https://turb.cc/9gy7hyfk9zj7.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76290-faz-090721.html",
+          "publishedOn": "2021-07-09T05:19:14.000Z",
+          "wordCount": 514,
+          "title": "F.A.Z. - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76289-suddeutsche-zeitung-090721.html",
+          "author": "kis",
+          "description": "Süddeutsche Zeitung - 09. Juli 2021Deutsch | 88 Seiten | True PDF | 20.4 MB https://novafile.com/764oi5d7ai5r https://turb.cc/5tlwj9yz5vef.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76289-suddeutsche-zeitung-090721.html",
+          "publishedOn": "2021-07-09T05:18:15.000Z",
+          "wordCount": 512,
+          "title": "Süddeutsche Zeitung - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76288-die-tageszeitung-090721.html",
+          "author": "kis",
+          "description": "Die Tageszeitung - 09. Juli 2021Deutsch | 51 Seiten | True PDF | 12.3 MB https://novafile.com/eohf7t9r8uzt https://turb.cc/6gqviu4j5son.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76288-die-tageszeitung-090721.html",
+          "publishedOn": "2021-07-09T05:16:08.000Z",
+          "wordCount": 512,
+          "title": "Die Tageszeitung - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76287-neue-zurcher-zeitung-090721.html",
+          "author": "kis",
+          "description": "Neue Zürcher Zeitung - 09. Juli 2021Deutsch | 32 Seiten | True PDF | 11 MB https://novafile.com/zkalizugro6k https://turb.cc/uzzrhgqk1dgr.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76287-neue-zurcher-zeitung-090721.html",
+          "publishedOn": "2021-07-09T05:13:50.000Z",
+          "wordCount": 516,
+          "title": "Neue Zürcher Zeitung - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76285-neue-zurcher-zeitung-international-090721.html",
+          "author": "kis",
+          "description": "Neue Zürcher Zeitung International - 09. Juli 2021Deutsch | 28 Seiten | True PDF | 10.6 MB https://novafile.com/loqxkh7fbjmd https://turb.cc/6cucso7r0kpa.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76285-neue-zurcher-zeitung-international-090721.html",
+          "publishedOn": "2021-07-09T05:12:03.000Z",
+          "wordCount": 519,
+          "title": "Neue Zürcher Zeitung International - 09.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/newspaper_deutsch/76284-stuttgarter-nachrichten-090721.html",
+          "author": "kis",
+          "description": "Stuttgarter Nachrichten - 09. Juli 2021Deutsch | 38 Seiten | True PDF | 15.5 MB https://novafile.com/yrdj3giqja42 https://turb.cc/uubmx147ua7t.html",
+          "link": "https://de.downmagaz.net/newspaper_deutsch/76284-stuttgarter-nachrichten-090721.html",
+          "publishedOn": "2021-07-09T05:10:04.000Z",
+          "wordCount": 512,
+          "title": "Stuttgarter Nachrichten - 09.07.21"
+        },
+        {
           "id": "https://de.downmagaz.net/hobbies_leisure_magazine_deutsch/76273-bahn-extra-sonderheft-schweiz-2021.html",
           "author": "kis",
           "description": "Bahn Extra - Sonderheft Schweiz 2021Deutsch | 100 Seiten | True PDF | 55.5 MBDie Zeitschrift BAHN EXTRA bietet zweimonatlich die interessantesten Bahn-Themen im Großformat 22,5 x 30 cm. Hintergründe, Basisfakten, Anekdoten, Reportagen und alles Wissenswerte zu den wichtigsten Themen rund um die",
@@ -7672,6 +8105,132 @@
       "feedUrl": "https://www.heise.de/newsticker/heise-atom.xml",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "https://www.heise.de/news/Polizei-Betrunkene-weichen-vom-Auto-zum-E-Stehroller-aus-6132967.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "In ihrem Zustand wären sie nie mit dem Auto gefahren, sagen E-Stehrollerfahrer in Kontrollen. Die Polizei sieht viele Berauschte auf den Gefährten.",
+          "link": "https://www.heise.de/news/Polizei-Betrunkene-weichen-vom-Auto-zum-E-Stehroller-aus-6132967.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T06:46:00.000Z",
+          "wordCount": 1251,
+          "title": "Polizei: Betrunkene weichen vom Auto zum E-Stehroller aus"
+        },
+        {
+          "id": "https://www.heise.de/hintergrund/Ursache-fuer-Long-Covid-SARS-Cov-2-veraendert-Blutzellen-ueber-Monate-6130863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Versteifte rote und aufgedunsene weiße Blutzellen – in veränderten Blutkörperchen vermuten Forschende die Auslöser für das Erschöpfungssyndrom Long Covid.",
+          "link": "https://www.heise.de/hintergrund/Ursache-fuer-Long-Covid-SARS-Cov-2-veraendert-Blutzellen-ueber-Monate-6130863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T06:00:00.000Z",
+          "wordCount": 1520,
+          "title": "Ursache für Long Covid? SARS-Cov-2 verändert Blutzellen über Monate"
+        },
+        {
+          "id": "https://www.heise.de/hintergrund/Roboter-im-Alltag-Der-Angebetete-6116931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Schaffen sich die Menschen mit der Entwicklung von transhumaner Intelligenz ihre eigenen Götter, die den Menschen überlegen und unkontrollierbar sind?",
+          "link": "https://www.heise.de/hintergrund/Roboter-im-Alltag-Der-Angebetete-6116931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T06:00:00.000Z",
+          "wordCount": 1857,
+          "title": "Roboter im Alltag: Der Angebetete"
+        },
+        {
+          "id": "https://www.heise.de/news/Wiko-Power-U30-180-Euro-Smartphone-mit-fuenf-Wochen-Standby-Zeit-6132668.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Wikos neues Smartphone mit 6,8-Zoll-Display und besonders langer Laufzeit ist ab sofort erhältlich.",
+          "link": "https://www.heise.de/news/Wiko-Power-U30-180-Euro-Smartphone-mit-fuenf-Wochen-Standby-Zeit-6132668.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T06:00:00.000Z",
+          "wordCount": 1182,
+          "title": "Wiko Power U30: 180-Euro-Smartphone mit fünf Wochen Standby-Zeit"
+        },
+        {
+          "id": "https://www.heise.de/hintergrund/Neuronale-Netze-Wie-sie-angegriffen-werden-und-wie-man-sie-verteidigt-6132752.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Der wachsende Einsatz von künstlichen neuronalen Netzen in teils kritischen Bereichen erfordert eine zunehmende Absicherung der Systeme vor Bedrohungen.",
+          "link": "https://www.heise.de/hintergrund/Neuronale-Netze-Wie-sie-angegriffen-werden-und-wie-man-sie-verteidigt-6132752.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T05:47:00.000Z",
+          "wordCount": 1809,
+          "title": "Neuronale Netze: Wie sie angegriffen werden und wie man sie verteidigt"
+        },
+        {
+          "id": "https://www.heise.de/ratgeber/Python-und-Selenium-Automatisch-Online-Briefmarken-bei-der-Post-bestellen-6131715.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "author": null,
+          "description": "Manchmal braucht man eine Briefmarke – und klickt sich dann durch mehrere Menüs bei der Post. Selenium automatisiert den Prozess und bezahlt sogar die Marke.",
+          "link": "https://www.heise.de/ratgeber/Python-und-Selenium-Automatisch-Online-Briefmarken-bei-der-Post-bestellen-6131715.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "publishedOn": "2021-07-09T05:30:00.000Z",
+          "wordCount": 1241,
+          "title": "heise+ | Python und Selenium: Automatisch Online-Briefmarken bei der Post bestellen"
+        },
+        {
+          "id": "https://www.heise.de/news/IW-Studie-Veraenderter-Lebensstil-birgt-hohes-CO2-Einsparpotenzial-6132933.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Das Institut der deutschen Wirtschaft rechnet in einer Studie vor, wie durch Verhaltensänderungen im Alltag große Mengen an CO2 eingespart werden können.",
+          "link": "https://www.heise.de/news/IW-Studie-Veraenderter-Lebensstil-birgt-hohes-CO2-Einsparpotenzial-6132933.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T05:26:00.000Z",
+          "wordCount": 1291,
+          "title": "IW-Studie: Veränderter Lebensstil birgt hohes CO2-Einsparpotenzial"
+        },
+        {
+          "id": "https://www.heise.de/news/Bayern-hat-die-meisten-Ladesaeulen-6132937.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Das bevölkerungsreichste Bundesland Nordrhein-Westfalen hat nicht die meisten Ladesäulen. Bayern liegt vorne – dort schießt die Landesregierung mehr zu.",
+          "link": "https://www.heise.de/news/Bayern-hat-die-meisten-Ladesaeulen-6132937.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T05:15:00.000Z",
+          "wordCount": 1066,
+          "title": "Bayern hat die meisten Ladesäulen"
+        },
+        {
+          "id": "https://www.heise.de/news/Gewerkschaft-Verdi-Lage-der-Lufthansa-bleibt-angespannt-6132923.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Momentan könne der Konzern kostendeckend fliegen, für Gewinne reiche es aber noch nicht. Verdi mahnt, dass nicht nur Beschäftigte als Sparfaktor gesehen werden.",
+          "link": "https://www.heise.de/news/Gewerkschaft-Verdi-Lage-der-Lufthansa-bleibt-angespannt-6132923.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T04:44:00.000Z",
+          "wordCount": 1241,
+          "title": "Gewerkschaft Verdi: Lage der Lufthansa bleibt angespannt"
+        },
+        {
+          "id": "https://www.heise.de/news/Freitag-China-Aufsicht-Telenor-Ausstieg-Ikea-Sound-Update-Fail-Tempolimit-6132909.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Chinas Digital-Aufsicht mächtiger + Telenor verkauft Myanmar-Netz + Ikeas Sound-Bilderrahmen getestet + PrintNightmare-Patch unvollständig + Tempolimit flexibel",
+          "link": "https://www.heise.de/news/Freitag-China-Aufsicht-Telenor-Ausstieg-Ikea-Sound-Update-Fail-Tempolimit-6132909.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T04:30:00.000Z",
+          "wordCount": 1390,
+          "title": "Freitag: China-Aufsicht, Telenor-Ausstieg, Ikea-Sound, Update-Fail & Tempolimit"
+        },
+        {
+          "id": "https://www.heise.de/news/5-Jahre-Netzneutralitaet-in-Oesterreich-Zero-Rating-Portsperren-Netzsperren-6132913.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "​Seit 2016 gilt in der EU eine weiche Form der Netzneutralität. Österreichs Regulierungsbehörde berichtet über die Verfahren der ersten fünf Jahre.",
+          "link": "https://www.heise.de/news/5-Jahre-Netzneutralitaet-in-Oesterreich-Zero-Rating-Portsperren-Netzsperren-6132913.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T04:07:00.000Z",
+          "wordCount": 1540,
+          "title": "5 Jahre Netzneutralität in Österreich: Zero Rating, Portsperren, Netzsperren"
+        },
+        {
+          "id": "https://www.heise.de/news/KI-optimiert-Chipdesigns-und-kuenftige-KIs-6121789.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Eine künstliche Intelligenz platziert Chip-Komponenten besser und schneller als erfahrene Designer. Die Zeit für das sogenannte Floorplanning schrumpft.",
+          "link": "https://www.heise.de/news/KI-optimiert-Chipdesigns-und-kuenftige-KIs-6121789.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T04:00:00.000Z",
+          "wordCount": 1286,
+          "title": "KI optimiert Chipdesigns – und künftige KIs"
+        },
+        {
+          "id": "https://www.heise.de/news/Bericht-Chinas-IT-Behoerde-erhaelt-international-mehr-Einfluss-6132903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Chinas Digital-Aufsicht soll internationale Tätigkeiten chinesischer Firmen überwachen. Die Behörde könnte sogar Börsengänge im Ausland verhindern.",
+          "link": "https://www.heise.de/news/Bericht-Chinas-IT-Behoerde-erhaelt-international-mehr-Einfluss-6132903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T02:35:00.000Z",
+          "wordCount": 1294,
+          "title": "Chinas IT-Behörde erhält international mehr Einfluss"
+        },
+        {
+          "id": "https://www.heise.de/news/Militaerputsch-in-Myanmar-Telenor-muss-Mobilfunknetz-verkaufen-6132893.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Die Lage in Myanmar verschlechtert sich weiter, Telenor kann dort nicht weitermachen. Das Mobilfunknetz wird mit Verlust an Libanesen verkauft.",
+          "link": "https://www.heise.de/news/Militaerputsch-in-Myanmar-Telenor-muss-Mobilfunknetz-verkaufen-6132893.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-09T00:42:00.000Z",
+          "wordCount": 1371,
+          "title": "Militärputsch in Myanmar: Telenor muss Mobilfunknetz verkaufen"
+        },
         {
           "id": "https://www.heise.de/ratgeber/Grundlagen-Bildbearbeitung-Fuellmethoden-in-der-Praxis-6067403.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
           "author": null,
@@ -9892,42 +10451,6 @@
           "publishedOn": "2021-06-15T05:00:00.000Z",
           "wordCount": 2650,
           "title": "My Lab Uses Ultrasound to Stimulate Unconscious Patients - Facts So Romantic"
-        },
-        {
-          "id": "http://nautil.us/issue/102/hidden-truths/our-little-life-is-rounded-with-possibility?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "author": "Chiara Marletto",
-          "description": "If you could soar high in the sky, as red kites often do in search of prey, and look down at the domain of all things known and yet to be known, you would see something very curious: a vast class of things that science has so far almost entirely neglected. These things are central to our understanding of physical reality, both at the everyday level and at the level of the most fundamental phenomena in physics—yet they have traditionally been regarded as impossible to incorporate into fundamental scientific explanations. They are facts not about what is—“the actual”—but about what could or could not be. In order to distinguish them from the actual, they are called counterfactuals.\nSuppose that some future space mission visited a remote planet in another solar system, and that they left a st…",
-          "link": "http://nautil.us/issue/102/hidden-truths/our-little-life-is-rounded-with-possibility?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "publishedOn": "2021-06-09T19:00:00.000Z",
-          "wordCount": 3733,
-          "title": "Our Little Life Is Rounded with Possibility - Issue 102: Hidden Truths"
-        },
-        {
-          "id": "http://nautil.us/issue/102/hidden-truths/do-you-want-ai-to-be-conscious?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "author": "Ryota Kanai",
-          "description": "People often ask me whether human-level artificial intelligence will eventually become conscious. My response is: Do you want it to be conscious? I think it is largely up to us whether our machines will wake up.\n That may sound presumptuous. The mechanisms of consciousness—the reasons we have a vivid and direct experience of the world and of the self—are an unsolved mystery in neuroscience, and some people think they always will be; it seems impossible to explain subjective experience using the objective methods of science. But in the 25 or so years that we’ve taken consciousness seriously as a target of scientific scrutiny, we have made significant progress. We have discovered neural activity that correlates with consciousness, and we have a better idea of what behavioral tasks require co…",
-          "link": "http://nautil.us/issue/102/hidden-truths/do-you-want-ai-to-be-conscious?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "publishedOn": "2021-06-09T19:00:00.000Z",
-          "wordCount": 2893,
-          "title": "Do You Want AI to Be Conscious? - Issue 102: Hidden Truths"
-        },
-        {
-          "id": "http://nautil.us/issue/102/hidden-truths/data-crunchers-to-the-rescue?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "author": "Lela Nargi",
-          "description": "The boy was only a month old but had developed the amount of health problems that other people don’t acquire in a lifetime. He was constantly suffering from bacterial infections, battling unexplained inflammation, not gaining weight, and—scariest of all—having bloody diarrhea, a puzzling symptom that made some doctors think he had a pediatric version of an irritable bowel disease.\nArtemio Miguel Jongco, an allergy and immunology specialist who was finishing medical school, saw the boy on the first day of his first rotational practice in 2008. The symptoms sounded vaguely familiar from his textbook reading: a rare genetic disorder called chronic granulomatous disease, or CGD, in which the immune system can’t fight infections properly. There were supportive treatments for CGD, but ones that …",
-          "link": "http://nautil.us/issue/102/hidden-truths/data-crunchers-to-the-rescue?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "publishedOn": "2021-06-09T19:00:00.000Z",
-          "wordCount": 2557,
-          "title": "Data Crunchers to the Rescue - Issue 102: Hidden Truths"
-        },
-        {
-          "id": "http://nautil.us/blog/we-already-know-how-to-stop-solarwinds_like-hacks?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "author": "Joshua Holden",
-          "description": "Orion, a SolarWinds product, was designed to monitor the users’ networks to make sure they were functioning properly and, ironically, kept safe.Photograph by Camilo Concha / Shutterstock\nLast year, hackers made headlines after they breached SolarWinds, a software company that specializes in network monitoring software. About 33,000 organizations, including the Pentagon, the U.S. State Department, and some intelligence agencies, use Orion, one of SolarWinds’ products. Orion was designed to monitor the users’ networks to make sure they were functioning properly and, ironically, kept safe. \nThe breach seems to have started with an attack on Microsoft products, including the Microsoft Office 365 server SolarWinds was using. Office 365 handles email, among other things, and email servers are no…",
-          "link": "http://nautil.us/blog/we-already-know-how-to-stop-solarwinds_like-hacks?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "publishedOn": "2021-06-09T17:00:00.000Z",
-          "wordCount": 2115,
-          "title": "We Already Know How to Stop SolarWinds-Like Hacks - Facts So Romantic"
         }
       ]
     },
@@ -11508,6 +12031,15 @@
           "title": "As a Gay Child in a Christian Cult, I Was Taught to Hate Myself. Then I Joined the Church of Social Justice—and Nothing Changed"
         },
         {
+          "id": "https://quillette.com/?p=112001",
+          "author": "Sam Ashworth-Hayes",
+          "description": "“Consider too what undesirable deaths occur in wartime. Men are killed in places where they knew they might be killed and to which they go, if they are at all of the enemy’s party, prepared. How much better for us if all humans died in costly nursing homes amid doctors who lie, nurses who lie, friends who lie…” ~CS Lewis in The Screwtape Letters   Watching the West hesitate over the end of COVID restrictions, attempting to judge the trade-off between living life as normal and the number of deaths that would result from that, has brought new clarity to a concept that had previously lurked just below the surface of consciousness; modern societies are bad at handling the fundamental fact of individual mortality. You are going to die. That much was guaranteed when you were born. That we don’t like to think about this fact—categorise death as something that happens to other people, out of sight and out of mind—does not alter it. The daily cost of this inattention is low, consisting as it …",
+          "link": "https://quillette.com/2021/07/08/ending-lockdown/",
+          "publishedOn": "2021-07-08T00:37:08.000Z",
+          "wordCount": 1237,
+          "title": "Ending Lockdown"
+        },
+        {
           "id": "https://quillette.com/?p=111420",
           "author": "Gregory Hansen",
           "description": "In my first 10 years of college teaching, from the mid-60s to mid-70s, I modeled myself on my best teachers—men and women who questioned my ideas vigorously. They let me know that I mattered to them, they praised when praise was due, and they pushed me hard. Often I balked, and they continued to push. Indeed, the teachers who sternly, even at times angrily, called me out on my intellectual arrogance and sloppiness became mentors and, in several cases, lifelong friends. I think of one in particular, an English teacher to whom I’d brought a piece of freshman writing I’d ginned up only minutes before a mandatory conference. I knew it was junk when I carried it to his desk. He stunned me, growling, “You get the hell out of this office. And don’t come back until you respect yourself and me enough to do serious work.” The upshot—I admired his refusal of my bullshit. I went on to take all his classes. Today, such a teacher would be subject, at least, to sensitivity training …",
@@ -12580,6 +13112,24 @@
       "siteUrl": "https://www.axios.com/top/",
       "articles": [
         {
+          "id": "https://www.axios.com/zaila-avant-garde-scripps-spelling-bee-winning-word-c7bdbdbd-edd7-4b74-8b38-dee07fd32b7c.html",
+          "author": "Axios",
+          "description": "Fourteen-year-old Zaila Avant-garde on Thursday night became the first African American to win the Scripps National Spelling Bee. \nThe big picture: Avant-garde's winning word was \"murraya.\" First lady Jill Biden attended this year's finals, which were held in Orlando, Florida, after the coronavirus pandemic canceled last year's bee. \n\nAvant-garde, who is from New Orleans and holds several Guinness world records for dribbling basketballs, wants to someday play in the WNBA, according to AP.\nChaitra Thummala, a 12-year-old from San Francisco, came in second place. Bhavana Madini, a 13-year-old from New York City, placed third. \nThe only previous Black winner in the event's 96-year history is Jody-Anne Maxwell of Jamaica, who won in 1998. \n\nIt was the smile and twirls for us! After tying for 370th place in 2019, #Speller133 Zaila Avant-garde wins the 2021 Scripps National Spelling Bee.\nCongrats to all of our spellers. We're proud of everyone's poise and courage in facing the dictionary. #SpellingBee #TheBeeIsBack pic.twitter.com/wHfYeU4CNl\n— Scripps National Spelling Bee (@ScrippsBee) July 9, 2021",
+          "link": "https://www.axios.com/zaila-avant-garde-scripps-spelling-bee-winning-word-c7bdbdbd-edd7-4b74-8b38-dee07fd32b7c.html",
+          "publishedOn": "2021-07-09T02:55:33.000Z",
+          "wordCount": 1191,
+          "title": "Zaila Avant-garde becomes 1st African American to win Scripps National Spelling Bee"
+        },
+        {
+          "id": "https://www.axios.com/fda-cdc-fully-vaccinated-booster-covid-vaccine-c648f786-3bb9-40f3-b43d-cd88b54a4fa3.html",
+          "author": "Oriana Gonzalez",
+          "description": "People who are fully vaccinated against the coronavirus do not need a booster shot at this time, the Food and Drug Administration and the Centers for Disease Control and Prevention said in a joint statement released Thursday evening.\nWhat they're saying: \"People who are fully vaccinated are protected from severe disease and death, including from the variants currently circulating in the country such as Delta,\" the FDA and CDC said.\n\n\"Americans who have been fully vaccinated do not need a booster shot at this time. FDA, CDC, and [the National Institutes of Health] are engaged in a science-based, rigorous process to consider whether or when a booster might be necessary,\" they added.\n\"We continue to review any new data as it becomes available and will keep the public informed. We are prepared for booster doses if and when the science demonstrates that they are needed.\"\n\nThe big picture: The Delta variant is now the dominant version of COVID-19 in the United States, according to the CDC. \n\nOne dose of the Pfizer-BioNTech or AstraZeneca coronavirus vaccine \"barely\" protects against the Delta variant of the virus, because of mutations the variant has developed, a new study published in the journal Nature Thursday found. \nBut two doses of those vaccines generated a neutralizing response to the variant in 95% of people, highlighting the importance of full vaccination against COVID-19, Axios' Jacob Knutson writes. \nPfizer is expected to seek authorization from the FDA to administer a third dose of the its vaccine after releasing initial results of a study that found that an additional shot was five to 10 times more effective at neutralizing the virus.\n\nEditor's note: This story has been updated throughout.",
+          "link": "https://www.axios.com/fda-cdc-fully-vaccinated-booster-covid-vaccine-c648f786-3bb9-40f3-b43d-cd88b54a4fa3.html",
+          "publishedOn": "2021-07-09T01:01:28.000Z",
+          "wordCount": 1343,
+          "title": "Fully vaccinated people \"do not need a booster shot at this time,\" the FDA and CDC say"
+        },
+        {
           "id": "https://www.axios.com/biden-afghanistan-withdrawal-bagram-bff69f5f-38ff-48d2-9159-0f8ca60e2a2e.html",
           "author": "Dave Lawler",
           "description": "President Biden addressed the country Thursday afternoon to defend his withdrawal strategy in Afghanistan as the Taliban continues to gain ground and after U.S. troops abandoned their largest base under cover of darkness.\nWhat he's saying: Biden set an Aug. 31 deadline to end U.S. military operations in Afghanistan, and denied that a Taliban takeover of Kabul was \"inevitable\" after America left.\n\n“Nearly 20 years of experience has shown us, and the current security situation confirms, that just one more year of fighting in Afghanistan is not a solution but a recipe for being there indefinitely,\" Biden said.\nHe responded directly to critics, arguing that \"the status quo is not an option\" because the Taliban would resume attacks on U.S. troops, potentially necessitating deployments of additi…",
@@ -12945,15 +13495,6 @@
           "publishedOn": "2021-06-16T17:53:00.000Z",
           "wordCount": 5891,
           "title": "Historians, Slaves of Fashion?"
-        },
-        {
-          "id": "https://scholars-stage.org/?p=2165",
-          "author": "T. Greer",
-          "description": "You are looking at the new-and-improved Scholar’s Stage. It has many features the old blogspot lacked. Some of these are available only to my Patreon supporters; others are available to everybody. [...]",
-          "link": "https://scholars-stage.org/welcome-to-the-new-scholars-stage/",
-          "publishedOn": "2021-06-09T13:30:00.000Z",
-          "wordCount": 2010,
-          "title": "Welcome to the New Scholar’s Stage"
         }
       ]
     },
@@ -12962,6 +13503,15 @@
       "feedUrl": "https://capx.co/feed/",
       "siteUrl": "https://capx.co",
       "articles": [
+        {
+          "id": "https://capx.co/?p=213059",
+          "author": "CapX Contributor",
+          "description": "Dawn raids – where enforcement officers force their way into a house, place of worship of even a care home while the occupants are still sleeping to find and detain illegal immigrants – are one of the more aggressive expressions of Priti Patel’s border policy. They’re also one of the least effective. In 2019, less […]\nThe post Dawn raids are not the way to enforce our immigration rules appeared first on CapX.",
+          "link": "https://capx.co/dawn-raids-are-not-the-way-to-enforce-our-immigration-rules/",
+          "publishedOn": "2021-07-09T07:09:03.000Z",
+          "wordCount": 1005,
+          "title": "Dawn raids are not the way to enforce our immigration rules"
+        },
         {
           "id": "https://capx.co/?p=213069",
           "author": "CapX Contributor",

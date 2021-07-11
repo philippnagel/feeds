@@ -2194,15 +2194,6 @@
           "publishedOn": "2021-06-15T14:29:17.000Z",
           "wordCount": 827,
           "title": "Libra Shrugged is a Smashwords Father’s Day special — get your coupon here!"
-        },
-        {
-          "id": "https://davidgerard.co.uk/blockchain/?p=19671",
-          "author": "David Gerard",
-          "description": "The El Salvador Bitcoin scheme is a barely-planned smash-and-grab.",
-          "link": "https://davidgerard.co.uk/blockchain/2021/06/11/el-salvador-passes-its-bitcoin-law-and-its-a-tether-scam/",
-          "publishedOn": "2021-06-11T23:45:54.000Z",
-          "wordCount": 4524,
-          "title": "El Salvador passes its Bitcoin Law — and it’s a Tether scam"
         }
       ]
     },
@@ -2879,6 +2870,48 @@
       "feedUrl": "https://decryptmedia.com/feed/",
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
+        {
+          "id": "https://decrypt.co/?p=75695",
+          "author": "Tim Hakki",
+          "description": "STX can be staked to earn Bitcoin.",
+          "link": "https://decrypt.co/75695/stacks-surges-12-overnight-while-bitcoin-stagnates",
+          "publishedOn": "2021-07-11T12:25:59.000Z",
+          "wordCount": 492,
+          "title": "Stacks Surges 12% Overnight While Bitcoin Stagnates",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/token-prices-up-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75645",
+          "author": "Andrew Hayward",
+          "description": "Gary Vaynerchuk’s Candy Digital will release Dodgers collectibles as its second MLB launch, following this week’s Lou Gehrig NFT.",
+          "link": "https://decrypt.co/75645/los-angeles-dodgers-auction-nft-physical-world-series-ring",
+          "publishedOn": "2021-07-11T11:42:33.000Z",
+          "wordCount": 646,
+          "title": "Los Angeles Dodgers to Auction NFT With Physical World Series Ring",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Los-Angeles-Dodgers-gID_2.png",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://decrypt.co/?p=75686",
+          "author": "Ekin Genç",
+          "description": "The bizarre statements follow a running gag that the 71-year-old twin brothers control the crypto markets...and the world.",
+          "link": "https://decrypt.co/75686/bogdanoff-twins-claim-they-helped-invent-bitcoin",
+          "publishedOn": "2021-07-11T11:19:10.000Z",
+          "wordCount": 809,
+          "title": "Bogdanoff Twins Claim They Helped Invent Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/shutterstock_140038678-gID_7.png",
+            "length": "1000000",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://decrypt.co/?p=75680",
           "author": "Tim Hakki",
@@ -4049,6 +4082,78 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27800291",
+          "author": "edent",
+          "description": "Article URL: https://shkspr.mobi/blog/2021/07/why-do-we-use-r-rather-than-excel/\nComments URL: https://news.ycombinator.com/item?id=27800291\nPoints: 49\n# Comments: 32",
+          "link": "https://shkspr.mobi/blog/2021/07/why-do-we-use-r-rather-than-excel/",
+          "publishedOn": "2021-07-11T12:33:15.000Z",
+          "wordCount": 1254,
+          "title": "“Why do we use R rather than Excel?”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27800267",
+          "author": "amar-laksh",
+          "description": "Article URL: https://m.youtube.com/watch?v=yuv3aMwHf6Q\nComments URL: https://news.ycombinator.com/item?id=27800267\nPoints: 103\n# Comments: 20",
+          "link": "https://m.youtube.com/watch?v=yuv3aMwHf6Q",
+          "publishedOn": "2021-07-11T12:27:32.000Z",
+          "wordCount": 25,
+          "title": "Roger Waters to Mark Zuckerberg: Fuck You [video]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27800248",
+          "author": "btdmaster",
+          "description": "Article URL: https://writefreely.org/\nComments URL: https://news.ycombinator.com/item?id=27800248\nPoints: 20\n# Comments: 2",
+          "link": "https://writefreely.org/",
+          "publishedOn": "2021-07-11T12:24:19.000Z",
+          "wordCount": 305,
+          "title": "WriteFreely: ActivityPub Writing Space"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27800094",
+          "author": "_Microft",
+          "description": "Article URL: https://www.youtube.com/watch?v=RTpWYWIfP7Y\nComments URL: https://news.ycombinator.com/item?id=27800094\nPoints: 31\n# Comments: 10",
+          "link": "https://www.youtube.com/watch?v=RTpWYWIfP7Y",
+          "publishedOn": "2021-07-11T11:52:07.000Z",
+          "wordCount": null,
+          "title": "Virgin Galactic Unity 22 Spaceflight Livestream, Launch – 14:30 UTC"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27800038",
+          "author": "ptrkmhms",
+          "description": "Article URL: https://economictimes.indiatimes.com/news/india/up-population-bill-draft-incentives-for-couples-with-less-than-3-kids/articleshow/84277568.cms\nComments URL: https://news.ycombinator.com/item?id=27800038\nPoints: 20\n# Comments: 9",
+          "link": "https://economictimes.indiatimes.com/news/india/up-population-bill-draft-incentives-for-couples-with-less-than-3-kids/articleshow/84277568.cms",
+          "publishedOn": "2021-07-11T11:38:58.000Z",
+          "wordCount": 1479,
+          "title": "Indian state proposes two-child policy, stringent measures for violators"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27799961",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.theguardian.com/commentisfree/2021/jul/09/if-youre-going-to-put-your-preschooler-in-front-of-a-screen-choose-a-tv-heres-why\nComments URL: https://news.ycombinator.com/item?id=27799961\nPoints: 30\n# Comments: 39",
+          "link": "https://www.theguardian.com/commentisfree/2021/jul/09/if-youre-going-to-put-your-preschooler-in-front-of-a-screen-choose-a-tv-heres-why",
+          "publishedOn": "2021-07-11T11:17:50.000Z",
+          "wordCount": 1376,
+          "title": "If you’re going to put your preschooler in front of a screen, choose a TV"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27799938",
+          "author": "Keyb0ardWarr10r",
+          "description": "Article URL: https://kerberos.io/product/open-source/\nComments URL: https://news.ycombinator.com/item?id=27799938\nPoints: 53\n# Comments: 43",
+          "link": "https://kerberos.io/product/open-source/",
+          "publishedOn": "2021-07-11T11:13:10.000Z",
+          "wordCount": 1680,
+          "title": "Kerberos: Open-Source Video Surveillance"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27799767",
+          "author": "gadilif",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Eigengrau\nComments URL: https://news.ycombinator.com/item?id=27799767\nPoints: 35\n# Comments: 11",
+          "link": "https://en.wikipedia.org/wiki/Eigengrau",
+          "publishedOn": "2021-07-11T10:27:34.000Z",
+          "wordCount": 958,
+          "title": "Eigengrau"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27798879",
           "author": "seesawtron",
           "description": "Article URL: https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html\nComments URL: https://news.ycombinator.com/item?id=27798879\nPoints: 261\n# Comments: 69",
@@ -4326,6 +4431,15 @@
           "publishedOn": "2021-07-09T12:08:05.000Z",
           "wordCount": 1375,
           "title": "Barry Diller: The movie business as before is finished and will never come back"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27782734",
+          "author": "lukastyrychtr",
+          "description": "Article URL: https://www.infinyon.com/blog/2021/06/introducing-fluvio/\nComments URL: https://news.ycombinator.com/item?id=27782734\nPoints: 52\n# Comments: 11",
+          "link": "https://www.infinyon.com/blog/2021/06/introducing-fluvio/",
+          "publishedOn": "2021-07-09T11:52:19.000Z",
+          "wordCount": 2300,
+          "title": "Fluvio: A programmable data platform"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27782604",
@@ -6385,6 +6499,15 @@
       "siteUrl": "https://www.golem.de/",
       "articles": [
         {
+          "id": "https://www.golem.de/2107/158046-rss.html",
+          "author": null,
+          "description": "Nokia hat allein in Deutschland 24 Klagen gegen Oppo eingereicht. Es k�nnte ein Verkaufsverbot f�r Oppo-Smartphones drohen. (Nokia, Smartphone)",
+          "link": "https://www.golem.de/news/smartphones-nokia-verklagt-oppo-wegen-patentverletzung-2107-158046-rss.html",
+          "publishedOn": "2021-07-11T10:55:00.000Z",
+          "wordCount": 352,
+          "title": "Smartphones: Nokia verklagt Oppo wegen Patentverletzung"
+        },
+        {
           "id": "https://www.golem.de/2107/158045-rss.html",
           "author": null,
           "description": "Die Tesla Full Self Driving Beta V9 bietet neue Visualisierungen und soll Kreisverkehre automatisch durchfahren k�nnen. Auf Radar wird verzichtet. (Tesla, Technologie)",
@@ -7516,6 +7639,15 @@
       "feedUrl": "https://www.theverge.com/rss/index.xml",
       "siteUrl": "https://www.theverge.com/",
       "articles": [
+        {
+          "id": "https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review",
+          "author": null,
+          "description": "But you’ll probably have to put in time to make it fit you\nContinue reading…",
+          "link": "https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review",
+          "publishedOn": "2021-07-11T13:00:00.000Z",
+          "wordCount": 2707,
+          "title": "ZSA’s Moonlander Mark I is the ultimate customizable ergonomic keyboard"
+        },
         {
           "id": "https://www.theverge.com/2021/7/10/22571732/alphabay-dark-web-insider-trading-bitcoin",
           "author": null,
@@ -9029,6 +9161,132 @@
       "siteUrl": "https://de.downmagaz.net/",
       "articles": [
         {
+          "id": "https://de.downmagaz.net/business_magazine_economics_deutsch/76435-manager-magazin-072021.html",
+          "author": "kis",
+          "description": "Manager Magazin - Juli 2021Deutsch | 140 Seiten | True PDF | 29.2 MBmanager magazin ist das monatliche Wirtschaftsmagazin für Entscheider und Führungskräfte. Wirtschaft aus erster Hand - dies ist die Leitidee. - Exklusive Informationen gehören zu den Kernelementen des Magazins. Durch investigativen",
+          "link": "https://de.downmagaz.net/business_magazine_economics_deutsch/76435-manager-magazin-072021.html",
+          "publishedOn": "2021-07-11T13:01:30.000Z",
+          "wordCount": 588,
+          "title": "Manager Magazin - 07.2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/health_magazine_deutsch/76434-psychologie-heute-compact-nr65-2021.html",
+          "author": "kis",
+          "description": "Psychologie Heute Compact - Nr.65 2021Deutsch | 100 Seiten | True PDF | 21.4 MBPsychologie Heute Compact erscheint 3x im Jahr. Jedes Heft befasst sich ausführlich mit einem zentralen Thema der Psychologie. https://novafile.com/tyq0f7u7yb4n https://turb.cc/trpezdcmpmqe.html",
+          "link": "https://de.downmagaz.net/health_magazine_deutsch/76434-psychologie-heute-compact-nr65-2021.html",
+          "publishedOn": "2021-07-11T13:00:08.000Z",
+          "wordCount": 530,
+          "title": "Psychologie Heute Compact - Nr.65 2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/food_magazine_deutsch/76433-mein-schones-land-edition-nr4-2021.html",
+          "author": "kis",
+          "description": "Mein schönes Land Edition - Nr.4 2021Deutsch | 148 Seiten | True PDF | 21.3 MB https://novafile.com/hqw75ucrsutg https://turb.cc/thg1ful2vpqu.html",
+          "link": "https://de.downmagaz.net/food_magazine_deutsch/76433-mein-schones-land-edition-nr4-2021.html",
+          "publishedOn": "2021-07-11T12:58:57.000Z",
+          "wordCount": 517,
+          "title": "Mein schönes Land Edition - Nr.4 2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/food_magazine_deutsch/76432-lust-auf-landkuche-07-082021.html",
+          "author": "kis",
+          "description": "Lust auf LandKüche - Juli/August 2021Deutsch | 100 Seiten | True PDF | 24.7 MBDie Zeitschrift Lust auf Landküche widmet sich dem guten Essen auf dem Lande, wie es einst allerorts üblich war. Wobei wir die Rezepte unserer Großmütter durch frische und saisonale Zutaten aus der Region, durch",
+          "link": "https://de.downmagaz.net/food_magazine_deutsch/76432-lust-auf-landkuche-07-082021.html",
+          "publishedOn": "2021-07-11T12:57:44.000Z",
+          "wordCount": 630,
+          "title": "Lust auf LandKüche - 07/08.2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/fitness_magazine_deutsch/76431-runners-world-082021.html",
+          "author": "kis",
+          "description": "Runner's World - August 2021Deutsch | 100 Seiten | True PDF | 56.7 MBDie Zeitschrift RUNNER'S WORLD ist das führende Magazin für alle Laufbegeisterten. Mit RUNNER'S WORLD , erhalten Sie stets Aktuelles über optimales Training, richtige Ernährung, sowie gesunden Lifestyle. RUNNER'S WORLD besticht",
+          "link": "https://de.downmagaz.net/fitness_magazine_deutsch/76431-runners-world-082021.html",
+          "publishedOn": "2021-07-11T12:56:21.000Z",
+          "wordCount": 544,
+          "title": "Runner's World - 08.2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/food_magazine_deutsch/76430-schlank-amp-gesund-nr2-2021.html",
+          "author": "kis",
+          "description": "Schlank & Gesund - Nr.2 2021Deutsch | 68 Seiten | PDF | 39 MB https://novafile.com/e1pwo6rsvyke https://turb.cc/jcqfgcwa2bt5.html",
+          "link": "https://de.downmagaz.net/food_magazine_deutsch/76430-schlank-amp-gesund-nr2-2021.html",
+          "publishedOn": "2021-07-11T12:54:50.000Z",
+          "wordCount": 514,
+          "title": "Schlank & Gesund - Nr.2 2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/food_magazine_deutsch/76429-a-la-carte-nr3-2021.html",
+          "author": "kis",
+          "description": "A la Carte - Nr.3 2021Deutsch | 196 Seiten | True PDF | 30.9 MBDie Zeitschrift A la Carte ist das führende Magazin für Erlebnisgastronomie in Deutschland: Der Leser findet Berichte zu sternengekrönten Gourmandise, historischen Schlosshotels, traditionsreichen Luxusherbergen, gemütlichen",
+          "link": "https://de.downmagaz.net/food_magazine_deutsch/76429-a-la-carte-nr3-2021.html",
+          "publishedOn": "2021-07-11T12:49:27.000Z",
+          "wordCount": 585,
+          "title": "A la Carte - Nr.3 2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/art_magazine_graphics_deutsch/76428-simskultur-nr1-2021.html",
+          "author": "kis",
+          "description": "SIMsKultur - Nr.1 2021Deutsch | 100 Seiten | True PDF | 22.1 MB https://novafile.com/wes9iyzm2qu1 https://turb.cc/a2emu7vu58p1.html",
+          "link": "https://de.downmagaz.net/art_magazine_graphics_deutsch/76428-simskultur-nr1-2021.html",
+          "publishedOn": "2021-07-11T12:48:19.000Z",
+          "wordCount": 506,
+          "title": "SIMsKultur - Nr.1 2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/business_magazine_economics_deutsch/76427-profil-110721.html",
+          "author": "kis",
+          "description": "Profil - 11. Juli 2021Deutsch | 84 Seiten | PDF | 51.8 MBprofil, Österreichs unabhängiges Nachrichtenmagazin, ist seit 38 Jahren Garant für Journalismus der besonderen Qualität - investigativ, fundiert und meinungsbildend. https://novafile.com/jccxosv9zupf https://turb.cc/47yb101q7xpq.html",
+          "link": "https://de.downmagaz.net/business_magazine_economics_deutsch/76427-profil-110721.html",
+          "publishedOn": "2021-07-11T12:47:19.000Z",
+          "wordCount": 526,
+          "title": "Profil - 11.07.21"
+        },
+        {
+          "id": "https://de.downmagaz.net/fashion_magazine_women_deutsch/76426-sabrina-072021.html",
+          "author": "kis",
+          "description": "Sabrina - Juli 2021Deutsch | 52 Seiten | True PDF | 19.9 MBSabrina ist Europas größtes Strickjournal. Jeden Monat neu überrascht sie mit Trendmaschen in aktuellen Farben. Die neueste Strickmode jeder Saison wird Ihnen aktuell präsentiert.Und neben der Damenstrickmode wird mit Sabrina auch an Herren",
+          "link": "https://de.downmagaz.net/fashion_magazine_women_deutsch/76426-sabrina-072021.html",
+          "publishedOn": "2021-07-11T12:46:16.000Z",
+          "wordCount": 550,
+          "title": "Sabrina - 07.2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/fashion_magazine_women_deutsch/76425-harpers-bazaar-06-072021.html",
+          "author": "kis",
+          "description": "Harper's Bazaar - Juni/Juli 2021Deutsch | 172 Seiten | True PDF | 41.9 MBHarper's BAZAAR ist der Weltstar unter den Fashionmagazinen. Was zeichnet Harper's BAZAARaus? Eine globale Marke - erscheint weltweit in 43 Ländern, mit außergewöhnlichen Inszenierungen in Fotografie, Kreativität, Anspruch,",
+          "link": "https://de.downmagaz.net/fashion_magazine_women_deutsch/76425-harpers-bazaar-06-072021.html",
+          "publishedOn": "2021-07-11T12:44:41.000Z",
+          "wordCount": 532,
+          "title": "Harper's Bazaar - 06/07.2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/fashion_magazine_women_deutsch/76424-instyle-082021.html",
+          "author": "kis",
+          "description": "InStyle - August 2021Deutsch | 184 Seiten | True PDF | 34.7 MBInStyle präsentiert die Welt der Stars, ihren Stil und zeigt damit die Trends von morgen, mit spannenden Interviews, faszinierenden Porträts, vielen Beauty- und Fashion-Tipps. https://novafile.com/4358th63gwha",
+          "link": "https://de.downmagaz.net/fashion_magazine_women_deutsch/76424-instyle-082021.html",
+          "publishedOn": "2021-07-11T12:11:56.000Z",
+          "wordCount": 526,
+          "title": "InStyle - 08.2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/music_magazine_deutsch/75926-beat-sonderausgaben-2021.html",
+          "author": "kis",
+          "description": "Beat - Sonderausgaben 2021Deutsch | 14 Seiten |True PDF | 11.3 MBDas Fachmagazin für Musik, Produktion und DJ-ing: BEAT kombiniert kompetente Hard- und Softwaretests mit engagierten Rezensionen sowie Berichten und Interviews aus Musikerkreisen und dem Musik-Geschäft. Wir berichten über",
+          "link": "https://de.downmagaz.net/music_magazine_deutsch/75926-beat-sonderausgaben-2021.html",
+          "publishedOn": "2021-07-11T12:07:50.000Z",
+          "wordCount": 570,
+          "title": "Beat - Sonderausgaben 2021"
+        },
+        {
+          "id": "https://de.downmagaz.net/business_magazine_economics_deutsch/76423-buchreport-express-080721.html",
+          "author": "kis",
+          "description": "buchreport express - 08. Juli 2021Deutsch | 44 Seiten | True PDF | 11.7 MB https://novafile.com/opehhg2sxkwq https://turb.cc/6nw84y2m3n6y.html",
+          "link": "https://de.downmagaz.net/business_magazine_economics_deutsch/76423-buchreport-express-080721.html",
+          "publishedOn": "2021-07-11T12:03:39.000Z",
+          "wordCount": 513,
+          "title": "buchreport express - 08.07.21"
+        },
+        {
           "id": "https://de.downmagaz.net/newspaper_deutsch/76422-bild-am-sonntag-110721.html",
           "author": "kis",
           "description": "Bild am Sonntag - 11. Juli 2021Deutsch | 84 Seiten | True PDF | 22.4 MB https://novafile.com/oj3sjv33le4d https://turb.cc/vnedfrqy1eos.html",
@@ -10172,6 +10430,33 @@
       "feedUrl": "https://www.heise.de/newsticker/heise-atom.xml",
       "siteUrl": "https://www.heise.de/",
       "articles": [
+        {
+          "id": "https://www.heise.de/ratgeber/Programmierprojekte-mit-Python-Scratch-Processing-Sonic-Pi-Lua-und-Julia-6024452.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "author": null,
+          "description": "Wenige Zeilen Code reichen, um erste lauffähige Anwendungen und Spiele zu programmieren. Mit unseren Projekten gelingt das mitunter ohne Vorwissen.",
+          "link": "https://www.heise.de/ratgeber/Programmierprojekte-mit-Python-Scratch-Processing-Sonic-Pi-Lua-und-Julia-6024452.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+          "publishedOn": "2021-07-11T12:00:00.000Z",
+          "wordCount": 1276,
+          "title": "heise+ | Programmierprojekte mit Python, Scratch, Processing, Sonic Pi, Lua und Julia"
+        },
+        {
+          "id": "https://www.heise.de/news/Livestream-ab-16-30-Uhr-Richard-Branson-startet-mit-Virgin-Galactic-ins-Weltall-6134219.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Nächster Testflug des Raketen-Gleiters von Virgin Galactic – und Firmenchef Richard Branson ist mit an Bord. Per Livestream kann man diesmal zusehen.",
+          "link": "https://www.heise.de/news/Livestream-ab-16-30-Uhr-Richard-Branson-startet-mit-Virgin-Galactic-ins-Weltall-6134219.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-11T11:23:00.000Z",
+          "wordCount": 1257,
+          "title": "Livestream ab 16:30 Uhr: Richard Branson startet mit Virgin Galactic ins Weltall"
+        },
+        {
+          "id": "https://www.heise.de/news/G20-beschliessen-globale-Steuerreform-Mindeststeuer-fuer-Unternehmen-6134208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "author": null,
+          "description": "Seit Jahren unterbieten sich Staaten weltweit bei den Unternehmenssteuern. Damit soll Schluss sein: Die G20-Länder stellen sich hinter eine große Steuerreform.",
+          "link": "https://www.heise.de/news/G20-beschliessen-globale-Steuerreform-Mindeststeuer-fuer-Unternehmen-6134208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+          "publishedOn": "2021-07-11T10:47:00.000Z",
+          "wordCount": 1755,
+          "title": "G20 beschließen globale Steuerreform: Mindeststeuer für Unternehmen"
+        },
         {
           "id": "https://www.heise.de/news/Verdoppelter-Elektroauto-Zuschuss-kostet-Bund-knapp-zwei-Milliarden-6134185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
           "author": null,
@@ -15838,6 +16123,15 @@
       "siteUrl": "https://taskandpurpose.com",
       "articles": [
         {
+          "id": "https://taskandpurpose.com/asperiores-odit/pentagon-powered-armor-iron-man-suit/",
+          "author": "Jared Keller",
+          "description": "The U.S. military's fascination with the science-fiction future of mechanized warfare stretches back a half-century.\nThe post The inside story behind the Pentagon’s ill-fated quest for a real-life ‘Iron Man’ suit appeared first on Task & Purpose.",
+          "link": "https://taskandpurpose.com/military-tech/pentagon-powered-armor-iron-man-suit/",
+          "publishedOn": "2021-07-11T13:17:19.000Z",
+          "wordCount": 3113,
+          "title": "The inside story behind the Pentagon’s ill-fated quest for a real-life ‘Iron Man’ suit"
+        },
+        {
           "id": "https://taskandpurpose.com/asperiores-odit/navy-ammo-backpack-avenger/",
           "author": "Jared Keller",
           "description": "Jesse Ventura in 'Predator'\nThe Navy has fielded a 650-round ammo backpack nicknamed 'Avenger' to troops at some point in the last several years.\nThe post The Navy has a 650-round ammo backpack that looks like it’s straight out of ‘Predator’ appeared first on Task & Purpose.",
@@ -16060,6 +16354,33 @@
       "feedUrl": "https://api.axios.com/feed/top/",
       "siteUrl": "https://www.axios.com/top/",
       "articles": [
+        {
+          "id": "https://www.axios.com/janet-yellen-covid-delta-variants-economy-recovery-81163ccd-1e77-4d35-9ac1-83b23ca0b4ab.html",
+          "author": "Fadel Allassan",
+          "description": "Treasury Secretary Janet Yellen on Sunday urged more rapid distribution of COVID-19 vaccines globally, warning that the virus' variants could hinder the worldwide economic recovery, per the New York Times.\nThe big picture: The comment, made following a meeting in Venice of the finance chiefs of the group of 20 nations, comes as some countries have eased restrictions aimed at curbing the virus. \n\nBut that has been amidst the backdrop of the spread of the highly-infectious Delta variant, which is now the dominant strain in the United States, and has led countries around the world to reimpose restrictions.\n\nWhat she's saying: “We are very concerned about the Delta variant and other variants that could emerge and threaten recovery,” Yellen said. “We are a connected global economy. What happens in any part of the world affects all other countries.”\nWhy it matters: The spread of the variant has somewhat dampened hopes for a rapid economic rebound. \n\nThe International Monetary Fund has said it still expects the economy to grow at the 6% rate it projected earlier this year, but warned that the variant is threatening growth to developing nations with less access to vaccines.",
+          "link": "https://www.axios.com/janet-yellen-covid-delta-variants-economy-recovery-81163ccd-1e77-4d35-9ac1-83b23ca0b4ab.html",
+          "publishedOn": "2021-07-11T13:28:13.000Z",
+          "wordCount": 1249,
+          "title": "Janet Yellen: COVID-19 variants could derail global recovery"
+        },
+        {
+          "id": "https://www.axios.com/church-sermon-political-messages-election-2020-a9096f73-b228-4378-aa23-51063014187b.html",
+          "author": "Kim Hart",
+          "description": "Reproduced from Pew Research Center; Chart: Axios visuals\nTwo-thirds of American churches delivered overtly political sermons or messages in the run-up to the 2020 election, according to a Pew Research Center analysis of online sermons.\nWhy it matters: Many clergy felt compelled to address the controversies dividing the country — and possibly their own congregations — at a time of turmoil. \n\nBy the numbers: Between Aug.31 and Nov. 8, 2020, two-thirds of churches posted at least one sermon or message about the 2020 election. The messages varied among Christian churches: \n\n48% of sermons mentioning the election in evangelical Protestant churches discussed specific issues, parties or candidates. Evangelical pastors were more than twice as likely as others to use the phrases \"Satan,\" \"hell\" and \"pray [for our] president.\"\nHistorically Black Protestant pastors were far more likely to encourage voting and turnout, and to reference voter suppression, more than other groups.\n\nWhen discussing racism, evangelical pastors disproportionately leaned on phrases such as \"racial tension.\" Evangelicals also used terms like \"police officer,\" \"crime\" and \"convict\" around three times as often as others. \n\nPastors in mainline and historically Black Protestant congregations used terms like \"anti-racism\" and \"white supremacist\" when talking about racism.\n\nMeanwhile, Catholic priests were least likely to discuss any of these topics during services.\nDetails: The analysis of 12,832 sermons, shared online by 2,143 churches (due to the pandemic), is not necessarily a representative sample of all sermons delivered across the country. \n\nIt provides a glimpse of the messages that churchgoers heard during a pivotal period for the U.S.",
+          "link": "https://www.axios.com/church-sermon-political-messages-election-2020-a9096f73-b228-4378-aa23-51063014187b.html",
+          "publishedOn": "2021-07-11T11:00:49.000Z",
+          "wordCount": 1299,
+          "title": "Church sermons got political in 2020"
+        },
+        {
+          "id": "https://www.axios.com/mexico-us-migration-immigration-2463d95e-b263-4632-9f4f-b957c043c0f5.html",
+          "author": "Stef W. Kight",
+          "description": "Data: Pew Research Center; Chart: Danielle Alberti/Axios \nThe past few years have seen a marked decline in the number of people migrating from the U.S. to Mexico, according to a new Pew Research Center report. \nWhy it matters: Mexico has long been the largest country of origin for immigrants in the U.S. However, there was even more migration from the U.S. to Mexico in the 2000s and early 2010s— a trend that reversed in the years before the pandemic.\n\nIt's not that there was a big spike in Mexicans migrating to the U.S. during that time. Rather, far fewer people have been returning to Mexico, according to Pew. \n\nBy the numbers: Roughly 690,000 people in the U.S. moved to Mexico between 2013 and 2018, according to Pew — down from 1 million people who made that move over the previous five yea…",
+          "link": "https://www.axios.com/mexico-us-migration-immigration-2463d95e-b263-4632-9f4f-b957c043c0f5.html",
+          "publishedOn": "2021-07-11T11:00:00.000Z",
+          "wordCount": 1469,
+          "title": "Migration trends between the U.S. and Mexico have flipped upside down"
+        },
         {
           "id": "https://www.axios.com/heat-wave-west-30-million-alerts-7862eb0e-0687-4797-8e9e-60c8e7b2c93b.html",
           "author": "Rebecca Falconer",
@@ -17706,6 +18027,104 @@
       "siteUrl": "http://www.handelsblatt.com",
       "articles": [
         {
+          "id": "https://www.handelsblatt.com/27410948.html",
+          "author": null,
+          "description": "Viele Familien blicken mit Sorge auf das kommende Schuljahr. Wird es das dritte Corona-Schuljahr mit Ausfällen, Einschränkungen und Schließungen in Folge?",
+          "link": "https://www.handelsblatt.com/politik/deutschland/corona-diese-schulschliessungen-duerfen-sich-einfach-nicht-wiederholen-sorgen-vor-erneutem-homeschooling-im-herbst/27410948.html",
+          "publishedOn": "2021-07-11T13:12:05.000Z",
+          "wordCount": 1076,
+          "title": "Corona: „Diese Schulschließungen dürfen sich einfach nicht wiederholen“ – Sorgen vor erneutem Homeschooling im Herbst",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/klassenraum/27410964/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "328786"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27410950.html",
+          "author": null,
+          "description": "Rege Nachfrage von deutschen Anlegern nach Gold: Der Bestand bei Xetra-Gold ist zum Ende des vergangenen Monats auf ein neues Rekordhoch gestiegen.",
+          "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoffe-deutsche-wollen-offenbar-strafzinsen-vermeiden-und-kaufen-gold/27410950.html",
+          "publishedOn": "2021-07-11T13:08:04.000Z",
+          "wordCount": 717,
+          "title": "Rohstoffe: Deutsche wollen offenbar Strafzinsen vermeiden und kaufen Gold",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/goldmuenzen-und-barren/27410976/3-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "373455"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27398768.html",
+          "author": null,
+          "description": "Aufseher blicken mit Sorge auf das dezentrale Finanzsystem. Doch vielen vorgeschlagenen Kontrollen könnten sich die Akteure bislang leicht entziehen.",
+          "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/serie-decentralized-finance-8-die-defi-branche-alarmiert-die-weltweiten-regulierer/27398768.html",
+          "publishedOn": "2021-07-11T12:43:08.000Z",
+          "wordCount": 2024,
+          "title": "Serie „Decentralized Finance“ (8): Die Defi-Branche alarmiert die weltweiten Regulierer",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/gebaeude-der-us-boersenaufsicht-sec-in-washington-d-c-/27398830/3-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "549577"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27403518.html",
+          "author": null,
+          "description": "Der Autobauer muss vor den Arbeitsgerichten deutliche Niederlagen einstecken. VW hätte angeblich für die Manipulationen verantwortlichen Ingenieuren nicht kündigen dürfen.",
+          "link": "https://www.handelsblatt.com/unternehmen/industrie/dieselskandal-volkswagen-sieht-im-streit-mit-entlassenen-ingenieuren-schlecht-aus/27403518.html",
+          "publishedOn": "2021-07-11T12:37:19.000Z",
+          "wordCount": 631,
+          "title": "Dieselskandal: Volkswagen sieht im Streit mit entlassenen Ingenieuren schlecht aus",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/vw-dieselmotor-vom-typ-ea189/27407056/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "286440"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27407072.html",
+          "author": null,
+          "description": "Die Möglichkeit, Gewinne und Verluste aus Wertpapiergeschäften zu verrechnen, ist zuletzt deutlich eingeschränkt worden. Doch es gibt einen Ausweg.",
+          "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/trader-aktien-und-termingeschaefte-die-gruendung-einer-gmbh-hilft-beim-steuersparen/27407072.html",
+          "publishedOn": "2021-07-11T11:51:44.000Z",
+          "wordCount": 654,
+          "title": "Trader: Aktien- und Termingeschäfte: Die Gründung einer GmbH hilft beim Steuersparen",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/anlegerin-bei-der-chartanalyse/27408254/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "249017"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27409158.html",
+          "author": null,
+          "description": "Die Energiecharta bremst den Klimaschutz und könnte den Kohleausstieg verteuern. Noch haben sich Deutschland und die EU aber nicht zur Kündigung entschieden.",
+          "link": "https://www.handelsblatt.com/politik/international/energiecharta-ein-veraltetes-abkommen-bindet-die-eu-an-kohlegruben-und-oelpipelines/27409158.html",
+          "publishedOn": "2021-07-11T11:51:19.000Z",
+          "wordCount": 1156,
+          "title": "Energiecharta: Ein veraltetes Abkommen bindet die EU an Kohlegruben und Ölpipelines",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/kohlekraftwerk-in-niedersachsen/27409168/2-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "397513"
+          }
+        },
+        {
+          "id": "https://www.handelsblatt.com/27409798.html",
+          "author": null,
+          "description": "Der Bundesfinanzminister tütet beim G20-Treffen die globale Mindeststeuer ein. Die wackelige SPD hofft, von den internationalen Erfolgen ihres Spitzenkandidaten zu profitieren.",
+          "link": "https://www.handelsblatt.com/politik/international/spd-kanzlerkandidat-olaf-scholz-triumphiert-in-venedig-aber-hilft-ihm-das-beim-kampf-ums-kanzleramt/27409798.html",
+          "publishedOn": "2021-07-11T11:47:19.000Z",
+          "wordCount": 1586,
+          "title": "SPD-Kanzlerkandidat: Olaf Scholz triumphiert in Venedig – aber hilft ihm das beim Kampf ums Kanzleramt?",
+          "enclosure": {
+            "url": "https://www.handelsblatt.com/images/bundesfinanzminister-olaf-scholz-auf-dem-weg-zum-g20-gipfel/27409856/3-format7.jpg?format=format7",
+            "type": "image/jpeg",
+            "length": "249427"
+          }
+        },
+        {
           "id": "https://www.handelsblatt.com/27410692.html",
           "author": null,
           "description": "Jahrelang dümpelte der Verkauf von Elektroautos vor sich hin. Doch mit der Verdopplung der Zuschüsse vor einem Jahr hat die Bundesregierung einen Boom kreiert.",
@@ -18579,6 +18998,137 @@
       "feedUrl": "https://www.caitlingreen.org/feeds/posts/default",
       "siteUrl": "https://www.caitlingreen.org/",
       "articles": []
+    },
+    {
+      "title": "Alt-M",
+      "feedUrl": "https://www.alt-m.org/feed/",
+      "siteUrl": "https://www.alt-m.org",
+      "articles": [
+        {
+          "id": "https://www.alt-m.org/?p=230433",
+          "author": "George Selgin",
+          "description": "The comparison has by now been made so often that it may qualify as a platitude. I mean that between stablecoin issuers and \"wildcat\" banks, the fly-by-night scams that supposedly flooded the antebellum United States with notes nominally worth some stated amount of gold or silver, but... \nContinue reading\nThe post The Fable of the Cats appeared first on Alt-M.",
+          "link": "https://www.alt-m.org/2021/07/06/the-fable-of-the-cats/",
+          "publishedOn": "2021-07-06T12:15:46.000Z",
+          "wordCount": 6363,
+          "title": "The Fable of the Cats"
+        },
+        {
+          "id": "https://www.alt-m.org/?p=230359",
+          "author": "Larry White",
+          "description": "A “stablecoin” is a cryptocurrency whose value is pegged to a fiat currency, gold, or another continuously traded asset. USD Tether (USDT) and USD Coin (USDC), the two stablecoins with the largest values in circulation, are each managed to maintain a price centered on and close to... \nContinue reading\nThe post Should We Fear Stablecoins? appeared first on Alt-M.",
+          "link": "https://www.alt-m.org/2021/06/24/should-we-fear-stablecoins/",
+          "publishedOn": "2021-06-24T12:15:33.000Z",
+          "wordCount": 2472,
+          "title": "Should We Fear Stablecoins?"
+        },
+        {
+          "id": "https://www.alt-m.org/?p=230211",
+          "author": "George Selgin",
+          "description": "“Why should we not let people use freely what money they want to use? [They] ought to have the right to decide whether they want to buy or sell for francs, pounds, dollars, D-marks, or ounces of gold. I have no objection to governments issuing money, but... \nContinue reading\nThe post The Bitcoin Law: Counterfeit Free Choice in Currency appeared first on Alt-M.",
+          "link": "https://www.alt-m.org/2021/06/17/the-bitcoin-law-counterfeit-free-choice-in-currency/",
+          "publishedOn": "2021-06-17T16:07:04.000Z",
+          "wordCount": 5892,
+          "title": "The Bitcoin Law: Counterfeit Free Choice in Currency"
+        }
+      ]
+    },
+    {
+      "title": "BitMEX Blog",
+      "feedUrl": "https://blog.bitmex.com/feed/",
+      "siteUrl": "https://blog.bitmex.com",
+      "articles": [
+        {
+          "id": "https://blog.bitmex.com/?p=30493",
+          "author": "BitMEX Research",
+          "description": "Chapter 17 of the book The Blocksize War is published below. The full book is available on Amazon. As a reminder, 50% of any profits from physical book sales will be donated to Médecins Sans Frontières, a charity that provides medical assistance to people affected by conflict, epidemics, disasters, or exclusion from healthcare.* * Note: […]",
+          "link": "https://blog.bitmex.com/the-blocksize-war-chapter-17-user-activated-softfork/?utm_source=rss&utm_medium=rss&utm_campaign=the-blocksize-war-chapter-17-user-activated-softfork",
+          "publishedOn": "2021-07-10T09:00:00.000Z",
+          "wordCount": 4823,
+          "title": "The Blocksize War – Chapter 17 – User-Activated Softfork"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=31112",
+          "author": "Arthur Hayes",
+          "description": "The height of the northern hemispheric summer is here, and it’s vaxx-enabled party time. Don’t expect much in the way of volumes and/or volatility while traders get some well-earned time to spend their spoils.",
+          "link": "https://blog.bitmex.com/stablecoin-triptych/?utm_source=rss&utm_medium=rss&utm_campaign=stablecoin-triptych",
+          "publishedOn": "2021-07-08T23:00:05.000Z",
+          "wordCount": 3666,
+          "title": "Stablecoin Triptych"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=31046",
+          "author": "BitMEX",
+          "description": "As we continue to enhance the BitMEX platform for our users, we will be facilitating a major upgrade to our operating system that will temporarily halt trading in our Testnet environment on Thursday, 15 July at 02:15 UTC, and our production (Mainnet) environment on Thursday, 29 July at 02:15 UTC.  From this time in each […]",
+          "link": "https://blog.bitmex.com/scheduled-temporary-downtime-for-15-july-testnet-and-29-july-mainnet-for-upgrades-to-operating-system/?utm_source=rss&utm_medium=rss&utm_campaign=scheduled-temporary-downtime-for-15-july-testnet-and-29-july-mainnet-for-upgrades-to-operating-system",
+          "publishedOn": "2021-07-08T06:15:44.000Z",
+          "wordCount": 1137,
+          "title": "Scheduled Temporary Downtime for 15 July (Testnet) and 29 July (Mainnet) for Upgrades to Operating System"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=30969",
+          "author": "BitMEX",
+          "description": "Another week, another listing on BitMEX. This time, we’re introducing the  AAVEUSDT Quanto Perpetual Swap.  With up to 33x leverage available, the AAVEUSDT Perpetual Swap contract will go live at 04:00 UTC on 14 July 2021. The contract is already available to trade on Testnet now. It’s a great time to be on BitMEX, with […]",
+          "link": "https://blog.bitmex.com/introducing-the-aaveusdt-quanto-perpetual-contract/?utm_source=rss&utm_medium=rss&utm_campaign=introducing-the-aaveusdt-quanto-perpetual-contract",
+          "publishedOn": "2021-07-07T04:11:54.000Z",
+          "wordCount": 1194,
+          "title": "Introducing the AAVEUSDT Quanto Perpetual Contract"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=30939",
+          "author": "BitMEX",
+          "description": "Brian Rankin has been promoted to the role of Chief Information Security Officer as we make good on our commitment to protect customers and stakeholders. In his new role, Brian will continue to build a world class team that can protect our information assets from the growing threat from a range of malicious actors. “The […]",
+          "link": "https://blog.bitmex.com/bitmex-promotes-brian-rankin-to-chief-information-security-officer/?utm_source=rss&utm_medium=rss&utm_campaign=bitmex-promotes-brian-rankin-to-chief-information-security-officer",
+          "publishedOn": "2021-07-07T01:28:02.000Z",
+          "wordCount": 1157,
+          "title": "BitMEX Promotes Brian Rankin to Chief Information Security Officer"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=30943",
+          "author": "BitMEX",
+          "description": "It’s fair to say that our decision to implement comprehensive know-your-customer (KYC) last year was one of the most consequential decisions in our company’s history. Six months on, with the benefit of hindsight, we also think it was one of the best decisions for our long-term future. Here’s why. To put things in perspective, let’s […]",
+          "link": "https://blog.bitmex.com/what-weve-learned-six-months-after-becoming-the-largest-fully-verified-derivatives-exchange/?utm_source=rss&utm_medium=rss&utm_campaign=what-weve-learned-six-months-after-becoming-the-largest-fully-verified-derivatives-exchange",
+          "publishedOn": "2021-07-06T13:00:19.000Z",
+          "wordCount": 1809,
+          "title": "What We’ve Learned, Six Months After Becoming the Largest Fully Verified Derivatives Exchange"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=30492",
+          "author": "BitMEX Research",
+          "description": "Chapter 16 of the book The Blocksize War is published below. The full book is available on Amazon. As a reminder, 50% of any profits from physical book sales will be donated to Médecins Sans Frontières, a charity that provides medical assistance to people affected by conflict, epidemics, disasters, or exclusion from healthcare.* * Note: […]",
+          "link": "https://blog.bitmex.com/the-blocksize-war-chapter-16-litecoin/?utm_source=rss&utm_medium=rss&utm_campaign=the-blocksize-war-chapter-16-litecoin",
+          "publishedOn": "2021-07-04T09:00:00.000Z",
+          "wordCount": 2510,
+          "title": "The Blocksize War – Chapter 16 – Litecoin"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=30783",
+          "author": "BitMEX",
+          "description": "We are thrilled to once again expand our BitMEX Partner Programme ecosystem with the official addition of HASH CIB into our community. HASH CIB was established in 2017 and is currently one of the largest and most impactful crypto investment firms in the industry. The company focuses primarily on asset management and venture capital.  Specializing […]",
+          "link": "https://blog.bitmex.com/bitmex-x-hashcib-crypto-asset-management-re-imagined/?utm_source=rss&utm_medium=rss&utm_campaign=bitmex-x-hashcib-crypto-asset-management-re-imagined",
+          "publishedOn": "2021-07-01T09:40:02.000Z",
+          "wordCount": 1071,
+          "title": "BitMEX x HASH CIB: Crypto Asset Management Re-imagined"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=30724",
+          "author": "BitMEX",
+          "description": "MATIC, the native token of Polygon and a trader favourite, is coming to BitMEX in the form of a MATIC USDT Quanto Perpetual Swap.  With up to 20x leverage available, the MATICUSDT Perpetual Swap contract will go live at 04:00 UTC on 7 July 2021. The contract is already available to trade on Testnet now. […]",
+          "link": "https://blog.bitmex.com/the-maticusdt-quanto-perpetual-contract-coming-soon-to-bitmex/?utm_source=rss&utm_medium=rss&utm_campaign=the-maticusdt-quanto-perpetual-contract-coming-soon-to-bitmex",
+          "publishedOn": "2021-06-30T04:11:23.000Z",
+          "wordCount": 1212,
+          "title": "The MATICUSDT Quanto Perpetual Contract – Coming Soon to BitMEX"
+        },
+        {
+          "id": "https://blog.bitmex.com/?p=30491",
+          "author": "BitMEX Research",
+          "description": "Chapter 15 of the book The Blocksize War is published below. The full book is available on Amazon. As a reminder, 50% of any profits from physical book sales will be donated to Médecins Sans Frontières, a charity that provides medical assistance to people affected by conflict, epidemics, disasters, or exclusion from healthcare.* * Note: […]",
+          "link": "https://blog.bitmex.com/the-blocksize-war-chapter-15-dragons-den/?utm_source=rss&utm_medium=rss&utm_campaign=the-blocksize-war-chapter-15-dragons-den",
+          "publishedOn": "2021-06-28T08:00:00.000Z",
+          "wordCount": 1700,
+          "title": "The Blocksize War – Chapter 15 – Dragons’ Den"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

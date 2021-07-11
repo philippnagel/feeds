@@ -2,10 +2,2135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-10T00:12:06.861Z</updated>
+    <updated>2021-07-11T10:50:31.363Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Autonomes Fahren: Teslas Full Self Driving Beta V9 ist da]]></title>
+        <id>https://www.golem.de/2107/158045-rss.html</id>
+        <link href="https://www.golem.de/news/autonomes-fahren-teslas-full-self-driving-beta-v9-ist-da-2107-158045-rss.html"/>
+        <updated>2021-07-11T10:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Tesla Full Self Driving Beta V9 bietet neue Visualisierungen und soll Kreisverkehre automatisch durchfahren k�nnen. Auf Radar wird verzichtet. (Tesla, Technologie)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elektromobilität: Doppelter Elektroauto-Zuschuss kostet Bund knapp zwei Milliarden]]></title>
+        <id>https://www.handelsblatt.com/27410692.html</id>
+        <link href="https://www.handelsblatt.com/unternehmen/industrie/elektromobilitaet-doppelter-elektroauto-zuschuss-kostet-bund-knapp-zwei-milliarden/27410692.html"/>
+        <updated>2021-07-11T10:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Jahrelang dümpelte der Verkauf von Elektroautos vor sich hin. Doch mit der Verdopplung der Zuschüsse vor einem Jahr hat die Bundesregierung einen Boom kreiert.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview: Familienunternehmer Friedhelm Loh: „Europa bleibt nichts anderes übrig, als ein eigenes Cloud-System zu etablieren“]]></title>
+        <id>https://www.handelsblatt.com/27399984.html</id>
+        <link href="https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/interview-familienunternehmer-friedhelm-loh-europa-bleibt-nichts-anderes-uebrig-als-ein-eigenes-cloud-system-zu-etablieren/27399984.html"/>
+        <updated>2021-07-11T10:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Der Chef der Friedhelm-Loh-Gruppe spricht über die Chancen der europäischen Cloud-Initiative Gaia-X und wie schwer es ist, langfristig ein Familienunternehmen zu bleiben.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sponsoring: DFB verhandelt offenbar mit Qatar Airways als neuem Sponsor]]></title>
+        <id>https://www.handelsblatt.com/27410842.html</id>
+        <link href="https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sponsoring-dfb-verhandelt-offenbar-mit-qatar-airways-als-neuem-sponsor/27410842.html"/>
+        <updated>2021-07-11T10:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Die Partnerschaft mit der Lufthansa soll vorzeitig beendet werden. Als Ersatz ist Qatar Airways im Gespräch, die Airline des WM-Gastgebers 2022.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider: Microsoft verhindert Aktivierung des Windows-10-Startmen�s]]></title>
+        <id>https://www.golem.de/2107/158044-rss.html</id>
+        <link href="https://www.golem.de/news/windows-11-insider-microsoft-verhindert-aktivierung-des-windows-10-startmenues-2107-158044-rss.html"/>
+        <updated>2021-07-11T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Neben dieser Neuerung wurde zudem eine �nderung im aktuellen Insider Build von Windows 11 entdeckt, die durchaus n�tzlich sein kann. (Windows 11, Microsoft)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon: Werbung mitten in Filmen bei Prime Video war nicht gewollt]]></title>
+        <id>https://www.golem.de/2107/158043-rss.html</id>
+        <link href="https://www.golem.de/news/amazon-werbung-mitten-in-filmen-bei-prime-video-war-nicht-gewollt-2107-158043-rss.html"/>
+        <updated>2021-07-11T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Fehler wurde korrigiert und Abonnenten von Prime Video sollen keine Werbung mehr mitten in Filmen sehen. (Prime Video, Amazon)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin, Ether und Dogecoin: Neues Fondsgesetz in Kraft: Spezialfonds dürfen in Kryptowährungen investieren]]></title>
+        <id>https://www.handelsblatt.com/26940126.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-ether-und-dogecoin-neues-fondsgesetz-in-kraft-spezialfonds-duerfen-in-kryptowaehrungen-investieren/26940126.html"/>
+        <updated>2021-07-11T10:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Anfang Juli ist hierzulande ein Fondsgesetz in Kraft getreten mit einer Signalwirkung für den Kryptomarkt. Alles Neue zu Bitcoin und Co. im Newsblog.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beguiling Legacy of “Alice in Wonderland”]]></title>
+        <id>60ae91a598e3953d886a117b</id>
+        <link href="https://www.newyorker.com/culture/culture-desk/the-beguiling-legacy-of-alice-in-wonderland"/>
+        <updated>2021-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new exhibition explores the book’s long afterlife.]]></summary>
+        <author>
+            <name>Anna Russell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christine Baranski Knows It’s Good to Be Scared]]></title>
+        <id>60e62016833fa66507c754f9</id>
+        <link href="https://www.newyorker.com/culture/the-new-yorker-interview/christine-baranski-knows-its-good-to-be-scared"/>
+        <updated>2021-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The “Good Fight” and “Gilded Age” star talks about her late-blooming entrée into Hollywood and her ever-charmed life.]]></summary>
+        <author>
+            <name>Rachel Syme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cryptic Crossword: Sunday, July 11, 2021]]></title>
+        <id>60d65c9425fa556303904fcc</id>
+        <link href="https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2021/07/11"/>
+        <updated>2021-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most well-rounded fruit fly, e.g. (8)]]></summary>
+        <author>
+            <name>Patrick Berry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Acting Schools of Fake Soccer Injuries]]></title>
+        <id>60dde022833fa66507c74f77</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/the-many-acting-schools-of-fake-soccer-injuries"/>
+        <updated>2021-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shakespearean, Method, and whatever it is that Nic Cage does.]]></summary>
+        <author>
+            <name>Al Mullen, Dani Alvarez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunday Reading: Remembering Anthony Bourdain]]></title>
+        <id>60da31c3904d568466890294</id>
+        <link href="https://www.newyorker.com/books/double-take/sunday-reading-remembering-anthony-bourdain"/>
+        <updated>2021-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From the magazine’s archive: a selection of pieces by and about the late chef.]]></summary>
+        <author>
+            <name>The New Yorker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bild am Sonntag - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76422-bild-am-sonntag-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76422-bild-am-sonntag-110721.html"/>
+        <updated>2021-07-11T09:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Bild am Sonntag - 11. Juli 2021Deutsch | 84 Seiten | True PDF | 22.4 MB https://novafile.com/oj3sjv33le4d https://turb.cc/vnedfrqy1eos.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F.A.S. - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76421-fas-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76421-fas-110721.html"/>
+        <updated>2021-07-11T09:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Frankfurter Allgemeine Sonntags Zeitung - 11. Juli 2021Deutsch | 65 Seiten | True PDF | 20.3 MB https://novafile.com/xn26g90eazjg https://turb.cc/7aqxylx1n08h.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die Welt - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76420-die-welt-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76420-die-welt-110721.html"/>
+        <updated>2021-07-11T09:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Die Welt - 11. Juli 2021Deutsch | 74 Seiten | True PDF | 26.5 MB https://novafile.com/95d2hu11dmb0 https://turb.cc/37xy4opky1uo.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verdoppelter Elektroauto-Zuschuss kostet Bund knapp zwei Milliarden]]></title>
+        <id>https://www.heise.de/news/Verdoppelter-Elektroauto-Zuschuss-kostet-Bund-knapp-zwei-Milliarden-6134185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Verdoppelter-Elektroauto-Zuschuss-kostet-Bund-knapp-zwei-Milliarden-6134185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-11T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Jahrelang verkauften sich Elektroautos schlecht. Doch
+die verdoppelten Zuschüsse vor einem Jahr haben einen Boom ausgelöst, wie die Jahresbilanz zeigt.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neue Zürcher Zeitung - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76419-neue-zurcher-zeitung-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76419-neue-zurcher-zeitung-110721.html"/>
+        <updated>2021-07-11T09:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Neue Zürcher Zeitung - 11. Juli 2021Deutsch | 56 Seiten | True PDF | 13.3 MB https://novafile.com/2w96sjauaver https://turb.cc/oc8m1sxp8odx.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malware: Cyberangriff sorgt f�r Katastrophenfall in Anhalt-Bitterfeld]]></title>
+        <id>https://www.golem.de/2107/158042-rss.html</id>
+        <link href="https://www.golem.de/news/malware-cyberangriff-sorgt-fuer-katastrophenfall-in-anhalt-bitterfeld-2107-158042-rss.html"/>
+        <updated>2021-07-11T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Ein Malware-Angriff auf die IT-Infrastruktur des Landkreises Anhalt-Bitterfeld hat ernste Folgen. Der Katastrophenfall wurde ausgerufen. (Cybercrime, Virus)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morgenschock im Zürcher „Café Odeon“: Der Onkel stirbt nicht]]></title>
+        <id>https://www.xn--untergrund-blttle-2qb.ch/prosa/axel-michael-sallowsky-cafe-odeon-zuerich-6542.html</id>
+        <link href="https://www.xn--untergrund-blttle-2qb.ch/prosa/axel-michael-sallowsky-cafe-odeon-zuerich-6542.html"/>
+        <updated>2021-07-11T09:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Hubertus war mein Schachpartner.
+
+
+Morgenschock im Zürcher „Café Odeon“ Der Onkel stirbt nicht Hubertus war mein Schachpartner. Wir trafen uns zwischen 1963 bis 1968 (mit wenigen Ausnahmen) jeden Sonntag um elf Uhr im „Café Odeon“, in jenem legendären Zürcher Etablissement, dessen „heilige Aura“ ich auch heute noch zu spüren glaube, wenn ich auch nur einen winzigen Augenblick an das herrliche Ambiente dieses Cafés und an all die illustren Namen weltberühmter Künstler denke, denen dieses Café zwischen 1933 und 1946 zur zweiten Heimat geworden war und die dort im Verlauf von über sechzig Jahren täglich ein und ausgegangen sind, vielleicht auf den selben Stühlen vor den selben Tischen gesessen haben, auf denen auch ich damals (zwischen 1963 bis 1968) fast jeden Sonntag Platz genommen habe, um…]]></summary>
+        <author>
+            <name>Untergrund-Blättle - Aktuelle Artikel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B. Z. - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76418-b-z-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76418-b-z-110721.html"/>
+        <updated>2021-07-11T09:46:50.000Z</updated>
+        <summary type="html"><![CDATA[B. Z. - 11. Juli 2021Deutsch | 44 Seiten | True PDF | 15.8 MB https://novafile.com/qk5c7uxjui6n https://turb.cc/rgtf3ccm8tm9.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berliner Morgenpost - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76417-berliner-morgenpost-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76417-berliner-morgenpost-110721.html"/>
+        <updated>2021-07-11T09:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Berliner Morgenpost - 11. Juli 2021Deutsch | 56 Seiten | True PDF | 17.9 MB https://novafile.com/dgzn0i93zbaf https://turb.cc/omcn77d3x8w1.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Express Köln - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76416-express-koln-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76416-express-koln-110721.html"/>
+        <updated>2021-07-11T09:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Express Köln - 11. Juli 2021Deutsch | 36 Seiten | True PDF | 19.6 MB https://novafile.com/qiskudoc86s3 https://turb.cc/3zlmg475ei71.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kölner Stadt-Anzeiger - 11.07.21]]></title>
+        <id>https://de.downmagaz.net/newspaper_deutsch/76415-kolner-stadt-anzeiger-110721.html</id>
+        <link href="https://de.downmagaz.net/newspaper_deutsch/76415-kolner-stadt-anzeiger-110721.html"/>
+        <updated>2021-07-11T09:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Kölner Stadt-Anzeiger - 11. Juli 2021Deutsch | 20 Seiten | True PDF | 10.2 MB https://novafile.com/zpzetnk7zyx8 https://turb.cc/3a42h19dp3sa.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto: F�nf Millionen Neuwagen weniger durch Chipmangel]]></title>
+        <id>https://www.golem.de/2107/158041-rss.html</id>
+        <link href="https://www.golem.de/news/auto-fuenf-millionen-neuwagen-weniger-durch-chipmangel-2107-158041-rss.html"/>
+        <updated>2021-07-11T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Probleme im Automobilbau durch Chipknappheit bleibten weiter sp�rbar - und der n�chste Engpass zeichnet sich bereits ab. (ChipKnappheit, Auto)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A worldwide Big Tech crackdown]]></title>
+        <id>https://www.protocol.com/newsletters/sourcecode/big-tech-crackdown</id>
+        <link href="https://www.protocol.com/newsletters/sourcecode/big-tech-crackdown"/>
+        <updated>2021-07-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Your five-minute guide to the best of Protocol (and the internet) from the week that was, from Trump's aimless Big Tech lawsuits to the turmoil at the top of Facebook.
+
+(Was this email forwarded to you? Sign up here to get Source Code every day.) 
+Best of Protocol
+
+Autodesk is dragging the industrial world into the cloud — and showing it the future, by Joe Williams
+
+Autodesk might be the most important company nobody ever talks about. A huge portion of the physical world relies on the company, from water-treatment plants to ventilators. A move to the cloud has helped it grow even bigger in recent years. But the competition is heating up, and Autodesk is going to have to learn to move even faster.
+
+The 8 ways Biden's competition order could shake up Big Tech, by Ben Brody
+
+Definitely the bi…]]></summary>
+        <author>
+            <name>David Pierce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon wants to build an autonomous car army​]]></title>
+        <id>https://www.protocol.com/amazon-autonomous-vehicles-patent</id>
+        <link href="https://www.protocol.com/amazon-autonomous-vehicles-patent"/>
+        <updated>2021-07-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech didn't disappoint this week, with a few patent applications that made me do a double take. Google wants to make the content of photos searchable, Amazon wants to build an army (of autonomous cars), Apple wants to help you party, and Facebook loves straps.
+And remember: The big tech companies file all kinds of crazy patents for things, and though most never amount to anything, some end up defining the future.
+Alphabet
+Photo search engine
+I don't have any allergies, but I have family and friends who are allergic to everything from gluten to peanuts to sesame seeds. Menus often have little notations next to items that may contain gluten or nuts. But not always, and that can be scary.
+This patent imagines a way for you to take a picture of something, and your phone acts as a search en…]]></summary>
+        <author>
+            <name>Karyne Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden’s competition order and Branson’s space travel]]></title>
+        <id>https://www.protocol.com/biden-competition-order-branson-space</id>
+        <link href="https://www.protocol.com/biden-competition-order-branson-space"/>
+        <updated>2021-07-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[On this episode of the Source Code podcast: Ben Brody joins the show to discuss President Biden's long, sprawling executive order on competition, and all the topics from net neutrality to right-to-repair that matter to the tech industry. Then Anna Kramer discusses Richard Branson's impending flight to space, how regular people train to become astronauts, and how long it'll take before we can get on a rocket the same way we get on a plane.
+For more on the topics in this episode:
+
+Ben Brody on Twitter
+A new Biden order will crack down on tech mergers, data gathering and ISPs
+The 8 ways Biden's competition order could shake up Big Tech
+Anna Kramer on Twitter
+So you want to be a space tourist
+Coming Tuesday: How to Build a Smart City
+
+Subscribe to the show: Apple Podcasts | Spotify | Overcast | Pocket Casts]]></summary>
+        <author>
+            <name>David Pierce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richard Branson is going to space on Sunday. When’s it your turn?]]></title>
+        <id>https://www.protocol.com/richard-branson-goes-to-space</id>
+        <link href="https://www.protocol.com/richard-branson-goes-to-space"/>
+        <updated>2021-07-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The time has come. Richard Branson is the first billionaire founder of a space company to be shipped off to suborbital space on Sunday on a ship he helped build. The trip on the VSS Unity will last around 90 minutes, and he'll be bringing three colleagues with him. Branson's main duty on the trip: to figure out how to make the trip even more fun for the people who go after him. 
+And people will, indeed, go after him. Virgin Galactic has already sold around 600 tickets for similar flights, and plans to send at least 400 people per year to space starting in 2022. 
+But though Branson might be the first "billionaire founder of a space company" to go to space, he's certainly not the first billionaire to do some orbital touring. Here's a brief timeline of the people who traveled to space before …]]></summary>
+        <author>
+            <name>Sarah Roach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaia-X-Bruder: EU-Cloud-Großprojekt IPCEI-CIS geht in die Dating-Phase]]></title>
+        <id>https://www.heise.de/news/Gaia-X-Bruder-EU-Cloud-Grossprojekt-IPCEI-CIS-geht-in-die-Dating-Phase-6134101.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Gaia-X-Bruder-EU-Cloud-Grossprojekt-IPCEI-CIS-geht-in-die-Dating-Phase-6134101.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-11T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Bundeswirtschaftsministerium nimmt Bewerbungen für Partnerschaften im Rahmen der neuen gemeinsamen EU-Initiative für Cloud-Infrastrukturen entgegen.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strom auf dem Land häufig teurer als in der Stadt]]></title>
+        <id>https://www.heise.de/news/Strom-auf-dem-Land-haeufig-teurer-als-in-der-Stadt-6134164.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Strom-auf-dem-Land-haeufig-teurer-als-in-der-Stadt-6134164.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-11T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Höhe der Stromrechnung hängt auch vom Wohnort ab. Landbewohner müssen in der Regel mehr zahlen als Städter. Das hat auch mit der Energiewende zu tun.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goldpreis aktuell: Reaktion auf die niedrigere Grenze für Strafzinsen: Deutsche Anleger kaufen mehr Gold]]></title>
+        <id>https://www.handelsblatt.com/26961416.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/goldpreis-aktuell-reaktion-auf-die-niedrigere-grenze-fuer-strafzinsen-deutsche-anleger-kaufen-mehr-gold/26961416.html"/>
+        <updated>2021-07-11T09:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Der Goldpreis notiert wieder über 1800 Dollar, weil überproportional viele in Deutschland ansässige Anleger gekauft haben. Der Newsblog zu Gold.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitalisierung: Union will mit digitalem Euro Facebook-Währung Paroli bieten]]></title>
+        <id>https://www.handelsblatt.com/27403770.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/digitalisierung-union-will-mit-digitalem-euro-facebook-waehrung-paroli-bieten/27403770.html"/>
+        <updated>2021-07-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die EZB wird am Mittwoch wohl die nächste Projektphase für die Einführung eines digitalen Euros einleiten. Unionspolitiker sehen das Vorhaben als ein zentrales Thema nach der Wahl.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verteidigungsbündnis: China und Nordkorea wollen ihr Bündnis stärken]]></title>
+        <id>https://www.handelsblatt.com/27410668.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/verteidigungsbuendnis-china-und-nordkorea-wollen-ihr-buendnis-staerken/27410668.html"/>
+        <updated>2021-07-11T08:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Für Nordkoreas Machthaber Kim Jong Un ist China der wichtigste Verbündete. Zum Jubiläum des Bündnisses will Chinas Präsident Xi Jinping die Beziehungen stärken.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly briefing: Time for a new lexicon?]]></title>
+        <id>https://capx.co/?p=213099</id>
+        <link href="https://capx.co/weekly-briefing-time-for-a-new-lexicon/"/>
+        <updated>2021-07-11T08:43:25.000Z</updated>
+        <summary type="html"><![CDATA[“Capitalism is dead”. For the editor of a website whose tagline is “For Popular Capitalism”, that quip from American super-pollster Frank Luntz was pretty tough to swallow. Fortunately Luntz – whose in-depth survey of British voters’ attitudes is essential reading – hasn’t become a sudden convert to collectivism. He simply means that the word ‘capitalism’ has so […]
+The post Weekly briefing: Time for a new lexicon? appeared first on CapX.]]></summary>
+        <author>
+            <name>John Ashmore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbeitsmarkt: Mehr als eine Million Beschäftigte der Generation 67 plus]]></title>
+        <id>https://www.handelsblatt.com/27410622.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-mehr-als-eine-million-beschaeftigte-der-generation-67-plus/27410622.html"/>
+        <updated>2021-07-11T07:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Die Zahl Älterer, die einen bezahlten Job haben, wächst. Viele fühlen sich noch nicht reif für die Rente. Aber es gibt auch andere Gründe zum Weitermachen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundestagspräsident: Schäuble: Maaßen will mit Provokationen Aufmerksamkeit gewinnen]]></title>
+        <id>https://www.handelsblatt.com/27410640.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/bundestagspraesident-schaeuble-maassen-will-mit-provokationen-aufmerksamkeit-gewinnen/27410640.html"/>
+        <updated>2021-07-11T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Der CDU-Politiker wirft seinem Parteikollegen Maaßen gezielte Provokationen vor. Auch zur Rolle von Frauen im Wahlkampf äußert sich der Bundestagspräsident.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandemie: Forderungen nach weiteren Corona-Lockerungen – trotz steigender Inzidenz]]></title>
+        <id>https://www.handelsblatt.com/27410600.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/pandemie-forderungen-nach-weiteren-corona-lockerungen-trotz-steigender-inzidenz/27410600.html"/>
+        <updated>2021-07-11T06:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Die FDP fordert einen geordneten Ausstieg aus der Corona-Sonderlage. Auch andere Politiker sprechen sich für Lockerungen aus. Bouffier und Schäuble mahnen zur Vorsicht.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonntagstrend: Umfrage: Grüne und SPD jetzt gleichauf, Union verpasst die 30 Prozent]]></title>
+        <id>https://www.handelsblatt.com/27410466.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/sonntagstrend-umfrage-gruene-und-spd-jetzt-gleichauf-union-verpasst-die-30-prozent/27410466.html"/>
+        <updated>2021-07-11T06:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Bei den Spitzenkandidaten können alle drei Bewerber laut Insa in der Wählergunst zulegen. In der jüngsten Kantar-Umfrage kommen die Grünen noch auf 19 Prozent, die SPD lediglich auf 15 Prozent.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 30 million people under weather alerts as another extreme heat wave hits the West]]></title>
+        <id>https://www.axios.com/heat-wave-west-30-million-alerts-7862eb0e-0687-4797-8e9e-60c8e7b2c93b.html</id>
+        <link href="https://www.axios.com/heat-wave-west-30-million-alerts-7862eb0e-0687-4797-8e9e-60c8e7b2c93b.html"/>
+        <updated>2021-07-11T06:42:49.000Z</updated>
+        <summary type="html"><![CDATA[More than 30 million Americans were under excessive heat warnings or advisories across the West on Saturday, as forecasters warned of more record high temperatures.
+Of note: McCarran International Airport tied Las Vegas' all-time record highest temperature of 117°F on Saturday evening, per a National Weather Service statement. Flights were canceled at the airport Friday as the temperature hit 116°F.
+
+Death Valley Temp Update
+Saturday, July 10th, 2021
+The high temperature at #DeathValley National Park reached 129.4°F (54.1°C) - rounding to 129°F at 4:27pm PT. 🌡️
+1 in 3 chance of reaching 130°F tomorrow. Stay tuned, stay safe, stay smart, & stay hydrated.@DeathValleyNPS pic.twitter.com/8XhZgliHo7
+— NWS Las Vegas (@NWSVegas) July 11, 2021
+California's Death Valley hit 129.4°F Saturday and 13…]]></summary>
+        <author>
+            <name>Rebecca Falconer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU withheld a study that shows piracy doesn't hurt sales (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27798879</id>
+        <link href="https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html"/>
+        <updated>2021-07-11T06:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html
+Comments URL: https://news.ycombinator.com/item?id=27798879
+Points: 261
+# Comments: 69]]></summary>
+        <author>
+            <name>seesawtron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[+++ Corona-News +++: RKI: Inzidenz steigt den fünften Tag in Folge – Lauterbach und Schäuble mahnen zur Vorsicht]]></title>
+        <id>https://www.handelsblatt.com/25471608.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/corona-news-rki-inzidenz-steigt-den-fuenften-tag-in-folge-lauterbach-und-schaeuble-mahnen-zur-vorsicht-/25471608.html"/>
+        <updated>2021-07-11T06:24:14.000Z</updated>
+        <summary type="html"><![CDATA[17 Prozent der Deutschen wollen sich nicht impfen lassen +++ Ganz Spanien gilt seit Mitternacht als Risikogebiet +++ Algeriens Ministerpräsident muss in Quarantäne +++ Der Newsblog.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S.A. fact of the day]]></title>
+        <id>https://marginalrevolution.com/?p=81482</id>
+        <link href="https://feeds.feedblitz.com/~/657311800/0/marginalrevolution~USA-fact-of-the-day.html"/>
+        <updated>2021-07-11T06:23:44.000Z</updated>
+        <summary type="html"><![CDATA[One in four Americans aged 40 to 49 is a millionaire, if you include in their household net worth the net present value of their retirement benefits. https://t.co/olaaomzo7H pic.twitter.com/zs1E2LCiap — Ryan C. Radia (@RyanRadia) July 9, 2021
+
+The post U.S.A. fact of the day appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to Miranda.   But as always, American PR won the day. ... by Actually, they did
+In reply to Crikey.   Quote: “Australia did not have a draft ... by Miranda
+In reply to Genius.   A lot of US airfields here got turned ... by Crikey
+In reply to Crikey.   Have you thought about working as an ... by Genius
+With proper socialist policies everyone can be a millionaire, ... by Freddo
+Plus 3 more...
+
+Related Stories
+
+Alternative Dosing
+The Biden Executive Order on promoting competition
+Tabarrok on RADVAC, the DIY Vaccine]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corona-Zahlen in Deutschland: RKI registriert 745 Corona-Neuinfektionen – Inzidenz wieder über 6]]></title>
+        <id>https://www.handelsblatt.com/26639082.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/corona-zahlen-in-deutschland-rki-registriert-745-corona-neuinfektionen-inzidenz-wieder-ueber-6/26639082.html"/>
+        <updated>2021-07-11T06:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Im Vergleich zur Vorwoche ist die Zahl der Neuinfektionen um 186 Fälle gestiegen. Auch die Inzidenz steigt weiter. Zudem gibt es 24 neue Todesfälle.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildfires spark evacuations in 3 U.S. states and Canada amid heat wave]]></title>
+        <id>https://www.axios.com/wildfires-evacuations-california-oregon-idaho-9f792bee-bc91-4a8b-b201-bdbfdce92cae.html</id>
+        <link href="https://www.axios.com/wildfires-evacuations-california-oregon-idaho-9f792bee-bc91-4a8b-b201-bdbfdce92cae.html"/>
+        <updated>2021-07-11T06:08:13.000Z</updated>
+        <summary type="html"><![CDATA[The extreme heat wave gripping the Western United States and Canada is spurring wildfires in several U.S. states and British Columbia.
+Driving the news: Evacuation orders were issued in California, Oregon, Idaho,  and B.C. In Arizona, two firefighters died when their aircraft crashed while responding to a wildfire in Mohave County, per a Bureau of Land Management statement.
+
+⚠️#BeckworthComplexFire has jumped US 395. Evacuation orders reinstated for Rancho Haven and Flanigan Flats communities. Take immediate steps to protect large animals and livestock. Details forthcoming. @washoecounty @WashoeSheriff @blmnv @USFSPlumas pic.twitter.com/J490FKZsBz
+— Truckee Meadows Fire & Rescue (@TMFPD) July 11, 2021
+Oregon's Bootleg fire was threatening transmission lines that supply California with powe…]]></summary>
+        <author>
+            <name>Rebecca Falconer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing Link: Wenn aus Wegen Flüsse werden – Kommunen in der Regenfalle]]></title>
+        <id>https://www.heise.de/hintergrund/Missing-Link-Wenn-aus-Wegen-Fluesse-werden-Kommunen-in-der-Regenfalle-6133751.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/hintergrund/Missing-Link-Wenn-aus-Wegen-Fluesse-werden-Kommunen-in-der-Regenfalle-6133751.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-11T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Überflutete Keller und Sturzfluten – das könnte wegen des Klimawandels normal werden. Kommunen sollen sich wappnen. Gar nicht so einfach – Beispiel Karlsbad.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil Village – Crack ohne DRM und Leistungsprobleme!]]></title>
+        <id>https://tarnkappe.info/?p=158831</id>
+        <link href="https://tarnkappe.info/resident-evil-village-crack-ohne-drm-und-leistungsprobleme/"/>
+        <updated>2021-07-11T06:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Der gestrige Crack des First-Person-Shooters „Resident Evil Village“ für Windows behebt alle bislang bestehenden Verzögerungen beim Gameplay. Ursache war offenbar das DRM des Publishers,...
+Zu dem Artikel: Resident Evil Village – Crack ohne DRM und Leistungsprobleme!
+Tarnkappe.info - Unter dem Radar]]></summary>
+        <author>
+            <name>Lars Sobiraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heise+ | Kryptomining mit Chia in der Praxis: Sauber Geldverdienen oder Festplattentod?]]></title>
+        <id>https://www.heise.de/ratgeber/Kryptomining-mit-Chia-in-der-Praxis-Sauber-Geldverdienen-oder-Festplattentod-6111008.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</id>
+        <link href="https://www.heise.de/ratgeber/Kryptomining-mit-Chia-in-der-Praxis-Sauber-Geldverdienen-oder-Festplattentod-6111008.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <updated>2021-07-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chia will nachhaltiger sein als andere Kryptowährungen und frisst statt Rechenleistung Speicherplatz. Wie man Chia errechnet und für wen es sich lohnt.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Straussian Beatles: Baby’s in Black]]></title>
+        <id>https://marginalrevolution.com/?p=81481</id>
+        <link href="https://feeds.feedblitz.com/~/657300366/0/marginalrevolution~Straussian-Beatles-Babys-in-Black.html"/>
+        <updated>2021-07-11T05:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Here is the song, and yes I know all about Astrid Kirchner (who often wore black) and the deceased Stu Sutcliffe.  The song has yet another meaning, related to the girl chasing of John and Paul, and Liverpool’s longstanding role as a center for English Catholicism, with about half of the population being Catholic in […]
+
+The post Straussian Beatles: Baby’s in Black appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to Andrew Washington.   For cancellation, that is. ... by Number one with a bullet
+In reply to The subtle eroticism of the Vasco Rd. / I580 ... by Kraut rock for the win!
+In reply to Andrew Washington.   People should listen to ... by The subtle eroticism of the Vasco Rd. / I580 interchange
+In reply to Andrew Washington.   I had no idea. Then, we have ... by Robert Castle
+Though Cowen missed the obvious second coming/come into her ... by Well sure
+Plus 9 more...]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nach dem Entscheid für eine globale Mindeststeuer signalisiert Ueli Maurer: Keine Angst, wir haben alles im Griff]]></title>
+        <id>https://www.nzz.ch/wirtschaft/nach-dem-entscheid-fuer-globale-mindeststeuer-signalisiert-ueli-maurer-keine-angst-wir-haben-alles-im-griff-ld.1634968</id>
+        <link href="https://www.nzz.ch/wirtschaft/nach-dem-entscheid-fuer-globale-mindeststeuer-signalisiert-ueli-maurer-keine-angst-wir-haben-alles-im-griff-ld.1634968"/>
+        <updated>2021-07-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Am Samstag haben in Venedig die G-20-Staaten grünes Licht für einen Umbau der Unternehmensbesteuerung gegeben. Nach seiner Rückkehr gab sich Bundesrat Ueli Maurer trotz grosser Skepsis gelassen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI voice actors sound more human than ever–and are ready to hire]]></title>
+        <id>https://news.ycombinator.com/item?id=27798427</id>
+        <link href="https://www.technologyreview.com/2021/07/09/1028140/ai-voice-actors-sound-human/"/>
+        <updated>2021-07-11T04:16:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2021/07/09/1028140/ai-voice-actors-sound-human/
+Comments URL: https://news.ycombinator.com/item?id=27798427
+Points: 42
+# Comments: 25]]></summary>
+        <author>
+            <name>elsewhen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Überzeugungsarbeit macht mehr als ein Drittel der Schweizer Wirtschaftsleistung aus]]></title>
+        <id>https://www.nzz.ch/wirtschaft/ueberzeugen-eine-gewichtige-wirtschaftliche-taetigkeit-ld.1633456</id>
+        <link href="https://www.nzz.ch/wirtschaft/ueberzeugen-eine-gewichtige-wirtschaftliche-taetigkeit-ld.1633456"/>
+        <updated>2021-07-11T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Verkäufer überzeugen Käufer, Politiker ihre Wählerschaft, Interessengruppen die Politiker und die Bevölkerung. Das Erstaunliche ist jedoch, dass dieses Phänomen so gut wie gar nicht von einer gesamtwirtschaftlichen Warte aus betrachtet wird. Ein Versuch.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zurück ins Büro: Firmen suchen die beste Kombination von Home-Office und Arbeiten vor Ort]]></title>
+        <id>https://www.nzz.ch/wirtschaft/home-office-oder-buero-firmen-setzen-auf-hybrides-arbeiten-ld.1631788</id>
+        <link href="https://www.nzz.ch/wirtschaft/home-office-oder-buero-firmen-setzen-auf-hybrides-arbeiten-ld.1631788"/>
+        <updated>2021-07-11T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Ausnahmezustand ist mehr oder weniger zu Ende, doch die Pandemie hat die Arbeitsweise tiefgreifend verändert. Welche Arbeitsmodelle und Führungsstile sind jetzt gefragt?]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wenn der neue Chef per Skype auf Herz und Nieren geprüft wird]]></title>
+        <id>https://www.nzz.ch/wirtschaft/der-neue-chef-wird-per-skype-auf-herz-und-nieren-geprueft-ld.1634059</id>
+        <link href="https://www.nzz.ch/wirtschaft/der-neue-chef-wird-per-skype-auf-herz-und-nieren-geprueft-ld.1634059"/>
+        <updated>2021-07-11T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Manche Arbeitgeber stellen Führungskräfte ein, die sie noch nie zuvor persönlich zu Gesicht bekommen haben. Die ganztägigen Assessments finden immer häufiger online statt.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Superager' brains resist the march of time to have memories like 25-year-olds]]></title>
+        <id>https://news.ycombinator.com/item?id=27798202</id>
+        <link href="https://www.sciencealert.com/superagers-with-incredible-memories-have-brains-like-25-year-olds"/>
+        <updated>2021-07-11T03:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/superagers-with-incredible-memories-have-brains-like-25-year-olds
+Comments URL: https://news.ycombinator.com/item?id=27798202
+Points: 88
+# Comments: 45]]></summary>
+        <author>
+            <name>lnyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haiti's interim prime minister says president was "tortured" before his assassination]]></title>
+        <id>https://www.axios.com/white-house-haiti-investigate-assassination-908befc0-b3c0-4f20-8752-e7f3818b9d67.html</id>
+        <link href="https://www.axios.com/white-house-haiti-investigate-assassination-908befc0-b3c0-4f20-8752-e7f3818b9d67.html"/>
+        <updated>2021-07-11T03:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Haitian authorities have asked the U.S. to send troops to the country to help protect critical infrastructure following the assassination of President Jovenel Moïse.
+The latest: Elections Minister Mathias Pierre told AP Saturday the troops were needed because local police didn't have enough resources, saying: "We're asking for small troops to assist and help us. ... As long as we are weak, I think we will need our neighbors."
+
+Interim Prime Minister Claude Joseph said in an interview with ABC News on Saturday that police had "the right people" in custody and revealed that Moïse was "tortured" before he was killed.
+
+What they're saying:  The State Department said in a statement Axios on Friday that the Haitian government "has requested security and investigative assistance, and we remain in regular contact with Haitian officials to discuss how the United States can assist."
+What to watch: White House press secretary Jen Psaki said Friday the U.S. will send federal law enforcement officers to aid in the investigation.
+
+Senior officials from the FBI and Department of Homeland Security will travel to Port-au-Prince "as soon as possible" to "assess the situation and how we may be able to assist," Psaki said.
+The White House will also send coronavirus vaccines to Haiti as early as next week, according to Psaki.
+Haitian officials have also reached out to the United Nations about sending peacekeeping forces, Reuters reports.
+
+The big picture: 2o suspects have been detained over the assassination, which also wounded Martine Moïse, Joseph said.
+
+The assassination comes amid increasing political turmoil and gang violence in Port-au-Prince as inflation and a delayed election contribute to the state of crisis in the Western Hemisphere's most impoverished nation. 
+
+Go deeper: Coup claim deepens Haiti's political crisis
+Editor's note: This story has been updated with additional information throughout.]]></summary>
+        <author>
+            <name>Oriana Gonzalez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Hydroponic System Build (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27797853</id>
+        <link href="https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html"/>
+        <updated>2021-07-11T01:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html
+Comments URL: https://news.ycombinator.com/item?id=27797853
+Points: 262
+# Comments: 28]]></summary>
+        <author>
+            <name>NegatioN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photonic Computing for Transformative AI]]></title>
+        <id>https://news.ycombinator.com/item?id=27797829</id>
+        <link href="https://lighton.ai/"/>
+        <updated>2021-07-11T01:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lighton.ai/
+Comments URL: https://news.ycombinator.com/item?id=27797829
+Points: 10
+# Comments: 3]]></summary>
+        <author>
+            <name>gballan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to manually merge two Apple IDs to one (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27797535</id>
+        <link href="https://www.brianstucki.com/blog/how-to-manually-merge-two-apple-ids-to-one/"/>
+        <updated>2021-07-11T00:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.brianstucki.com/blog/how-to-manually-merge-two-apple-ids-to-one/
+Comments URL: https://news.ycombinator.com/item?id=27797535
+Points: 60
+# Comments: 33]]></summary>
+        <author>
+            <name>js2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feds indict ‘The Bull’ for selling insider trading info on the dark web]]></title>
+        <id>https://www.theverge.com/2021/7/10/22571732/alphabay-dark-web-insider-trading-bitcoin</id>
+        <link href="https://www.theverge.com/2021/7/10/22571732/alphabay-dark-web-insider-trading-bitcoin"/>
+        <updated>2021-07-11T00:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+Nearly four years after the lights went out at AlphaBay, the feds are still charging people with criminal activities linked to the dark web marketplace. On Friday the SEC and the Department of Justice announced charges against Apostolos Trovias, a Greek national who they allege posted on dark web marketplaces using the nickname “The Bull.” 
+Trovias is facing charges of securities fraud and money laundering
+However, unlike drug dealers targeted in previous actions, the authorities allege Trovias used dark web forums as a way to troll for people willing to buy or sell insider trading information while hiding behind “anonymizing software, screen names, and bitcoin payments.”
+On AlphaBay and other dark web sites like Dream Market or...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden eggs and better telescopes (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=27797331</id>
+        <link href="https://elevanth.org/blog/2018/09/02/golden_eggs/"/>
+        <updated>2021-07-10T23:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elevanth.org/blog/2018/09/02/golden_eggs/
+Comments URL: https://news.ycombinator.com/item?id=27797331
+Points: 17
+# Comments: 2]]></summary>
+        <author>
+            <name>chalst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did NASCAR's Next Gen Cup Car 'Kill' a Crash Test Dummy?]]></title>
+        <id>https://www.thedrive.com/accelerator/41476/did-nascars-next-gen-cup-car-kill-a-crash-test-dummy</id>
+        <link href="https://www.thedrive.com/accelerator/41476/did-nascars-next-gen-cup-car-kill-a-crash-test-dummy"/>
+        <updated>2021-07-10T22:47:55.000Z</updated>
+        <summary type="html"><![CDATA[The hype for NASCAR's Next Gen Cup car has only swelled since the real deal was revealed in May. It looks like the sanctioning body is going through with fundamental upgrades like independent rear suspension, a sequential-shift transmission, and composite bodies, seemingly bringing stock car racing into the 21st Century. However, it's not all perfect […]]]></summary>
+        <author>
+            <name>Caleb Jacobs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The strange, sketchy emails a browser extension developer receives]]></title>
+        <id>https://news.ycombinator.com/item?id=27796932</id>
+        <link href="https://micahcantor.xyz/blog/extension-developer-emails/"/>
+        <updated>2021-07-10T22:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://micahcantor.xyz/blog/extension-developer-emails/
+Comments URL: https://news.ycombinator.com/item?id=27796932
+Points: 65
+# Comments: 21]]></summary>
+        <author>
+            <name>hydroxideOH-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4W: Was war. Was wird. Kein Sommermärchen, nirgends]]></title>
+        <id>https://www.heise.de/meinung/Was-war-Was-wird-Kein-Sommermaerchen-nirgends-6134107.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/meinung/Was-war-Was-wird-Kein-Sommermaerchen-nirgends-6134107.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T22:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Plagiatsjäger möchte man nicht sein, die Arbeit nimmt bei all den Wahlprogrammen überhand, giggelt Hal Faber. Eigentlich aber ist der Sommer nicht lustig.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram Has Become SkyMall]]></title>
+        <id>https://news.ycombinator.com/item?id=27796755</id>
+        <link href="https://clivethompson.medium.com/instagram-has-become-skymall-68b9f2fbbc30"/>
+        <updated>2021-07-10T21:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://clivethompson.medium.com/instagram-has-become-skymall-68b9f2fbbc30
+Comments URL: https://news.ycombinator.com/item?id=27796755
+Points: 488
+# Comments: 248]]></summary>
+        <author>
+            <name>DLay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Periods Where We Definitively Know Tether Was Unbacked]]></title>
+        <id>http://bennettftomlin.com/?p=3190</id>
+        <link href="https://bennettftomlin.com/2021/07/10/periods-where-we-definitively-know-tether-was-unbacked/"/>
+        <updated>2021-07-10T21:53:40.000Z</updated>
+        <summary type="html"><![CDATA[There are still some who claim that Tether has always been fully backed. I have already shown that is not true: In this post I will summarize the periods where we have sufficient evidence to know for certain that they were unbacked. Thanks to the NYAG settlement we know that there were unbacked Tethers from … Continue reading Periods Where We Definitively Know Tether Was Unbacked]]></summary>
+        <author>
+            <name>Bennett Tomlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Petersen Museum Is Offering $25,000 to One Female-Owned Automotive Business]]></title>
+        <id>https://www.thedrive.com/news/41488/the-petersen-museum-is-offering-25000-to-one-female-owned-automotive-business</id>
+        <link href="https://www.thedrive.com/news/41488/the-petersen-museum-is-offering-25000-to-one-female-owned-automotive-business"/>
+        <updated>2021-07-10T21:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Only about 24% of motor vehicle industry positions were held by women in 2019, and the Petersen Automotive Museum stepped in this year to create more opportunities for female-led startups. Petersen executive director Terry Karges and team came up with an incubator program that would support women at the helm of early-stage automotive-related companies with […]]]></summary>
+        <author>
+            <name>Kristin V. Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G20 leaders back global tax deal]]></title>
+        <id>https://www.axios.com/g20-leaders-sign-global-tax-deal-6b3bc459-f6eb-4318-a354-28d361ddf54a.html</id>
+        <link href="https://www.axios.com/g20-leaders-sign-global-tax-deal-6b3bc459-f6eb-4318-a354-28d361ddf54a.html"/>
+        <updated>2021-07-10T21:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Finance ministers from the world's 20 largest economies backed a proposal on Saturday that seeks to introduce an international tax on multinational companies and sets a global minimum tax rate of 15%, Politico reports.
+Why it matters: If enacted, the reform could alter who gets to tax multinational corporations and "stop multinationals from shifting profits into tax havens," Politico reports.
+
+What they're saying: "After many years of discussions and building on the progress made last year, we have achieved a historic agreement on a more stable and fairer international tax architecture," the finance ministers from the G20 club, who met at a summit in Venice on Saturday, wrote in a statement.
+
+"This is a victory for tax fairness, for social justice and for the multilateral system. But our work is not done ... I am optimistic that we will be able in that time also to reach a consensus among all European Union Member States on this crucial issue," said Paolo Gentiloni, the European commissioner for the economy, per Politico. 
+Some EU countries, such as Hungary, remain opposed to the deal.
+
+What's next: Final approval of the deal is not expected until the G20 leaders' meeting in Rome in October, and some details still need to be worked out before then.]]></summary>
+        <author>
+            <name>Erin Doherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ein kryptologischer Cold Case: Das Erba-Kryptogramm]]></title>
+        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24531</id>
+        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/07/10/ein-kryptologischer-cold-case-das-erba-kryptogramm/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ein-kryptologischer-cold-case-das-erba-kryptogramm"/>
+        <updated>2021-07-10T21:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Der Vierfach-Mord von Erba (Italien) im Jahr 2006 ist längst aufgeklärt. Eine in einer Bibel versteckte verschlüsselte Nachricht, die der Täter an die Täterin verschicken wollte, wartet dagegen noch auf ihre Dechiffrierung. English version (translated with DeepL) Die norditalienische Stadt Erba war im Dezember 2006 Schauplatz eines spektakulären Verbrechens. Das Ehepaar Orlindo Romano und Rosa Bazzi…]]></summary>
+        <author>
+            <name>Klaus Schmeh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar is dirt-cheap and about to get even more powerful]]></title>
+        <id>https://news.ycombinator.com/item?id=27796493</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful"/>
+        <updated>2021-07-10T21:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful
+Comments URL: https://news.ycombinator.com/item?id=27796493
+Points: 256
+# Comments: 232]]></summary>
+        <author>
+            <name>guerrilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some]]></title>
+        <id>https://news.ycombinator.com/item?id=27796443</id>
+        <link href="https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html"/>
+        <updated>2021-07-10T21:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html
+Comments URL: https://news.ycombinator.com/item?id=27796443
+Points: 212
+# Comments: 125]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mandate COVID vaccines for military, Panetta urges Biden]]></title>
+        <id>https://www.axios.com/panetta-urges-biden-mandate-covid-vaccines-military-73764ee7-a76d-40ac-a64d-cb3d847ddc90.html</id>
+        <link href="https://www.axios.com/panetta-urges-biden-mandate-covid-vaccines-military-73764ee7-a76d-40ac-a64d-cb3d847ddc90.html"/>
+        <updated>2021-07-10T20:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Former Defense Secretary Leon Panetta told Gray Television's Greta Van Susteren that President Biden should require all members of the military to take the coronavirus vaccine, saying it was a matter of "national security," the Hill reports.
+Driving the news: More than half of all service members have received at least one COVID-19 shot as of late June, according to the Hill.
+
+"I frankly think the president ought to issue an order requiring everybody in the military to get a COVID-19 shot, period," Panetta said in an interview with Van Susteren set to air on Sunday, per the Hill.
+“The last damn thing you need is to have those in the military that are our warriors unable to respond to a mission because they've gotten COVID-19. There's no excuse for that," Panetta said.
+
+The big picture: Due to the vaccines status as being under an emergency use authorization by the Food and Drug Administration, the Pentagon cannot legally require all military members get the vaccine, but Biden could grant an exception.
+
+During an interview in April with NBC's Craig Melvin, Biden said it would be a "tough call" about whether he would require service members to get the vaccine once the FDA fully approves it.
+"I don’t know. I’m going to leave that to the military,” Biden said, per the Hill.]]></summary>
+        <author>
+            <name>Erin Doherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Recollections of Joan of Arc, by Mark Twain]]></title>
+        <id>https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc</id>
+        <link href="https://standardebooks.org/ebooks/mark-twain/personal-recollections-of-joan-of-arc"/>
+        <updated>2021-07-10T20:08:04.000Z</updated>
+        <summary type="html"><![CDATA[A fictional biography of Joan of Arc from her early teenage years to her martyrdom.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bo Burnham’s Netflix special Inside will make a one-night-only theater appearance]]></title>
+        <id>https://www.theverge.com/2021/7/10/22571541/bo-burnham-inside-jeffrey-bezos-netflix-theatrical</id>
+        <link href="https://www.theverge.com/2021/7/10/22571541/bo-burnham-inside-jeffrey-bezos-netflix-theatrical"/>
+        <updated>2021-07-10T19:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Bo Burnham in Bo Burnham: Inside | Photo: Courtesy of Netflix
+    
+
+  
+If you can’t get “Bezos I” out of your head, then you’re in good company as a soundtrack to Bo Burnham: Inside scored the comedian the first Billboard Top 10 appearance of his career. But since the musical comedy special was on Netflix and came out during the pandemic that inspired much of its content, you probably watched it alone. 
+
+
+Now fans of the special can see it in a group setting, as Netflix and Iconic Events have teamed up to present the special in theaters nationwide on July 22nd. Tickets are available at many theaters across the country, but you may want to move fast — at the moment there is only one showing per theater at the locations I checked, and some already show that they’re sold out.
+Check the BoBurnhamInside.com...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preschool children rarely seek data when observation and testimony conflict]]></title>
+        <id>https://news.ycombinator.com/item?id=27795810</id>
+        <link href="https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612"/>
+        <updated>2021-07-10T19:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612
+Comments URL: https://news.ycombinator.com/item?id=27795810
+Points: 133
+# Comments: 70]]></summary>
+        <author>
+            <name>DocFeind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=81469</id>
+        <link href="https://feeds.feedblitz.com/~/657219358/0/marginalrevolution~Saturday-assorted-links.html"/>
+        <updated>2021-07-10T19:26:40.000Z</updated>
+        <summary type="html"><![CDATA[1. Chad Jones appreciation post, his best papers on growth. 2. Ross Douthat on Catholic stuff. 3. Behavioral economics guide, 2021. 4. Origin of ice cream brand name. 5. Claims about billionaires.
+
+The post Saturday assorted links appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to BC.   I don't think Danes are too sensitive to the ... by Ricardo
+In reply to Morris Applebaum IV.   Even most billionaires ... by Ricardo
+In reply to Phinton.   “Non-Hispanic white Minnesotans ... by Ricardo
+In reply to Green Elf Ken.   The main benefits are status and ... by Ricardo
+In reply to Realist.   Good – I don't like people pointing to ... by Tyler Cowen
+Plus 10 more...]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meaning and connotation]]></title>
+        <id>https://www.econlib.org/meaning-and-connotation/</id>
+        <link href="https://www.econlib.org/meaning-and-connotation/"/>
+        <updated>2021-07-10T19:06:26.000Z</updated>
+        <summary type="html"><![CDATA[In response to my previous post, commenter BC asked:
+When you say that you don’t expect Bezos to give away almost all his wealth and that you’re “fine” with that, do you mean that you don’t expect Bezos to act morally and that you’re fine with some immorality?
+
+I responded:
+This is almost a textbook example of the connotation of words getting in the way of clear thinking.  “Immorality” has a literal meaning, and also a (quite different) connotation.
+Suppose I park somewhere and put a quarter in the parking meter.  Then I overstay the hour I’ve purchased.  I’ve broken the law, and should be punished by the meter maid if I’m caught.  Is my action “wrong”?  Yes, obviously.  Am I behaving in an “immoral” way?  It depends whether you use ‘immorality’ in a literal sense of doing something wrong,…]]></summary>
+        <author>
+            <name>Econlib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When is Cookie Dough not Cookie Dough]]></title>
+        <id>https://whatever.scalzi.com/?p=39890</id>
+        <link href="https://whatever.scalzi.com/2021/07/10/when-is-cookie-dough-not-cookie-dough/"/>
+        <updated>2021-07-10T18:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Last night Athena tweeted this: “Now, wait,” you say, “isn’t all cookie dough edible? Because if not I’ve been doing cookie dough wrong this entire time.” No, it’s not you, dare I say all cookie dough is made with at least the intent of having the end result of the dough be edible. However, “edible […]]]></summary>
+        <author>
+            <name>John Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When is Cookie Dough not Cookie Dough]]></title>
+        <id>https://whatever.scalzi.com/?p=39890</id>
+        <link href="https://whatever.scalzi.com/2021/07/10/when-is-cookie-dough-not-cookie-dough/"/>
+        <updated>2021-07-10T18:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Last night Athena tweeted this: “Now, wait,” you say, “isn’t all cookie dough edible? Because if not I’ve been doing cookie dough wrong this entire time.” No, it’s not you, dare I say all cookie dough is made with at least the intent of having the end result of the dough be edible. However, “edible […]]]></summary>
+        <author>
+            <name>John Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thus Spake Zarathustra, by Friedrich Nietzsche]]></title>
+        <id>https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common</id>
+        <link href="https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common"/>
+        <updated>2021-07-10T18:44:38.000Z</updated>
+        <summary type="html"><![CDATA[After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.]]></summary>
+        <author>
+            <name>Standard Ebooks - New Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBU schließt Krypto-Mining-Farm mit 3.800 PS4 wegen Stromdiebstahl in der Ukraine]]></title>
+        <id>https://tarnkappe.info/?p=158757</id>
+        <link href="https://tarnkappe.info/sbu-schliesst-krypto-mining-farm-mit-3-800-ps4-wegen-stromdiebstahl-in-der-ukraine/"/>
+        <updated>2021-07-10T18:39:18.000Z</updated>
+        <summary type="html"><![CDATA[In der Ukraine hat der ukrainische Staatssicherheitsdienst (SBU) eine riesige Krypto-Mining-Farm wegen groß angelegtem Stromdiebstahl geschlossen. Offenbar verwendete diese u.a. PlayStation 4-Spielekonsolen für das...
+Zu dem Artikel: SBU schließt Krypto-Mining-Farm mit 3.800 PS4 wegen Stromdiebstahl in der Ukraine
+Tarnkappe.info - Unter dem Radar]]></summary>
+        <author>
+            <name>Antonia Frank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sisters Make History in a '32 Ford as the Youngest Team to Win Nine-Day Rally]]></title>
+        <id>https://www.thedrive.com/news/41489/sisters-make-history-in-a-32-ford-as-the-youngest-team-to-win-nine-day-rally</id>
+        <link href="https://www.thedrive.com/news/41489/sisters-make-history-in-a-32-ford-as-the-youngest-team-to-win-nine-day-rally"/>
+        <updated>2021-07-10T18:16:24.000Z</updated>
+        <summary type="html"><![CDATA[At 14 and 16, sisters Olivia and Genna Gentry entered their first Great Race, a 2,300-mile rally across 18 cities in eight states. Two years later in 2019, they placed seventh overall, and in 2020, the race was canceled due to the pandemic. A few weeks ago, the Gentrys came back to win the whole […]]]></summary>
+        <author>
+            <name>Kristin V. Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking software testing: perspectives from the world of hardware (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27795061</id>
+        <link href="https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/"/>
+        <updated>2021-07-10T17:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/
+Comments URL: https://news.ycombinator.com/item?id=27795061
+Points: 87
+# Comments: 25]]></summary>
+        <author>
+            <name>Jtsummers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globale Gesundheitsversorgung: Kampf gegen neue Pandemien kostet 15 Milliarden Dollar pro Jahr]]></title>
+        <id>https://www.handelsblatt.com/27410062.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/globale-gesundheitsversorgung-kampf-gegen-neue-pandemien-kostet-15-milliarden-dollar-pro-jahr/27410062.html"/>
+        <updated>2021-07-10T17:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Die Welt ist nicht genügend auf neue Pandemien vorbereitet, urteilt ein internationales Expertengremium – und fordert massive Investitionen ins Weltgesundheitssystem.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme heat has killed an estimated 1 billion small sea creatures]]></title>
+        <id>https://www.axios.com/heat-wave-kills-hundreds-millions-marine-animals-caa680e0-7845-4f6a-9e49-84c046868618.html</id>
+        <link href="https://www.axios.com/heat-wave-kills-hundreds-millions-marine-animals-caa680e0-7845-4f6a-9e49-84c046868618.html"/>
+        <updated>2021-07-10T17:19:46.000Z</updated>
+        <summary type="html"><![CDATA[The combination of extreme heat and drought that has scorched the Western United States and Canada over the past two weeks has killed hundreds of millions of mussels, clams and other marine animals, the New York Times reports.
+The big picture: An estimated 1 billion small sea creatures died during the heat wave in the Salish Sea at the end of June, according to marine biologist Chris Harley, per the Washington Post.
+
+The sea creatures' deaths coincide with the heat wave that hit the Pacific Northwest last week, which led to more than a hundred human deaths.
+A study by an international team of climate researchers said the heat wave would have been "virtually impossible without human-caused climate change."
+
+Driving the news: Mussels attach themselves to rocks and other surfaces, but they generally can't survive temperatures over 100 degrees for extended periods of time, CNN reports.
+
+Ken Fong, head of the marine invertebrates stock assessment research program for Canada’s department of fisheries and oceans, called the incident a "perfect storm," per the Washington Post. 
+"A very low tide in the afternoon in the Strait of Georgia that happened to coincide with the hottest part of the day, exposing the sea animals to the worst of the extreme heat," the Post reports. 
+
+What they're saying: "It was a catastrophe over there," Harley told CNN. "There's a really extensive mussel bed that coats the shore and most of those animals had died."
+
+"What worries me is that if you start getting heat waves like this, every 10 years instead of every 1,000 years or every five years, then it's you're getting hit too hard, too rapidly to actually ever recover," Harley said. "And then the ecosystem is going to just look very, very different."
+
+Go deeper: Welcome to our hellscape summer]]></summary>
+        <author>
+            <name>Erin Doherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dax-Ausblick: Anleger blicken gespannt auf die Wall Street – US-Banken im Mittelpunkt]]></title>
+        <id>https://www.handelsblatt.com/27407578.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-ausblick-anleger-blicken-gespannt-auf-die-wall-street-us-banken-im-mittelpunkt/27407578.html"/>
+        <updated>2021-07-10T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Beginn der Berichtsaison in den USA verschiebt die Schwerpunkte an der Börse. Ein neuer Boom der Wachstumstitel deutet sich bereits an.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul Bloom in The New Yorker on discounting]]></title>
+        <id>https://marginalrevolution.com/?p=81473</id>
+        <link href="https://feeds.feedblitz.com/~/657202484/0/marginalrevolution~Paul-Bloom-in-The-New-Yorker-on-discounting.html"/>
+        <updated>2021-07-10T16:14:38.000Z</updated>
+        <summary type="html"><![CDATA[And also on my Stubborn Attachments, here is part of his discussion: Cowen, to my mind, glosses over the problem of diminishing returns. Suppose that our prosperity increases a hundredfold. Life would be better, but would our happiness also increase by a multiple of a hundred? After a certain point, it might make sense to […]
+
+The post Paul Bloom in The New Yorker on discounting appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to El Gipper.   And look at the migration streams from ... by Dismalist
+In reply to anon.   Future sucks. [Discount rate.] 'Cept for ... by Dismalist
+In reply to EdR.   I'm sure he has a young and beautiful ... by fRAT
+An article in Evonomics discusses how redistribution increases ... by Bill
+In reply to Bazza.    I expect the “Woke” regard themselves ... by Dino the Isaurian
+Plus 10 more...
+
+Related Stories
+
+*Syndromes and a Century* (with spoilers, but the movie is not about suspense)
+The origins of Wokeism
+How do you ask good questions?]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's the Ford Bronco Tailgating Gear You'll Want This Fall]]></title>
+        <id>https://www.thedrive.com/news/41487/heres-the-ford-bronco-tailgating-gear-youll-want-this-fall</id>
+        <link href="https://www.thedrive.com/news/41487/heres-the-ford-bronco-tailgating-gear-youll-want-this-fall"/>
+        <updated>2021-07-10T16:12:37.000Z</updated>
+        <summary type="html"><![CDATA[To whet Bronco fans’ appetites, Ford released its list of accessories back in January of this year (here's the rundown from forum Bronco6G). Of course, there are a metric ton of mechanical upgrades available, like 4.46 or 4.70 rear axles, ring and pinions gears, a new front differential, and Lund trail armor. If you’re heading […]]]></summary>
+        <author>
+            <name>Kristin V. Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long-standing corruption hinders vaccination campaign in Latin America]]></title>
+        <id>https://www.axios.com/latin-america-vaccination-campaign-6df4c5ba-82fa-432c-9353-c98b2d49bffb.html</id>
+        <link href="https://www.axios.com/latin-america-vaccination-campaign-6df4c5ba-82fa-432c-9353-c98b2d49bffb.html"/>
+        <updated>2021-07-10T16:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Long-standing corruption in Latin America has hindered vaccination campaigns and health care responses.
+The big picture: These scandals include inflated prices for unusable ventilators purchased by Bolivia, price gouging for N95 masks in Argentina, and a botched acquisition of emergency field hospitals that took over six months to be operational in Honduras.
+
+Peru, Chile, Ecuador and Argentina were also roiled by “Vaccine-gate”, in which politicians and their families and friends were given hush-hush early access to the first shots.
+
+More recent uproars include the possible impeachment of Brazilian President Jair Bolsonaro for apparent bribery for contracts to purchase two vaccines, and a murky and unfulfilled deal in Guatemala to buy millions of Sputnik V doses that were paid for but never delivered, leading to protests and calls for President Alejandro Giammattei's resignation.
+Between the lines: Public hospitals were already severely underfunded, lacking equipment and medicine, when COVID-19 hit. With the pandemic, they are overwhelmed.
+
+Partly to blame are the enduring consequences of diverted funds, since Latin American and Caribbean nations consistently rank as some of the most corrupt in the world.]]></summary>
+        <author>
+            <name>Marina E. Franco (Noticias Telemundo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["An Ugly Truth" gives sneak peek as Zuckerberg becomes wartime leader]]></title>
+        <id>https://www.axios.com/ugly-truth-facebook-mark-zuckerbeg-sandberg-5db3e2e9-2c9b-4ce9-a9c1-118b1daa33f5.html</id>
+        <link href="https://www.axios.com/ugly-truth-facebook-mark-zuckerbeg-sandberg-5db3e2e9-2c9b-4ce9-a9c1-118b1daa33f5.html"/>
+        <updated>2021-07-10T16:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Mark Zuckerberg surprised a council of top Facebook executives in July 2018 by declaring: "Up until now, I’ve been a peacetime leader ... That’s going to change."
+Driving the news: The account appears in a closely held book that'll be out Tuesday, "An Ugly Truth: Inside Facebook’s Battle for Domination," by the N.Y. Times' Sheera Frenkel and Cecilia Kang.
+
+The group, the authors write, "had endured eighteen months of one bad news cycle after another. They had been forced to defend Facebook to their friends, family, and angry employees. Most of them had little to do with the controversies over election disinformation and Cambridge Analytica."
+
+The book says Zuckerberg had been influenced by ideas in "What You Do Is Who You Are," by Ben Horowitz — who's half of Andreessen Horowitz, the VC firm that invested early in Facebook, along with Marc Andreessen, Zuckerberg’s friend and a Facebook board member: 
+
+Horowitz argues that at various stages of development, tech companies demand two kinds of CEOs: wartime and peacetime leaders. In periods of peace, he writes, a company can focus on expanding and reinforcing its strengths. In times of war, the threats are existential, and the company has to hunker down to fight for survival. 
+... 
+From that day forward, Zuckerberg continued, he was taking on the role of wartime CEO. He would assume more direct control over all aspects of the business. He could no longer sequester himself to focus only on new products. More decisions would fall to him. 
+Facebook tells Axios that Zuckerberg instructed leaders they’d have to be more decisive, and would need to move forward even when there wasn't a clear consensus. His view was that it was like wartime, and he needed to run the company as a wartime CEO.
+Go deeper: Read a N.Y. Times adaptation.]]></summary>
+        <author>
+            <name>Mike Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Virgin Galactic launch Richard Branson to space]]></title>
+        <id>https://www.theverge.com/2021/7/10/22569889/virgin-galactic-launch-watch-richard-branson-space</id>
+        <link href="https://www.theverge.com/2021/7/10/22569889/virgin-galactic-launch-watch-richard-branson-space"/>
+        <updated>2021-07-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Virgin Galactic’s SpaceShipTwo spaceplane is carried between the two fuselages of its WhiteKnight carrier aircraft during a 2016 test. | Image: Virgin Galactic
+    
+
+  
+Virgin Galactic will launch Richard Branson and three company employees to the edge of space on the morning of Sunday, July 11th. The company is promising quite a show for the mission: Stephen Colbert will host the mission’s livestream, singer-songwriter Khalid will reportedly perform a new single live onstage following the spaceplane’s landing, and Branson has said he’ll “announce something very exciting” after his spaceflight.
+The flight marks one of the company’s final test missions before it aims to kick off commercial space tourism business next year. The mission, dubbed Unity 22, will mark Virgin Galactic’s fourth flight to space carrying humans, with its largest crew yet. Four people, including Branson, will test the astronaut...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wohnen im Mond-Orbit: NASA vergibt Milliardenauftrag für HALO]]></title>
+        <id>https://www.heise.de/news/Wohnen-im-Mond-Orbit-NASA-vergibt-Milliardenauftrag-fuer-HALO-6134079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Wohnen-im-Mond-Orbit-NASA-vergibt-Milliardenauftrag-fuer-HALO-6134079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Der US-Konzern Northrop Grumman soll das Wohnmodul HALO für den Mond-Außenposten des Artemis-Projektes bauen. Leben und Arbeiten im Orbit des Mondes.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA head asks for investigation into Aduhelm drug approval]]></title>
+        <id>https://news.ycombinator.com/item?id=27794231</id>
+        <link href="https://www.businessinsider.com/fda-head-asks-for-investigation-into-aduhelm-drug-approval-2021-7"/>
+        <updated>2021-07-10T15:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/fda-head-asks-for-investigation-into-aduhelm-drug-approval-2021-7
+Comments URL: https://news.ycombinator.com/item?id=27794231
+Points: 196
+# Comments: 138]]></summary>
+        <author>
+            <name>tima101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rise of the anti-"woke" Democrat]]></title>
+        <id>https://www.axios.com/anti-woke-democrat-8a192166-3240-410d-8b2a-074e8013be66.html</id>
+        <link href="https://www.axios.com/anti-woke-democrat-8a192166-3240-410d-8b2a-074e8013be66.html"/>
+        <updated>2021-07-10T15:36:36.000Z</updated>
+        <summary type="html"><![CDATA[A growing number of Democrats are ringing the alarm that their party sounds — and acts — too judgmental, too sensitive, too "woke" to large swaths of America. 
+Why it matters: These Democrats warn that by jamming politically correct terms or new norms down the throats of voters, they risk exacerbating the cultural wars — and inadvertently helping Trumpian candidates. 
+
+Top Democrats confide that they're very aware of the danger. Already, we've seen a widespread pullback in the "defund the police" rhetoric. 
+
+Former NYPD captain Eric Adams, who this week won New York City's Democratic mayoral primary, showed his party the power of a message that supports police while including justice and reform. 
+"If we are for SAFETY — we NEED the NYPD!" Adams says on his campaign site. "At the same time,…]]></summary>
+        <author>
+            <name>Margaret Talev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krisenland: Afghanistan fordert vorübergehenden Abschiebe-Stopp aus Europa]]></title>
+        <id>https://www.handelsblatt.com/27410152.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/krisenland-afghanistan-fordert-voruebergehenden-abschiebe-stopp-aus-europa/27410152.html"/>
+        <updated>2021-07-10T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Die afghanische Regierung fordert die Abschiebungen für drei Monate auszusetzen. Die Lage in Afghanistan spitzt sich seit dem NATO-Truppenabzug zu.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G-20-Finanzminister beschliessen globale Steuerreform – Proteste in Venedig am Rande des Gipfels]]></title>
+        <id>https://www.nzz.ch/wirtschaft/g-20-finanzminister-beschliessen-globale-steuerreform-ld.1634974</id>
+        <link href="https://www.nzz.ch/wirtschaft/g-20-finanzminister-beschliessen-globale-steuerreform-ld.1634974"/>
+        <updated>2021-07-10T15:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Beim Beschluss habe es Szenenapplaus gegeben, sagt Finanzminister Olaf Scholz. Seine G-20-Amtskollegen ziehen mit bei der grossen weltweiten Steuerreform. Die Industrie fürchtet bereits zusätzliche Belastungen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roboter robust wie eine Kakerlake]]></title>
+        <id>https://www.heise.de/news/Roboter-robust-wie-eine-Kakerlake-6134093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Roboter-robust-wie-eine-Kakerlake-6134093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Ein Roboter in Briefmarken-Form könnte eines Tages in eingestürzten Gebäuden nach Überlebenden suchen oder Rettungskräfte vor Lecks in Gasleitungen warnen.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Softbank-owned LINE Goes Open-Source To Help Central Banks Mint CBDCs]]></title>
+        <id>https://decrypt.co/?p=75680</id>
+        <link href="https://decrypt.co/75680/softbank-owned-line-goes-open-source-to-help-central-banks-mint-cbdcs"/>
+        <updated>2021-07-10T15:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Line Plus wants its platform to meet the demands of different central banks.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D.C. journalists launch media company with $10 million+ funding]]></title>
+        <id>https://www.axios.com/dc-journalists-launch-media-company-ee38d5f8-0d45-490e-90c2-0cc1ba1036a7.html</id>
+        <link href="https://www.axios.com/dc-journalists-launch-media-company-ee38d5f8-0d45-490e-90c2-0cc1ba1036a7.html"/>
+        <updated>2021-07-10T14:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Laura McGann, former politics editor of Vox.com and Politico, and Mark Bauman, previously with the Smithsonian, National Geographic and ABC News, are teaming up to launch a yet-to-be named media company. 
+Why it matters: McGann and Bauman say they're looking to build a newsroom that goes deep on select topic areas like misinformation, climate and Chinese geopolitics. 
+
+"Our goal is to build a newsroom of beat reporters, subject matter experts, visual journalists and editors that all come together to cover the biggest stories of the day," McGann says. "We'll be creating new formats that give our audience a fuller look at big news stories that can be confusing if you read them piecemeal."
+
+Details: The pair has already raised more than $10 million in a series A funding round from two investo…]]></summary>
+        <author>
+            <name>Sara Fischer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personalwechsel: Große Regierungsumbildung in Spanien]]></title>
+        <id>https://www.handelsblatt.com/27410034.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/personalwechsel-grosse-regierungsumbildung-in-spanien/27410034.html"/>
+        <updated>2021-07-10T14:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Jünger und weiblicher soll die neue Regierung von Ministerpräsident Pedro Sánchez sein. Im Fokus steht der wirtschaftliche Wiederaufbau des Landes.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sotheby’s Auctions Rare Diamond for $12 Million in Crypto]]></title>
+        <id>https://decrypt.co/?p=75673</id>
+        <link href="https://decrypt.co/75673/sothebys-auctions-rare-diamond-for-12-million-in-crypto"/>
+        <updated>2021-07-10T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[It’s the highest paid in crypto for a jewel. Well, at least through a public auction house.]]></summary>
+        <author>
+            <name>Ekin Genç</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-Mobilität: EU-Kommission will massiven Ausbau der Ladeinfrastruktur]]></title>
+        <id>https://www.heise.de/news/E-Mobilitaet-EU-Kommission-will-massiven-Ausbau-der-Ladeinfrastruktur-6134071.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/E-Mobilitaet-EU-Kommission-will-massiven-Ausbau-der-Ladeinfrastruktur-6134071.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T14:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Bis Ende 2025 soll laut dem EU-Klimapaket entlang wichtiger Schnellstraßen mindestens alle 60 Kilometer eine leistungsstarke Stromtankstelle entstehen.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globale Mindeststeuer: G20-Finanzminister beschließen globale Steuerreform – doch einige Fragen sind noch offen]]></title>
+        <id>https://www.handelsblatt.com/27409768.html</id>
+        <link href="https://www.handelsblatt.com/politik/international/globale-mindeststeuer-g20-finanzminister-beschliessen-globale-steuerreform-doch-einige-fragen-sind-noch-offen/27409768.html"/>
+        <updated>2021-07-10T14:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Die globale Steuerreform, die die G20-Finanzminister beschlossen haben, ist historisch. Doch in trockenen Tüchern ist sie noch nicht.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV star's party takes poll lead ahead of Bulgaria's election]]></title>
+        <id>https://www.axios.com/bulgaria-tv-star-slavi-trifonov-election-polls-dd979af6-d9b4-46f5-85db-2a1c592470e5.html</id>
+        <link href="https://www.axios.com/bulgaria-tv-star-slavi-trifonov-election-polls-dd979af6-d9b4-46f5-85db-2a1c592470e5.html"/>
+        <updated>2021-07-10T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Sunday's snap parliamentary elections in Bulgaria pit the man who has dominated the Balkan country's politics for a decade against an insurgent party led by a popular TV host.
+The big picture: Former longtime Prime Minister Boyko Borissov failed to form a government after an inconclusive election in April, which followed massive protests last year over corruption and Borissov's alleged mafia ties.
+
+Since the election, the Biden administration has sanctioned three Bulgarian power brokers for corruption, denting Borissov's support further.
+
+The other side: That has left a major opening for political newcomers like Slavi Trifonov, sometimes referred to as the Bulgarian David Letterman.
+
+Trifonov's "There is Such a People" party now has 21.8% support versus 21.5% for Borissov's GERB party, acc…]]></summary>
+        <author>
+            <name>Teodora Trifonova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many founders does a startup really need?]]></title>
+        <id>https://www.protocol.com/newsletters/pipeline/how-to-find-a-co-founder</id>
+        <link href="https://www.protocol.com/newsletters/pipeline/how-to-find-a-co-founder"/>
+        <updated>2021-07-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Was this email forwarded to you? Sign up here to get it in your inbox every week.
+
+Overheard
+
+"Be less stylish": Greylock investor Sarah Guo was told her fashionable clothes "might intimidate" the engineers she was working with. "Five years ago I suppressed my feelings and nodded blankly when told this, but this time I just blew up," she tweeted. "Reinforcing Silicon Valley brotopia is not helpful." 
+A $1.5 billion Series A? No, it's not just this insane funding cycle. Here's what it really means when companies announce these mega A rounds. 
+Do lead investors deserve credit for closing a round? A VC's request for an extra 1.5% of a company for their work in closing the deal set off a debate about whether the work should be rewarded or not.
+"A VC walks into a bar ..." and asks what everyone…]]></summary>
+        <author>
+            <name>Biz  Carson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geldpolitik: EZB-Direktorin Schnabel rechnet nicht mit übermäßig hoher Inflation]]></title>
+        <id>https://www.handelsblatt.com/27409952.html</id>
+        <link href="https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-ezb-direktorin-schnabel-rechnet-nicht-mit-uebermaessig-hoher-inflation/27409952.html"/>
+        <updated>2021-07-10T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Zentralbänkerin sieht die hohen Inflationsraten als vorübergehendes Phänomen. Zugleich warnt sie davor, auf dauerhaft niedrige Zinsen zu setzen.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundestagswahl 2021: Bericht: SPD-Chef will nach Bundestagswahl „führen oder nichts“]]></title>
+        <id>https://www.handelsblatt.com/27409900.html</id>
+        <link href="https://www.handelsblatt.com/politik/deutschland/bundestagswahl-2021-bericht-spd-chef-will-nach-bundestagswahl-fuehren-oder-nichts/27409900.html"/>
+        <updated>2021-07-10T13:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Norbert Walter-Borjans will nach der Bundestagswahl nur als stärkste Kraft Koalitionen eingehen. Einem Medienbericht zufolge sieht er die SPD nicht als Juniorpartner.]]></summary>
+        <author>
+            <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nokia verklagt Smartphone-Hersteller Oppo wegen Patentverletzungen]]></title>
+        <id>https://www.heise.de/news/Nokia-verklagt-Smartphone-Hersteller-Oppo-wegen-Patentverletzungen-6134056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Nokia-verklagt-Smartphone-Hersteller-Oppo-wegen-Patentverletzungen-6134056.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Der chinesische Smartphone-Hersteller soll Mobilfunkpatente unlizenziert verwendet haben. Nokia zieht dagegen in vier Ländern vor Gericht.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Couple of Dudes Recreate All the Mini Bike Scenes from Dumb and Dumber]]></title>
+        <id>https://www.thedrive.com/news/41484/a-couple-of-dudes-recreate-all-the-mini-bike-scenes-from-dumb-and-dumber</id>
+        <link href="https://www.thedrive.com/news/41484/a-couple-of-dudes-recreate-all-the-mini-bike-scenes-from-dumb-and-dumber"/>
+        <updated>2021-07-10T13:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you decide to take a road trip. Maybe you’ll strap on a helmet, pull on a leather jacket, and head for the highway on a two-wheeled adventure but you’re not sure where to go. I’ll tell you where: Someplace warm. A place where the beer flows like wine. Where beautiful women instinctively flock […]]]></summary>
+        <author>
+            <name>Kristin V. Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axie Infinity Sets ATH As Ethereum-based NFT Game Goes Viral]]></title>
+        <id>https://decrypt.co/?p=75670</id>
+        <link href="https://decrypt.co/75670/axie-infinity-sets-ath-as-ethereum-based-nft-game-goes-viral"/>
+        <updated>2021-07-10T13:48:53.000Z</updated>
+        <summary type="html"><![CDATA[MANA and SAND also thrived in this weekend’s gaming coin rally.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare For a Flood of College Athlete NFTs]]></title>
+        <id>https://decrypt.co/?p=75164</id>
+        <link href="https://decrypt.co/75164/ncaa-nil-rules-college-athlete-nft-not-dead-yet"/>
+        <updated>2021-07-10T13:25:24.000Z</updated>
+        <summary type="html"><![CDATA[The new NCAA rules allowing college athletes to sign business deals has already brought a new round of NFTs. Could that revive the NFT market?]]></summary>
+        <author>
+            <name>Daniel Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla finally begins shipping ‘Full Self-Driving’ beta version 9 after a long delay]]></title>
+        <id>https://www.theverge.com/2021/7/10/22570081/tesla-fsd-v9-beta-autopilot-update</id>
+        <link href="https://www.theverge.com/2021/7/10/22570081/tesla-fsd-v9-beta-autopilot-update"/>
+        <updated>2021-07-10T13:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Photo by James Bareham / The Verge
+    
+
+  
+Tesla began sending out over-the-air software updates for its long-awaited “Full Self-Driving” beta version 9, the definitely-not-autonomous-but-certainly-advanced driver assist system. 
+As promised by Elon Musk, the software update (2021.4.18.12) began uploading after midnight on Friday, giving thousands of Tesla owners who have purchased the FSD option access to the feature, which enables drivers to use many of Autopilot’s advanced driver-assist features on local, non-highway streets.
+
+
+Musk has been promising v9 of the software for, well, a while now
+Musk has been promising v9 of the software for, well, a while now. He said in 2018 that the “long awaited” version of FSD would begin rolling out in August. He did it again in 2019,...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The search is over: smart trackers from Apple, Samsung, and Tile compared]]></title>
+        <id>https://www.theverge.com/22570161/apple-airtag-samsung-smarttag-tile-pro-bluetooth-tracker-review-test-comparison</id>
+        <link href="https://www.theverge.com/22570161/apple-airtag-samsung-smarttag-tile-pro-bluetooth-tracker-review-test-comparison"/>
+        <updated>2021-07-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s never been easier to keep track of your keys
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The statue of Confederate Gen. Robert E. Lee has been taken down in Charlottesville, Virginia]]></title>
+        <id>https://www.axios.com/robert-e-lee-confederate-statue-removed-charlottesville-675a1fae-b035-49ba-bf7b-20daa4d4dc25.html</id>
+        <link href="https://www.axios.com/robert-e-lee-confederate-statue-removed-charlottesville-675a1fae-b035-49ba-bf7b-20daa4d4dc25.html"/>
+        <updated>2021-07-10T12:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Heavy machinery hoisted the statue of Gen. Robert E. Lee from its stone pedestal in Charlottesville, Virginia, around 8 a.m. Saturday morning, AP reports.
+The big picture: The removal comes four years after the 2017 "Unite the Right" white supremacist rally, when hundreds of alt-right supporters gathered carrying torches and signs that read "white lives matter." The rally then started because protestors opposed the city's decision to get rid of the monument.
+
+The rally left 32-year-old protester Heather Heyer dead.
+City officials announced plans to remove the statue on Friday.
+
+Details: Another Confederate statue, one of of Gen. Thomas “Stonewall” Jackson, is also set to be taken down, AP notes.
+
+Of note: The stone pedestals will be taken down and taken to a secure location until the Charlottesville City Council decides what should be done with them. 
+
+What they're saying: "Taking down this statue is one small step closer to the goal of helping Charlottesville, Virginia, and America, grapple with the sin of being willing to destroy Black people for economic gain," Charlottesville Mayor Nikuyah Walker said in a speech when the removal process started, per AP.
+
+"This is well overdue," Zyahna Bryant, a student who in 2016 started the push to remove confederate statues from the city.
+"No platform for racism. No platform for hate," Bryant added.
+
+In photos:
+
+THAT girl. 
+My work here is done. pic.twitter.com/29Zh6xIrxJ
+— Miss Girl (@ZyahnaB) July 10, 2021
+  A statue of Confederate General Robert E. Lee is seen behind work-zone signage in Market Street Park July 9. Photo: Win McNamee/Getty Images
+ 
+Workers remove a statue of Confederate General Robert E. Lee from Market Street Park July 10.  Photo: Win McNamee / Getty Images
+ 
+A flatbed truck carries a statue of Confederate General Robert E. Lee from the Market Street Park July 10. Photo Win McNamee/Getty Images
+ 
+A flatbed truck carries a statue of Confederate General Robert E. Lee from the Market Street Park July 10. Photo: Win McNamee/Getty Images]]></summary>
+        <author>
+            <name>Oriana Gonzalez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Navy has a 650-round ammo backpack that looks like it’s straight out of ‘Predator’]]></title>
+        <id>https://taskandpurpose.com/asperiores-odit/navy-ammo-backpack-avenger/</id>
+        <link href="https://taskandpurpose.com/military-tech/navy-ammo-backpack-avenger/"/>
+        <updated>2021-07-10T12:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Jesse Ventura in 'Predator'
+The Navy has fielded a 650-round ammo backpack nicknamed 'Avenger' to troops at some point in the last several years.
+The post The Navy has a 650-round ammo backpack that looks like it’s straight out of ‘Predator’ appeared first on Task & Purpose.]]></summary>
+        <author>
+            <name>Jared Keller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kickstart your weekend with this week’s best tech deals]]></title>
+        <id>https://www.theverge.com/good-deals/2021/7/10/22570214/acer-swift-3-laptop-monster-hunter-stories-2-tp-link-wi-fi-extender-logitech-gaming-mouse-deal-sale</id>
+        <link href="https://www.theverge.com/good-deals/2021/7/10/22570214/acer-swift-3-laptop-monster-hunter-stories-2-tp-link-wi-fi-extender-logitech-gaming-mouse-deal-sale"/>
+        <updated>2021-07-10T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Acer Swift 3, one of picks for the best student laptops, is on sale at Costco for $490. | Photo by Monica Chin / The Verge
+    
+
+  
+The weekend has arrived, bringing with it an assortment of great discounts on everything from student-centric laptops to headphones to some games that launched as recently as this week. We’ve rounded up many of the highlights below, and if you’re looking for the best of the best and not just what’s currently on sale, we’ve also updated our comprehensive guides to the best streaming devices and best gaming laptops, both of which offer a host of entertainment options for looking to escape the summer heat.
+Save $15 on TP-Link’s budget-friendly Wi-Fi Extender
+You don’t necessarily need to opt for a Google Nest Wifi system or a similar mesh network in order to boost your home’s Wi-Fi network — sometimes a simply Wi-Fi extender like the...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo refuses to say if the OLED Switch fixes Joy-Con drift]]></title>
+        <id>https://www.theverge.com/2021/7/10/22570868/nintendo-oled-switch-joy-con-drift</id>
+        <link href="https://www.theverge.com/2021/7/10/22570868/nintendo-oled-switch-joy-con-drift"/>
+        <updated>2021-07-10T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo revealed a new model of the Switch this week that adds an OLED screen, enhanced speakers, and a much-improved kickstand. One thing it seems the OLED Switch won’t bring, however, is a fix for the Joy-Con drift issues that have plagued Switch owners for years — and frustratingly, Nintendo won’t even confirm that it won’t. A variety of publications including The Verge tried to ask the question, but Nintendo won’t tackle it head-on, despite other helpful answers like how the new Switch won’t have a new CPU.
+Switch owners have been reporting Joy-Con drift problems for years, and the problem is bad enough that it’s the subject of numerous lawsuits — though Nintendo will unofficially fix controllers experiencing Joy-Con drift for free,...
+Continue reading…]]></summary>
+        <author>
+            <name>The Verge -  All Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“One Day Longer and Those 13 Boys Would Be Dead”]]></title>
+        <id>https://news.ycombinator.com/item?id=27792930</id>
+        <link href="https://www.zeit.de/wissen/2021-07/thai-cave-rescue-thailand-tham-luang-2018-diver-mikko-paasi"/>
+        <updated>2021-07-10T12:29:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zeit.de/wissen/2021-07/thai-cave-rescue-thailand-tham-luang-2018-diver-mikko-paasi
+Comments URL: https://news.ycombinator.com/item?id=27792930
+Points: 580
+# Comments: 227]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigan 25 - Die gestohlene Formel]]></title>
+        <id>https://de.downmagaz.net/comics_magazine_deutsch/76414-trigan-25-die-gestohlene-formel.html</id>
+        <link href="https://de.downmagaz.net/comics_magazine_deutsch/76414-trigan-25-die-gestohlene-formel.html"/>
+        <updated>2021-07-10T12:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Trigan 25 - Die gestohlene FormelDeutsch | CBR | 239.6 MBTrigan 1 – 18 (2015-2019) https://novafile.com/k8blqawqeql1 https://turb.cc/k1t7uefuwn68.html]]></summary>
+        <author>
+            <name>Abarita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weeknote 27/2021]]></title>
+        <id>https://dougbelshaw.com/blog/?p=45649</id>
+        <link href="https://dougbelshaw.com/blog/2021/07/10/weeknote-27-2021/"/>
+        <updated>2021-07-10T12:20:21.000Z</updated>
+        <summary type="html"><![CDATA[What I've been up to this week.
+Weeknote 27/2021 first appeared on Open Thinkering.]]></summary>
+        <author>
+            <name>Doug Belshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ortskräfte raus aus Afghanistan!]]></title>
+        <id>https://augengeradeaus.net/?p=57457</id>
+        <link href="https://augengeradeaus.net/2021/07/ortskraefte-raus-aus-afghanistan/"/>
+        <updated>2021-07-10T12:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Kurze Urlaubsunterbrechung aus wichtigem Grund: Die Bundeswehr ist Ende Juni aus Afghanistan abgezogen, Personal und Gerät sind raus – aber es sind Menschen geblieben, die für die deutschen Streitkräfte gearbeitet haben. Viele von ihnen müssen – und wollen – raus aus dem Land, weil sie als Verräter von den vorrückenden Taliban bedroht werden. Das ist, neben vielen bürokratischen Hürden, auch ein finanzielles Problem. Der niedersächsische Innenminister Boris Pistorius hat sich zwar erfolgreich für Erleichterungen bei der Erteilung von Visa für]]></summary>
+        <author>
+            <name>T.Wiegold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok Bans Paid Crypto Promotions But 'Financial Analysis' Unaffected]]></title>
+        <id>https://decrypt.co/?p=75661</id>
+        <link href="https://decrypt.co/75661/tiktok-bans-paid-crypto-promotions-but-financial-analysis-unaffected"/>
+        <updated>2021-07-10T12:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Social media platform bans paid crypto promotions, but unpaid shilling is still good to go.]]></summary>
+        <author>
+            <name>Ekin Genç</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heise+ | Investieren am Aktienmarkt: Besser informiert mit Wertpapieren handeln]]></title>
+        <id>https://www.heise.de/tests/Investieren-am-Aktienmarkt-Besser-informiert-mit-Wertpapieren-handeln-6058832.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</id>
+        <link href="https://www.heise.de/tests/Investieren-am-Aktienmarkt-Besser-informiert-mit-Wertpapieren-handeln-6058832.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <updated>2021-07-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Investiert man in Eigenregie Geld in Wertpapiere, braucht man eine solide Wissensgrundlage. Mit unserer Übersicht finden Sie dafür gute Quellen.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Transaction Fees Sink to 2020 Prices As Bull Run Wanes]]></title>
+        <id>https://decrypt.co/?p=75662</id>
+        <link href="https://decrypt.co/75662/bitcoin-transaction-fees-sink-to-2020-prices-as-bull-run-wanes"/>
+        <updated>2021-07-10T11:50:30.000Z</updated>
+        <summary type="html"><![CDATA[The network’s hash rate is also the lowest it’s been in a year.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIeyes: Walking simulator where the world is seen through a realtime neural net]]></title>
+        <id>https://news.ycombinator.com/item?id=27792736</id>
+        <link href="https://tmdev.itch.io/aieyes"/>
+        <updated>2021-07-10T11:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tmdev.itch.io/aieyes
+Comments URL: https://news.ycombinator.com/item?id=27792736
+Points: 183
+# Comments: 49]]></summary>
+        <author>
+            <name>polm23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datenschutz: Lehrerverband will weiter Teams erlauben]]></title>
+        <id>https://www.golem.de/2107/158040-rss.html</id>
+        <link href="https://www.golem.de/news/datenschutz-lehrerverband-will-weiter-teams-erlauben-2107-158040-rss.html"/>
+        <updated>2021-07-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Erst von Sch�lern, nun von Lehrern: Trotz Datenschutzbedenken gibt es neue Forderungen, kommerzielle Software an Schulen zu erlauben. (Schulen, Datenschutz)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternative Dosing]]></title>
+        <id>https://marginalrevolution.com/?p=81476</id>
+        <link href="https://feeds.feedblitz.com/~/657182500/0/marginalrevolution~Alternative-Dosing.html"/>
+        <updated>2021-07-10T11:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Alternative dosing is finally getting some attention. This story in Nature recounts some of the recent arguments and evidence: Two jabs that each contained only one-quarter of the standard dose of the Moderna COVID vaccine gave rise to long-lasting protective antibodies and virus-fighting T cells, according to tests in nearly three dozen people1. The results […]
+
+The post Alternative Dosing appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to Steve Sailer.   Price? Moderna is twice as ... by Thomas
+In reply to Steve Sailer.   Filler? When freezer space was an ... by Crikey
+In reply to Hector Garcia.   > The “uptick” in Israel ... by Quin
+In reply to Quin.   UK deaths are running at a mortality rate ... by Hector Garcia
+Alex's obsession with vaccines is tiring. The virus is clearly ... by ray
+Plus 10 more...
+
+Related Stories
+
+Tabarrok on RADVAC, the DIY Vaccine
+The Biden Executive Order on promoting competition
+Stripe Atlas update]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Präsidialverordnung für mehr Wettbewerb und für ein "Right to Repair"]]></title>
+        <id>https://www.heise.de/news/Praesidialverordnung-fuer-mehr-Wettbewerb-und-fuer-ein-Right-to-Repair-6134039.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Praesidialverordnung-fuer-mehr-Wettbewerb-und-fuer-ein-Right-to-Repair-6134039.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Per Präsidialverfügung will Präsident Joe Biden wieder mehr Wettbewerb ermöglichen. Reichen die Maßnahmen aus, die Marktmacht der Big Player zu brechen?]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo: Legend of Zelda bringt Rekordsumme bei Versteigerung ein]]></title>
+        <id>https://www.golem.de/2107/158039-rss.html</id>
+        <link href="https://www.golem.de/news/nintendo-legend-of-zelda-bringt-rekordsumme-bei-versteigerung-ein-2107-158039-rss.html"/>
+        <updated>2021-07-10T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Ein Exemplar von The Legend of Zelda von 1987 hat auf einer Auktion einen Rekordpreis erzielt und damit den vorherigen H�chstpreis �bertroffen. (Zelda, Nintendo)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ribbon filter: Practically smaller than Bloom and Xor]]></title>
+        <id>https://news.ycombinator.com/item?id=27792558</id>
+        <link href="https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/"/>
+        <updated>2021-07-10T11:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/
+Comments URL: https://news.ycombinator.com/item?id=27792558
+Points: 40
+# Comments: 8]]></summary>
+        <author>
+            <name>boyter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Educators and activists fight back against the efforts to limit discussions about anti-racism]]></title>
+        <id>https://www.axios.com/teachers-prepare-for-court-fights-on-race-education-f912441f-e544-4b80-87a0-2f2cf867432e.html</id>
+        <link href="https://www.axios.com/teachers-prepare-for-court-fights-on-race-education-f912441f-e544-4b80-87a0-2f2cf867432e.html"/>
+        <updated>2021-07-10T11:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Teachers and civil rights activists are organizing and preparing to go to court to stop conservatives' efforts to block curriculum about institutional racism.
+Why it matters:  "It is the modern-day Scopes trial," American Federation of Teachers President Randi Weingarten tells Axios, recalling the 1925 case over teaching evolution.
+
+Legislators in nearly half of U.S. states in recent months have passed or introduced proposals to constrain lessons about how racism has shaped the nation's history and political and economic systems.
+Conservative groups also are driving recall campaigns against school board members around the U.S.
+
+Driving the news: Weingarten said her union will defend teachers' right to teach American history — and will aggressively protect any educator accused of violating …]]></summary>
+        <author>
+            <name>Russell Contreras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billionaire battle draws big attention to space coverage]]></title>
+        <id>https://www.axios.com/billionaire-battle-draws-big-attention-to-space-coverage-f18895ec-8821-49ac-bff1-24a4f79013ab.html</id>
+        <link href="https://www.axios.com/billionaire-battle-draws-big-attention-to-space-coverage-f18895ec-8821-49ac-bff1-24a4f79013ab.html"/>
+        <updated>2021-07-10T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Data: Signal AI; Chart: Axios Visuals
+The public's interest in space coverage has exploded leading up to the historic space race between billionaire space entrepreneurs Richard Branson and Jeff Bezos. 
+Why it matters: Bezos and Branson are both hoping to make space tourism a big business, and their billionaire space race is sparking widespread interest in spaceflight that could ultimately translate into future customers.
+
+Catch up quick: Bezos and Branson both plan to make sub-orbital flights this month aboard rockets built by their respective companies.
+
+Branson will make the journey this Sunday. His company, Virgin Galactic, will livestream the trip. 
+Bezos plans to fly to space on July 20. 
+
+By the numbers: Not even halfway through July, mentions of the the term "space race" in U.S. art…]]></summary>
+        <author>
+            <name>Sara Fischer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new wave of global trade: How Alipay connects US businesses with Chinese consumers]]></title>
+        <id>https://www.protocol.com/sponsored-content/the-new-wave-of-global-trade-how-alipay-connects-us-businesses-with-chinese-consumers</id>
+        <link href="https://www.protocol.com/sponsored-content/the-new-wave-of-global-trade-how-alipay-connects-us-businesses-with-chinese-consumers"/>
+        <updated>2021-07-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Douglas Feagin, SVP, Global Strategic Partnerships & Investments, Ant Group
+
+
+On a recent visit to a CVS near his home in Vero Beach, Florida, Douglas Feagin realized he forgot his wallet. It was an old habit, really. Feagin, who is a senior vice president of the China-based fintech company Ant Group, usually spends a great deal of time in Asia, where his phone doubles as his wallet. "I don't ever use my wallet in China. The phone is your payment mechanism," he said. But here, in the United States, he promptly returned home to get his wallet (only Chinese citizens can use the Alipay app to make payments outside of China).
+In fact, China leads most markets in its adoption of mobile payments, and Ant Group owns and operates one of the country's largest e-wallets, Alipay, which has more than …]]></summary>
+        <author>
+            <name>Kate Silver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elektromobilit�t: Angeblich Ladestation-Ausbaupflicht in der EU geplant]]></title>
+        <id>https://www.golem.de/2107/158038-rss.html</id>
+        <link href="https://www.golem.de/news/elektromobilitaet-angeblich-ladestation-ausbaupflicht-in-der-eu-geplant-2107-158038-rss.html"/>
+        <updated>2021-07-10T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[An Schnellstra�en sollen mit maximal 60 Kilometern Abstand Ladestationen f�r Elektroautos als Teil des Fit-for-55-Klimapakets gebaut werden. (Lades�ule, Technologie)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine: Geheimdienst stoppt Mining auf 3.800 Playstation 4]]></title>
+        <id>https://www.golem.de/2107/158037-rss.html</id>
+        <link href="https://www.golem.de/news/ukraine-geheimdienst-stoppt-mining-auf-3-800-playstation-4-2107-158037-rss.html"/>
+        <updated>2021-07-10T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[In der Ukraine ist eine Miningfarm mit 3.800 Playstation 4 aufgeflogen - die gigantische Stromrechnung wurde nicht bezahlt. (Kryptomining, Playstation 4)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daimler stoppt wegen Halbleitermangel Produktion in Sindelfingen]]></title>
+        <id>https://www.heise.de/news/Daimler-stoppt-wegen-Halbleitermangel-Produktion-in-Sindelfingen-6134031.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Daimler-stoppt-wegen-Halbleitermangel-Produktion-in-Sindelfingen-6134031.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Angesichts weltweiter Lieferengpässe von wichtigen elektronischen Bauteilen hat der Autobauer diese Woche erneut Mitarbeiter in die Kurzarbeit geschickt.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bug: iOS 14.7 Beta behebt exotische WLAN-Abschaltung beim iPhone]]></title>
+        <id>https://www.golem.de/2107/158036-rss.html</id>
+        <link href="https://www.golem.de/news/bug-ios-14-7-beta-behebt-exotische-wlan-abschaltung-beim-iphone-2107-158036-rss.html"/>
+        <updated>2021-07-10T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Die f�nfte iOS 14.7 Beta von Apple behebt einen Fehler, durch den bestimmte Netzwerknamen das WLAN des iPhones deaktivierten. (WLAN, Apple)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acrostic Poems About Going Gray in My Thirties]]></title>
+        <id>60dcc66d53829a973266077e</id>
+        <link href="https://www.newyorker.com/humor/daily-shouts/acrostic-poems-about-going-gray-in-my-thirties"/>
+        <updated>2021-07-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cool skunk stripe, like Stacy London’s? That’s not happening with my hair.]]></summary>
+        <author>
+            <name>Kerry Elson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irische Datenschutzbehörde soll in der EU über TikTok wachen]]></title>
+        <id>https://www.heise.de/news/One-Stop-Shop-Irische-Datenschutzbehoerde-soll-in-der-EU-ueber-TikTok-wachen-6134000.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/One-Stop-Shop-Irische-Datenschutzbehoerde-soll-in-der-EU-ueber-TikTok-wachen-6134000.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T09:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Die mit Google, Facebook und Twitter überlastete Data Protection Commission in Irland ist auch für TikTok zuständig, haben die EU-Datenschützer entschieden.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lesetipps: Das Darknet abschalten, Überwachung der Gamer, Cyberpunk]]></title>
+        <id>https://tarnkappe.info/?p=158533</id>
+        <link href="https://tarnkappe.info/lesetipps-das-darknet-abschalten-ueberwachung-der-gamer-cyberpunk/"/>
+        <updated>2021-07-10T09:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Herzlich willkommen zu einer neuen Ausgabe unserer Tarnkappe.info-Lesetipps. Was gibt es im Leben Bedeutsameres, als Fragen und Antworten? Richtig, Erkenntnisse. Ebenso stellen wir uns...
+Zu dem Artikel: Lesetipps: Das Darknet abschalten, Überwachung der Gamer, Cyberpunk
+Tarnkappe.info - Unter dem Radar]]></summary>
+        <author>
+            <name>Sunny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If food makes you feel futuristic, then it is tech]]></title>
+        <id>https://www.protocol.com/fake-meat-is-tech-kinda</id>
+        <link href="https://www.protocol.com/fake-meat-is-tech-kinda"/>
+        <updated>2021-07-10T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[That every company in the world is now "tech," in some form or another, is not a new idea. The Wall Street Journal wrote about this concept back in 2018, and Wired did the same in 2019, and the internet has been asking, "what makes a tech company a tech company?" for even longer. OK, so got it: Everything is tech. 
+But what does that really mean? And if everything is tech, does that mean nothing is tech? That's the type of stuff that keeps us awake at night, and that's why we're launching a weekly column to discuss what, exactly, makes a product a tech product. 
+Up first we've got Impossible Foods, which, according to the company itself and literally everyone who's ever written about it, is tech. But is it really? We asked the newsroom to find out. 
+The following has been lightly edited fo…]]></summary>
+        <author>
+            <name>Protocol Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU soll Behörde für Kampf gegen Geldwäsche bekommen]]></title>
+        <id>https://www.heise.de/news/EU-soll-Behoerde-fuer-Kampf-gegen-Geldwaesche-bekommen-6134010.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/EU-soll-Behoerde-fuer-Kampf-gegen-Geldwaesche-bekommen-6134010.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Die "Anti-Money Laundering Authority" (AMLA) soll Sanktionen verhängen können. Vorschriften für Anbieter von Krypto-Dienstleistungen sollen verschärft werden.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dot Ink programming language]]></title>
+        <id>https://news.ycombinator.com/item?id=27792219</id>
+        <link href="https://dotink.co/"/>
+        <updated>2021-07-10T09:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dotink.co/
+Comments URL: https://news.ycombinator.com/item?id=27792219
+Points: 56
+# Comments: 11]]></summary>
+        <author>
+            <name>galfarragem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaseya & Co: Biden und Putin telefonieren wegen Hackerangriffen]]></title>
+        <id>https://www.golem.de/2107/158035-rss.html</id>
+        <link href="https://www.golem.de/news/kaseya-co-biden-und-putin-telefonieren-wegen-hackerangriffen-2107-158035-rss.html"/>
+        <updated>2021-07-10T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[US-Pr�sident Joe Biden ruft Putin wegen der j�ngsten Ransomware-Angriffe an - und erh�ht den Druck. (Ransomware, Internet)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden fordert von Putin Maßnahmen gegen Hackerangriffe]]></title>
+        <id>https://www.heise.de/news/Biden-fordert-von-Putin-Massnahmen-gegen-Hackerangriffe-6133996.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Biden-fordert-von-Putin-Massnahmen-gegen-Hackerangriffe-6133996.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T09:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Immer häufiger werden Ziele in den USA und anderen Staaten zum Ziel von Hackerangriffen. Die Regierung in Washington sieht Russland in der Verantwortung.​]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt Red: The Witcher 3 erh�lt DLC aus Netflix-Serie]]></title>
+        <id>https://www.golem.de/2107/158034-rss.html</id>
+        <link href="https://www.golem.de/news/cd-projekt-red-the-witcher-3-erhaelt-dlc-aus-netflix-serie-2107-158034-rss.html"/>
+        <updated>2021-07-10T08:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Next-Gen-Version von The Witcher 3 bekommt als Extras Inhalte aus der Netflix-Serie - f�r deren neue Staffel es einen Termin gibt. (The Witcher 3, Rollenspiel)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bunker Talk: Let's Chat About All The Stories We Did And Didn't Cover This Week]]></title>
+        <id>https://www.thedrive.com/the-war-zone/41485/bunker-talk-lets-chat-about-all-the-stories-we-did-and-didnt-cover-this-week-88</id>
+        <link href="https://www.thedrive.com/the-war-zone/41485/bunker-talk-lets-chat-about-all-the-stories-we-did-and-didnt-cover-this-week-88"/>
+        <updated>2021-07-10T08:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Bunker Talk. This is a weekend open discussion post for the best commenting crew on the net, in which we can chat about all the stuff that went on this week that we didn't cover. We can also talk about the stuff we did or whatever else grabs your interest. In other words, […]]]></summary>
+        <author>
+            <name>Tyler Rogoway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEGO Ninjago Blue Ocean]]></title>
+        <id>https://de.downmagaz.net/comics_magazine_deutsch/76413-lego-ninjago-blue-ocean.html</id>
+        <link href="https://de.downmagaz.net/comics_magazine_deutsch/76413-lego-ninjago-blue-ocean.html"/>
+        <updated>2021-07-10T08:12:56.000Z</updated>
+        <summary type="html"><![CDATA[LEGO Ninjago Blue OceanDeutsch | 30 seiten | PDF | 88.1 MB https://novafile.com/opkqzucazgod https://turb.cc/vpich2nszimh.html]]></summary>
+        <author>
+            <name>Abarita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fleisch im 19. und 20. Jahrhundert – Ein Längsschnitt in Thesen]]></title>
+        <id>http://uwe-spiekermann.com/?p=19228</id>
+        <link href="https://uwe-spiekermann.com/2021/07/10/fleisch-im-19-und-20-jahrhundert-ein-langsschnitt-in-thesen/"/>
+        <updated>2021-07-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[„Zerstörend ist des Lebens Lauf, / Stets frißt ein Tier das andre auf. / Es nährt vom Tode sich das Leben, / Und dies muß jenem Nahrung geben. / Ein ewig Werden und Vergehn, / Wie sich im Kreis die … Weiterlesen →]]></summary>
+        <author>
+            <name>Uwe Spiekermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glücksmomente in der Natur: Die Bilder der Woche (KW27)]]></title>
+        <id>https://www.heise.de/news/Gluecksmomente-in-der-Natur-Die-Bilder-der-Woche-KW27-6123058.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Gluecksmomente-in-der-Natur-Die-Bilder-der-Woche-KW27-6123058.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Einzigartige Bilder entstehen oft spontan, indem der Fotograf die Gelegenheit ergreift. In dieser Woche entdecken Sie Glücksmomente verschiedener Fotogenres.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Truth, Polarization, and the Nature of Our Beliefs]]></title>
+        <id>https://quillette.com/?p=110742</id>
+        <link href="https://quillette.com/2021/07/10/truth-polarization-and-the-nature-of-our-beliefs/"/>
+        <updated>2021-07-10T07:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Like other Americans, I’m depressed by the growing level of political partisanship. There seem to be a lot more people with extreme beliefs yelling at us. The ends of the belief spectrum are engorged, the center hollowed out. It’s frequently alleged that extremists don’t care about truth, that they don’t even believe there’s a distinction between truth and falsehood. But that’s an unhelpful, and philosophically suspect, way of stating what’s wrong with extremism. Most of us think of philosophy as an arcane subject remote from our day-to-day concerns, the playground of navel gazers and other impractical people. But philosophy has a good deal to say about the nature of our beliefs, why some beliefs seem true and others false, why we find it so difficult to convince people to give up deeply held beliefs, and the real problem with extremism. Beliefs as rules of action From René Descartes in the 17th century through Immanuel Kant in the early 19th, philosophers tended to think of beliefs as pictures in the mind; if you believe it’s raining, …]]></summary>
+        <author>
+            <name>Howard Darmstadter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wochenr�ckblick: 7,99 Euro f�r Werbung]]></title>
+        <id>https://www.golem.de/2107/158013-rss.html</id>
+        <link href="https://www.golem.de/news/wochenrueckblick-7-99-euro-fuer-werbung-2107-158013-rss.html"/>
+        <updated>2021-07-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendos Switch bekommt ein neues Display und Amazon Prime bekommt mehr Werbung. Die Woche im Video. (Golem-Wochenr�ckblick, Amazon)]]></summary>
+        <author>
+            <name>Golem.de</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kochen & Genießen - 2020 Jahrgang]]></title>
+        <id>https://de.downmagaz.net/food_magazine_deutsch/76410-kochen-amp-geniessen-2020-jahrgang.html</id>
+        <link href="https://de.downmagaz.net/food_magazine_deutsch/76410-kochen-amp-geniessen-2020-jahrgang.html"/>
+        <updated>2021-07-10T06:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Kochen & Genießen - 2020 Jahrgang12 ausgabe | True PDF/PDF | 438.5 MB zipkochen & genießen ist das Journal für alle, die Gutes zu schätzen wissen, die auf gesunde Ernährung Wert legen, genießen können, gern Neues ausprobieren und am liebsten in netter Runde essen. Kurz: für Menschen, die]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kochen & Genießen - 2019 Jahrgang]]></title>
+        <id>https://de.downmagaz.net/food_magazine_deutsch/76409-kochen-amp-geniessen-2019-jahrgang.html</id>
+        <link href="https://de.downmagaz.net/food_magazine_deutsch/76409-kochen-amp-geniessen-2019-jahrgang.html"/>
+        <updated>2021-07-10T06:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Kochen & Genießen - 2019 Jahrgang12 ausgabe | True PDF/PDF | 512.3 MB zipkochen & genießen ist das Journal für alle, die Gutes zu schätzen wissen, die auf gesunde Ernährung Wert legen, genießen können, gern Neues ausprobieren und am liebsten in netter Runde essen. Kurz: für Menschen, die]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kochen & Genießen - 2018 Jahrgang]]></title>
+        <id>https://de.downmagaz.net/food_magazine_deutsch/76408-kochen-amp-geniessen-2018-jahrgang.html</id>
+        <link href="https://de.downmagaz.net/food_magazine_deutsch/76408-kochen-amp-geniessen-2018-jahrgang.html"/>
+        <updated>2021-07-10T06:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Kochen & Genießen - 2018 Jahrgang12 ausgabe | PDF | 729.6 MB zipkochen & genießen ist das Journal für alle, die Gutes zu schätzen wissen, die auf gesunde Ernährung Wert legen, genießen können, gern Neues ausprobieren und am liebsten in netter Runde essen. Kurz: für Menschen, die dem Leben]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kochen & Genießen - 2016 Jahrgang]]></title>
+        <id>https://de.downmagaz.net/food_magazine_deutsch/76407-kochen-amp-geniessen-2016-jahrgang.html</id>
+        <link href="https://de.downmagaz.net/food_magazine_deutsch/76407-kochen-amp-geniessen-2016-jahrgang.html"/>
+        <updated>2021-07-10T06:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Kochen & Genießen - 2016 Jahrgang8*ausgabe | PDF | 395.6 MB zipkochen & genießen ist das Journal für alle, die Gutes zu schätzen wissen, die auf gesunde Ernährung Wert legen, genießen können, gern Neues ausprobieren und am liebsten in netter Runde essen. Kurz: für Menschen, die dem Leben]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Focus - 10.07.21]]></title>
+        <id>https://de.downmagaz.net/business_magazine_economics_deutsch/76406-focus-100721.html</id>
+        <link href="https://de.downmagaz.net/business_magazine_economics_deutsch/76406-focus-100721.html"/>
+        <updated>2021-07-10T06:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Focus - 10. Juli 2021Deutsch | 116 Seiten | True PDF | 31.2 MBFocus bringt Fakten aus der Wirtschafts- und Finanzwelt kurz und prägnant auf den Punkt und bietet seinen Lesern das vielfältige Themenspektrum eines modernen Wirtschaftsmagazins. https://novafile.com/8qc2go80jm0h]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servus in Bayern - 06.2021]]></title>
+        <id>https://de.downmagaz.net/family_magazine_deutsch/76405-servus-in-bayern-062021.html</id>
+        <link href="https://de.downmagaz.net/family_magazine_deutsch/76405-servus-in-bayern-062021.html"/>
+        <updated>2021-07-10T06:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Servus in Bayern - Juni 2021Deutsch | 140 Seiten | True PDF | 23.4 MB https://novafile.com/5sp93tdnk1hy https://turb.cc/qwv2jas6g57v.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highway Magazin - 07/08.2021]]></title>
+        <id>https://de.downmagaz.net/adult_magazine_deutsch/76404-highway-magazin-07-082021.html</id>
+        <link href="https://de.downmagaz.net/adult_magazine_deutsch/76404-highway-magazin-07-082021.html"/>
+        <updated>2021-07-10T06:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Highway Magazin - Juli/August 2021Deutsch | 60 Seiten | True PDF | 16.5. MB https://novafile.com/f7q1csh8yrpi https://turb.cc/qx2kccg741ez.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okey - 07/08.2021]]></title>
+        <id>https://de.downmagaz.net/music_magazine_deutsch/76403-okey-07-082021.html</id>
+        <link href="https://de.downmagaz.net/music_magazine_deutsch/76403-okey-07-082021.html"/>
+        <updated>2021-07-10T06:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Okey - Juli/August 2021Deutsch | 84 Seiten | True PDF | 23.3 MBAlle zwei Monate bietet OKEY eine Vielzahl interessanter Reportagen aus der Tastenszene, Workshops, Testberichte der neuesten Tasteninstrumente, Lautsprecher, Musiksoftware-Programme und weiterer Zubehör-Produkte sowie spezielle]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land & Berge - 07/08.2021]]></title>
+        <id>https://de.downmagaz.net/hobbies_leisure_magazine_deutsch/76402-land-amp-berge-07-082021.html</id>
+        <link href="https://de.downmagaz.net/hobbies_leisure_magazine_deutsch/76402-land-amp-berge-07-082021.html"/>
+        <updated>2021-07-10T06:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Land & Berge - Juli/August 2021Deutsch | 116 Seiten | True PDF | 72.2 MBLand & Berge - die schönsten seiten der Natur Land & Berge ist die neue Zeitschrift für alle Menschen, die gerne in der Natur unterwegs sind, die das Landleben und die Berge lieben. Sachkundig, mit einer]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Küche + Architektur - Nr.3 2021]]></title>
+        <id>https://de.downmagaz.net/architecture_magazine_bulding_deutsch/76401-kuche-architektur-nr3-2021.html</id>
+        <link href="https://de.downmagaz.net/architecture_magazine_bulding_deutsch/76401-kuche-architektur-nr3-2021.html"/>
+        <updated>2021-07-10T06:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Küche + Architektur - Nr.3 2021Deutsch | 68 Seiten | True PDF | 12.8 MBArchitektur + Küche im Einzelheft ist das Magazin für Endverbraucher. Alles rund um modernes Küchendesign. https://novafile.com/rbqdje6897lr https://turb.cc/ma7wuwo77334.html]]></summary>
+        <author>
+            <name>kis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heise+ | Mining-Guide zum Geldverdienen per Prozessor: Wann sich Monero-Schürfen lohnt]]></title>
+        <id>https://www.heise.de/ratgeber/Mining-Guide-zum-Geldverdienen-per-Prozessor-Wann-sich-Monero-Schuerfen-lohnt-5991303.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus</id>
+        <link href="https://www.heise.de/ratgeber/Mining-Guide-zum-Geldverdienen-per-Prozessor-Wann-sich-Monero-Schuerfen-lohnt-5991303.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"/>
+        <updated>2021-07-10T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Kryptowährung Monero lässt sich mit gängigen CPUs auch am heimischen PC errechnen. Der Einstieg ist simpel, doch zahlt sich der Energieeinsatz aus?]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of Informationsfreiheit: Ein Leak von großem Interesse]]></title>
+        <id>https://www.heise.de/meinung/Best-of-Informationsfreiheit-Corona-Krisen-Zwischenstand-aus-Dokumentensicht-6132339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/meinung/Best-of-Informationsfreiheit-Corona-Krisen-Zwischenstand-aus-Dokumentensicht-6132339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T06:03:00.000Z</updated>
+        <summary type="html"><![CDATA["Wie wir Covid-19 unter Kontrolle bekommen". Der Leak eines Strategiepapiers und die Folgen: großes Interesse – vor allem bei lauten Corona-Schwurblern.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zloader nutzt neue Infektionstechnik um Entdeckung zu entgehen]]></title>
+        <id>https://tarnkappe.info/?p=158359</id>
+        <link href="https://tarnkappe.info/zloader-nutzt-neue-infektionstechnik-um-entdeckung-zu-entgehen/"/>
+        <updated>2021-07-10T06:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Malware nutzt immer wieder gerne Microsoft Office-Dokumente, um unbedarfte Nutzer zu infizieren. Neben Social Engineering werden verschiedenste Taktiken zur Verschleierung bzw. Obfuscation der Schadsoftware...
+Zu dem Artikel: Zloader nutzt neue Infektionstechnik um Entdeckung zu entgehen
+Tarnkappe.info - Unter dem Radar]]></summary>
+        <author>
+            <name>honeybee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biden Executive Order on promoting competition]]></title>
+        <id>https://marginalrevolution.com/?p=81474</id>
+        <link href="https://feeds.feedblitz.com/~/657162586/0/marginalrevolution~The-Biden-Executive-Order-on-promoting-competition.html"/>
+        <updated>2021-07-10T05:29:26.000Z</updated>
+        <summary type="html"><![CDATA[Here is the text, I won’t attempt a summary but here are some running comments: 1. The beginning of the piece suggests that concentration is rising in the American economy.  But this probably isn’t true.  See also these comments by me. 2. Industry concentration has not driven wages down by “as much as 17%” — […]
+
+The post The Biden Executive Order on promoting competition appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to DV.   When are you going to learn that you cannot ... by Tyler Cowen
+In reply to Bill.   Go to the FTC symposium cited above to see ... by Bill
+In reply to steve.   Try suggesting at your school board ... by Larry Siegel
+In reply to JWatts.   Yea, but NBA doesn't tell ESPN not to ... by Grad Student
+In reply to Aaronn.   Someone I know moving to a small town in ... by PHinton
+Plus 10 more...
+
+Related Stories
+
+Tabarrok on RADVAC, the DIY Vaccine
+Stripe Atlas update
+In which ways are Democratic economists Democrats? (or not)]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spanish Sketches]]></title>
+        <id>https://news.ycombinator.com/item?id=27791146</id>
+        <link href="https://drb.ie/articles/anarchism-spanish-sketches/"/>
+        <updated>2021-07-10T04:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://drb.ie/articles/anarchism-spanish-sketches/
+Comments URL: https://news.ycombinator.com/item?id=27791146
+Points: 27
+# Comments: 8]]></summary>
+        <author>
+            <name>tintinnabula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini-PCs, Displays, Netztechnik: Günstige Homeoffice-Upgrades | c't uplink 38.7]]></title>
+        <id>https://www.heise.de/news/Mini-PCs-Displays-Netztechnik-Guenstige-Homeoffice-Upgrades-c-t-uplink-38-7-6057338.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</id>
+        <link href="https://www.heise.de/news/Mini-PCs-Displays-Netztechnik-Guenstige-Homeoffice-Upgrades-c-t-uplink-38-7-6057338.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"/>
+        <updated>2021-07-10T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Vorspann: Raus aus dem Provisorium! Wir geben Tipps, wie ihr mit wenig Geld euer Homeoffice aufrüstet und eine stabile Internetverbindung herstellt.]]></summary>
+        <author>
+            <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INTERVIEW - Chefunterhändler der OECD: «Oh, ich liebe die Schweiz. Aber man kann nicht immer die eigene Souveränität betonen und gleichzeitig den anderen Ländern ihre souveränen Rechte verweigern»]]></title>
+        <id>https://www.nzz.ch/wirtschaft/pascal-saint-amans-oecd-dem-steuerwettbewerb-grenzen-setzen-ld.1634695</id>
+        <link href="https://www.nzz.ch/wirtschaft/pascal-saint-amans-oecd-dem-steuerwettbewerb-grenzen-setzen-ld.1634695"/>
+        <updated>2021-07-10T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Um die Mittelklasse mit der Globalisierung zu versöhnen, brauche es eine Mindeststeuer und eine gewisse Umverteilung von Steuereinnahmen, sagt Pascal Saint-Amans. Der Franzose ist ein Architekt der Steuerharmonisierung, die die Schweiz und die G-20 gerade stark beschäftigt.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOMMENTAR - Die Eisenbahn dient dem Klimaschutz – doch an der Börse können Alstom und Stadler davon noch nicht profitieren]]></title>
+        <id>https://www.nzz.ch/wirtschaft/klimaschutz-noch-kein-bonus-fuer-alstom-und-stadler-rail-ld.1634808</id>
+        <link href="https://www.nzz.ch/wirtschaft/klimaschutz-noch-kein-bonus-fuer-alstom-und-stadler-rail-ld.1634808"/>
+        <updated>2021-07-10T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Aktien der beiden Schienenfahrzeughersteller Alstom und Stadler Rail stehen unter Druck. Anleger scheinen zurzeit operative Herausforderungen in der Führung dieser Firmen stärker zu gewichten als deren Beitrag zum Klimaschutz.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s Crypto Projects Plot Their Next Move: Stay or Flee]]></title>
+        <id>https://decrypt.co/?p=75622</id>
+        <link href="https://decrypt.co/75622/chinas-crypto-projects-plot-their-plan-b"/>
+        <updated>2021-07-10T03:01:14.000Z</updated>
+        <summary type="html"><![CDATA[To leave or not to leave—that's the question for China’s crypto startups. Many are choosing to go underground and wait out the current crackdown.]]></summary>
+        <author>
+            <name>Shuyao Kong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeus, Pensive]]></title>
+        <id>https://whatever.scalzi.com/?p=39887</id>
+        <link href="https://whatever.scalzi.com/2021/07/09/zeus-pensive/"/>
+        <updated>2021-07-10T01:50:49.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot going on in that head of his. You know, relatively speaking. For a cat. And though he’s getting up there in years, he’s still a pretty darn handsome dude. Onward to the weekend — JS]]></summary>
+        <author>
+            <name>John Scalzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeus, Pensive]]></title>
+        <id>https://whatever.scalzi.com/?p=39887</id>
+        <link href="https://whatever.scalzi.com/2021/07/09/zeus-pensive/"/>
+        <updated>2021-07-10T01:50:49.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot going on in that head of his. You know, relatively speaking. For a cat. And though he’s getting up there in years, he’s still a pretty darn handsome dude. Onward to the weekend — JS]]></summary>
+        <author>
+            <name>John Scalzi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Behold The Awesomeness Of This Black A-10 Warthog]]></title>
         <id>https://www.thedrive.com/the-war-zone/41483/behold-the-awesomeness-of-this-black-a-10-warthog</id>
@@ -1371,6 +3496,16 @@ Go deeper: Biden's major border shake-up]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DIE NEUSTEN ENTWICKLUNGEN - Handelsstreit USA-China: Washington verhängt Massnahmen gegen Unternehmen in China]]></title>
+        <id>https://www.nzz.ch/wirtschaft/usa-gegen-china-die-wichtigsten-antworten-zum-handelsstreit-ld.1528336</id>
+        <link href="https://www.nzz.ch/wirtschaft/usa-gegen-china-die-wichtigsten-antworten-zum-handelsstreit-ld.1528336"/>
+        <updated>2021-07-09T15:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Mit dem neuen US-Präsidenten Joe Biden wird einiges anders – aber nicht alles. Gegenüber China will auch Biden Stärke zeigen. Anders als sein Vorgänger Trump will er aber die Partnerstaaten mit ins Boot holen.]]></summary>
+        <author>
+            <name>Wirtschaft – News, Hintergründe und Analysen | NZZ Nachrichten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Army chaplain facing court martial over more than a dozen sexual assault charges]]></title>
         <id>https://taskandpurpose.com/?p=231619</id>
         <link href="https://taskandpurpose.com/news/army-chaplain-leonard-wood-child-sexual-assault/"/>
@@ -1450,6 +3585,18 @@ The post Army chaplain facing court martial over more than a dozen sexual assaul
         <summary type="html"><![CDATA[Das Ebit vor Sondereinflüssen hat sich im zweiten Quartal verzehnfacht. Seine Prognose für 2021 hat der Chemieriese abermals angehoben.]]></summary>
         <author>
             <name>Handelsblatt Online - Wirtschaft - Politik, Unternehmen und Finanzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humans Are One Mixed-Up Ape - Facts So Romantic]]></title>
+        <id>http://nautil.us/blog/humans-are-one-mixed_up-ape?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</id>
+        <link href="http://nautil.us/blog/humans-are-one-mixed_up-ape?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication"/>
+        <updated>2021-07-09T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[If you look at every ape protein, they have every bone we have, every muscle we have, the same type of hair, and on and on. They’re just better adapted to their tropical rainforest environment.Illustration by BRO.vector / Shutterstock
+Recent fossilized bone discoveries in China and Israel support the exciting possibility of new, previously unknown species of archaic humans that wandered the planet alongside Homo sapiens. These discoveries pose new questions regarding the nature of our interaction with other archaic human species.
+Todd Disotell, a biological anthropologist and molecular primatologist at the University of Massachusetts Amherst, has headed research on primate genome sequencing, which at first concluded Homo sapiens didn’t interbreed with other species of early humans. But his…]]></summary>
+        <author>
+            <name>Phil Jaekl</name>
         </author>
     </entry>
     <entry>
@@ -1962,6 +4109,19 @@ The order, which the White House says will include "72 initiatives by more than 
 It calls on the FTC, in particular, to establish new rules governing data collection by big tech companies, as well as rules "barring unfair methods of competition on internet marketplaces." …]]></summary>
         <author>
             <name>Issie Lapowsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A History of Clojure [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=27782864</id>
+        <link href="https://www.pldi21.org/prerecorded_hopl.11.html"/>
+        <updated>2021-07-09T12:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pldi21.org/prerecorded_hopl.11.html
+Comments URL: https://news.ycombinator.com/item?id=27782864
+Points: 68
+# Comments: 4]]></summary>
+        <author>
+            <name>lukashrb</name>
         </author>
     </entry>
     <entry>
@@ -8394,6 +10554,17 @@ Such a design would allow Ubisoft to make "Assassin's Creed" pa…]]></summary>
         <summary type="html"><![CDATA[The COVID-19 pandemic has engendered unprecedented drastic and costly measures to obviate the threat. Will something similar happen in relation to global heating? No, this is not likely. Mainly this has to do with a difference in the nature of collective action. Nation states protect their respective populations against the virus. With regard to global heating, we are facing the tragedy of the commons. No global government assumes responsibility for our common future. However, there may be another and further explanation lurking behind political inaction: many people, including our politicians, think that it does not matter if humanity goes extinct. It does matter, however. Strangely enough, the view that it matters is questioned by many important philosophers in the past and in the present, and it is hence controversial. Yet, it should be our common-sense stance to the problem. It is of the utmost importance that there will be sentient happy life on the globe for an indefinite time. Theoretically speaking, in order to recognize this, we need to accept some “total” view, implying what has been called the repugnant conclusion. Practically speaking, we should go to great length to rescue our human civilisation, even if this means that, for a while, we must endure all sorts of hardships such as a global enlightened despotism, or worse—a situation of life boat ethics.]]></summary>
         <author>
             <name>Torbjörn Tännsjö</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Most-Read Articles (so far) of 2021]]></title>
+        <id>https://orionmagazine.org/?p=218707</id>
+        <link href="https://orionmagazine.org/2021/07/top-10-most-read-orion-articles-this-year/"/>
+        <updated>2021-07-07T19:26:22.000Z</updated>
+        <summary type="html"><![CDATA[NOW THAT WE’VE successfully shuffled into the second half of the year, here’s a look at our ten most-viewed Orion features so far in 2021, published within the last year. ...
+The post Top 10 Most-Read Articles (so far) of 2021 appeared first on Orion Magazine.]]></summary>
+        <author>
+            <name>Nick Triolo</name>
         </author>
     </entry>
     <entry>
@@ -18334,6 +20505,17 @@ In der Juli-Ausgabe zeigen die Journalisten Nick Reimer und Toralf Staud, wie de
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Poetry for Pride: Ten Essential Collections]]></title>
+        <id>https://orionmagazine.org/?p=217409</id>
+        <link href="https://orionmagazine.org/2021/06/pride-poetry/"/>
+        <updated>2021-06-23T15:17:03.000Z</updated>
+        <summary type="html"><![CDATA[ORION‘S poetry editor Camille Dungy returns for Pride Month to recommend five essential voices from the LBGTQIA+ community for Orion readers. In addition, a handful of established poets offer some of ...
+The post Poetry for Pride: Ten Essential Collections appeared first on Orion Magazine.]]></summary>
+        <author>
+            <name>Nick Triolo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Le taux d'abstention témoigne d'un profond scepticisme à l'égard du système politique]]></title>
         <id>https://www.monde-diplomatique.fr/1976/11/TOINET/33974</id>
         <link href="https://www.monde-diplomatique.fr/1976/11/TOINET/33974"/>
@@ -20088,228 +22270,6 @@ The persistence of the drought makes this a "mega drought" that could last decad
         <summary type="html"><![CDATA[The El Salvador Bitcoin scheme is a barely-planned smash-and-grab.]]></summary>
         <author>
             <name>David Gerard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weeknote 23/2021]]></title>
-        <id>https://dougbelshaw.com/blog/?p=45590</id>
-        <link href="https://dougbelshaw.com/blog/2021/06/11/weeknote-23-2021/"/>
-        <updated>2021-06-11T18:06:19.000Z</updated>
-        <summary type="html"><![CDATA[What I've been up to this week.
-Weeknote 23/2021 first appeared on Open Thinkering.]]></summary>
-        <author>
-            <name>Doug Belshaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whither the Fed]]></title>
-        <id>https://johnhcochrane.blogspot.com/2021/06/whither-fed.html</id>
-        <link href="https://johnhcochrane.blogspot.com/2021/06/whither-fed.html"/>
-        <updated>2021-06-11T18:03:00.001Z</updated>
-        <summary type="html"><![CDATA[I gave the UCSD economic roundtable lecture Friday June 11 on inflation and the future of the Fed. It summarizes quickly a number of themes from previous Grumpy writings, and if you enjoy videos you might find it fun. Youtube link in case the above embed does not work. 
-I happened on the New York Fed website, proclaiming on its landing page that it is now
-
-"...dedicated to understanding and finding solutions to the numerous forms of inequality that communities of color experience and working with communities in our District to address deep-seated inequities," 
-
-in case you want documentation that the Federal Reserve is taking on inequality and racial issues. 
-Slides available here.]]></summary>
-        <author>
-            <name>The Grumpy Economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ungelöst: Das verschlüsselte Telegramm eines US-Politikers an die Rothschild-Bank]]></title>
-        <id>https://scienceblogs.de/klausis-krypto-kolumne/?p=24338</id>
-        <link href="https://scienceblogs.de/klausis-krypto-kolumne/2021/06/11/ungeloest-das-verschluesselte-telegramm-eines-us-politikers-an-die-rothschild-bank/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ungeloest-das-verschluesselte-telegramm-eines-us-politikers-an-die-rothschild-bank"/>
-        <updated>2021-06-11T14:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Im Jahr 1879 schickte der US-Vize-Finanzminister ein verschlüsseltes Telegramm an die Rothschild-Bank in London. Kann ein Leser dieses dechiffrieren? English version (translated with DeepL) Bei meinen Streifzügen durch das Internet bin ich mal wieder auf ein interessantes Dokument gestoßen. Über den Suchbegriff “Coded Message” bei Google landete ich auf eBay, wo ein verschlüsseltes Telegramm zum…]]></summary>
-        <author>
-            <name>Klaus Schmeh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franz Sternbald: Ausgesetzt zur Existenz]]></title>
-        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/franz-sternbald-ausgesetzt-zur-existenz-6469.html</id>
-        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/franz-sternbald-ausgesetzt-zur-existenz-6469.html"/>
-        <updated>2021-06-11T12:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Zu welchem Zweck behaupten wir ein subjektives Ego, und worin besteht ein objektiv legitmierender Sinn für die Forderung nach Anerkennung eines unbezähmbaren Geistes der uneingeschränkten Subjektivität. (J.J. Rousseau, Bekenntnisse)
-
-Bild: jurvetson (CC BY 2.0 cropped)
-Eine exponentiell steigende Verdichtung von digitalen Speichern bei schnellerem Zugriff, hat die erforderliche Raum- und Energie- und vorallem Zeitersparnis erbracht, die die Voraussetzung für den Bau von intelligenten Netzwerken absehbar auch praktisch mit Bewusstseinspotential möglich macht. 
- Mit Hilfe der Nano-Technologie wird es künftig möglich sein, zelluläre digitale Automaten (Naniten) zu erzeugen, und mit dem quasi ‚lebendigen’ Potential der Eigen-Reproduktivität auf der Molekularebene der Genetik auszustatten, soda…]]></summary>
-        <author>
-            <name>Untergrund-Blättle - Aktuelle Artikel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanft und entschlossen gegen die Staatsgewalt]]></title>
-        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-wald-a49-prozess-gegen-aktivistin-6470.html</id>
-        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/deutschland/dannenroeder-wald-a49-prozess-gegen-aktivistin-6470.html"/>
-        <updated>2021-06-11T10:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Nach sechsmonatiger Beugehaft startete der Prozess gegen die Aktivistin "Ella" vor dem Alsfelder Landgericht. Wir veröffentlichen hier eine längere Passage des Statements der Frau, deren Identität weiterhin unbekannt ist.
-
-Bild: Gebäude des Amtsgerichts Alsfeld, Landgraf-Hermann-Strasse 1 in Alsfeld. / Bubo (CC BY-SA 3.0 cropped)
-Der Gerichtssaal ist voll mit Kameras, Sat 1, HR, ZDF, verschiedene Sender sind vertreten. Als die junge Aktivistin den Gerichtssaal betritt, ruft eine Besucherin: „Klimaschutz ist kein Verbrechen!“. Später ist in den Medien dazu nichts zu hören. 
- Wenn man der Anklage der Staatsanwältin zuhört, hat man das Gefühl, man habe es mit einer Schwerverbrecherin zu tun. Auf 15 m Höhe soll die kleine Person zwei SEK-Beamten schwere Körperverletzung zugefügt haben. Sie sel…]]></summary>
-        <author>
-            <name>Untergrund-Blättle - Aktuelle Artikel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johannes Bellermann: Gramscis politisches Denken. Eine Einführung.]]></title>
-        <id>https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/johannes-bellermann-gramscis-politisches-denken-eine-einfuehrung-6478.html</id>
-        <link href="https://www.xn--untergrund-blttle-2qb.ch/buchrezensionen/sachliteratur/johannes-bellermann-gramscis-politisches-denken-eine-einfuehrung-6478.html"/>
-        <updated>2021-06-11T09:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Beim Schmetterling Verlag ist ein neuer Einführungsband von Johannes Bellermann zum Denken des kommunistischen Theoretikers Antonio Gramscis erschienen.
-
-Bild: Notizbücher von Antonio Gramsci, circa 1930. / Gramsci (PD)
-Eine gelungene Annäherung für jene, die anfangen wollen, sich mit seinen Überlegungen zu beschäftigen. Ein „Wegweiser für alle, die Gramscis bedeutendes Werk wirklich verstehen möchten“, wie es im Klappentext heisst. Aber eben auch nicht mehr. 
- Ich kenne den Autoren Johannes Bellermann nicht. Wenn ich nun etwas über ihn sagen könnte, ist es, dass er seinen Gramsci gelesen hat. Ihm gelingt eine fundierte Einführung in das verworrene, fragmentarische Werk eines der bedeutendsten kommunistischen Vordenker, der seine Innovationsfähigkeit daraus zog, zwischen unkonventionellen …]]></summary>
-        <author>
-            <name>Untergrund-Blättle - Aktuelle Artikel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Green Capital - Importance, Goals and Drivers]]></title>
-        <id>https://renewableplus.blogspot.com/2021/06/green-capital-importance-goals-and.html</id>
-        <link href="https://renewableplus.blogspot.com/2021/06/green-capital-importance-goals-and.html"/>
-        <updated>2021-06-11T05:07:00.002Z</updated>
-        <summary type="html"><![CDATA[What is Green Capital?
-
- Many believe economic growth is incompatible with ecological preservation. Green Capital challenges this argument by shifting our focus away from the scarcity of raw materials and toward the deterioration of the great natural regulatory functions (such as the climate system, the water cycle, and biodiversity).
-
-Although we can find substitutes for scarce natural resources, we cannot replace a natural regulatory system, which is incredibly complex. It is therefore critical that we introduce a new price into the economy that measures the costs of damage to these regulatory functions. This change in perspective justifies such innovations as the carbon tax, which addresses not the scarcity of carbon but the inability of the atmosphere to absorb large amounts of carbon …]]></summary>
-        <author>
-            <name>Market Solutions to Our Energy Needs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The end of "the end of inflation"]]></title>
-        <id>https://johnhcochrane.blogspot.com/2021/06/the-end-of-end-of-inflation.html</id>
-        <link href="https://johnhcochrane.blogspot.com/2021/06/the-end-of-end-of-inflation.html"/>
-        <updated>2021-06-10T21:44:00.005Z</updated>
-        <summary type="html"><![CDATA[This spring's spurt of inflation clearly already means one thing: The end of "the end of inflation." 
-For 25 years inflation has seemed stuck on a downward trend. Those of us who worry about it seemed like end-of-the-world sign-holders that couldn't leave the 1970s behind. It's hard to buck the trend. A famous economist advised me to give up studying inflation -- inflation is 2%, he said, that's all you need to know. Apparently a new constant of nature. 
-Well, apparently not. Inflation can happen, and there is an economics of inflation. Right now it's pretty obvious -- supply constraints both natural and artificial, coupled with rampant demand. 
-Nobody is really sure where it will go. See the IGM survey for a good indication of how wide sensible consensus is on the issue. Maybe these are j…]]></summary>
-        <author>
-            <name>The Grumpy Economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why won't banks take your money?]]></title>
-        <id>https://johnhcochrane.blogspot.com/2021/06/why-wont-banks-take-your-money.html</id>
-        <link href="https://johnhcochrane.blogspot.com/2021/06/why-wont-banks-take-your-money.html"/>
-        <updated>2021-06-10T17:46:00.005Z</updated>
-        <summary type="html"><![CDATA[Banks to Companies: No More Deposits, Please, says the puzzling headline at WSJ. 
-Why would bankers not want to take any amount of deposits, park them in reserves at the Fed or short term Treasury bills, charge fees and a slight interest spread, and sign up for an early tee-time at the local golf club? Sure "net interest margin" or other metrics might not look good, but money is money and more money is more money. 
-The answer: 
-
-Top of mind for many big banks is a rule requiring them to hold [sic] capital equivalent to at least 3% of all assets. Worried about the rule’s impact during the pandemic, the Fed changed the calculation in 2020 to ignore deposits the banks held at the central bank, but ended that break this March. Since then, some banks have warned the growing deposits could force…]]></summary>
-        <author>
-            <name>The Grumpy Economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Guilt]]></title>
-        <id>https://www.scottaaronson.com/blog/?p=5542</id>
-        <link href="https://www.scottaaronson.com/blog/?p=5542"/>
-        <updated>2021-06-10T17:38:24.000Z</updated>
-        <summary type="html"><![CDATA[The other night Dana and I watched “The Internet’s Own Boy,” the 2014 documentary about the life and work of Aaron Swartz, which I’d somehow missed when it came out. Swartz, for anyone who doesn’t remember, was the child prodigy who helped create RSS and Reddit, who then became a campaigner for an open Internet, […]]]></summary>
-        <author>
-            <name>Scott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock Stamps - Update]]></title>
-        <id>tag:blogger.com,1999:blog-3218389485258956159.post-5429758672253475628</id>
-        <link href="https://philaquelymoi.blogspot.com/2021/06/flock-stamps-update.html"/>
-        <updated>2021-06-10T17:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Category - Touch
-Subcategory - Flock Stamps
-Monaco 2014 Fight Aids Flock Stamp
-
-
-
-
-
-Issue date 06 November 2014
-Monaco Post to support the Cause for the Fight Aids has issued a special stamp with flock printing on the heart silhouette of the Stamp
-To view other stamps in this category click on the following link -
-Flock Stamps 
-Disclaimer - Information about the stamp issues on this page has been taken from the net and are for informational purposes only. No copyright claim is made for the above mentioned. The picture is scanned from my collection.]]></summary>
-        <author>
-            <name>noreply@blogger.com (kcsquare)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Big is Tether?]]></title>
-        <id>http://bennettftomlin.com/?p=2997</id>
-        <link href="https://bennettftomlin.com/2021/06/10/how-big-is-tether/"/>
-        <updated>2021-06-10T16:32:21.000Z</updated>
-        <summary type="html"><![CDATA[I have been following Tether for about three and a half years and still I struggle to really grasp how large it is. It is so absurdly large that it has started warping my perception of other huge amounts of money. I hear a million dollar fraud now and my first thought is “that’s it”, … Continue reading How Big is Tether?]]></summary>
-        <author>
-            <name>Bennett Tomlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three inflations]]></title>
-        <id>https://johnhcochrane.blogspot.com/2021/06/three-inflations.html</id>
-        <link href="https://johnhcochrane.blogspot.com/2021/06/three-inflations.html"/>
-        <updated>2021-06-10T15:31:00.001Z</updated>
-        <summary type="html"><![CDATA[The latest inflation numbers are out, up 0.64% from April to May (7.7% annualized), on top of 0.77% (9.2% annualized) from March to April. . To get around the base controversy, I like to plot the level of the CPI: 
-
-
-The graph suggests that  "reflation" from the pandemic recession was over last year, we had been back to the usual growth, and now we're embarked on something new. 
-Inflation is not the same everywhere. For another purpose I broke inflation down to durable goods and services. 
-
-
-Until about 1985, the three categories moved together. After that we saw a sharp divergence. Inflation depends on what you buy. Services got much more expensive, while durable goods actually saw deflation. The forces are familiar. The rise in skill premium has meant that people got more expensive, and …]]></summary>
-        <author>
-            <name>The Grumpy Economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will empty shopfronts revive as New York comes back to life?]]></title>
-        <id>/content/snhhm44h5asp9rvdj8390pdae7kqa7c3</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/06/10/will-empty-shopfronts-revive-as-new-york-comes-back-to-life"/>
-        <updated>2021-06-10T14:44:58.000Z</updated>
-        <summary type="html"><![CDATA[A mismatch between what landlords and tenants want could hold things up]]></summary>
-        <author>
-            <name>Finance &amp; economics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the market for secondhand private-equity stakes is thriving]]></title>
-        <id>/content/pjvt5c06ha8vbt1au2aq7gm5sej6ma85</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/06/10/why-the-market-for-secondhand-private-equity-stakes-is-thriving"/>
-        <updated>2021-06-10T14:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Wherever there is a primary market, a secondary one is never far behind]]></summary>
-        <author>
-            <name>Finance &amp; economics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow jobs growth may not be a bad sign for America’s recovery]]></title>
-        <id>/content/mc0t07gfld9bcmdcqth8ce6nb18u4oaa</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/06/10/slow-jobs-growth-may-not-be-a-bad-sign-for-americas-recovery"/>
-        <updated>2021-06-10T14:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Look beyond the tepid headline numbers, and hiring seems robust]]></summary>
-        <author>
-            <name>Finance &amp; economics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[«Revolutionärer Tourismus» auf Gran Canaria]]></title>
-        <id>https://www.xn--untergrund-blttle-2qb.ch/politik/europa/spanien-cran-canaria-tourismus-anarchistische-foederation-6479.html</id>
-        <link href="https://www.xn--untergrund-blttle-2qb.ch/politik/europa/spanien-cran-canaria-tourismus-anarchistische-foederation-6479.html"/>
-        <updated>2021-06-10T13:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Eine bittere Tatsache: Sich als Anarchisten verstehende Touristen reisen trotz wiederholter Bitten, dies nicht zu tun, auf die Kanaren, um dort in besetzten und selbstverwalteten Räumen Lebenden Vorträge über Fleischkonsum, Umweltschutz und den reaktionären Fussball zu halten.
-
-Bild: Die Anarchistische Föderation Gran Canaria (FAGC ). / anarchistischefoderation.de
-Begonnen hatte die FAGC vor 10 Jahren als typische Anarchokleintruppe in schwarzen Kapuzis bei Kundgebungen - und änderte dann ihre Herangehensweise komplett. Das Ergebnis: Die "Kleintruppe" und die von ihr initierte Mieter*innengewerkschaft förderte seitdem die Enteignung von 400 Liegenschaften, half bei der Wohnraumbeschaffung für hunderte Familien, intervenierte in 1.000 Zwangsräumungen, stellte 10 selbstverwaltete Gemeinschaf…]]></summary>
-        <author>
-            <name>Untergrund-Blättle - Aktuelle Artikel</name>
         </author>
     </entry>
 </feed>

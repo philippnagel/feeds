@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://philippnagel.com/feeds/index.html</id>
     <title>philippnagel.com/feeds</title>
-    <updated>2021-07-11T13:36:23.413Z</updated>
+    <updated>2021-07-11T13:45:15.507Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://philippnagel.com/feeds/index.html"/>
     <link rel="self" href="https://philippnagel.com/feeds/feed.atom"/>
@@ -243,6 +243,19 @@ Points: 20
 # Comments: 2]]></summary>
         <author>
             <name>btdmaster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk Derivatives]]></title>
+        <id>https://news.ycombinator.com/item?id=27800247</id>
+        <link href="https://en.wikipedia.org/wiki/Cyberpunk_derivatives"/>
+        <updated>2021-07-11T12:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Cyberpunk_derivatives
+Comments URL: https://news.ycombinator.com/item?id=27800247
+Points: 13
+# Comments: 3]]></summary>
+        <author>
+            <name>hidden-spyder</name>
         </author>
     </entry>
     <entry>
@@ -2532,6 +2545,116 @@ Stripe Atlas update
 In which ways are Democratic economists Democrats? (or not)]]></summary>
         <author>
             <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Come on, England]]></title>
+        <id>https://reaction.life/?p=27989</id>
+        <link href="https://reaction.life/come-on-england/"/>
+        <updated>2021-07-10T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[England has finally broken its 55-year jinx and filled the country with joy and optimism, no matter what happens in the final.
+The post Come on, England appeared first on Reaction.]]></summary>
+        <author>
+            <name>The Editorial Board</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubens at The Wallace Collection review  – landscapes reunited at last]]></title>
+        <id>https://reaction.life/?p=27862</id>
+        <link href="https://reaction.life/rubens-at-the-wallace-collection-review-landscapes-reunited-at-last/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Rainbow Landscape and A View of Het Steen in the Early Morning are finally on exhibition together
+The post Rubens at The Wallace Collection review  – landscapes reunited at last appeared first on Reaction.]]></summary>
+        <author>
+            <name>Gerald Malone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huw Edwards – Favourite Things]]></title>
+        <id>https://reaction.life/?p=27909</id>
+        <link href="https://reaction.life/huw-edwards-favourite-things/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Journalist and news reader, Huw Edwards, shares his five favourite things.
+The post Huw Edwards – Favourite Things appeared first on Reaction.]]></summary>
+        <author>
+            <name>Alice Crossley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What To Watch This Week]]></title>
+        <id>https://reaction.life/?p=27886</id>
+        <link href="https://reaction.life/what-to-watch-this-week/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Reaction guide to what to watch this week across all streaming platforms.
+The post What To Watch This Week appeared first on Reaction.]]></summary>
+        <author>
+            <name>Harriet Cochrane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scottish Opera’s The Gondoliers review – live opera is coming home]]></title>
+        <id>https://reaction.life/?p=27874</id>
+        <link href="https://reaction.life/scottish-operas-the-gondoliers-review-live-opera-is-coming-home/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Performed inside a six-wheeler lorry, this Scottish opera performance of The Gondoliers is live opera like you have never seen before.
+The post Scottish Opera’s The Gondoliers review – live opera is coming home appeared first on Reaction.]]></summary>
+        <author>
+            <name>Gerald Malone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statues and stately houses: Who do we want to remember and how?]]></title>
+        <id>https://reaction.life/?p=27923</id>
+        <link href="https://reaction.life/statues-and-stately-houses-who-do-we-want-to-remember-and-how/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Statues have come under fire this year, prompting reflection on who's service we want to memorialise and how to go about it.
+The post Statues and stately houses: Who do we want to remember and how? appeared first on Reaction.]]></summary>
+        <author>
+            <name>John Freeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: The New Snobbery – could the Tories empower the working class?]]></title>
+        <id>https://reaction.life/?p=27856</id>
+        <link href="https://reaction.life/review-the-new-snobbery-could-the-tories-empower-the-working-class/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This new book critiques the snobbery from Britain's liberal elite against the white working class. 
+The post Review: The New Snobbery – could the Tories empower the working class? appeared first on Reaction.]]></summary>
+        <author>
+            <name>Tim Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letitia Clark – Food for Thought]]></title>
+        <id>https://reaction.life/?p=27877</id>
+        <link href="https://reaction.life/letitia-clark-food-for-thought/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An interview with the chef, food writer and illustrator, Letitia Clark. 
+The post Letitia Clark – Food for Thought appeared first on Reaction.]]></summary>
+        <author>
+            <name>Saffron Swire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: unofficial Starmer biography – could Sir Keir be interesting after all?]]></title>
+        <id>https://reaction.life/?p=27902</id>
+        <link href="https://reaction.life/review-starmer-biography/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starmer's first unofficial biography gives a rare insight into the leader of the opposition. 
+The post Review: unofficial Starmer biography – could Sir Keir be interesting after all? appeared first on Reaction.]]></summary>
+        <author>
+            <name>Oliver Rhodes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Books Digest – The Running Book, Mountain Tales, The Wild Fox of Yemen]]></title>
+        <id>https://reaction.life/?p=27620</id>
+        <link href="https://reaction.life/books-digest-the-running-book-mountain-tales-the-wild-fox-of-yemen/"/>
+        <updated>2021-07-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Reaction round-up of what you should, and shouldn’t, be reading this week.
+The post Books Digest – The Running Book, Mountain Tales, The Wild Fox of Yemen appeared first on Reaction.]]></summary>
+        <author>
+            <name>The Reaction Team</name>
         </author>
     </entry>
     <entry>
@@ -5175,6 +5298,19 @@ The post What’s the point of the Government’s big corporate shake-up? appear
         <summary type="html"><![CDATA[Gradle beschleunigt die Android-App-Entwicklung. Statt alles selbst zu programmieren, bedient man sich der vielen Bibliotheken und bindet diese via Gradle ein.]]></summary>
         <author>
             <name>heise online News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vladimir Lukyanov’s Water Computer (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27782007</id>
+        <link href="https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html"/>
+        <updated>2021-07-09T09:42:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html
+Comments URL: https://news.ycombinator.com/item?id=27782007
+Points: 81
+# Comments: 9]]></summary>
+        <author>
+            <name>nickysielicki</name>
         </author>
     </entry>
     <entry>
@@ -22859,22 +22995,6 @@ At least by these measures, EU inflation has been only very slightly less than U
 So indeed, the exchange rate is the major part of the difference between the two graphs. Whether PPP or actual exchange rates are "right" for this purpose I leave for another day. Certainly the average American's ability to buy European goods has risen relative to the average European's ability to buy American goods. Why exchange rates diverge so long from PPP measures remains, I think, a central puzzle. But thanks to blog readers for quickly pointing out that the Marginal Revolution graph isn't as immediately relevant as it seemed.]]></summary>
         <author>
             <name>The Grumpy Economist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worsening Western US Aridification - Black Swan 2022?]]></title>
-        <id>https://renewableplus.blogspot.com/2021/06/worsening-western-us-aridification.html</id>
-        <link href="https://renewableplus.blogspot.com/2021/06/worsening-western-us-aridification.html"/>
-        <updated>2021-06-12T01:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The reality of the ravages of climate change have arrived in the western USA!
-Much of the Western half of the United States is in the grip of a severe drought of historic proportions. Conditions are especially bad in California and the Southwest, but the drought extends into the Pacific Northwest, much of the Intermountain West, and even the Northern Plains.
-Scientists are calling it a "mega-drought" brought on by climate change.
-The latest U.S. Drought Monitor Map shows large areas of the Southwest are "exceptionally dry," the worst category. Lake Mead has dropped so much that it has cut the Hoover dam's hydropower output by nearly 25%.
-
-
-The persistence of the drought makes this a "mega drought" that could last decades. What we are seeing is a combination of natural variability made much…]]></summary>
-        <author>
-            <name>Market Solutions to Our Energy Needs</name>
         </author>
     </entry>
 </feed>

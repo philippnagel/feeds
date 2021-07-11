@@ -4109,6 +4109,15 @@
           "title": "WriteFreely: ActivityPub Writing Space"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27800247",
+          "author": "hidden-spyder",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Cyberpunk_derivatives\nComments URL: https://news.ycombinator.com/item?id=27800247\nPoints: 13\n# Comments: 3",
+          "link": "https://en.wikipedia.org/wiki/Cyberpunk_derivatives",
+          "publishedOn": "2021-07-11T12:24:10.000Z",
+          "wordCount": 6580,
+          "title": "Cyberpunk Derivatives"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27800094",
           "author": "_Microft",
           "description": "Article URL: https://www.youtube.com/watch?v=RTpWYWIfP7Y\nComments URL: https://news.ycombinator.com/item?id=27800094\nPoints: 31\n# Comments: 10",
@@ -4458,6 +4467,15 @@
           "publishedOn": "2021-07-09T10:52:01.000Z",
           "wordCount": 17732,
           "title": "Passive radiative cooling below ambient airtemperature under direct sun (2014) [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27782007",
+          "author": "nickysielicki",
+          "description": "Article URL: https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html\nComments URL: https://news.ycombinator.com/item?id=27782007\nPoints: 81\n# Comments: 9",
+          "link": "https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html",
+          "publishedOn": "2021-07-09T09:42:33.000Z",
+          "wordCount": 799,
+          "title": "Vladimir Lukyanov’s Water Computer (2019)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27781545",
@@ -13862,15 +13880,6 @@
           "publishedOn": "2021-06-24T20:39:00.000Z",
           "wordCount": 17,
           "title": "Architecting Energy Systems - An Introduction"
-        },
-        {
-          "id": "https://renewableplus.blogspot.com/2021/06/worsening-western-us-aridification.html",
-          "author": null,
-          "description": "The reality of the ravages of climate change have arrived in the western USA!\nMuch of the Western half of the United States is in the grip of a severe drought of historic proportions. Conditions are especially bad in California and the Southwest, but the drought extends into the Pacific Northwest, much of the Intermountain West, and even the Northern Plains.\nScientists are calling it a \"mega-drought\" brought on by climate change.\nThe latest U.S. Drought Monitor Map shows large areas of the Southwest are \"exceptionally dry,\" the worst category. Lake Mead has dropped so much that it has cut the Hoover dam's hydropower output by nearly 25%.\n\n\nThe persistence of the drought makes this a \"mega drought\" that could last decades. What we are seeing is a combination of natural variability made much…",
-          "link": "https://renewableplus.blogspot.com/2021/06/worsening-western-us-aridification.html",
-          "publishedOn": "2021-06-12T01:44:00.000Z",
-          "wordCount": 19,
-          "title": "Worsening Western US Aridification - Black Swan 2022?"
         }
       ]
     },
@@ -18963,6 +18972,103 @@
             "type": "image/jpeg",
             "length": "193287"
           }
+        }
+      ]
+    },
+    {
+      "title": "Reaction",
+      "feedUrl": "https://reaction.life/feed/",
+      "siteUrl": "https://reaction.life",
+      "articles": [
+        {
+          "id": "https://reaction.life/?p=27989",
+          "author": "The Editorial Board",
+          "description": "England has finally broken its 55-year jinx and filled the country with joy and optimism, no matter what happens in the final.\nThe post Come on, England appeared first on Reaction.",
+          "link": "https://reaction.life/come-on-england/",
+          "publishedOn": "2021-07-10T05:01:00.000Z",
+          "wordCount": 540,
+          "title": "Come on, England"
+        },
+        {
+          "id": "https://reaction.life/?p=27862",
+          "author": "Gerald Malone",
+          "description": "The Rainbow Landscape and A View of Het Steen in the Early Morning are finally on exhibition together\nThe post Rubens at The Wallace Collection review  – landscapes reunited at last appeared first on Reaction.",
+          "link": "https://reaction.life/rubens-at-the-wallace-collection-review-landscapes-reunited-at-last/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 488,
+          "title": "Rubens at The Wallace Collection review  – landscapes reunited at last"
+        },
+        {
+          "id": "https://reaction.life/?p=27909",
+          "author": "Alice Crossley",
+          "description": "Journalist and news reader, Huw Edwards, shares his five favourite things.\nThe post Huw Edwards – Favourite Things appeared first on Reaction.",
+          "link": "https://reaction.life/huw-edwards-favourite-things/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 541,
+          "title": "Huw Edwards – Favourite Things"
+        },
+        {
+          "id": "https://reaction.life/?p=27886",
+          "author": "Harriet Cochrane",
+          "description": "The Reaction guide to what to watch this week across all streaming platforms.\nThe post What To Watch This Week appeared first on Reaction.",
+          "link": "https://reaction.life/what-to-watch-this-week/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 521,
+          "title": "What To Watch This Week"
+        },
+        {
+          "id": "https://reaction.life/?p=27874",
+          "author": "Gerald Malone",
+          "description": "Performed inside a six-wheeler lorry, this Scottish opera performance of The Gondoliers is live opera like you have never seen before.\nThe post Scottish Opera’s The Gondoliers review – live opera is coming home appeared first on Reaction.",
+          "link": "https://reaction.life/scottish-operas-the-gondoliers-review-live-opera-is-coming-home/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 491,
+          "title": "Scottish Opera’s The Gondoliers review – live opera is coming home"
+        },
+        {
+          "id": "https://reaction.life/?p=27923",
+          "author": "John Freeman",
+          "description": "Statues have come under fire this year, prompting reflection on who's service we want to memorialise and how to go about it.\nThe post Statues and stately houses: Who do we want to remember and how? appeared first on Reaction.",
+          "link": "https://reaction.life/statues-and-stately-houses-who-do-we-want-to-remember-and-how/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 542,
+          "title": "Statues and stately houses: Who do we want to remember and how?"
+        },
+        {
+          "id": "https://reaction.life/?p=27856",
+          "author": "Tim Marshall",
+          "description": "This new book critiques the snobbery from Britain's liberal elite against the white working class. \nThe post Review: The New Snobbery – could the Tories empower the working class? appeared first on Reaction.",
+          "link": "https://reaction.life/review-the-new-snobbery-could-the-tories-empower-the-working-class/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 493,
+          "title": "Review: The New Snobbery – could the Tories empower the working class?"
+        },
+        {
+          "id": "https://reaction.life/?p=27877",
+          "author": "Saffron Swire",
+          "description": "An interview with the chef, food writer and illustrator, Letitia Clark. \nThe post Letitia Clark – Food for Thought appeared first on Reaction.",
+          "link": "https://reaction.life/letitia-clark-food-for-thought/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 537,
+          "title": "Letitia Clark – Food for Thought"
+        },
+        {
+          "id": "https://reaction.life/?p=27902",
+          "author": "Oliver Rhodes",
+          "description": "Starmer's first unofficial biography gives a rare insight into the leader of the opposition. \nThe post Review: unofficial Starmer biography – could Sir Keir be interesting after all? appeared first on Reaction.",
+          "link": "https://reaction.life/review-starmer-biography/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 494,
+          "title": "Review: unofficial Starmer biography – could Sir Keir be interesting after all?"
+        },
+        {
+          "id": "https://reaction.life/?p=27620",
+          "author": "The Reaction Team",
+          "description": "The Reaction round-up of what you should, and shouldn’t, be reading this week.\nThe post Books Digest – The Running Book, Mountain Tales, The Wild Fox of Yemen appeared first on Reaction.",
+          "link": "https://reaction.life/books-digest-the-running-book-mountain-tales-the-wild-fox-of-yemen/",
+          "publishedOn": "2021-07-10T05:00:00.000Z",
+          "wordCount": 1331,
+          "title": "Books Digest – The Running Book, Mountain Tales, The Wild Fox of Yemen"
         }
       ]
     },

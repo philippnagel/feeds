@@ -3,7 +3,7 @@ cacheUrl: https://philippnagel.com/feeds/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://feeds.feedblitz.com/marginalrevolution&x=1
-  # - href: https://taz.de/
+  - href: https://taz.de/rss.xml
   - href: http://historiadiscordia.com/feed/
   - href: https://samczsun.com/rss/
   - href: https://speculativeheresy.wordpress.com/feed/
@@ -11,7 +11,7 @@ sources:
   - href: https://rsbakker.wordpress.com/feed/
   - href: http://www.richardprice.io/rss
   - href: https://tarnkappe.info/feed/
- # - herf: http://warisboring.com/feed/
+  - herf: http://warisboring.com/feed/
   - href: https://thewinnower.com/papers/feed.rss
   - href: https://themultidisciplinarian.com/feed/
   - href: https://c4ss.org/?feed=rss2
@@ -19,17 +19,16 @@ sources:
   - href: https://dominiccummings.com/feed/
   - href: https://pedestrianobservations.com/feed/
   - href: https://whatever.scalzi.com/feed/
-  - href: https://www.newyorker.com/feed/everything
   - href: http://slatestarcodex.com/feed/
   - href: https://philaquelymoi.blogspot.com/feeds/posts/default?alt=rss
   - href: https://blog.evjang.com/feeds/posts/default?alt=rss
   - href: https://www.economist.com/finance-and-economics/rss.xml
- # - href: https://paulromer.net/
+  - href: https://paulromer.net/index.xml
   - href: https://feeds.theoutline.com/globaldispatch
   - href: http://gwynnedyer.com/feed/
   - href: https://whatever.scalzi.com/feed/
   - href: https://davidgerard.co.uk/blockchain/feed/
- # - href: https://gonium.net/atom.xml
+  - href: https://gonium.net/atom.xml
   - href: https://www.monde-diplomatique.fr/rss/
   - href: https://dougbelshaw.com/blog/feed/
   - href: https://www.placeholder.vc/blog?format=RSS
@@ -45,9 +44,9 @@ sources:
   - href: https://berthub.eu/articles/index.xml
   - href: https://www.xn--untergrund-blttle-2qb.ch/rss/aktuelle_artikel.rss
   - href: https://www.artstation.com/mitcharts.rss
-# - href: https://research.paradigm.xyz/
-# - href: https://edwardsnowden.substack.com
-# - href: https://distill.pub/
+  - href: https://research.paradigm.xyz/feed.xml
+  - href: https://edwardsnowden.substack.com/feed/
+  - href: https://distill.pub/rss.xml
   - href: http://www.hans-peter-bartels.de/feed/
   - href: https://www.darmstaedter-signal.de/feed/
   - href: https://www.karolabrede.de/feed/
@@ -67,9 +66,9 @@ sources:
   - href: http://econlog.econlib.org/index.xml
   - href: http://www.ribbonfarm.com/feed/
   - href: http://feeds.feedburner.com/DownloadMagazinesDE?format=xml
-# - href: https://ddosecrets.substack.com/
-# - href: https://karpathy.github.io/
-# - href: https://playingfordoubles.substack.com/
+  - href: https://ddosecrets.substack.com/feed/
+  - href: https://karpathy.github.io/feed.xml
+  - href: https://playingfordoubles.substack.com/feed/
   - href: https://scienceblogs.de/klausis-krypto-kolumne/feed/
   - href: https://www.heise.de/newsticker/heise-atom.xml
   - href: http://nautil.us/rss/all
@@ -88,7 +87,7 @@ sources:
   - href: https://woodsideapiary.blogspot.com/feeds/posts/default
   - href: https://breakingthemarket.com/feed/
   - href: https://restofworld.org/feed/latest
-# - href: https://astralcodexten.substack.com/
+  - href: https://astralcodexten.substack.com/feed/
   - href: https://commoncog.com/blog/rss/
   - href: https://paxsims.wordpress.com/feed/
   - href: https://www.lionsroar.com/feed/
@@ -105,14 +104,14 @@ sources:
   - href: https://capx.co/feed/
   - href: http://feeds.feedburner.com/TheIncidentalEconomist?format=xml
   - href: https://catalyst-journal.com/feed/
- # - href: https://collapseofindustrialcivilization.com/feed/
+  - href: https://collapseofindustrialcivilization.com/feed/
   - href: https://www.project-syndicate.org/rss
- # - href: http://feeds.feedburner.com/TechCrunch/
- # - href: http://jacobinmag.com/feed/
+  - href: http://feeds.feedburner.com/Techcrunch
+  - href: https://jacobinmag.com/feed/
   - href: http://www.handelsblatt.com/contentexport/feed/wirtschaft
- # - href: https://samzdat.com/feed/
- # - href: https://api.quantamagazine.org/feed/
- # - href: https://aeon.co/feed.rss
+  - href: https://samzdat.com/feed/
+  - href: https://api.quantamagazine.org/feed/
+  - href: https://aeon.co/feed.rss
   - href: https://reaction.life/feed/
   - href: https://orionmagazine.org/feed/
   - href: https://www.caitlingreen.org/feeds/posts/default
